@@ -13,7 +13,7 @@
         Google Maps implementation
     ***/
     conf.map = {
-        marker: '/img/marker-default.png'
+        marker: '/ABELight/img/marker-default.png'
     };
 
     // Google Maps configs
