@@ -1,5 +1,5 @@
 publishDir: docs
-#baseurl: "https://agilewarsaw.com"
+baseurl: "https://agilewarsaw.github.io/ABELight/"
 title: "Agile by Example Light 2018"
 canonifyurls: true
 theme: "hugo-conference"
