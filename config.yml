@@ -1,0 +1,148 @@
+baseurl: "https://agilewarsaw.com"
+title: "Agile by Example Light 2018"
+canonifyurls: true
+theme: "hugo-conference"
+
+GoogleAnalytics: "XX"
+
+params:
+  # Conference info
+  Name: "Agile by Example Light"
+  #Description: "Conference description"
+  Date: "17 marca (sobota)"
+  #Price: "Only $100" # If your event is free, just comment this line
+  Venue: "Akademia Finansów i Biznesu VISTULA"
+  Address: "Stokłosy 3"
+  City:  "Warszawa"
+  #State: "Quintana"
+  Images: ["/img/badge.jpg"]
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - about
+    - location
+    - speakers
+    - schedule
+    - sponsors
+    - partners
+    #- contact
+
+  # Titles which you can translate to other languages
+  Titles:
+    about: "O konferencji"
+    location: "Gdzie?"
+    speakers: "Kto?"
+    schedule: "Rozkład jazdy"
+    sponsors: "Sponsorzy"
+    partners: "Partnerzy"
+    contact: "Kontakt"
+
+  # The Call To Action button at the header,
+  # If you don't want this, just remove the callToAction property.
+  CallToAction:
+      text: "Zarejestruj się gratis"
+      link: "http://"
+
+  # Fork me on GitHub, if you don't want this, just remove the forkButton property
+  #ForkButton:
+  #  repository: "https://github.com/jweslley/hugo-conference/"
+
+  # List of Sponsors
+  Sponsors:
+    - name: "ProCognita"
+      logo: "https://pbs.twimg.com/profile_images/588338272931344384/7-IMltIK.png"
+      url: "https://procognita.pl/"
+
+    - name: "ProCognita"
+      logo: "http://www.vistula.edu.pl/wp-content/uploads/2017/03/vistula_afib_v1.jpg"
+      url: "http://www.vistula.edu.pl/"
+  # List of Partners
+  Partners:
+    - name: "Agile Warsaw"
+      logo: "https://github.com/ls6/AgileWarsaw/raw/master/grafika/agile-warsaw-logo-medium-1024x640.png"
+      url: "http://agilewarsaw.com"
+
+  # The entire schedule
+  Schedule:
+    - name: "Startujemy"
+      time: "13h45"
+      remark: "Bardzo prosimy przybywać na czas."
+
+    - name: "Mary Poppendieck"
+      photo: "https://qconnewyork.com/ny2015/d3az8lowv1iwto.cloudfront.net/sites/default/files/styles/img-single-track/public/Mary8-itok=StMbkZ5K.jpg"
+      bio: "Wszyscy znają…"
+      #company: "Linux Foundation"
+      link:
+        href: "http://twitter.com/linus"
+        text: "@linus"
+      presentation:
+        title: "Pewnie coś o Lean Software Engineering"
+        description: "Opis…"
+        #time: "14h00"
+
+    - name: "Wykowski i Ska."
+      photo: "http://2017.agileturas.lt/vilnius/wp-content/uploads/2017/09/tomas.jpg"
+      #photo: "/img/speaker.jpg"
+      bio: "bio…"
+      company: "ProCognita"
+      link:
+        href: "http://github.com/billy95"
+        text: "@billy95"
+      presentation:
+        title: "Warsztat"
+        description: "Opis warsztatu"
+        #time: "11h00"
+
+    - name: "Lunch"
+      remark: "Każdy płaci za siebie. Kantyna Vistuli da radę nas obsłużyć."
+
+    - name: "Michał Dworczyk"
+      photo: "http://1.fwcdn.pl/p/87/22/8722/389495.1.jpg"
+      bio: "bio"
+      company: "firma"
+      link:
+        href: "http://twitter.com/woz"
+        text: "@woz"
+      presentation:
+        title: "Tytuł"
+        description: "zajawka"
+
+    - name: "Dorota Jaworska"
+      photo: "https://www.polidea.com/img/people/dorota_ja.jpg"
+      bio: "bio"
+      company: "firma"
+      link:
+        href: "http://twitter.com/woz"
+        text: "@woz"
+      presentation:
+        title: "Tytuł"
+        description: "zajawka"
+
+    - name: "Marcin Gozdalik"
+      photo: "https://lh3.googleusercontent.com/-f-rB8r2suCM/AAAAAAAAAAI/AAAAAAAAJoQ/MEMrlT-Yv04/photo.jpg"
+      bio: "bio"
+      company: "firma"
+      link:
+        href: "http://twitter.com/woz"
+        text: "@woz"
+      presentation:
+        title: "Tytuł"
+        description: "zajawka"
+
+    - name: "Afterparty"
+      remark: "W pobliżu…"
+      time: "~19h30"
+
+
+      #    - name: "Steve Wozniak"
+      #      photo: "/img/speaker.jpg"
+      #      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      #      company: "Apple, Inc."
+      #      link:
+      #        href: "http://twitter.com/woz"
+      #        text: "@woz"
+      #      presentation:
+      #        title: "Why do I prefer Android over iPhone"
+      #        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      #        time: "17h00"
