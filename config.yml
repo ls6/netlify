@@ -4,7 +4,7 @@ title: "Agile by Example Light 2018"
 canonifyurls: true
 theme: "hugo-conference"
 
-GoogleAnalytics: "XX"
+GoogleAnalytics: "UA-112461830-1"
 
 params:
   # Conference info
