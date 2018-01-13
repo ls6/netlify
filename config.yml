@@ -1,4 +1,5 @@
-baseurl: "https://agilewarsaw.com"
+publishDir: docs
+#baseurl: "https://agilewarsaw.com"
 title: "Agile by Example Light 2018"
 canonifyurls: true
 theme: "hugo-conference"
