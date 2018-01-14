@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agile by Example Light 2018</title>
+    <title>ABE Light 2018</title>
     <link>https://agilewarsaw.github.io/ABELight/</link>
-    <description>Recent content on Agile by Example Light 2018</description>
+    <description>Recent content on ABE Light 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://agilewarsaw.github.io/ABELight/index.xml" rel="self" type="application/rss+xml" />
