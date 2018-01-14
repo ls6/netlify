@@ -52,16 +52,16 @@ params:
   # List of Sponsors
   Sponsors:
     - name: "ProCognita"
-      logo: "https://pbs.twimg.com/profile_images/588338272931344384/7-IMltIK.png"
+      logo: "img/logo_procognita.png"
       url: "https://procognita.pl/"
 
     - name: "ProCognita"
-      logo: "http://www.vistula.edu.pl/wp-content/uploads/2017/03/vistula_afib_v1.jpg"
+      logo: "img/logo_vistula.jpg"
       url: "http://www.vistula.edu.pl/"
   # List of Partners
   Partners:
     - name: "Agile Warsaw"
-      logo: "https://github.com/ls6/AgileWarsaw/raw/master/grafika/agile-warsaw-logo-medium-1024x640.png"
+      logo: "img/logo_AW.png"
       url: "http://agilewarsaw.com"
 
   # The entire schedule
@@ -71,7 +71,7 @@ params:
       remark: "Bardzo prosimy przybywać na czas."
 
     - name: "Mary Poppendieck"
-      photo: "https://qconnewyork.com/ny2015/d3az8lowv1iwto.cloudfront.net/sites/default/files/styles/img-single-track/public/Mary8-itok=StMbkZ5K.jpg"
+      photo: "img/mary.jpg"
       bio: "Wszyscy znają…"
       #company: "Linux Foundation"
       link:
@@ -83,7 +83,7 @@ params:
         #time: "14h00"
 
     - name: "Wykowski i Ska."
-      photo: "http://2017.agileturas.lt/vilnius/wp-content/uploads/2017/09/tomas.jpg"
+      photo: "img/wykowski.jpg"
       #photo: "/img/speaker.jpg"
       bio: "bio…"
       company: "ProCognita"
@@ -99,7 +99,7 @@ params:
       remark: "Każdy płaci za siebie. Kantyna Vistuli da radę nas obsłużyć."
 
     - name: "Michał Dworczyk"
-      photo: "http://1.fwcdn.pl/p/87/22/8722/389495.1.jpg"
+      photo: "img/dworczyk.jpg"
       bio: "bio"
       company: "firma"
       link:
@@ -110,7 +110,7 @@ params:
         description: "zajawka"
 
     - name: "Dorota Jaworska"
-      photo: "https://www.polidea.com/img/people/dorota_ja.jpg"
+      photo: "img/jaworska.jpg"
       bio: "bio"
       company: "firma"
       link:
@@ -121,7 +121,7 @@ params:
         description: "zajawka"
 
     - name: "Marcin Gozdalik"
-      photo: "https://lh3.googleusercontent.com/-f-rB8r2suCM/AAAAAAAAAAI/AAAAAAAAJoQ/MEMrlT-Yv04/photo.jpg"
+      photo: "img/gozdalik.jpg"
       bio: "bio"
       company: "firma"
       link:
