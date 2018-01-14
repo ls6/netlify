@@ -1,6 +1,6 @@
 publishDir: docs
 baseurl: "https://agilewarsaw.github.io/ABELight/"
-title: "Agile by Example Light 2018"
+title: "ABE Light 2018"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -8,7 +8,7 @@ GoogleAnalytics: "UA-112461830-1"
 
 params:
   # Conference info
-  Name: "Agile by Example Light"
+  Name: "ABE Light 2018"
   #Description: "Conference description"
   Date: "17 marca (sobota)"
   #Price: "Only $100" # If your event is free, just comment this line
