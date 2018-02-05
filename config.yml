@@ -55,7 +55,11 @@ params:
       logo: "img/logo_procognita.png"
       url: "https://procognita.pl/"
 
-    - name: "ProCognita"
+    - name: "AZA"
+      logo: "img/aza_logo_graphite_box.png"
+      url: "https://azagroup.eu/o-nas/"
+
+    - name: "Vistula"
       logo: "img/logo_vistula.jpg"
       url: "http://www.vistula.edu.pl/"
   # List of Partners
