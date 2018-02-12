@@ -9,7 +9,7 @@ GoogleAnalytics: "UA-112461830-1"
 params:
   # Conference info
   Name: "ABE Light 2018"
-  #Description: "Conference description"
+  Description: "Konferencja Agile by Example Light 2018"
   Date: "17 marca (sobota)"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Akademia Finansów i Biznesu VISTULA"
