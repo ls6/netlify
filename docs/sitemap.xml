@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://agilewarsaw.github.io/ABELight/register/</loc>
+    <lastmod>2018-02-12T19:56:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://agilewarsaw.github.io/ABELight/</loc>
+    <lastmod>2018-02-12T19:56:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
