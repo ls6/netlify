@@ -27,7 +27,7 @@ Stworzyliśmy kilka kanałów, które wydawały nam się sensowne ale każdy ucz
 
 #### Etykieta
 
-O tym, żeby być dla siebie nawzajem miłym nawet nie będziemy wspominać bo to przecież standard i nigdy nie było z tym problemów :) Jednak z okazji Slacka prosimy o przestrzeganie jeszcze jednej zasady: prosimy nie nadużywać kanałów specjalnych.
+O tym, żeby być dla siebie nawzajem miłym nawet nie będziemy wspominać bo to przecież standard i nigdy nie było z tym problemów. Jednak z okazji Slacka prosimy o przestrzeganie jeszcze jednej zasady: prosimy nie nadużywać kanałów specjalnych.
 
 W szczególności:
 

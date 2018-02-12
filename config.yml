@@ -139,7 +139,7 @@ Pomaga ludziom osiągać cele, odkrywać inne sposoby widzenia świata."
         href: "https://www.linkedin.com/in/gozdal/"
         text: "LinkedIn"
       presentation:
-        title: "Kiedy nie warto używać Continuous Integration/Continuous Delivery?"
+        title: "Kiedy nie warto używać Continuous Integration / Continuous Delivery?"
         description: "Dawno temu (w 2000 roku!) na liście \"The Joel Test: 12 Steps to Better Code\" Joel Spolsky na pierwszym miejscu umieścił pytanie \"Do you use source control?\". Dawno nie spotkałem projektu który już tutaj odpadał i odpowiadał \"nie\", chociaż jeszcze parę lat temu takie projekty widziałem. Na trzecim miejscu było \"Do you do daily builds?\". Znam wiele projektów dzisiaj, które ciągle przy tym pytaniu odpadają. Gdyby zapytać o Continuous Integration, Deployment albo Delivery jeszcze mniej projektów będzie mogło podnieść łapkę w górę. Chciałbym opowiedzieć co pomogło nam dojść do 10 buildów dziennie w zespole siedmioosobowym i kiedy nie warto używać CI/CD."
 
     - name: "Afterparty"
