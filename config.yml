@@ -122,14 +122,14 @@ Pomaga ludziom osiągać cele, odkrywać inne sposoby widzenia świata."
 
     - name: "Dorota Jaworska"
       photo: "img/jaworska.jpg"
-      bio: "bio"
-      company: "firma"
+      bio: "Project Manager/Product Owner. Pracowała w korporacjach i startupach. Z branżą IT związana od 10 lat. Fanka czarnej kawy, retrospekcji i szukania dziury w całym. Prywatnie entuzjastka małych szczeniaczków."
+      #company: "firma"
       link:
         href: "https://www.linkedin.com/in/djaworska/"
         text: "LinkedIn"
       presentation:
-        title: "Tytuł"
-        description: "zajawka"
+        title: "Jak poskromić Ciemną Stronę Mocy?"
+        description: "Co zrobić kiedy osoba z Twojego zespołu cierpi na depresję? Czego na pewno nie robić? Jak pomóc Twojemu współpracownikowi i zorganizować pracę zespołu aby dowozić? Wiele się mówi o depresji i o stanach lękowych, ale nikt nie przygotowuje nas, zarządzających ludźmi, do mierzenia się z takim sytuacjami w pracy. Na podstawie własnych doświadczeń i obserwacji, chcę dotknąć trudnego tematu o którym się nie mówi na głos. "
 
     - name: "Marcin Gozdalik"
       photo: "img/gozdalik.jpg"
