@@ -76,22 +76,14 @@ params:
 
     - name: "Mary Poppendieck"
       photo: "img/mary.jpg"
-      bio: "Wszyscy znają…"
+      bio: "Mary Poppendieck started her career as a process control programmer, moved on to manage the IT department of a manufacturing plant, and then ended up in product development, where she was both a product champion and department manager. Mary considered retirement 1998, but instead found herself managing a government software project where she first encountered the word \"waterfall.\" When Mary compared her experience in successful software and product development to the prevailing opinions about how to manage software projects, she decided the time had come for a new paradigm. She wrote the award-winning book \"Lean Software Development: An Agile Toolkit\" in 2003 to explain how the lean principles from manufacturing offer a better approach to software development. Over the past several years, Mary has found retirement elusive as she lectures and teaches classes with her husband Tom. Based on their on-going learning, they wrote a second book, \"Implementing Lean Software Development: From Concept to Cash\" in 2006, a third, \"Leading Lean Software Development: Results are Not the Point\" in 2009, and a fourth book, \"The Lean Mindset: Ask the Right Questions\" in 2013. A popular writer and speaker, Mary continues to bring fresh perspectives to the world of software development."
       #company: "Linux Foundation"
       link:
-        href: "http://twitter.com/linus"
-        text: "@linus"
+        href: "http://www.poppendieck.com/"
+        text: "www"
       presentation:
         title: "Promises without Proxies or Permission: Thinking Differently about Complex Systems"
-        description: "Agile is well past its prime. In 2001, when Agile was a new idea, there were no smartphones, no clouds, no Internet of Things. It’s high time for some fresh thinking about managing complex software systems.
-
-Modern software systems are created by autonomous agents (often small teams) that make promises to their customers. Their job is to deeply understand customers’ needs and frustrations, and using this understanding as a starting point, they make a promise to customers: “We will meet this need or reduce that frustration, and we promise that your experience will be better as a result.”
-
-Working to promises removes the need for proxies – either customer experiences are improved, or not.  Autonomous agents are neither told what promises to make nor how to keep their promises. They do not concern themselves with transparency, and they don’t need permission to do things their own way.
-
-When multiple autonomous agents work together to achieve a shared goal – as they must in a complex system – they coordinate through promises to each other. Agents do not impose obligations on each other and they promise only what is within their power to deliver. Communication about complex systems focuses on what agents need from each other and what they promise to each other.
-
-This is the way open source systems have always been built. It is the way platforms work. It is the way Microservices should work. It is the future of the cloud and the Internet of Things. Is it your future too?"
+        description: "Agile is well past its prime. In 2001, when Agile was a new idea, there were no smartphones, no clouds, no Internet of Things. It’s high time for some fresh thinking about managing complex software systems. Modern software systems are created by autonomous agents (often small teams) that make promises to their customers. Their job is to deeply understand customers’ needs and frustrations, and using this understanding as a starting point, they make a promise to customers: “We will meet this need or reduce that frustration, and we promise that your experience will be better as a result.” Working to promises removes the need for proxies – either customer experiences are improved, or not. Autonomous agents are neither told what promises to make nor how to keep their promises. They do not concern themselves with transparency, and they don’t need permission to do things their own way. When multiple autonomous agents work together to achieve a shared goal – as they must in a complex system – they coordinate through promises to each other. Agents do not impose obligations on each other and they promise only what is within their power to deliver. Communication about complex systems focuses on what agents need from each other and what they promise to each other. This is the way open source systems have always been built. It is the way platforms work. It is the way Microservices should work. It is the future of the cloud and the Internet of Things. Is it your future too?"
         #time: "14h00"
 
     - name: "Wykowski i Ska."
@@ -112,36 +104,39 @@ This is the way open source systems have always been built. It is the way platfo
 
     - name: "Michał Dworczyk"
       photo: "img/dworczyk.jpg"
-      bio: "bio"
-      company: "firma"
+      bio: "Entuzjasta życia, projektant startupów, fotograf, aktor. Poszukiwacz rozwiązań prostych, lecz nieoczywistych. Zwolennik Deep Thinking, co lubi tłumaczyć jako myślenie o myśleniu. Od ponad dwudziestu lat jest obecny w strukturach zarządzania projektami, marketingu, reklamy i PR. Studiował w Centrum kształcenia kadr kierowniczych DOSKO na wydziale Public Relations, w Państwowej wyższej szkole Filmowej Telewizyjnej i Teatralnej w łodzi. Jest certyfikowanym coachem International Coaching Community. no. 11488, Praktykiem Neurolingwistyki - The Society of Neuro Linguistic Programing, ukończył również kurs: Re-evaluating Life Story Certification authority Christina Hall, Ph.D., NLP Meta-Master Trainer.
+
+Pomaga ludziom osiągać cele, odkrywać inne sposoby widzenia świata."
+#company: "firma"
       link:
-        href: "http://twitter.com/woz"
-        text: "@woz"
+        href: "https://www.linkedin.com/in/michał-dworczyk-54484221/"
+        text: "LinkedIn"
       presentation:
-        title: "Tytuł"
-        description: "zajawka"
+
+        title: "O podglądaniu, patrzeniu, podpatrywaniu i widzeniu"
+        description: "Tym razem pokażę kilka zdjęć. Opowiem o tym co w nich widzę. Dlaczego są właśnie takie jakimi je zobaczycie?  O perspektywie w fotografii i w życiu. O próbie rezygnacji z ustawień domyślnych... Możliwe, że im mniej teraz napiszę, tym przyjemniej będzie Wam patrzeć i słuchać... Może tylko patrzeć, a może tylko słuchać?"
 
     - name: "Dorota Jaworska"
       photo: "img/jaworska.jpg"
       bio: "bio"
       company: "firma"
       link:
-        href: "http://twitter.com/woz"
-        text: "@woz"
+        href: "https://www.linkedin.com/in/djaworska/"
+        text: "LinkedIn"
       presentation:
         title: "Tytuł"
         description: "zajawka"
 
     - name: "Marcin Gozdalik"
       photo: "img/gozdalik.jpg"
-      bio: "bio"
-      company: "firma"
+      bio: "ex-CTO, ex-co-founder, obecnie konsultant w 9LivesData oraz head of engineering w Starfish Storage"
+      #company: "firma"
       link:
-        href: "http://twitter.com/woz"
-        text: "@woz"
+        href: "https://www.linkedin.com/in/gozdal/"
+        text: "LinkedIn"
       presentation:
-        title: "Tytuł"
-        description: "zajawka"
+        title: "Kiedy nie warto używać Continuous Integration/Continuous Delivery?"
+        description: "Dawno temu (w 2000 roku!) na liście \"The Joel Test: 12 Steps to Better Code\" Joel Spolsky na pierwszym miejscu umieścił pytanie \"Do you use source control?\". Dawno nie spotkałem projektu który już tutaj odpadał i odpowiadał \"nie\", chociaż jeszcze parę lat temu takie projekty widziałem. Na trzecim miejscu było \"Do you do daily builds?\". Znam wiele projektów dzisiaj, które ciągle przy tym pytaniu odpadają. Gdyby zapytać o Continuous Integration, Deployment albo Delivery jeszcze mniej projektów będzie mogło podnieść łapkę w górę. Chciałbym opowiedzieć co pomogło nam dojść do 10 buildów dziennie w zespole siedmioosobowym i kiedy nie warto używać CI/CD."
 
     - name: "Afterparty"
       remark: "W pobliżu…"
