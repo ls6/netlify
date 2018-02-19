@@ -23,7 +23,7 @@ To głównie dlatego, żeby móc rozpoznać się w realu z innymi uczestnikami j
 
 #### Tworzenie nowych kanałów
 
-Stworzyliśmy kilka kanałów, które wydawały nam się sensowne ale każdy uczestnik może tworzyć zarówno publiczne jak i prywatne kanały. Sugerujemy np. koordynację przyjazdów spoza Warszawy :)
+Rozejrzyj sie po kanałach, które już są na Slacku i jeśli brakuje Ci czegoś to stwórz nowy—może być publiczny lub prywatny. Sugerujemy np. koordynację przyjazdów spoza Warszawy :)
 
 #### Etykieta
 
