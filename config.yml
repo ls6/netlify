@@ -27,6 +27,7 @@ params:
     - schedule
     - sponsors
     - partners
+    - media
     #- contact
 
   # Titles which you can translate to other languages
@@ -37,6 +38,7 @@ params:
     schedule: "Rozkład jazdy"
     sponsors: "Sponsorzy"
     partners: "Partnerzy"
+    media: "Partnerzy medialni"
     contact: "Kontakt"
 
   # The Call To Action button at the header,
@@ -72,11 +74,24 @@ params:
       logo: "img/logo_AW.png"
       url: "http://agilewarsaw.com"
 
+  # List of Media Partners
+  Media:
+    - name: "Agile Polska"
+      logo: "img/logo_APL.png" 
+      url: "http://agilepolska.pl/"
   # The entire schedule
   Schedule:
     - name: "Startujemy"
       time: "13h45"
       remark: "Bardzo prosimy przybywać na czas."
+
+      # - name: "AZA Group"
+      # - photo: "img/aza_logo_graphite_box.png"
+      # - bio: "skipThisFromSpeakers"
+      # - presentation:
+      # -   title: ""
+      # -   description: "Krótka i zabawna prezentacja sponsora…"
+      # -   #time: "11h00"
 
     - name: "Mary Poppendieck"
       photo: "img/mary.jpg"
