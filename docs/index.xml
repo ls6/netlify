@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABE Light 2018</title>
-    <link>https://agilewarsaw.github.io/ABELight/</link>
+    <link>https://abelight.agilewarsaw.com/</link>
     <description>Recent content on ABE Light 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 12 Feb 2018 19:56:48 +0100</lastBuildDate>
     
-	<atom:link href="https://agilewarsaw.github.io/ABELight/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abelight.agilewarsaw.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rejestracja</title>
-      <link>https://agilewarsaw.github.io/ABELight/register/</link>
+      <link>https://abelight.agilewarsaw.com/register/</link>
       <pubDate>Mon, 12 Feb 2018 19:56:48 +0100</pubDate>
       
-      <guid>https://agilewarsaw.github.io/ABELight/register/</guid>
+      <guid>https://abelight.agilewarsaw.com/register/</guid>
       <description>Rejestracja Jedyny krok w rejestracji w tym roku to zapisanie się na konferencyjnego Slacka.
 To jest dla nas duży eksperyment i bardzo jesteśmy ciekawi jak to zadziała. Sądząc z doświadczeń innych konferencji może być naprawdę fajnie ale ważne jest też kilka spraw z Twojej strony:
 Wpisz swoje prawdziwe imię i nazwisko Jako, że nie ma innych kroków w rejestracji Twoje konto na konferencyjnym Slacku jest jedyną możliwością skontaktowania się z Tobą nie tylko przez organizatorów ale też innych uczestników.</description>

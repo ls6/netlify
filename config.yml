@@ -1,5 +1,5 @@
 publishDir: docs
-baseurl: "https://agilewarsaw.github.io/ABELight/"
+baseurl: "https://abelight.agilewarsaw.com"
 title: "ABE Light 2018"
 canonifyurls: true
 theme: "hugo-conference"
@@ -16,7 +16,7 @@ params:
   Address: "Stokłosy 3"
   City:  "Warszawa"
   #State: "Quintana"
-  Images: ["/img/badge.jpg"]
+  Images: ["/img/ABElight-ikonka.png"]
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
