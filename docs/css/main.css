@@ -314,6 +314,29 @@ p {
   top: -1px;
 }
 /* =============================================================================
+   FONTS
+   ========================================================================== */
+@font-face {
+    font-family: 'aberegular';
+    src: url('../fonts/abe-regular/ABE-Regular.eot');
+    src: url('../fonts/abe-regular/ABE-Regular.woff2') format('woff2'),
+        url('../fonts/abe-regular/ABE-Regular.woff') format('woff'),
+        url('../fonts/abe-regular/ABE-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Teuton23Pro';
+    src: url('../fonts/Teuton/31470A_1_0.eot');
+    src: url('../fonts/Teuton/31470A_1_0.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Teuton/31470A_1_0.woff2') format('woff2'),
+        url('../fonts/Teuton/31470A_1_0.woff') format('woff'),
+        url('../fonts/Teuton/31470A_1_0.ttf') format('truetype');
+    font-display: block;
+}
+
+/* =============================================================================
    NAVIGATION
    ========================================================================== */
 nav {
@@ -390,7 +413,7 @@ nav {
   min-height: 180px;
   padding-left: 180px;
   margin-bottom: 30px;
-  border-bottom: 1px dashed #e7e7e7;
+  border-bottom: 1px solid black;
 }
 .speaker-photo {
   position: absolute;
@@ -418,9 +441,7 @@ nav {
 /* =============================================================================
    SCHEDULE
    ========================================================================== */
-.schedule-tbl {
-  padding: 20px;
-}
+
 .schedule-tbl table {
   border-collapse: collapse;
   font-size: 1em;
@@ -682,9 +703,9 @@ nav {
    MAIN LAYOUT
    ========================================================================== */
 html {
-  background: #F6F6F6;
+  background: #ffa0d2;
   font: normal normal 10px/1.2em helvetica, arial, sans-serif;
-  color: #777;
+  color: black;
 }
 /* =============================================================================
    BASIC STYLES
@@ -696,6 +717,10 @@ h4,
 h5,
 h6 {
   color: #2b2b2b;
+}
+h2:not(.tagline) {
+  border-bottom: 15px solid black;
+  line-height: 1.5em;
 }
 /* =============================================================================
    NAVIGATION
@@ -717,7 +742,7 @@ nav {
    ========================================================================== */
 .header {
   background-image: url('../img/cover.jpg');
-  background-color: #2b2b2b;
+  background-color: #fff55a;
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: 100% auto;
@@ -725,8 +750,11 @@ nav {
 .logo-link,
 .tagline,
 .call-action-area .price {
-  color: #fff;
-  text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.3);
+  color: black;
+}
+.logo-link {
+  font-family: 'aberegular';
+  font-size: 1.2em;
 }
 .tagline {
   font-weight: normal;
@@ -736,15 +764,9 @@ nav {
 }
 .call-action-area .call-action-link,
 .btn {
-  background-color: #fddd52;
-  background-image: -moz-linear-gradient(top, #fddd52 30%, #f0a303 150%);
-  background-image: -webkit-linear-gradient(top, #fddd52 30%, #f0a303 150%);
-  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fddd52', endColorstr='#f0a303');
-  background-image: linear-gradient(top, #fddd52 30%, #f0a303 150%);
-  color: #2b2b2b;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.4), inset 0 -2px 3px 0 #cc7f0a, inset 0 1px 0 0 #fff9b1;
-  border-radius: 40px;
+  background-color: transparent;
+  border: 1px solid black;
+  color: black;
 }
 .github-link {
   position: fixed;
@@ -759,36 +781,38 @@ nav {
    CONTENT
    ========================================================================== */
 .content a {
-  color: #f0a303;
+  color: black;
 }
 .content a:hover,
 .content a:focus {
-  color: #fddd52;
+  color: black;
   text-decoration: underline;
+}
+.section-title {
+  font-family: 'Teuton23Pro';
 }
 /* =============================================================================
    ABOUT
    ========================================================================== */
 .about {
-  border: 1px solid #e7e7e7;
-  background: #fff;
-  border-radius: 4px;
+  background: #ffa0d2;
 }
 /* =============================================================================
    LOCATION
    ========================================================================== */
 .location-area {
-  background: #e7e7e7;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  background: #ffa0d2;
+  mix-blend-mode: multiply;;
   height: 300px;
+}
+.location {
+    background: #ffa0d2;
 }
 /* =============================================================================
    SPEAKER
    ========================================================================== */
 .speaker-photo .photo {
   border-radius: 50%;
-  box-shadow: 0 0 0 8px rgba(0, 0, 0, 0.07);
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -806,22 +830,15 @@ nav {
 /* =============================================================================
    SCHEDULE
    ========================================================================== */
-.schedule-tbl {
-  background: #fff;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
-}
+
 .schedule-tbl table {
-  background: #fff;
+  background: #ffa0d2;
 }
 .schedule-tbl td,
 .schedule-tbl th {
-  border-bottom: 1px solid #e7e7e7;
+  border-bottom: 1px solid black;
 }
-.schedule-tbl tbody tr:nth-child(2n+1) {
-  background: #f6f6f6;
-}
+
 .schedule-tbl th {
   color: #2b2b2b;
 }
@@ -841,7 +858,7 @@ nav {
 .schedule-closing,
 .schedule-lunch,
 .schedule-other {
-  color: #214f87;
+  color: black;
 }
 /* =============================================================================
    SPONSORS
@@ -875,6 +892,7 @@ nav {
   border-color: #aaa;
   outline: 0;
 }
+
 /* =============================================================================
    Media Queries
    ========================================================================== */
