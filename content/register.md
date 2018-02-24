@@ -37,5 +37,5 @@ kanał `#organizatorzy` służy do kontaktu z nimi ale traktuj go jako "kanał w
 
 ## No i wreszcie:
 
-#### Na Slacka zapisujemy się [tu](https://join.slack.com/t/abelight18/shared_invite/enQtMzEzODM4NDQwNTYzLWQ4N2U2M2I4OTRiODI0ZDZhZTE1YTNiYzg0MjY5N2U1YTY0ZjRhMDY2Nzg2ODc3Yjk4MDUwNzA5MDBjMTczMWM)
+#### Na Slacka zapisujemy się <a id="in-your-face" href="https://join.slack.com/t/abelight18/shared_invite/enQtMzEzODM4NDQwNTYzLWQ4N2U2M2I4OTRiODI0ZDZhZTE1YTNiYzg0MjY5N2U1YTY0ZjRhMDY2Nzg2ODc3Yjk4MDUwNzA5MDBjMTczMWM">tu</a>
 
