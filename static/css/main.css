@@ -809,6 +809,7 @@ h2 {
    ========================================================================== */
 .location-area {
   background: #ffa0d2;
+  // mix-blend-mode: multiply;
   height: 300px;
 }
 .location {
