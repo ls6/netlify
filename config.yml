@@ -83,6 +83,11 @@ params:
     - name: "Agile Polska"
       logo: "img/logo_APL.png" 
       url: "http://agilepolska.pl/"
+
+    #- name: "Agile 247"
+      #logo: "img/logo_a247.png" 
+      #url: "http://www.agile247.pl/"
+
   # The entire schedule
   Schedule:
     - name: "Startujemy"
