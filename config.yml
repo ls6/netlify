@@ -74,6 +74,10 @@ params:
       logo: "img/logo_AW.png"
       url: "http://agilewarsaw.com"
 
+    - name: "PMI Oddział Warszawa"
+      logo: "img/logo_PMI.png"
+      url: "http://pmi.org.pl/pmi/oddzialy/warszawa/"
+
   # List of Media Partners
   Media:
     - name: "Agile Polska"
