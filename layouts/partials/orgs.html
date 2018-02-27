@@ -1,0 +1,10 @@
+<h2 class="section-title">{{ .titles.orgs }}</h2>
+
+<ul class="partners-list">
+{{ range $org := .orgs }}
+  <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
+      <img src="{{ .img }}" alt="{{ .name }}" class="photo org-photo" itemprop="image">
+	  <p class="org-name">{{ .name }}</p>
+  </li>
+{{ end }}
+</ul>

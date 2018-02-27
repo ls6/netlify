@@ -28,6 +28,7 @@ params:
     - sponsors
     - partners
     - media
+    #- orgs
     #- contact
 
   # Titles which you can translate to other languages
@@ -39,6 +40,7 @@ params:
     sponsors: "Sponsorzy"
     partners: "Partnerzy"
     media: "Partnerzy medialni"
+    orgs: "Organizatorzy"
     contact: "Kontakt"
 
   # The Call To Action button at the header,
@@ -68,6 +70,7 @@ params:
     - name: "Slido"
       logo: "img/logo_slido.jpg"
       url: "http://www.slido.com/"
+
   # List of Partners
   Partners:
     - name: "Agile Warsaw"
@@ -87,6 +90,22 @@ params:
     #- name: "Agile 247"
       #logo: "img/logo_a247.png" 
       #url: "http://www.agile247.pl/"
+
+  Orgs:
+    - name: "Ewa Koprowska"
+      img: "img/org_koprowska.png"
+    - name: "Piotr Radaj"
+      img: "img/org_radaj.png"
+    - name: "Mateusz Srebrny"
+      img: "img/org_srebrny.png"
+    - name: "Łukasz Szóstek"
+      img: "img/org_szostek.png"
+    - name: "Piotr Szczygieł"
+      img: "img/org_szczygiel.png"
+    - name: "Piotr Szczygieł"
+      img: "img/org_szczygiel.png"
+    - name: "Piotr Szczygieł"
+      img: "img/org_szczygiel.png"
 
   # The entire schedule
   Schedule:
