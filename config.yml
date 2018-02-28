@@ -28,7 +28,7 @@ params:
     - sponsors
     - partners
     - media
-    #- orgs
+    - orgs
     #- contact
 
   # Titles which you can translate to other languages
@@ -100,12 +100,12 @@ params:
       img: "img/org_srebrny.png"
     - name: "Łukasz Szóstek"
       img: "img/org_szostek.png"
-    - name: "Piotr Szczygieł"
-      img: "img/org_szczygiel.png"
-    - name: "Piotr Szczygieł"
-      img: "img/org_szczygiel.png"
-    - name: "Piotr Szczygieł"
-      img: "img/org_szczygiel.png"
+    #- name: "Piotr Szczygieł"
+    #  img: "img/org_szczygiel.png"
+    #- name: "Piotr Szczygieł"
+    #  img: "img/org_szczygiel.png"
+    #- name: "Piotr Szczygieł"
+    #  img: "img/org_szczygiel.png"
 
   # The entire schedule
   Schedule:
