@@ -104,8 +104,8 @@ params:
       img: "img/org_walczak.png"
     - name: "Michał Koprowski"
       img: "img/org_koprowski.png"
-    #- name: "Piotr Szczygieł"
-    #  img: "img/org_szczygiel.png"
+    - name: "Piotr Szczygieł"
+      img: "img/org_szczygiel.png"
 
   # The entire schedule
   Schedule:
