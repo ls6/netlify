@@ -113,6 +113,10 @@ params:
       time: "13h45"
       remark: "Bardzo prosimy przybywać na czas."
 
+    - name: "AZA Group"
+      #time: "13h45"
+      remark: "Kilka słów od sponsora: ,,Młodzi i ambitni. Jak bardzo zwinni? Czyli agile w AZAGroup''."
+
       # - name: "AZA Group"
       # - photo: "img/aza_logo_graphite_box.png"
       # - bio: "skipThisFromSpeakers"
