@@ -1,6 +1,6 @@
 publishDir: docs
 baseurl: "https://abelight.agilewarsaw.com"
-title: "ABE Light 2018"
+title: "ABE Light 2019"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -8,9 +8,9 @@ GoogleAnalytics: "UA-112461830-1"
 
 params:
   # Conference info
-  Name: "ABE Light 2018"
-  Description: "Konferencja Agile by Example Light 2018"
-  Date: "17 marca (sobota)"
+  Name: "ABE Light 2019"
+  Description: "Agile by Example Light 2019"
+  Date: "30 March (Saturday)"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Akademia Finansów i Biznesu VISTULA"
   Address: "Stokłosy 3"
@@ -24,30 +24,32 @@ params:
     - about
     - location
     - speakers
-    - schedule
+    #- schedule
     - sponsors
     - partners
-    - media
+      #- media
     - orgs
-    #- contact
+      #- contact
 
   # Titles which you can translate to other languages
   Titles:
-    about: "O konferencji"
-    location: "Gdzie?"
-    speakers: "Kto?"
-    schedule: "Rozkład jazdy"
-    sponsors: "Sponsorzy"
-    partners: "Partnerzy"
-    media: "Partnerzy medialni"
-    orgs: "Organizatorzy"
-    contact: "Kontakt"
+    about: "About the conference"
+    location: "Where?"
+    speakers: "Who?"
+    schedule: "Timetable"
+    sponsors: "Sponsors"
+    partners: "Partners"
+    media: "Media Partners"
+    orgs: "Organizers"
+    contact: "Contact"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-      text: "Zarejestruj się gratis"
-      link: "register"
+      text: "No registration yet"
+      #link: "register"
+      #text: "Zarejestruj się gratis"
+      #link: "register"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
   #ForkButton:
@@ -59,17 +61,9 @@ params:
       logo: "img/logo_procognita.png"
       url: "https://procognita.pl/"
 
-    - name: "AZA"
-      logo: "img/aza_logo_graphite_box.png"
-      url: "https://azagroup.eu/o-nas/"
-
     - name: "Vistula"
       logo: "img/logo_vistula.jpg"
       url: "http://www.vistula.edu.pl/"
-
-    - name: "Slido"
-      logo: "img/logo_slido.jpg"
-      url: "http://www.slido.com/"
 
   # List of Partners
   Partners:
@@ -77,19 +71,19 @@ params:
       logo: "img/logo_AW.png"
       url: "http://agilewarsaw.com"
 
-    - name: "PMI Oddział Warszawa"
-      logo: "img/logo_PMI.png"
-      url: "http://pmi.org.pl/pmi/oddzialy/warszawa/"
+      #- name: "PMI Oddział Warszawa"
+      #logo: "img/logo_PMI.png"
+      #url: "http://pmi.org.pl/pmi/oddzialy/warszawa/"
 
   # List of Media Partners
   Media:
-    - name: "Agile Polska"
-      logo: "img/logo_APL.png" 
-      url: "http://agilepolska.pl/"
+      #- name: "Agile Polska"
+      #logo: "img/logo_APL.png" 
+      #url: "http://agilepolska.pl/"
 
-    - name: "Agile 247"
-      logo: "img/logo_a247.png" 
-      url: "http://www.agile247.pl/"
+      #- name: "Agile 247"
+      #logo: "img/logo_a247.png" 
+      #url: "http://www.agile247.pl/"
 
   Orgs:
     - name: "Ewa Koprowska"
@@ -102,104 +96,47 @@ params:
       img: "img/org_szostek.png"
     - name: "Magdalena Walczak"
       img: "img/org_walczak.png"
-    - name: "Michał Koprowski"
-      img: "img/org_koprowski.png"
-    - name: "Piotr Szczygieł"
-      img: "img/org_szczygiel.png"
+    #- name: "Michał Koprowski"
+      #img: "img/org_koprowski.png"
+      #- name: "Piotr Szczygieł"
+      #img: "img/org_szczygiel.png"
 
   # The entire schedule
   Schedule:
-    - name: "Startujemy"
+    - name: "Start"
       time: "13h45"
-      remark: "Bardzo prosimy przybywać na czas."
+      remark: "Please, be on time!"
 
-    - name: "AZA Group"
+    #- name: "AZA Group"
       #time: "13h45"
-      remark: "Kilka słów od sponsora: ,,Młodzi i ambitni. Jak bardzo zwinni? Czyli agile w AZAGroup''."
+      #remark: "Kilka słów od sponsora: ,,Młodzi i ambitni. Jak bardzo zwinni? Czyli agile w AZAGroup''."
 
-      # - name: "AZA Group"
-      # - photo: "img/aza_logo_graphite_box.png"
-      # - bio: "skipThisFromSpeakers"
-      # - presentation:
-      # -   title: ""
-      # -   description: "Krótka i zabawna prezentacja sponsora…"
-      # -   #time: "11h00"
 
-    - name: "Mary Poppendieck"
-      photo: "img/mary.jpg"
-      bio: "Mary Poppendieck started her career as a process control programmer, moved on to manage the IT department of a manufacturing plant, and then ended up in product development, where she was both a product champion and department manager.<br/> Mary considered retirement 1998, but instead found herself managing a government software project where she first encountered the word \"waterfall.\" When Mary compared her experience in successful software and product development to the prevailing opinions about how to manage software projects, she decided the time had come for a new paradigm. She wrote the award-winning book \"Lean Software Development: An Agile Toolkit\" in 2003 to explain how the lean principles from manufacturing offer a better approach to software development.<br/> Over the past several years, Mary has found retirement elusive as she lectures and teaches classes with her husband Tom. Based on their on-going learning, they wrote a second book, \"Implementing Lean Software Development: From Concept to Cash\" in 2006, a third, \"Leading Lean Software Development: Results are Not the Point\" in 2009, and a fourth book, \"The Lean Mindset: Ask the Right Questions\" in 2013. A popular writer and speaker, Mary continues to bring fresh perspectives to the world of software development."
+    - name: "Jurgen De Smet"
+      photo: "img/jurgenDeSmet.jpg"
+      bio: "I am a Certified LeSS (Large-Scale Scrum) Trainer, Licensed Management 3.0 Trainer and ambassador at Startups.be, the group spearheading the entrepreneurial environment in Belgium. Inside I am still skateboarding, picking up new moves, adapting to ever-changing environments and freestyling with the best, wherever fresh design concepts for improving the world of work are emerging and being perfected."
       #company: "Linux Foundation"
       link:
-        href: "http://www.poppendieck.com/"
+        href: "http://jurgendesmet.be"
         text: "www"
       presentation:
-        title: "Four Metaphors for Lean"
-        description: "Sometimes lean principles are easier to understand when we find them operating in completely
-unexpected places. This talk will take you to marketplaces around the world, on arctic expeditions, down
-whitewater rapids, and into research labs to see lean principles in action. Because sometimes the ideas
-that seem so counterintuitive in our daily lives become completely obvious when the game has changed."
-        #time: "14h00"
+        title: "Why Should Most Organisations Ditch Scrum!"
+        description: "Thanks to HBR, McKinsey and more of those, Agile has become mainstream but is it Agile? I see Agile being used as synonym of Scrum even though Agile is more of an umbrella where Scrum is just one flavour of getting there. Many inquiries show that Scrum is the most used Agile flavour in the world and I’m here to tell you to stop that movement unless you truly mean it. Let me guide you through some basic elements and help you evaluate if you and your organisation should ditch Scrum or not. Help you recognise if you are truly a Scrum Master or rather a Scrum Novice. And much more."
 
-    - name: "ProCognita"
-      #photo: "img/wykowski.jpg"
-      photo: "img/procognita_team.jpg"
-      #photo: "/img/speaker.jpg"
-      bio: "Od 2010 roku wspieramy ludzi w tworzeniu uczących się organizacji i dostarczaniu niesamowitych produktów. Dzielimy się wiedzą i doświadczeniem poprzez szkolenia, mentoring, wykłady i warsztaty. Jako jedyni organizujemy szkolenia Certified ScrumMaster, Certified Scrum Product Owner i Certified LeSS Basics po polsku. Wspólnie przeszkoliliśmy ponad 2000 osób w 6 krajach na dwóch kontynentach.
-      <br/>
-      Współpracujemy z kilkoma międzynarodowymi organizacjami zrzeszającymi ekspertów Agile i Lean takimi jak Scrum Alliance i LeSS Company. Nasi partnerzy i przyjaciele zapewniają nam wsparcie i wiedzę, oraz szerszą perspektywę pracy z klientem. Możecie nas spotkać na międzynarodowych konferencjach i spotkaniach lokalnych społeczności Agile i Lean."
-      #company: "ProCognita"
-      link:
-        href: "https://procognita.pl"
-        text: "www"
+
+    - name: "Agnieszka Balcer"
+      photo: "img/AgaBT.jpg"
+      bio: "Agnieszka is a Director of Product Research at Codility, working with both qualitative as well as quantitative data and advocating for insights-driven decision making. She has been collecting research experience for over 14 years, working for variety of categories - software, FMCG, cosmetics, automotive, household goods, services and telecommunications (including running Marketing Research Team at Play for over 6 years). She also  teaches courses on research and ethnography to post-graduate students at Warsaw School of Economics, Kozminski Academy and Warsaw School of Social Psychology."
       presentation:
-        title: "Warsztat: Efektywni czy zajęci - Symulacja Lean"
-        description: "Masz uczucie, że wszyscy w twojej firmie jesteście bardzo zajęci, ale rezultatów nie widać? Zapraszamy Cię na nasz warsztat, gdzie poprzez symulację zobaczymy co powoduje największe problemy tradycyjnych organizacji. Spróbujemy je też zaadresować, używając narzędzi Lean, takich jak Kanban i poszukiwanie strat. Oczywiście nasze wnioski przeniesiemy na grunt tworzenia oprogramowania, tak abyście mogli je zastosować w poniedziałek po konferencji.
-<br/>
-<br/>
-ps. Mamy Lego i nie zawahamy się go użyć. :)"
-        #time: "11h00"
+        title: "Filtering out bad ideas: how we decide what not to do @Codility"
+        description: "A lot is being written on how to select features for further development: how to sieve through the ideas, agree on the most promising ones and deliver them ASAP. Not only because you get to select the optimal projects - but also (what is sometimes forgotten) avoid doing things that might drive your developer team far away from where they should be spending their time and effort. Saving resources (time of developers) for the right ideas is just as important as selecting the right ideas in the first place. I would like to show an example of 2 features we have terminated at Codility just before the development phase thanks to research and internal cooperation, saving the company months of work on a feature that might not be the most valuable one at the time. Research methods used: qualitative concept tests (also known in Codility as Pizza Disaster Tests) and quantitative analysis of internal data. Important ingredients of the success: strong Research – Product Manager cooperation, feedback ownership and clear assumptions behind the development (we know what problem it was going to solve)."
 
-    - name: "Lunch"
-      remark: "Każdy płaci za siebie. Kantyna Vistuli da radę nas obsłużyć."
-
-    - name: "Michał Dworczyk"
-      photo: "img/dworczyk.jpg"
-      bio: "Entuzjasta życia, projektant startupów, fotograf, aktor. Poszukiwacz rozwiązań prostych, lecz nieoczywistych. Zwolennik Deep Thinking, co lubi tłumaczyć jako myślenie o myśleniu. Od ponad dwudziestu lat jest obecny w strukturach zarządzania projektami, marketingu, reklamy i PR.<br/> Studiował w Centrum kształcenia kadr kierowniczych DOSKO na wydziale Public Relations, w Państwowej wyższej szkole Filmowej Telewizyjnej i Teatralnej w Łodzi.<br/> Jest certyfikowanym coachem International Coaching Community. no. 11488, Praktykiem Neurolingwistyki - The Society of Neuro Linguistic Programing, ukończył również kurs: Re-evaluating Life Story Certification authority Christina Hall, Ph.D., NLP Meta-Master Trainer.
-<br/>
-Pomaga ludziom osiągać cele, odkrywać inne sposoby widzenia świata."
-#company: "firma"
-      link:
-        href: "https://www.linkedin.com/in/michał-dworczyk-54484221/"
-        text: "LinkedIn"
+    - name: ""
       presentation:
-
-        title: "O podglądaniu, patrzeniu, podpatrywaniu i widzeniu"
-        description: "Tym razem pokażę kilka zdjęć. Opowiem o tym co w nich widzę.<br/> Dlaczego są właśnie takie jakimi je zobaczycie?<br/>  O perspektywie w fotografii i w życiu. O próbie rezygnacji z ustawień domyślnych...<br/><br/> Możliwe, że im mniej teraz napiszę, tym przyjemniej będzie Wam patrzeć i słuchać...<br/> Może tylko patrzeć, a może tylko słuchać?"
-
-    - name: "Dorota Jaworska"
-      photo: "img/jaworska.jpg"
-      bio: "Project Manager/Product Owner. <br/>Pracowała w korporacjach i startupach. Z branżą IT związana od 10 lat. Fanka czarnej kawy, retrospekcji i szukania dziury w całym. <br/>Prywatnie entuzjastka małych szczeniaczków."
-      #company: "firma"
-      link:
-        href: "https://www.linkedin.com/in/djaworska/"
-        text: "LinkedIn"
-      presentation:
-        title: "Jak poskromić Ciemną Stronę Mocy?"
-        description: "Co zrobić kiedy osoba z Twojego zespołu cierpi na depresję? Czego na pewno nie robić? Jak pomóc Twojemu współpracownikowi i zorganizować pracę zespołu aby dowozić? <br/>Wiele się mówi o depresji i o stanach lękowych, ale nikt nie przygotowuje nas, zarządzających ludźmi, do mierzenia się z takim sytuacjami w pracy. <br/>Na podstawie własnych doświadczeń i obserwacji, chcę dotknąć trudnego tematu o którym się nie mówi na głos. "
-
-    - name: "Marcin Gozdalik"
-      photo: "img/gozdalik.jpg"
-      bio: "ex-CTO, ex-co-founder, obecnie konsultant w 9LivesData oraz head of engineering w Starfish Storage"
-      #company: "firma"
-      link:
-        href: "https://www.linkedin.com/in/gozdal/"
-        text: "LinkedIn"
-      presentation:
-        title: "Kiedy nie warto używać Continuous Integration / Continuous Delivery?"
-        description: "Dawno temu (w 2000 roku!) na liście \"The Joel Test: 12 Steps to Better Code\" Joel Spolsky na pierwszym miejscu umieścił pytanie \"Do you use source control?\". Dawno nie spotkałem projektu który już tutaj odpadał i odpowiadał \"nie\", chociaż jeszcze parę lat temu takie projekty widziałem. Na trzecim miejscu było \"Do you do daily builds?\". Znam wiele projektów dzisiaj, które ciągle przy tym pytaniu odpadają. Gdyby zapytać o Continuous Integration, Deployment albo Delivery jeszcze mniej projektów będzie mogło podnieść łapkę w górę. Chciałbym opowiedzieć co pomogło nam dojść do 10 buildów dziennie w zespole siedmioosobowym i kiedy nie warto używać CI/CD."
+        title: "More to come…"
 
     - name: "Afterparty"
-      remark: "W pobliżu…"
+      remark: "Close by…"
       time: "~19h30"
 
 
