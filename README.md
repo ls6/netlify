@@ -1,5 +1,5 @@
 # ABELight
-Strona www konferencji ABE Light 2018
+Strona www konferencji ABE Light 2018, 2019
 
 # Jak wprowadzić zmiany?
 
@@ -18,7 +18,7 @@ Większość treści znajduje się w pliku konfiguracyjnym `config.yml`
 
 Inne miejsca:
 
-  * Treść sekcji "O konferencji" jest w pliku `ABELight/layouts/partials/about.html`
+  * Treść sekcji "About the conference" jest w pliku `ABELight/layouts/partials/about.html`
 
 Na podstawie:
 https://github.com/jweslley/hugo-conference
