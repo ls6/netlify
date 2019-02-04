@@ -57,6 +57,10 @@ params:
 
   # List of Sponsors
   Sponsors:
+    - name: "Deloitte"
+      logo: "img/logo-deloitte.jpg"
+      url: "https://www2.deloitte.com/pl/pl.html"
+
     - name: "ProCognita"
       logo: "img/logo_procognita.png"
       url: "https://procognita.pl/"
