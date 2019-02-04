@@ -19,7 +19,7 @@
 
 	<h3 class="speakers-name">{{ .name }}
 		{{ with .link }}
-		<a href="{{ .href }}" target="_blank" title="{{ .text }}"> {{ .text }} </a>
+		<a href="{{ .href }}" target="_blank" title="{{ .text }}"> [{{ .text }}] </a>
 		{{ end }}
 	</h3>
 	<p class="speakers-bio">{{ .bio | safeHTML }}</p>

@@ -435,6 +435,13 @@ nav {
 .speakers-name {
   font-size: 1.6em;
 }
+
+.speakers-name > a {
+/*   font-size: 1em; */
+  padding-left: 0.3rem; 
+/*   font-family: "Lucida Console", Monaco, monospace; */
+}
+
 .speakers-item p {
   font-size: 1.4em;
 }
