@@ -117,19 +117,32 @@ params:
       bio: "I am a Certified LeSS (Large-Scale Scrum) Trainer, Licensed Management 3.0 Trainer and ambassador at Startups.be, the group spearheading the entrepreneurial environment in Belgium. Inside I am still skateboarding, picking up new moves, adapting to ever-changing environments and freestyling with the best, wherever fresh design concepts for improving the world of work are emerging and being perfected."
       #company: "Linux Foundation"
       link:
-        href: "http://jurgendesmet.be"
+        href: "https://procognita.com/company/team/trainers/jurgen-de-smet/"
         text: "www"
       presentation:
         title: "Why Should Most Organisations Ditch Scrum!"
         description: "Thanks to HBR, McKinsey and more of those, Agile has become mainstream but is it Agile? I see Agile being used as synonym of Scrum even though Agile is more of an umbrella where Scrum is just one flavour of getting there. Many inquiries show that Scrum is the most used Agile flavour in the world and I’m here to tell you to stop that movement unless you truly mean it. Let me guide you through some basic elements and help you evaluate if you and your organisation should ditch Scrum or not. Help you recognise if you are truly a Scrum Master or rather a Scrum Novice. And much more."
 
 
-    - name: "Agnieszka Balcer"
+    - name: "Agnieszka Balcer-Thinlay"
       photo: "img/AgaBT.jpg"
       bio: "Agnieszka is a Director of Product Research at Codility, working with both qualitative as well as quantitative data and advocating for insights-driven decision making. She has been collecting research experience for over 14 years, working for variety of categories - software, FMCG, cosmetics, automotive, household goods, services and telecommunications (including running Marketing Research Team at Play for over 6 years). She also  teaches courses on research and ethnography to post-graduate students at Warsaw School of Economics, Kozminski Academy and Warsaw School of Social Psychology."
+      link:
+          href: "https://www.linkedin.com/in/agnieszka-balcer-thinlay-83934345"
+          text: LinkedIn
       presentation:
         title: "Filtering out bad ideas: how we decide what not to do @Codility"
         description: "A lot is being written on how to select features for further development: how to sieve through the ideas, agree on the most promising ones and deliver them ASAP. Not only because you get to select the optimal projects - but also (what is sometimes forgotten) avoid doing things that might drive your developer team far away from where they should be spending their time and effort. Saving resources (time of developers) for the right ideas is just as important as selecting the right ideas in the first place. I would like to show an example of 2 features we have terminated at Codility just before the development phase thanks to research and internal cooperation, saving the company months of work on a feature that might not be the most valuable one at the time. Research methods used: qualitative concept tests (also known in Codility as Pizza Disaster Tests) and quantitative analysis of internal data. Important ingredients of the success: strong Research – Product Manager cooperation, feedback ownership and clear assumptions behind the development (we know what problem it was going to solve)."
+
+    - name: "Paweł Polewicz"
+      photo: "img/reef.jpg"
+      bio: "Reef's bio"
+      link:
+        href: "http://reef.pl"
+        text: "www"
+      presentation:
+        title: "Reef's Title"
+        description: "Reef's desc…"
 
     - name: ""
       presentation:
