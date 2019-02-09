@@ -24,7 +24,7 @@ params:
     - about
     - location
     - speakers
-    #- schedule
+    - schedule
     - sponsors
     - partners
       #- media
@@ -140,13 +140,13 @@ params:
 
     - name: "Paweł Polewicz"
       photo: "img/reef.jpg"
-      bio: "Reef's bio"
+      bio: "Pawel is a software engineer with 16 years of professional experience ranging from programming in a local startup to leading large teams for an international corporation. Initially focused on doing things right, later switched to doing the right things. Three years ago he resigned from a full time position and started a software house and completed over 60 projects for businesses of all sizes based in USA, Canada, UK and Australia, from toilet paper level tracker to fintech timeseries analyzers."
       link:
         href: "http://reef.pl"
         text: "www"
       presentation:
-        title: "Reef's Title"
-        description: "Reef's desc…"
+        title: "Death as BFF of every project"
+        description: "We've all heard interesting stories about projects which almost died, but have miraculously recovered. We can learn a lot from them by focusing on the turning points. In this talk we are going to go through a few examples and see how technological and organizational barriers can suddenly be eliminated in presence of a key catalyst: Fear Of Death. ☠️☠️☠️"
 
     - name: ""
       presentation:
