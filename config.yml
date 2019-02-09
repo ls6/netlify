@@ -116,41 +116,57 @@ params:
       #remark: "Kilka słów od sponsora: ,,Młodzi i ambitni. Jak bardzo zwinni? Czyli agile w AZAGroup''."
 
 
-    - name: "Jurgen De Smet"
-      photo: "img/jurgenDeSmet.jpg"
-      bio: "I am a Certified LeSS (Large-Scale Scrum) Trainer, Licensed Management 3.0 Trainer and ambassador at Startups.be, the group spearheading the entrepreneurial environment in Belgium. Inside I am still skateboarding, picking up new moves, adapting to ever-changing environments and freestyling with the best, wherever fresh design concepts for improving the world of work are emerging and being perfected."
-      #company: "Linux Foundation"
-      link:
-        href: "https://procognita.com/company/team/trainers/jurgen-de-smet/"
-        text: "www"
+    - authors:
+        - name: "Jurgen De Smet"
+          photo: "img/jurgenDeSmet.jpg"
+          bio: "I am a Certified LeSS (Large-Scale Scrum) Trainer, Licensed Management 3.0 Trainer and ambassador at Startups.be, the group spearheading the entrepreneurial environment in Belgium. Inside I am still skateboarding, picking up new moves, adapting to ever-changing environments and freestyling with the best, wherever fresh design concepts for improving the world of work are emerging and being perfected."
+          #company: "Linux Foundation"
+          link:
+            href: "https://procognita.com/company/team/trainers/jurgen-de-smet/"
+            text: "www"
       presentation:
         title: "Why Should Most Organisations Ditch Scrum!"
         description: "Thanks to HBR, McKinsey and more of those, Agile has become mainstream but is it Agile? I see Agile being used as synonym of Scrum even though Agile is more of an umbrella where Scrum is just one flavour of getting there. Many inquiries show that Scrum is the most used Agile flavour in the world and I’m here to tell you to stop that movement unless you truly mean it. Let me guide you through some basic elements and help you evaluate if you and your organisation should ditch Scrum or not. Help you recognise if you are truly a Scrum Master or rather a Scrum Novice. And much more."
 
 
-    - name: "Agnieszka Balcer-Thinlay"
-      photo: "img/AgaBT.jpg"
-      bio: "Agnieszka is a Director of Product Research at Codility, working with both qualitative as well as quantitative data and advocating for insights-driven decision making. She has been collecting research experience for over 14 years, working for variety of categories - software, FMCG, cosmetics, automotive, household goods, services and telecommunications (including running Marketing Research Team at Play for over 6 years). She also  teaches courses on research and ethnography to post-graduate students at Warsaw School of Economics, Kozminski Academy and Warsaw School of Social Psychology."
-      link:
-          href: "https://www.linkedin.com/in/agnieszka-balcer-thinlay-83934345"
-          text: LinkedIn
+    - authors:
+        - name: "Agnieszka Balcer-Thinlay"
+          photo: "img/AgaBT.jpg"
+          bio: "Agnieszka is a Director of Product Research at Codility, working with both qualitative as well as quantitative data and advocating for insights-driven decision making. She has been collecting research experience for over 14 years, working for variety of categories - software, FMCG, cosmetics, automotive, household goods, services and telecommunications (including running Marketing Research Team at Play for over 6 years). She also  teaches courses on research and ethnography to post-graduate students at Warsaw School of Economics, Kozminski Academy and Warsaw School of Social Psychology."
+          link:
+            href: "https://www.linkedin.com/in/agnieszka-balcer-thinlay-83934345"
+            text: LinkedIn
       presentation:
         title: "Filtering out bad ideas: how we decide what not to do @Codility"
         description: "A lot is being written on how to select features for further development: how to sieve through the ideas, agree on the most promising ones and deliver them ASAP. Not only because you get to select the optimal projects - but also (what is sometimes forgotten) avoid doing things that might drive your developer team far away from where they should be spending their time and effort. Saving resources (time of developers) for the right ideas is just as important as selecting the right ideas in the first place. I would like to show an example of 2 features we have terminated at Codility just before the development phase thanks to research and internal cooperation, saving the company months of work on a feature that might not be the most valuable one at the time. Research methods used: qualitative concept tests (also known in Codility as Pizza Disaster Tests) and quantitative analysis of internal data. Important ingredients of the success: strong Research – Product Manager cooperation, feedback ownership and clear assumptions behind the development (we know what problem it was going to solve)."
 
-    - name: "Paweł Polewicz"
-      photo: "img/reef.jpg"
-      bio: "Pawel is a software engineer with 16 years of professional experience ranging from programming in a local startup to leading large teams for an international corporation. Initially focused on doing things right, later switched to doing the right things. Three years ago he resigned from a full time position and started a software house and completed over 60 projects for businesses of all sizes based in USA, Canada, UK and Australia, from toilet paper level tracker to fintech timeseries analyzers."
-      link:
-        href: "http://reef.pl"
-        text: "www"
+    - authors:
+        - name: "Paweł Polewicz"
+          photo: "img/reef.jpg"
+          bio: "Pawel is a software engineer with 16 years of professional experience ranging from programming in a local startup to leading large teams for an international corporation. Initially focused on doing things right, later switched to doing the right things. Three years ago he resigned from a full time position and started a software house and completed over 60 projects for businesses of all sizes based in USA, Canada, UK and Australia, from toilet paper level tracker to fintech timeseries analyzers."
+          link:
+            href: "http://reef.pl"
+            text: "www"
       presentation:
         title: "Death as BFF of every project"
         description: "We've all heard interesting stories about projects which almost died, but have miraculously recovered. We can learn a lot from them by focusing on the turning points. In this talk we are going to go through a few examples and see how technological and organizational barriers can suddenly be eliminated in presence of a key catalyst: Fear Of Death. ☠️☠️☠️"
 
-    - name: ""
+    - authors:
+        - name: "Hanna Kaczyńska"
+          photo: "img/kaczynska.jpg"
+          bio: "Bio Hani Kaczyńskiej"
+          link:
+            href: "https://pl.linkedin.com/in/hanna-kaczyńska-508960142"
+            text: "LinkedIn"
+        - name: "Karol Krawiec"
+          photo: "img/krawiec.jpg"
+          bio: "Bio Karola Krawca"
+          link:
+            href: "https://pl.linkedin.com/in/karolkrawiec"
+            text: "LinkedIn"
       presentation:
-        title: "More to come…"
+        title: "Coś o Akademii Zwinności"
+        description: "Pres desc"
 
     - name: "Afterparty"
       remark: "Close by…"

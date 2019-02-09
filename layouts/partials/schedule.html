@@ -16,14 +16,10 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
         {{ if ne .presentation nil }}
           <tr>
             <td class="schedule-time">{{ .presentation.time }}</td>
-            <td class="schedule-slot">
-            {{ with .photo }}
-              <span class="speaker-photo">
-                <img class="photo" src="{{ . }}" alt="{{ $slot.name }}">
-              </span>
-            {{ end }}
-
-		      <b>{{ .name }}</b><br/>
+              <td class="schedule-slot">
+              {{ range .authors }}
+                <b>{{ .name }}</b><br/>
+              {{ end }}
               {{ .presentation.title }}
               <span class="speakers-company">{{ .company }}</span>
             </td>
