@@ -128,6 +128,14 @@ params:
         title: "Why Should Most Organisations Ditch Scrum!"
         description: "Thanks to HBR, McKinsey and more of those, Agile has become mainstream but is it Agile? I see Agile being used as synonym of Scrum even though Agile is more of an umbrella where Scrum is just one flavour of getting there. Many inquiries show that Scrum is the most used Agile flavour in the world and I’m here to tell you to stop that movement unless you truly mean it. Let me guide you through some basic elements and help you evaluate if you and your organisation should ditch Scrum or not. Help you recognise if you are truly a Scrum Master or rather a Scrum Novice. And much more."
 
+    - authors:
+        - name: "ProCognita"
+          link:
+            href: "https://procognita.pl/"
+            text: "www"
+      presentation:
+        title: "Agile Warkshops"
+        description: "There will be 5 parallel workshops.<br>1) Odpowiedzialności w Scrum – Mariusz Petlic<br>2) „Scenki z życia zespołu Scrum” – Justyna Wykowska<br>3) Cynefin LEGO – Tomek Wykowski<br>4) Causal Loop Diagram – Jurgen de Smet<br>5) Narzędzia PO (TBD – Impact Mapping lub Story Mapping) – Krzysiek Niewiński"
 
     - authors:
         - name: "Agnieszka Balcer-Thinlay"
