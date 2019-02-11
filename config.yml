@@ -162,13 +162,13 @@ params:
     - authors:
         - name: "Hanna Kaczyńska"
           photo: "img/kaczynska.jpg"
-          bio: "Bio Hani Kaczyńskiej"
+          bio: "W PKO BP od 10 lat. Początki to obsługa klienta i sprzedaż, od 7 lat zajmuję się projektowaniem i prowadzeniem szkoleń w banku. Ponad rok temu zetknęłam się po raz pierwszy ze zwinnością, dziś sama nią zarażam jako Scrum Master i jako trener prowadzący szkolenia dla organizacji. Uwielbiam pracę z ludźmi i dla ludzi."
           link:
             href: "https://pl.linkedin.com/in/hanna-kaczyńska-508960142"
             text: "LinkedIn"
         - name: "Karol Krawiec"
           photo: "img/krawiec.jpg"
-          bio: "Bio Karola Krawca"
+          bio: "Z sektorem bankowym związany od 15 lat, zaczynał swoje doświadczenie jako programista COBOL i konsultant w tworzeniu centralnego systemu bankowego. Kierował różnorodnymi projektami i programami IT dot. rozwoju produktów i usług bankowych, zarządzał zespołem Kierowników Projektów. Zainspirowany dążeniem ku zwinności, z pasją adaptuje podejście Agile – najpierw w zespołach IT, obecnie w ramach Transformacji Cyfrowej w skali całej Organizacji. Scrum Master, Product Owner i wyznawca idei ‘Da Się’."
           link:
             href: "https://pl.linkedin.com/in/karolkrawiec"
             text: "LinkedIn"
