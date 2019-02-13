@@ -173,8 +173,9 @@ params:
             href: "https://pl.linkedin.com/in/karolkrawiec"
             text: "LinkedIn"
       presentation:
-        title: "Coś o Akademii Zwinności"
-        description: "Pres desc"
+        title: "Dlaczego (czasem) warto zdjąć miarę o Krawca?"
+        description: "Rynek szkoleń pełen jest gotowych rozwiązań, które pozwalają zdobywać czy rozwijać potrzebne w organizacji kompetencje. Trudno jednak w komercyjnych propozycjach znaleźć zgrabny pakiet uszyty na miarę dla konkretnej firmy. Ustalone pół roku wcześniej z firmą szkoleniową programy szybko się dezaktualizują i nie zawsze elastycznie się negocjują. Kiedy do tego wszystkiego dodamy nowe w organizacji role: Product Owner i Scrum Master oraz założymy, że organizacja chce inwestować w ich rozwój - zapotrzebowanie ilościowe i jakościowe na różne szkolenia rośnie...
+Jak firma może poradzić sobie z tym wyzwaniem? I dlaczego, zamiast kupować gotowe ubrania ze sklepowych wieszaków, czasem warto mieć firmowego krawca, który zawsze zdejmie z nas właściwą miarę?<br>Zapraszamy do wysłuchania opowieści o pewnej Akademii Zwinności…"
 
     - name: "Afterparty"
       remark: "Close by…"
