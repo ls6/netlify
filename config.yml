@@ -137,6 +137,9 @@ params:
         title: "Agile Warkshops"
         description: "There will be 5 parallel workshops.<br>1) Odpowiedzialności w Scrum – Mariusz Petlic<br>2) „Scenki z życia zespołu Scrum” – Justyna Wykowska<br>3) Cynefin LEGO – Tomek Wykowski<br>4) Causal Loop Diagram – Jurgen de Smet<br>5) Narzędzia PO (TBD – Impact Mapping lub Story Mapping) – Krzysiek Niewiński"
 
+    - name: "Lunch"
+      remark: "You will have to take care of your own lunch. The Vistula canteen will be forewarned about our event so they will be ready for you if you choose to eat there."
+
     - authors:
         - name: "Agnieszka Balcer-Thinlay"
           photo: "img/AgaBT.jpg"
