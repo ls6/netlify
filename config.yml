@@ -135,8 +135,37 @@ params:
             href: "https://procognita.pl/"
             text: "www"
       presentation:
-        title: "Agile Warkshops"
-        description: "There will be 5 parallel workshops.<br>1) Odpowiedzialności w Scrum – Mariusz Petlic<br>2) „Scenki z życia zespołu Scrum” – Justyna Wykowska<br>3) Cynefin LEGO – Tomek Wykowski<br>4) Causal Loop Diagram – Jurgen de Smet<br>5) Narzędzia PO (TBD – Impact Mapping lub Story Mapping) – Krzysiek Niewiński"
+        title: "Agile Workshops"
+        description: "There will be 5 parallel workshops.<br>
+        <strong>1) LeSS roleplay</strong><br>
+        Big organization, the complex product with multiple stakeholders, couple teams collaborating together. Try LeSS challenge in a safe environment. Join a roleplaying game with the most typical challenges faced by big companies.<br>
+        &nbsp Led by Justyna Wykowska<br>
+        &nbsp Language: English / Polish<br><br>
+
+        <strong>2) Responsibilities in Scrum</strong><br>
+        There is plenty of duties, and responsible decisions to take during delivering the product. In Scrum, we have three roles that must deal with all of this.<br>
+        How to correctly distribute responsibility and deal with assigned tasks? How is it in your and other organizations? We invite you to the discussion supported by tool Management in Scrum.<br>
+        In addition, you will have the opportunity to get to know and test an interesting approach to facilitating the meeting.<br>
+        &nbsp Led by Mariusz Petlic, Radek Gamracy<br>
+        &nbsp Language: English / Polish<br><br>
+        
+        <strong>3) Cynefin Lego workshop</strong><br>
+        There’s no one-size-fits-all approach to problem-solving, as the right decision-making model depends on the domain you’re in. The Cynefin model, created by Dave Snowden, explains how to make decisions in different domains, and this game will let you experience obvious, complicated, complex and chaotic systems.<br>
+        After this session, you will be able to explain why different domains need different decision-making models, identify the domain you’re currently in and choose the right approach to solve your problem.<br>
+        &nbsp Led by Tomasz Wykowski<br>
+        &nbsp language: English / Polish<br><br>
+        
+        <strong>4) Vision, Strategy, and Tactics</strong><br>
+        In other words, how to turn an idea into a valuable product. How and what strategic and tactical tools can we use to maximize the value of the product?<br>
+        During the workshop, we will learn the basic tools for product development management, ie. Elevator pitch (visioning & strategy), Impact Map (roadmap), and Product Backlog (tactics).<br>
+        &nbsp Led by Krzysztof Niewiński<br>
+        &nbsp Language: English / Polish<br><br>
+
+        <strong>5) System Modelling</strong><br>
+        TBD<br>
+        &nbsp Led by Jurgen de Smet<br>
+        &nbsp Language: English
+"
 
     - name: "Lunch"
       remark: "You will have to take care of your own lunch. The Vistula canteen will be forewarned about our event so they will be ready for you if you choose to eat there."
