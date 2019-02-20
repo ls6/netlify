@@ -135,6 +135,8 @@ params:
 
     - authors:
         - name: "ProCognita"
+          photo: "img/logo_procognita.png"
+          bio: "We believe that there will always be better ways to create products and services.<br>We are happy to help those who want to discover them with us.<br>We promote the Agile and Lean approach to product development. We share knowledge and support organizations through training, mentoring, talks and workshops. Our partners provide us with support and knowledge, and a different perspective to work with customers."
           link:
             href: "https://procognita.pl/"
             text: "www"
