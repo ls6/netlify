@@ -7,7 +7,7 @@ description: "Registration for ABELight 2019"
 
 ## Registration
 
-The only registration steo is signing up for the conference Slack.
+The only registration step is signing up for the conference Slack.
 
 Since the conference is free and registration so easy we encourage you to follow some rules that will make the day better for all of us:
 
@@ -34,7 +34,7 @@ However, since we are using Slack for communication we have one additional reque
 Specifically:
 
    treat the `#official-annoucements` channel as read-only. We would like to reserve it for announcements from organizers
-   
+
    the `#organizers` channel is meant as a place to bring stuff to organizers attention; any following discussion should be held elsewhere
 
 
