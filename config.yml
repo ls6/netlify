@@ -47,10 +47,10 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-      text: "No registration yet"
+      text: "Free Registration"
       #link: "register"
       #text: "Zarejestruj się gratis"
-      #link: "register"
+      link: "register"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
   #ForkButton:

@@ -1,41 +1,44 @@
 ---
-title: "Rejestracja"
-date: 2018-02-12T19:56:48+01:00
+title: "Registration"
+date: 2019-02-23T09:51:48+01:00
 draft: false
-description: "Strona rejestracji na ABELight 2018"
+description: "Registration for ABELight 2019"
 ---
 
-## Rejestracja
+## Registration
 
-Jedyny krok w rejestracji w tym roku to zapisanie się na konferencyjnego Slacka.
+The only registration steo is signing up for the conference Slack.
 
-To jest dla nas duży eksperyment i bardzo jesteśmy ciekawi jak to zadziała. Sądząc z doświadczeń innych konferencji może być naprawdę fajnie ale ważne jest też kilka spraw z Twojej strony:
+Since the conference is free and registration so easy we encourage you to follow some rules that will make the day better for all of us:
 
-#### Wpisz swoje prawdziwe imię i nazwisko
+#### Use your full real name 
 
-Jako, że nie ma innych kroków w rejestracji Twoje konto na konferencyjnym Slacku jest jedyną możliwością skontaktowania się z Tobą nie tylko przez organizatorów ale też innych uczestników.
+Since this is the only registration step your Slack ID (hopefully your full name) is the only way to get in touch with you not only by the organizers but also for all other conference participants.
 
-Adresy email potrzebne do rejestracji na Slacku będą ukryte przed innymi uczestnikami.
+The email address Slack will ask you when signing up will be hidden.
 
-#### Załącz (w miarę) aktualne zdjęcie
+#### Attach your current photo
 
-To głównie dlatego, żeby móc rozpoznać się w realu z innymi uczestnikami jeśli jeszcze się nie znacie.
+This is mainly for other participants to recognize you if you happen to connect on Slack before the event and want to continue in real life.
 
-#### Tworzenie nowych kanałów
+#### Creating new Slack channels
 
-Rozejrzyj sie po kanałach, które już są na Slacku i jeśli brakuje Ci czegoś to stwórz nowy—może być publiczny lub prywatny. Sugerujemy np. koordynację przyjazdów spoza Warszawy :)
+Take a look around and see what channels already exist. If you are missing one, you are welcome to create it. Either public or private — it is your space as much as everybody else's, including the organizers. How about co-ordinating coming to Warsaw from other cities?
 
-#### Etykieta
+#### Etiquette
 
-O tym, żeby być dla siebie nawzajem miłym nawet nie będziemy wspominać bo to przecież standard i nigdy nie było z tym problemów. Jednak z okazji Slacka prosimy o przestrzeganie jeszcze jednej zasady: prosimy nie nadużywać kanałów specjalnych.
+Obviously all norms of social behaviours are given. We will not dwell on them since it is a standard and we never had problems with it :)
 
-W szczególności:
+However, since we are using Slack for communication we have one additional request: please, respect the special channels.
 
-kanał `#oficjalne-ogloszenia` traktuj jak `read-only`
+Specifically:
 
-kanał `#organizatorzy` służy do kontaktu z nimi ale traktuj go jako "kanał wywoławczy" a samą rozmowę poprowadzimy już oddzielnie
+   treat the `#official-annoucements` channel as read-only. We would like to reserve it for announcements from organizers
+   
+   the `#organizers` channel is meant as a place to bring stuff to organizers attention; any following discussion should be held elsewhere
 
-## No i wreszcie:
 
-#### Na Slacka zapisujemy się <a id="in-your-face" href="https://join.slack.com/t/abelight18/shared_invite/enQtMzIxMTI4NzM5NzAyLWYyNjQzNDEyNzllZGE4ZDU3MDIwMmMzZWQ4MzExNjYyMThiMmFiZGRiMjU5NGRmOGRmYjA1Zjg4OGUzYWE5MDI">tu</a>
 
+## …and finally:
+
+#### Sign-up <a id="in-your-face" href="https://join.slack.com/t/abelight19/shared_invite/enQtNTU4MzYxMjQwMjA5LTRkMWQwZTNkMGYzNzQyZWY0YjA4MmI3ZWJjOTBhMDNjYjYxYzNhODQ3M2ViMzVhMzlmNmVkZmMwZTZjNzhmMjc">here</a>
