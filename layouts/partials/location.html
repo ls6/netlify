@@ -1,11 +1,14 @@
 <h2 class="section-title">{{ .titles.location }}</h2>
 
+<meta itemprop="startDate" content="2019-03-30T13:45">
+<span itemprop="location" itemscope itemtype="http://schema.org/Place">
+<span itemprop="name">{{ .venue }}<br/></span>
 <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-<span itemprop="venue">{{ .venue }}<br/></span>
   <span itemprop="streetAddress">{{ .address }}, </span>
   <span itemprop="addressLocality">{{ .city }}</span>
   <span itemprop="addressRegion"> {{ .state }}</span>
 </p>
+</span>
 
 <div class="location-area" data-address="{{ .address }}, {{ .city }} - {{ .state }}">
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9790.587403341631!2d21.0344789!3d52.1589318!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x56321377b41fea8!2sVistula+University!5e0!3m2!1sen!2spl!4v1547813818360" frameborder="0" style="border:0;height:100%;width:100%" allowfullscreen></iframe>
