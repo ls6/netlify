@@ -29,7 +29,7 @@ params:
     - schedule
     - sponsors
     - partners
-      #- media
+    - media
     - orgs
       #- contact
 
