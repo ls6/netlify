@@ -10,7 +10,7 @@ GoogleAnalytics: "UA-112461830-1"
 params:
   # Conference info
   Name: "ABE Light 2019"
-  Description: "Agile by Example Light 2019"
+  Description: "AgileByExample Light 2019"
   Date: "30 March (Saturday)"
   startDate: "2018-03-30T13:45"
   #Price: "Only $100" # If your event is free, just comment this line
