@@ -87,9 +87,9 @@ params:
 
   # List of Media Partners
   Media:
-      #- name: "Agile Polska"
-      #logo: "img/logo_APL.png" 
-      #url: "http://agilepolska.pl/"
+    - name: "Agile Polska"
+      logo: "img/logo_APL.png" 
+      url: "http://agilepolska.pl/"
 
       #- name: "Agile 247"
       #logo: "img/logo_a247.png" 
