@@ -41,4 +41,4 @@ Specifically:
 
 ## …and finally:
 
-#### Sign-up <a id="in-your-face" href="https://join.slack.com/t/abelight19/shared_invite/enQtNTU4MzYxMjQwMjA5LTRkMWQwZTNkMGYzNzQyZWY0YjA4MmI3ZWJjOTBhMDNjYjYxYzNhODQ3M2ViMzVhMzlmNmVkZmMwZTZjNzhmMjc">here</a>
+#### Sign-up <a id="in-your-face" href="https://join.slack.com/t/abelight19/shared_invite/enQtNTc4OTgwMTkwNDUxLTdhNjc2NWVhMWEwNjY0MTUyNTNlMTAzMmIxMTBhYmZlOTFmM2Y3ZjI5ZThhNmEwYTE3NWIzYWFjNGZlZmVmMTI">here</a>
