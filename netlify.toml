@@ -1,21 +1,5 @@
-# Production context: all deploys from the Production branch set in your site's
-# deploy contexts will inherit these settings.
-[context.production]
-  publish = "public"
-
-# Branch Deploy context: all deploys that are not from a pull/merge request or
-# from the Production branch will inherit these settings.
-[context.branch-deploy]
-  command = "hugo"
-  publish = "docs"
-
 # Specific branch context: all deploys from this specific branch will inherit
 # these settings.
 [context.abelight] # 'abelight' is a branch name
-  command = "hugo"
-  publish = "docs"
-  
-  
-[context.abelight-2018] # 'abelight' is a branch name
   command = "hugo"
   publish = "docs"
