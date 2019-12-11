@@ -14,3 +14,8 @@
 [context.abelight] # 'abelight' is a branch name
   command = "hugo"
   publish = "docs"
+  
+  
+[context.abelight-2018] # 'abelight' is a branch name
+  command = "hugo"
+  publish = "docs"
