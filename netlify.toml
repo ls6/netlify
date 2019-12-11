@@ -1,8 +1,9 @@
 # Production context: all deploys from the Production branch set in your site's
 # deploy contexts will inherit these settings.
 [context.production]
-  publish = "public"
-  
+  command = "hugo"
+  publish = "docs"
+
 # Branch Deploy context: all deploys that are not from a pull/merge request or
 # from the Production branch will inherit these settings.
 [context.branch-deploy]
