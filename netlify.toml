@@ -1,5 +1,4 @@
 # Specific branch context: all deploys from this specific branch will inherit
 # these settings.
-[context.abelight] # 'abelight' is a branch name
-  command = "hugo"
+[context.master] # 'abelight' is a branch name
   publish = "docs"
