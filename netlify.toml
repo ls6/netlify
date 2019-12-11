@@ -12,4 +12,4 @@
 # these settings.
 [context.abelight] # 'abelight' is a branch name
   command = "hugo"
-  base = "docs"
+  publish = "docs"
