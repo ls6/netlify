@@ -1,0 +1,11 @@
+<h2 class="section-title previous-editions">{{ .titles.previous }}</h2>
+
+<ul class="previous-list">
+    {{ range $edition := .previous }}
+    <li class="previous-item">
+        <a href="{{ .url }}" class="edition-link" itemprop="url" target="_blank">
+            <p> {{ .name }}</p>
+        </a>
+    </li>
+    {{ end }}
+</ul>

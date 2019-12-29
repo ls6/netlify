@@ -30,6 +30,7 @@ params:
     - partners
       #- media
     - orgs
+    - previous
       #- contact
 
   # Titles which you can translate to other languages
@@ -43,6 +44,13 @@ params:
     media: "Media Partners"
     orgs: "Organizers"
     contact: "Contact"
+    previous: "Previous Editions"
+
+  Previous:
+    - name: "2018"
+      url: "https://abelight-2018.agilewarsaw.com"
+    - name: "2019"
+      url: "https://abelight-2019.agilewarsaw.com"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
