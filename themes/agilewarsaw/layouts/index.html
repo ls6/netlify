@@ -1,11 +1,17 @@
 {{ define "main" }}
 
 <div class="content">
-    <div id="last-events">
-        <h1>Our events</h1>
+    <div id="aside">
+        {{ with .Site.GetPage "/aside.md" }}
+        {{ .Content }}
+        {{ end }}
+        
+    </div>
+    <div class="events">
+        <h1>Our recent events</h1>
         <div class="event-list">
             {{ range first 4 (where .Data.Pages "Section" "events") }}
-                {{ partial "event-summary.html" . }}
+            {{ partial "event-summary.html" . }}
             {{ end }}
         </div>
     </div>
