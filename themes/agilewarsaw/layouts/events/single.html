@@ -7,7 +7,7 @@
         {{ if (.Page.Resources.GetMatch "hero.jpg") }}
             <img class="hero-image"src="{{ (.Page.Resources.GetMatch "hero.jpg").RelPermalink }}" />
         {{ end }}
-        <p> {{ .Params.description | markdownify}}</p>
+        <p> {{ .Content }}</p>
         {{ with .Params.videoURL }}
             <a href="{{ . }}">Video</a>
         {{ else }}
