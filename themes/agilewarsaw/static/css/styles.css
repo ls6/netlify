@@ -135,4 +135,46 @@ footer {
     font-size:.875em;
     background-color:#3C3D3C;
     color:#9D9E9D;
+    padding-left: 1.5em;
+    padding-top: 1.5em;
+}
+
+footer h3 {
+    font-size: 160%;
+    font-weight: 500;
+}
+
+footer a {
+    color: #E6E6E6;
+    text-decoration: none;
+}
+
+ul.team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    list-style: none;
+}
+
+ul.team h4 {
+    color: #EE5141;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+}
+
+ul.team a {
+    display: block;
+}
+
+li.team-member {
+    padding-top: 0px;
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    background: #00000024;
+}
+
+li.team-member img {
+    width: 120px;
 }
