@@ -1,9 +1,21 @@
-# agilewarsaw.com config
+# Adding new event:
 
-Simple redirect to our Google Site
+  1. Check the number of the event. We will refer to it as `NUMBER`
 
-Edit [public/_redirects](public/_redirects) to change
+  2. Run:
+  `hugo new events/NUMBER/index.md -k event`
+  it will create a template `index.md` in the: `content/events/NUMBER` directory
 
-Automatically deployed via netlify
+  3. if we have extra files, copy them into the same folder  
 
-Other branches store configs of subdomains (automatically) 
+  4. if you want the event image displayed, it must be JPEG and it must be called `hero.jpg`
+  
+  5. fill in the correct data in the `index.md`
+
+
+# TODO:
+  * microformats per event
+  * Permanent sponsors somewhere
+  * Sponsors as a taxonomy per event?
+    * Only video sponsors?
+    * No sponsors at all?

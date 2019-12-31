@@ -1,0 +1,8 @@
+<event>
+    <div class="event-header">
+        <span class="event_number">#{{ .Params.number }}</span>
+        <span class="event_date"> ({{ dateFormat "2006-01-02" .Params.date }}) </span>
+    </div>
+    <div class="event_speakers"> {{ .Params.speakers }} </div>
+    <div class="event_title"> <a href="{{ .Permalink }}"> {{ .Params.title }} </a></div>
+</event>

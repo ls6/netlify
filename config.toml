@@ -1,0 +1,20 @@
+baseURL = "https://agilewarsaw.com/"
+languageCode = "en-us"
+title = "Agile Warsaw"
+
+theme = ["agilewarsaw"]
+buildFuture = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = -100
+
+  [[menu.main]]
+    identifier = "faq"
+    name = "FAQ"
+    url = "https://faq.agilewarsaw.com"
+    weight = 1

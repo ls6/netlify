@@ -1,0 +1,109 @@
+body, content {
+    background-color:#e9e9e9;
+    font-family: Verdana, Helvetica, Arial, 'Helvetica Neue', sans-serif
+}
+
+h1 {
+    color: #EE5141;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+div.header {
+    background-color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: flex-end;
+    align-content: space-around;
+}
+
+div#logo > img {
+    width: 100%;
+    max-width: 300px;
+}
+
+div#about {
+    font-size: 110%;
+    text-align: left;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    max-width: 300px;
+}
+
+nav {
+    padding-top: 1em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+    align-content: center;
+}
+
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#9D9E9D;
+    padding-right: 0.5em; 
+}
+
+nav a:hover,
+nav a:active,
+nav a:focus {
+    color: #EE5141;
+}
+
+div.content {
+    width:95%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+}
+
+div#last-events {
+    padding-left: 1em;
+    padding-left: 1em;
+}
+
+div.event-list {
+    /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: center;
+}
+
+div.event-list event {
+    display: block;
+    background-color: white;
+    margin-bottom: 1em;
+    padding: 1em;
+    flex-grow: 1;
+}
+
+div.event-info-full {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+footer {
+    border-bottom:1em solid #EE5141;
+    font-size:.875em;
+    background-color:#3C3D3C;
+    color:#9D9E9D;
+}
