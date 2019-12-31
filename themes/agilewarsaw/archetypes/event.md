@@ -4,6 +4,7 @@ date: "{{ .Date }}"
 title: "Title. Make sure to escape \"quotation marks\" "
 speakers: "First Speaker and maybe another one"
 sponsors: ["sponsor1", "sponsor2"]
+videoURL: ""
 draft: false
 ---
 
