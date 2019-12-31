@@ -14,6 +14,8 @@
 
 
 # TODO:
+  * footer: org team
+    * previous people
   * microformats per event
   * Permanent sponsors somewhere
   * Sponsors as a taxonomy per event?
