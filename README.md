@@ -16,8 +16,10 @@
 # TODO:
   * footer: org team
     * links should open in new window
-    * previous people
-  * Luke: JS to separate future events
+  * previous organizers
+  * (W) Luke: JS to separate future events
+  * add a link to all videos at the bottom of the "recent videos" section on the main page
+  * styling of video link ~(also icon?)~
   * how to contribute events
     * ideally github
     * email (or a doc / text file somewhere) is also fine
