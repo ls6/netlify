@@ -1,7 +1,7 @@
 <event>
     <div class="event-header">
         <span class="event-number">#{{ .Params.number }}</span>
-        <span class="event-date"> ({{ dateFormat "2006-01-02" .Params.date }}) </span>
+        (<span class="event-date">{{- dateFormat "2006-01-02" .Params.date -}}</span>)
     </div>
     <div class="event-speakers"> {{ .Params.speakers }} </div>
     <div class="event-title"> <a href="{{ .Permalink }}"> {{ .Params.title }} </a></div>
