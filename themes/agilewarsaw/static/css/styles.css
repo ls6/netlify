@@ -177,3 +177,7 @@ li.team-member {
     background: #00000024;
     width: 145px;
 }
+
+li.team-member img {
+    width: 120px;
+}
