@@ -152,7 +152,7 @@ footer a {
 ul.team {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     text-align: center;
     list-style: none;
 }
@@ -172,9 +172,8 @@ li.team-member {
     padding-bottom: 1em;
     padding-left: 1.5em;
     padding-right: 1.5em;
+    margin-bottom: 1ex;
+    margin-right: 1ex;
     background: #00000024;
-}
-
-li.team-member img {
-    width: 120px;
+    width: 145px;
 }
