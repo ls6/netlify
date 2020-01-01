@@ -9,9 +9,9 @@
         {{ end }}
         <p> {{ .Content }}</p>
         {{ with .Params.videoURL }}
-            <a href="{{ . }}">Video</a>
+            <p><a href="{{ . }}"><img class="YT-icon" src="/assets/YT-red.svg">Video recording</a></p>
         {{ else }}
-            <p>No video recording</p>
+            <p><img class="YT-icon" src="/assets/YT-gray.svg">No video recording</p>
         {{ end }}
         <!-- <p>Sponsor: {{ .Params.sponsors }}</p> -->
     </div>

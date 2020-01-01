@@ -122,6 +122,12 @@ div.event-info-full {
     padding-right: 1em;
 }
 
+img.YT-icon {
+    height: 2ex;
+    padding-right: 0.5em;
+    vertical-align:middle;
+}
+
 div.all-events-list event {
     padding: 1em;
 }
