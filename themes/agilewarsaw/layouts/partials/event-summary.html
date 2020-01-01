@@ -4,5 +4,10 @@
         (<span class="event-date">{{- dateFormat "2006-01-02" .Params.date -}}</span>)
     </div>
     <div class="event-speakers"> {{ .Params.speakers }} </div>
-    <div class="event-title"> <a href="{{ .Permalink }}"> {{ .Params.title }} </a></div>
+    <div class="event-title"> <a href="{{ .Permalink }}"> {{ .Params.title }} </a>
+    {{ with .Params.videoURL }}
+        <a href="{{.}}" target="_blank"><img class="YT-icon-small" src="/assets/YT-red.svg"></a> 
+    {{ else }}
+        <img class="YT-icon-small" src="/assets/YT-gray.svg">
+    {{ end }}</div>
 </event>

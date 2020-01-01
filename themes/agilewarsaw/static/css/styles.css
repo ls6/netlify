@@ -128,6 +128,12 @@ img.YT-icon {
     vertical-align:middle;
 }
 
+img.YT-icon-small {
+    height: 1.5ex;
+    position: relative;
+    top: 1px;
+}
+
 div.all-events-list event {
     padding: 1em;
 }
