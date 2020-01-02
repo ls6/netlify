@@ -18,7 +18,7 @@
     * links should open in new window
   * previous organizers
   * (W) Luke: JS to separate future events
-  * add a link to all videos at the bottom of the "recent videos" section on the main page
+  * ~add a link to all videos at the bottom of the "recent videos" section on the main page~
   * ~language icons and separate list for English spoken events~
   * styling of video link ~(also icon?)~
   * how to contribute events
