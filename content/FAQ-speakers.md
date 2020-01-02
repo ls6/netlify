@@ -1,8 +1,8 @@
 ---
-menu: 
-    main:
-        name: "for speakers"
-        parent: "faq"
+#menu: 
+#    main:
+#        name: "for speakers"
+#        parent: "faq"
 ---
 # Preparation
 

@@ -1,8 +1,8 @@
 ---
-menu: 
-    main:
-        name: "dla prelegentów"
-        parent: "faq"
+#menu: 
+#    main:
+#        name: "dla prelegentów"
+#        parent: "faq"
 ---
 
 # Przygotowania

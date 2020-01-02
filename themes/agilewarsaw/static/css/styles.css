@@ -109,28 +109,7 @@ nav ul li {
 	display:inline-block;
     text-transform: uppercase;
     position: relative;
-}
-/* Hide Dropdowns by Default */
-nav ul ul {
-	display: none;
-    position: absolute; 
-    top: 20px; /* the height of the main nav */
-}
-/* First Tier Dropdown */
-nav ul ul li {
-    text-transform: lowercase;
-    font-size: 80%;
-	width: 150px;
-	float: none;
-	display: list-item;
-	position: relative;
-    left: -85px; 
-    top: 1px;
-}
-/* Display Dropdowns on Hover */
-nav ul li:hover > ul {
-    display: inherit;
-}
+} 
 
     /**********************/
     /*  FOOTER FORMATTING */

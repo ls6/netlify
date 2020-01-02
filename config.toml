@@ -19,3 +19,9 @@ publishDir = "docs"
     name = "All events"
     url = "/events"
     weight = 1
+
+  [[menu.main]]
+    identifier = "faq"
+    name = "faq"
+    url = "/faq"
+    weight = 1
