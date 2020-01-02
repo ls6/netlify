@@ -14,6 +14,10 @@ h2 {
     font-weight: 500;
 }
 
+a {
+    text-decoration: none;
+}
+
 div.header {
     background-color: white;
     text-align: center;
@@ -86,6 +90,8 @@ div#aside {
 div.events {
     padding-top: 0.5em;
     padding-left: 1em;
+    padding-bottom: 1em;
+    padding-bottom: 1em;
 }
 
 div.event-list {
@@ -104,10 +110,6 @@ div.event-list event {
     padding: 1em;
     flex-basis: 200px;
     flex-grow: 1;
-}
-
-div.event-title a {
-    text-decoration: none;
 }
 
 div.event-title a:hover,
