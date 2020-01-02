@@ -119,6 +119,8 @@ div.event-title a:focus {
 }
 
 div.event-info-full {
+    padding-top: 1em;
+    padding-bottom: 1em;
     padding-left: 1em;
     padding-right: 1em;
 }
@@ -126,7 +128,8 @@ div.event-info-full {
 img.YT-icon {
     height: 2ex;
     padding-right: 0.5em;
-    vertical-align:middle;
+    position: relative;
+    top: 3px;
 }
 
 img.YT-icon-small {
