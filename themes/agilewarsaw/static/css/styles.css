@@ -108,7 +108,6 @@ div.event-list event {
 
 div.event-title a {
     text-decoration: none;
-    padding-right: 0.5em; 
 }
 
 div.event-title a:hover,
@@ -129,6 +128,12 @@ img.YT-icon {
 }
 
 img.YT-icon-small {
+    height: 1.5ex;
+    position: relative;
+    top: 1px;
+}
+
+img.lang-icon {
     height: 1.5ex;
     position: relative;
     top: 1px;
