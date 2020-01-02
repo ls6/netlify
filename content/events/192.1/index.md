@@ -3,6 +3,7 @@ number: "192.1"
 date: "2019-12-02T19:00:00+01:00"
 title: "Najbardziej zwinne pytanie, o którym wszyscy zapomnieli"
 speakers: "Tomasz Dzierżek i Łukasz Bręk"
+lang: "pl"
 sponsors: ["sponsor1", "sponsor2"]
 videoURL: "https://youtu.be/l5ijoEomXXI"
 draft: false

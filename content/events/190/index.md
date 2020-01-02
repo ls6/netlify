@@ -3,6 +3,7 @@ number: "190"
 date: "2019-10-14T19:00:00+01:00"
 title: "Kiedy klient \"(nie)wie\" czego chce a my \"(nie)potrafimy\" się dowiedzieć"
 speakers: "Joanna Siemińska, Adrian Soja"
+lang: "pl"
 sponsors: ["sponsor1", "sponsor2"]
 videoURL: "https://youtu.be/Eph3tspXXWM"
 draft: false

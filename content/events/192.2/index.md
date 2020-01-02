@@ -3,6 +3,7 @@ number: "192.2"
 date: "2019-12-02T20:00:00+01:00"
 title: "Strategia IT dla dużego banku w 5-dniowym sprincie"
 speakers: "Marzena Tyran"
+lang: "pl"
 sponsors: ["sponsor1", "sponsor2"]
 draft: false
 ---

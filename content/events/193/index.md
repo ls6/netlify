@@ -3,6 +3,7 @@ number: "193"
 date: "2019-12-16"
 title: "[workshop] Bring Your Own Problem — Solution Room"
 speakers: "Mateusz Srebrny"
+lang: "en"
 sponsors: "pkobp"
 videoURL: 
 draft: false

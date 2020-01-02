@@ -3,6 +3,7 @@ number: "191"
 date: "2019-11-04T19:00:00+01:00"
 title: "Zaufanie w zespołach Agile a dylemat więźnia"
 speakers: "Przemysław Piwowar"
+lang: "pl"
 sponsors: ["sponsor1", "sponsor2"]
 draft: false
 ---
