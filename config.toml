@@ -4,6 +4,7 @@ title = "Agile Warsaw"
 
 theme = ["agilewarsaw"]
 buildFuture = true
+publishDir = "docs"
 
 [menu]
 
