@@ -1,3 +1,7 @@
+    /************************/
+    /*  GENERIC FORMATTING  */
+    /************************/
+
 body, content {
     background-color:#e9e9e9;
     font-family: Verdana, Helvetica, Arial, 'Helvetica Neue', sans-serif;
@@ -17,6 +21,33 @@ h2 {
 a {
     text-decoration: none;
 }
+
+div.content {
+    width:95%;
+    max-width: 1000px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+}
+
+div.main-content {
+    width:95%;
+    max-width: 1000px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+    background-color: white;
+}
+    /**********************/
+    /*  HEADER FORMATTING */
+    /**********************/
 
 div.header {
     background-color: white;
@@ -67,90 +98,9 @@ nav a:focus {
     color: #EE5141;
 }
 
-div.content {
-    width:95%;
-    max-width: 1000px;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-right: auto;
-    margin-left: auto;
-    background-color: white;
-}
-
-div#aside {
-    padding-top: 0.5em;
-    padding-left: 1em;
-    border-color:#e9e9e9;
-    border-bottom-style: solid;
-    border-bottom-width: 1em;
-    background-color: #6e3434;
-    color: #eee;
-}
-
-div.events {
-    padding-top: 0.5em;
-    padding-left: 1em;
-    padding-bottom: 1em;
-    padding-bottom: 1em;
-}
-
-div.event-list {
-    /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: stretch;
-    align-content: center;
-}
-
-div.event-list event {
-    display: block;
-    background-color: white;
-    padding: 1em;
-    flex-basis: 200px;
-    flex-grow: 1;
-}
-
-div.event-title a:hover,
-div.event-title a:active,
-div.event-title a:focus {
-    color: #EE5141;
-}
-
-div.event-info-full {
-    padding-top: 1em;
-    padding-bottom: 1em;
-    padding-left: 1em;
-    padding-right: 1em;
-}
-
-img.YT-icon {
-    height: 2ex;
-    padding-right: 0.5em;
-    position: relative;
-    top: 3px;
-}
-
-img.YT-icon-small {
-    height: 1.5ex;
-    position: relative;
-    top: 1px;
-}
-
-img.lang-icon {
-    height: 1.5ex;
-    position: relative;
-    top: 1px;
-}
-
-div.all-events-list event {
-    padding: 1em;
-}
-
-.hero-image {
-    width: 100%;
-}
+    /**********************/
+    /*  FOOTER FORMATTING */
+    /**********************/
 
 footer {
     border-bottom:1em solid #EE5141;
@@ -202,4 +152,86 @@ li.team-member {
 
 li.team-member img {
     width: 120px;
+}
+    /**************************/
+    /*  HOME PAGE FORMATTING */
+    /*************************/
+
+div#aside {
+    padding-top: 0.5em;
+    padding-left: 1em;
+    border-color:#e9e9e9;
+    border-bottom-style: solid;
+    border-bottom-width: 1em;
+    background-color: #6e3434;
+    color: #eee;
+}
+
+div.events {
+    padding-top: 0.5em;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    padding-bottom: 1em;
+}
+
+    /********************/
+    /*  SPECIFIC PAGES  */
+    /********************/
+
+div.event-list {
+    /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+    align-content: center;
+}
+
+div.event-list event {
+    display: block;
+    background-color: white;
+    padding: 1em;
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+div.event-title a:hover,
+div.event-title a:active,
+div.event-title a:focus {
+    color: #EE5141;
+}
+
+img.YT-icon {
+    height: 2ex;
+    padding-right: 0.5em;
+    position: relative;
+    top: 3px;
+}
+
+img.YT-icon-small {
+    height: 1.5ex;
+    position: relative;
+    top: 1px;
+}
+
+img.lang-icon {
+    height: 1.5ex;
+    position: relative;
+    top: 1px;
+}
+
+div.all-events-list event {
+    padding: 1em;
+}
+
+div.event-info-full {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.hero-image {
+    width: 100%;
 }
