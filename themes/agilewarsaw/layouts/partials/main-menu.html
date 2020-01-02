@@ -1,3 +1,18 @@
-    {{ range .Site.Menus.main}}
-        <a class="menu-item" href="{{ .URL }}">{{.Name}}</a>
-    {{ end }}
+    <nav id="main-menu">
+        <ul>
+            {{ range .Site.Menus.main }}
+            <li>
+                {{ if .HasChildren }}
+                <a href="#">{{ .Name }}</a>
+                <ul>
+                    {{ range .Children }}
+                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+                {{ else }}
+                <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end  }}
+            </li>
+            {{ end }}
+        </ul>
+    </nav>
