@@ -22,6 +22,11 @@ a {
     text-decoration: none;
 }
 
+code {
+    font-size: 120%;
+    background: #DEDEDE;
+}
+
 div.content {
     width:95%;
     max-width: 1000px;
@@ -176,6 +181,10 @@ div#aside {
     border-bottom-width: 1em;
     background-color: #6e3434;
     color: #eee;
+}
+
+div#aside a {
+    color: #67a9eb;
 }
 
 div.events {

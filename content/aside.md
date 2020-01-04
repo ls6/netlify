@@ -1,8 +1,10 @@
 ---
 ---
 
-# We need your help
+# Pomoc potrzebna…
 
-This page is mainly meant to preserve the knowledge that the members of Agile Warsaw shared. One day Meetup.com will go down and we don't want to loose all the information accumulated there.
+Zrobiliśmy tę stronę głównie po to, żeby zachować wiedzę, która przewinęła się przez naszą społeczność. Pewnego dnia Meetup.com przestanie istnieć albo dramatycznie podniesie stawki a my nie chcemy stracić całej wiedzy, którą wnieśli nasi prelegenci.
 
-We need to transfer all the past information here.
+Jeśli masz chwilę czasu pomóż nam przenieść tutaj informacje o poprzednich wydarzeniach Agile Warsaw.
+
+Informacje jak to zrobić można znaleźć [tutaj](/help)
