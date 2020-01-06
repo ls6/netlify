@@ -10,13 +10,13 @@ publishDir = "docs"
 
   [[menu.main]]
     identifier = "home"
-    name = "home"
+    name = "główna"
     url = "/"
     weight = -100
 
   [[menu.main]]
     identifier = "archive"
-    name = "All events"
+    name = "spotkania"
     url = "/events"
     weight = 1
 
@@ -24,4 +24,4 @@ publishDir = "docs"
     identifier = "faq"
     name = "faq"
     url = "/faq"
-    weight = 1
+    weight = 2

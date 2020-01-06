@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="content">
     <div class="events">
-        <h1>All our events</h1>
+        <h1>Wszystkie nasze spotkania:</h1>
         <div class="all-events-list">
             {{ range (where .Data.Pages "Section" "events") }}
                 {{ partial "event-summary.html" . }}
