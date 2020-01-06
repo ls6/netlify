@@ -5,7 +5,7 @@ Pierwszy pomysł padł na ACE 2010 (wtedy to się nazywało AgileCE ;). Pozazdro
 
 Zgadaliśmy się (w Emerald Irish Pubie przy rondzie de Gaulle'a), że nawet jeśli mielibyśmy spotykać się tylko we czterech, to i tak wystarczająco dużo się będziemy uczyć. Marek wygenerował logo, zarejestrował domenę i postawił *stronę* na google sites.
 
-<p style="text-align:center"> <img src="agile-warsaw-old-logo-2010.png" /> </p>
+<p style="text-align:center"> <img src="agile-warsaw-logo-2010.png" /> </p>
 
 Pierwsze trzy spotkania w maju i czerwcu 2010 (o Kanbanie, spikach i \*DD) zrobili Marek, Mateusz i Paweł, na kolejne dwa udało się namówić Piotrka Sarnackiego i Piotrka Burduło. Potem Marcin o skalowaniu Scruma i można było uznać, że jesteśmy rozkręceni. O speakerów nie zawsze było łatwo, ale kręciło się bez konieczności zapełniania dziur organizatorami.
 
