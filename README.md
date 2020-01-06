@@ -1,4 +1,5 @@
 # TODO:
+  * switch to Polish
   * footer: org team
     * missing links (should open in new window)
   * previous organizers
