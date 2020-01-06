@@ -1,5 +1,4 @@
 # TODO:
-  * switch to Polish
   * footer: org team
     * missing links (should open in new window)
   * previous organizers
@@ -8,11 +7,10 @@
   * how to contribute event info
     * ~~ideally github~~
     * ~~email (or a doc / text file somewhere) is also fine~~
-    * jak stworzyć wydarzenie posługując się tylko stroną GitHub
-    * wpisać właściwą nazwę branch-a w `help.md`
+    * spróbować i opisać jak stworzyć wydarzenie posługując się tylko stroną GitHub
+    * wpisać właściwą nazwę branch-a w `help.md` jak się pojawimy w poprawnej domenie
   * no-shows info --> makes sense separately from FAQ?
   * info for new people: how to sign-up --> add to FAQ?
-  * history of AW
   * microformats per event
   * Permanent sponsors somewhere
   * Sponsors as a taxonomy per event?
@@ -22,3 +20,5 @@
   * ~~language icons~~
   * ~~styling of video link (also icon?)~~
   * ~~FAQs~~
+  * ~~history of AW~~
+  * ~~switch to Polish~~
