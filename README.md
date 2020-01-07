@@ -2,6 +2,7 @@
   * footer: org team
     * missing links (should open in new window)
   * previous organizers
+  * (W) slajdy do spotkania #12
   * (W) Luke: JS to separate future events
   * add separate list of English spoken events
   * how to contribute event info
