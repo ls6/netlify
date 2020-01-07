@@ -1,6 +1,6 @@
 ---
 number: "7"
-date: "2010-10-06T19:00:00+01:00"
+date: "2010-09-06T19:00:00+01:00"
 title: "Code review i pair programming"
 speakers: "Marek Kirejczyk"
 lang: "en"
@@ -9,4 +9,4 @@ videoURL: ""
 draft: false
 ---
 
-Opis się nie zachował ale jest <a href="https://prezi.com/ap5oj25wkgwi/code-review-pair-programming/" target="_blank">prezentacja</a>.
+The description is lost but the presentation is <a href="https://prezi.com/ap5oj25wkgwi/code-review-pair-programming/" target="_blank">still available</a>.
