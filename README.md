@@ -22,3 +22,4 @@
   * ~~FAQs~~
   * ~~history of AW~~
   * ~~switch to Polish~~
+  * ~~jeśli spotkanie jest po polsku to zmienić teksty o "video recording" na j. polski~~
