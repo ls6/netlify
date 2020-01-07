@@ -9,7 +9,7 @@
         {{ end }}
         <p> {{ .Content }}</p>
         {{ with .Params.videoURL }}
-            <p><a href="{{ . }}"><img class="YT-icon" src="/assets/YT-red.svg">Video recording</a></p>
+            <p><a href="{{ . }}" target="_blank"><img class="YT-icon" src="/assets/YT-red.svg">Video recording</a></p>
         {{ else }}
             <p><img class="YT-icon" src="/assets/YT-gray.svg">No video recording</p>
         {{ end }}
