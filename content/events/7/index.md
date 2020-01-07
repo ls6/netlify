@@ -1,5 +1,5 @@
 ---
-number: "6"
+number: "7"
 date: "2010-10-06T19:00:00+01:00"
 title: "Code review i pair programming"
 speakers: "Marek Kirejczyk"
