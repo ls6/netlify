@@ -115,6 +115,41 @@ nav ul li {
     position: relative;
 } 
 
+    /************************/
+    /*  SPONSORS FORMATTING */
+    /************************/
+
+ul.sponsors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+li.sponsor {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    margin-bottom: 1ex;
+    margin-right: 1ex
+}
+
+li.sponsor h4 {
+   margin-bottom: 0px; 
+}
+
+li.sponsor p {
+   margin-top: 0.2em; 
+   margin-bottom: 0.5em; 
+}
+
+li.sponsor img {
+    max-height: 100px;
+    max-width: 150px;
+}
     /**********************/
     /*  FOOTER FORMATTING */
     /**********************/
@@ -148,6 +183,8 @@ ul.team {
     justify-content: center;
     text-align: center;
     list-style: none;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 ul.team h4 {
