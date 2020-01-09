@@ -5,7 +5,7 @@
         <h3>{{ dateFormat "2006-01-02" .Params.date }}</h3>
         <h2>{{ .Params.speakers}}</h2>
         {{ if (.Page.Resources.GetMatch "hero.jpg") }}
-            <img class="hero-image"src="{{ (.Page.Resources.GetMatch "hero.jpg").RelPermalink }}" />
+            <img class="hero-image" src="{{ (.Page.Resources.GetMatch "hero.jpg").RelPermalink }}" />
         {{ end }}
         <p> {{ .Content }}</p>
         {{ with .Params.videoURL }}
