@@ -13,7 +13,6 @@
   * no-shows info --> makes sense separately from FAQ?
   * info for new people: how to sign-up --> add to FAQ?
   * microformats per event
-  * Permanent sponsors somewhere
   * Sponsors as a taxonomy per event?
     * Only video sponsors?
     * No sponsors at all?  
@@ -24,3 +23,4 @@
   * ~~history of AW~~
   * ~~switch to Polish~~
   * ~~jeśli spotkanie jest po polsku to zmienić teksty o "video recording" na j. polski~~
+  * ~~Permanent sponsors somewhere~~
