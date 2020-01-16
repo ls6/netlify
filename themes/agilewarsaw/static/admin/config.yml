@@ -38,6 +38,11 @@ collections:
       - label: 'Link to video recording'
         name: 'videoURL'
         widget: 'string'
+        default: ''
       - label: 'Draft?'
-        name: draft
+        name: 'draft'
+        widget: 'boolean'
         default: false
+      - label: "Description"
+        name: "content"
+        widget: markdown
