@@ -18,7 +18,8 @@ collections:
       - label: 'Event Number'
         name: 'number'
         widget: 'string'
-        default: 'Event number without the "#" sign'
+        hint: 'Event number without the "#" sign'
+        pattern: ['[0-9]+', "Just numbers"]
       - label: 'Event Date'
         name: 'date'
         widget: 'datetime'
@@ -38,11 +39,11 @@ collections:
       - label: 'Link to video recording'
         name: 'videoURL'
         widget: 'string'
-        default: ''
+        required: false
       - label: 'Draft?'
         name: 'draft'
         widget: 'boolean'
         default: false
       - label: "Description"
-        name: "content"
+        name: "body"
         widget: markdown
