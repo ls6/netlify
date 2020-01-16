@@ -47,6 +47,7 @@ collections:
         name: 'body'
         widget: 'markdown'
       - label: 'Header Image'
-        name: 'image'
+        name: 'hero'
+        widget: 'image'
         allow_multiple: false
-        hint: 'it must be named "hero.jpg"'
+        hint: 'The file must be named "hero.jpg"'
