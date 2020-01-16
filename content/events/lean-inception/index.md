@@ -8,6 +8,7 @@ sponsors:
   - PKO BP
 videoURL: ''
 draft: false
+hero: hero.jpg
 ---
 The world is changing faster than ever before. With the advent of the internet, mobility, social networking and cloud computing, everything has accelerated. Just a decade ago, the rise of innovative products was much slower. The world was more predictable. Now it’s different. The acceleration of innovation and the velocity of disruption are hard to comprehend or anticipate. The changes hit your business, at the core. Your have to do something about it, fast!
 
