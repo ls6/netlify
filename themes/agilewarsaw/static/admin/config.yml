@@ -17,9 +17,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - label: 'Event Number'
         name: 'number'
-        widget: 'string'
+        widget: 'number'
         hint: 'Event number without the "#" sign'
-        pattern: ['[0-9]+', "Just numbers"]
       - label: 'Event Date'
         name: 'date'
         widget: 'datetime'
@@ -44,6 +43,10 @@ collections:
         name: 'draft'
         widget: 'boolean'
         default: false
-      - label: "Description"
-        name: "body"
-        widget: markdown
+      - label: 'Description'
+        name: 'body'
+        widget: 'markdown'
+      - label: 'Header Image'
+        name: 'image'
+        allow_multiple: false
+        hint: 'it must be named "hero.jpg"'
