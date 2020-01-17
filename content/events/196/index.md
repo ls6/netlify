@@ -6,7 +6,7 @@ speakers: Piotr Kuczyński
 lang: en
 sponsors:
   - Jeszcze nie wiemy
-draft: false
+draft: true
 ---
 <!--StartFragment-->
 
