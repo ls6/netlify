@@ -20,7 +20,7 @@ collections:
       - label: 'Event Number'
         name: 'number'
         widget: 'number'
-        valuetype: float
+        step: '0.1'
         hint: 'Event number without the "#" sign'
       - label: 'Event Date'
         name: 'date'
@@ -38,6 +38,7 @@ collections:
       - label: 'Sponsors'
         name: 'sponsors'
         widget: 'list'
+        hint: 'separate with commas "," '
       - label: 'Link to video recording'
         name: 'videoURL'
         widget: 'string'
