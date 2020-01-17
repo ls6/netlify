@@ -1,11 +1,12 @@
 ---
-number: 196
+number: 196.1
 date: 2020-02-10T15:11:21.994Z
 title: Improve - how Kanban builds continuous improvement into your work
 speakers: Piotr Kuczyński
 lang: en
 sponsors:
-  - pekaosa/qagile
+  - PKO BP
+  - QAgile
 draft: false
 ---
 **Improve - how Kanban builds continuous improvement into your work**
