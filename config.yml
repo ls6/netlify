@@ -13,9 +13,9 @@ params:
   Date: "7 March (Saturday)"
   startDate: "2020-03-07T13:45"
   #Price: "Only $100" # If your event is free, just comment this line
-  #Venue: "Akademia Finansów i Biznesu VISTULA"
-  #Address: "Stokłosy 3"
-  #City:  "Warszawa"
+  Venue: "Akademia Finansów i Biznesu VISTULA"
+  Address: "Stokłosy 3"
+  City:  "Warszawa"
   #State: "Quintana"
   Images: ["/img/ABElight-ikonka.png"]
 
@@ -23,7 +23,7 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
-      #- location
+    - location
       #- speakers
     - schedule
     - sponsors
@@ -70,9 +70,9 @@ params:
       logo: "img/logo_procognita.png"
       url: "https://procognita.pl/"
 
-      #- name: "Vistula"
-      #  logo: "img/logo_vistula.jpg"
-      #  url: "http://www.vistula.edu.pl/"
+    - name: "Vistula"
+      logo: "img/logo_vistula.jpg"
+      url: "http://www.vistula.edu.pl/"
 
       #- name: "Slido"
       #  logo: "img/logo_slido.jpg"
