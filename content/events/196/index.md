@@ -1,6 +1,6 @@
 ---
 number: 196.1
-date: 2020-02-10T19:00:00.000Z
+date: 2020-02-10T18:00:00.000Z
 title: Improve - how Kanban builds continuous improvement into your work
 speakers: Piotr Kuczyński
 lang: en
