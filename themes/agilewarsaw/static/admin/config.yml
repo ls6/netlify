@@ -11,6 +11,7 @@ collections:
     label: 'Events'  # Used in the UI
     label_singular: 'Event'
     folder: 'content/events'  # The path to the folder where the documents are stored
+    slug: '{{number}}'
     path: '{{slug}}/index'
     media_folder: ''
     create: true # Allow users to create new documents in this collection
@@ -43,11 +44,12 @@ collections:
         name: 'draft'
         widget: 'boolean'
         default: false
-      - label: 'Description'
-        name: 'body'
-        widget: 'markdown'
       - label: 'Header Image'
         name: 'hero'
         widget: 'image'
+        required: false
         allow_multiple: false
         hint: 'The file must be named "hero.jpg"'
+      - label: 'Description'
+        name: 'body'
+        widget: 'markdown'
