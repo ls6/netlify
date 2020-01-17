@@ -5,7 +5,7 @@ title: Improve - how Kanban builds continuous improvement into your work
 speakers: Piotr Kuczyński
 lang: en
 sponsors:
-  - Jeszcze nie wiemy
+  - pekaosa/qagile
 draft: false
 ---
 ### **Improve - how Kanban builds continuous improvement into your work**
