@@ -6,7 +6,7 @@ speakers: Piotr Kuczyński
 lang: en
 sponsors:
   - pekaosa/qagile
-draft: false
+draft: true
 ---
 ### **Improve - how Kanban builds continuous improvement into your work**
 
