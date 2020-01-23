@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="content">
+    <div class="content-container event-info-full">
+        <h1>#{{ .Params.number }} {{ .Params.title }} </h1>
+        <h3>{{ dateFormat "2006-01-02" .Params.date }}</h3>
+        <h2>{{ .Params.speakers}}</h2>
+        {{ if (.Page.Resources.GetMatch "hero.jpg") }}
+            <img class="hero-image" src="{{ (.Page.Resources.GetMatch "hero.jpg").RelPermalink }}" />
+        {{ end }}
+        <p> {{ .Content }}</p>
+        {{ with .Params.videoURL }}
+            <p>
+                <a href="{{ . }}" target="_blank">
+                    <img class="YT-icon" src="/assets/YT-red.svg">
+                    {{ cond (eq $.Page.Params.lang "en") "Video recording" "Nagranie" }}
+                </a>
+            </p>
+        {{ else }}
+            <p>
+                <img class="YT-icon" src="/assets/YT-gray.svg">
+                
+                    {{ cond (eq $.Page.Params.lang "en") "No video recording" "Nagrania brak" }}
+            </p>
+        {{ end }}
+        <!-- <p>Sponsor: {{ .Params.sponsors }}</p> -->
+    </div>
+</div>
+{{ end }}

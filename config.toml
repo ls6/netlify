@@ -1,0 +1,27 @@
+baseURL = "https://agilewarsaw.com/"
+languageCode = "en-us"
+title = "Agile Warsaw"
+
+theme = ["agilewarsaw"]
+buildFuture = true
+publishDir = "docs"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "główna"
+    url = "/"
+    weight = -100
+
+  [[menu.main]]
+    identifier = "archive"
+    name = "spotkania"
+    url = "/events"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "faq"
+    name = "faq"
+    url = "/faq"
+    weight = 2

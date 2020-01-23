@@ -1,0 +1,298 @@
+    /************************/
+    /*  GENERIC FORMATTING  */
+    /************************/
+
+body, content {
+    background-color:#e9e9e9;
+    font-family: Verdana, Helvetica, Arial, 'Helvetica Neue', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    color: #EE5141;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+}
+
+code {
+    font-size: 120%;
+    background: #DEDEDE;
+}
+
+div.content {
+    width:95%;
+    max-width: 1000px;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+}
+
+div.content-container {
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    padding-left: 1em;
+    background-color: white;
+    border-top-width: 1em;
+    border-top-style: solid;
+    border-color:#e9e9e9;
+}
+
+    /**********************/
+    /*  HEADER FORMATTING */
+    /**********************/
+
+div.header {
+    background-color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: flex-end;
+    align-content: space-around;
+}
+
+div#logo > img {
+    width: 100%;
+    max-width: 300px;
+}
+
+div#about {
+    font-size: 110%;
+    text-align: left;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    max-width: 400px;
+}
+
+nav {
+    padding-top: 1em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+    align-content: center;
+}
+
+nav a {
+    text-decoration: none;
+    color:#9D9E9D;
+    padding-right: 0.5em; 
+}
+
+nav a:hover,
+nav a:active,
+nav a:focus {
+    color: #EE5141;
+}
+
+nav ul {
+    list-style: none;
+}
+
+    /*******************/
+    /*  DROPDOWN MENU  */
+    /*******************/
+
+nav ul li {
+	display:inline-block;
+    text-transform: uppercase;
+    position: relative;
+} 
+
+    /************************/
+    /*  SPONSORS FORMATTING */
+    /************************/
+
+ul.sponsors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+li.sponsor {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    margin-bottom: 1ex;
+    margin-right: 1ex
+}
+
+li.sponsor h4 {
+   margin-bottom: 0px; 
+}
+
+li.sponsor p {
+   margin-top: 0.2em; 
+   margin-bottom: 0.5em; 
+}
+
+li.sponsor img {
+    max-height: 100px;
+    max-width: 150px;
+}
+    /**********************/
+    /*  FOOTER FORMATTING */
+    /**********************/
+
+footer {
+    border-bottom:1em solid #EE5141;
+    font-size:.875em;
+    background-color:#3C3D3C;
+    color:#9D9E9D;
+    padding-left: 1.5em;
+    padding-top: 1.5em;
+}
+
+footer h3 {
+    font-size: 160%;
+    font-weight: 500;
+}
+
+footer h4 {
+    font-weight: 500;
+}
+
+footer a {
+    color: #E6E6E6;
+    text-decoration: none;
+}
+
+ul.team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+ul.team h4 {
+    color: #EE5141;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+}
+
+ul.team a {
+    display: block;
+}
+
+li.team-member {
+    padding-top: 0px;
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    margin-bottom: 1ex;
+    margin-right: 1ex;
+    background: #00000024;
+    width: 145px;
+}
+
+li.team-member img {
+    width: 120px;
+}
+    /**************************/
+    /*  HOME PAGE FORMATTING */
+    /*************************/
+
+div#aside {
+    background-color: #6e3434;
+    color: #eee;
+}
+
+div#aside a {
+    color: #67a9eb;
+}
+
+div.events {
+    padding-top: 0.5em;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    padding-bottom: 1em;
+}
+
+    /********************/
+    /*  SPECIFIC PAGES  */
+    /********************/
+
+div.event-list {
+    /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+    align-content: center;
+}
+
+div.event-list event {
+    display: block;
+    background-color: white;
+    padding: 1em;
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+div.event-title a:hover,
+div.event-title a:active,
+div.event-title a:focus {
+    color: #EE5141;
+}
+
+img.YT-icon {
+    height: 2ex;
+    padding-right: 0.5em;
+    position: relative;
+    top: 3px;
+}
+
+img.YT-icon-small {
+    height: 1.5ex;
+    position: relative;
+    top: 1px;
+}
+
+img.lang-icon {
+    height: 1.5ex;
+    position: relative;
+    top: 1px;
+}
+
+div.all-events-list event {
+    padding: 1em;
+}
+
+div.event-info-full {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.hero-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 500px;
+}

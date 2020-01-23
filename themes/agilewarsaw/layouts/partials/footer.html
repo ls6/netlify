@@ -1,0 +1,100 @@
+<footer>
+    <h3> Kontakt: </h3>
+    <p>
+        <a href="http://twitter.com/agilewarsaw" target="_blank">Twitter</a>
+        |  
+        <a href="https://www.youtube.com/agilewarsaw" target="_blank">YouTube</a>
+        |
+        <a href="https://groups.google.com/forum/#!forum/agile-warsaw" target="_blank">grupa mailingowa</a>
+        |
+        <a href="http://www.meetup.com/AgileWarsaw/" target="_blank">Grupa na Meetup.com</a>
+    </p>
+    <h3>Obecni organizatorzy — według stażu :)</h3>
+    <div id="team">
+        <ul class="team">
+            <li class="team-member">
+                <h4>Mateusz Srebrny</h4>
+                <img src="/images/team-MS.jpg" alt="">
+            </li>
+            <li class="team-member">
+                <h4>Łukasz Szóstek</h4>
+                <img src="/images/team-LS.jpg" alt="">
+                <a target="_blank" href="https://twitter.com/thels6">@thels6</a>
+            </li>
+            <li class="team-member">
+                <h4>Paweł Polewicz</h4>
+                <img src="/images/team-PP.jpg" alt="">
+            </li>
+            <li class="team-member">
+                <h4>Ewa Koprowska</h4>
+                <img src="/images/team-EK.jpg" alt="">
+                <a target="_blank" href="https://www.linkedin.com/in/ewakoprowska/">LinkedIn</a>
+            </li>
+            <li class="team-member">
+                <h4>Piotr Radaj</h4>
+                <img src="/images/team-PR.jpg" alt="">
+                <a target="_blank" href="https://www.linkedin.com/in/piotr-radaj-0a7727a5/">LinkedIn</a>
+            </li>
+            <li class="team-member">
+                <h4>Magda Walczak</h4>
+                <img src="/images/team-MW.jpg" alt="">
+            </li>
+            <li class="team-member">
+                <h4>Ania Przybyszewska</h4>
+                <img src="/images/team-AP.jpg" alt="">
+            </li>
+            <li class="team-member">
+                <h4>Łukasz Przezorski</h4>
+                <img src="/images/team-LP.jpg" alt="">
+            </li>
+        </ul>
+    </div>
+    <h4>
+        <a href="/historia">Historia AgileWarsaw oraz poprzedni organizatorzy</a>
+    </h4>
+</footer>
+
+
+<script>
+
+	function extractDate(event) {
+		var dateString = event.querySelector(".event-date").textContent;
+		var date = new Date(dateString);
+		return date;
+	}
+
+	function isEventInFuture(event) {
+		var now = new Date();
+		var eventDate = extractDate(event);
+		return eventDate >= now;
+	}
+
+	function insertFutureEventsList() {
+		var futureEventsListContainer = document.createElement("div");
+		futureEventsListContainer.className = "content-container events";
+		futureEventsListContainer.id = "future-events";
+
+		var header = document.createElement("h1");
+		header.innerHTML = "Nadchodzące spotkania:";
+		futureEventsListContainer.appendChild(header);
+
+		var futureEventsList = document.createElement("div");
+		futureEventsList.className = "event-list";
+		futureEventsList.id = "future-events-list";
+		futureEventsListContainer.appendChild(futureEventsList);
+
+		var parentNode = document.getElementById("main-content");
+		var pastEventsList = document.getElementById("past-events");
+		parentNode.insertBefore(futureEventsListContainer, pastEventsList);
+		futureEvents.forEach(event => futureEventsList.appendChild(event));
+
+		document.getElementById("past-events").firstElementChild.innerHTML = "Poprzednie spotkania:";
+	}
+
+	var event_list = document.getElementsByTagName('event');
+	var event_array = Array.from(event_list);
+	var futureEvents = event_array.filter(isEventInFuture);
+	if (Array.isArray(futureEvents) && futureEvents.length > 0) {
+		insertFutureEventsList();
+	}
+</script> 
