@@ -88,6 +88,11 @@
 		parentNode.insertBefore(futureEventsListContainer, pastEventsList);
 		futureEvents.forEach(event => futureEventsList.appendChild(event));
 
+        const subscriptionLink = document.getElementById('subscription-link')
+        futureEventsListContainer.appendChild(subscriptionLink);
+        document.getElementById('subscription-link-para').remove()
+        
+
 		document.getElementById('past-events').firstElementChild.innerHTML = 'Poprzednie spotkania:';
 	}
 
