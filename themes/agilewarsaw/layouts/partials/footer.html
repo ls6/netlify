@@ -58,42 +58,47 @@
 <script>
 
 	function extractDate(event) {
-		var dateString = event.querySelector(".event-date").textContent;
-		var date = new Date(dateString);
+		const dateString = event.querySelector('.event-date').textContent;
+		const date = new Date(dateString);
 		return date;
 	}
 
 	function isEventInFuture(event) {
-		var now = new Date();
-		var eventDate = extractDate(event);
+		const now = new Date();
+		const eventDate = extractDate(event);
 		return eventDate >= now;
 	}
 
 	function insertFutureEventsList() {
-		var futureEventsListContainer = document.createElement("div");
-		futureEventsListContainer.className = "content-container events";
-		futureEventsListContainer.id = "future-events";
+		const futureEventsListContainer = document.createElement('div');
+		futureEventsListContainer.className = 'content-container events';
+		futureEventsListContainer.id = 'future-events';
 
-		var header = document.createElement("h1");
-		header.innerHTML = "Nadchodzące spotkania:";
+		const header = document.createElement('h1');
+		header.innerHTML = 'Nadchodzące spotkania:';
 		futureEventsListContainer.appendChild(header);
 
-		var futureEventsList = document.createElement("div");
-		futureEventsList.className = "event-list";
-		futureEventsList.id = "future-events-list";
+		const futureEventsList = document.createElement('div');
+		futureEventsList.className = 'event-list';
+		futureEventsList.id = 'future-events-list';
 		futureEventsListContainer.appendChild(futureEventsList);
 
-		var parentNode = document.getElementById("main-content");
-		var pastEventsList = document.getElementById("past-events");
+		const parentNode = document.getElementById('main-content');
+		const pastEventsList = document.getElementById('past-events');
 		parentNode.insertBefore(futureEventsListContainer, pastEventsList);
 		futureEvents.forEach(event => futureEventsList.appendChild(event));
 
-		document.getElementById("past-events").firstElementChild.innerHTML = "Poprzednie spotkania:";
+        const subscriptionLink = document.getElementById('subscription-link')
+        futureEventsListContainer.appendChild(subscriptionLink);
+        document.getElementById('subscription-link-para').remove()
+        
+
+		document.getElementById('past-events').firstElementChild.innerHTML = 'Poprzednie spotkania:';
 	}
 
-	var event_list = document.getElementsByTagName('event');
-	var event_array = Array.from(event_list);
-	var futureEvents = event_array.filter(isEventInFuture);
+	const event_list = document.getElementsByTagName('event');
+	const event_array = Array.from(event_list);
+	const futureEvents = event_array.filter(isEventInFuture);
 	if (Array.isArray(futureEvents) && futureEvents.length > 0) {
 		insertFutureEventsList();
 	}
