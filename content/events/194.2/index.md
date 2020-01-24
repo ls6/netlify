@@ -5,7 +5,7 @@ title: "Sociocracy 3.0 by Example"
 speakers: "Piotr Radaj, Paweł Polewicz"
 lang: "en"
 sponsors: ["pkobp", "qagile"]
-videoURL: 
+videoURL: "https://www.youtube.com/watch?v=b1zAg74snvE"
 draft: false
 ---
 
