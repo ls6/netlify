@@ -5,7 +5,7 @@ title: "Socjokracja 3.0"
 speakers: "Ewa Koprowska, Piotr Radaj"
 lang: "pl"
 sponsors: ["pkobp", "qagile"]
-videoURL: 
+videoURL: "https://www.youtube.com/watch?v=4dBh707GO8s"
 draft: false
 ---
 
