@@ -1,6 +1,5 @@
 # TODO:
-  * link to Meetup next to upcoming events
-  * cleanup JS for upcoming events and move to separate file
+  * ~~cleanup JS for upcoming events~~ and move to separate file
   * previous organizers -> AW history?
   * (W) slajdy do spotkania #12
   * (W) Luke: JS to separate future events
@@ -26,3 +25,4 @@
   * ~~Permanent sponsors somewhere~~
   * ~~footer: org team~~
     * ~~missing links (should open in new window)~~
+  * ~~link to Meetup next to upcoming events~~
