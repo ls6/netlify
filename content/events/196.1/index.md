@@ -5,9 +5,9 @@ title: Improve - how Kanban builds continuous improvement into your work
 speakers: Piotr Kuczyński
 lang: en
 sponsors:
+  - pkobp
   - Code Sprinters
 draft: false
-hero: IMG-20200122-WA0000.jpg
 ---
 The lecture is meant for anyone who'd like to make improvement to their way of working.
 
