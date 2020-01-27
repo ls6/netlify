@@ -1,7 +1,6 @@
 # TODO:
-  * footer: org team
-    * missing links (should open in new window)
-  * previous organizers
+  * ~~cleanup JS for upcoming events~~ and move to separate file
+  * previous organizers -> AW history?
   * (W) slajdy do spotkania #12
   * (W) Luke: JS to separate future events
   * add separate list of English spoken events
@@ -24,3 +23,7 @@
   * ~~switch to Polish~~
   * ~~jeśli spotkanie jest po polsku to zmienić teksty o "video recording" na j. polski~~
   * ~~Permanent sponsors somewhere~~
+  * ~~footer: org team~~
+    * ~~missing links (should open in new window)~~
+  * ~~link to Meetup next to upcoming events~~
+  * ~~links to LinkedIn and FB~~
