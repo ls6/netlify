@@ -1,7 +1,3 @@
-[build]
-  publish = "docs"
-  command = "hugo --destination docs"
-  
 [context.master] # 'master' is a branch name
   publish = "docs"
   command = "hugo"
