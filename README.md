@@ -26,3 +26,4 @@
   * ~~footer: org team~~
     * ~~missing links (should open in new window)~~
   * ~~link to Meetup next to upcoming events~~
+  * ~~links to LinkedIn and FB~~
