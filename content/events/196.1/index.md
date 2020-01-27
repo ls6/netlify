@@ -8,7 +8,6 @@ sponsors:
   - pkobp
   - Code Sprinters
 draft: false
-hero: IMG-20200122-WA0000.jpg
 ---
 The lecture is meant for anyone who'd like to make improvement to their way of working.
 
