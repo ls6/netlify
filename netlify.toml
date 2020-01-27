@@ -1,7 +1,8 @@
 [build]
+  publish = "docs"
   command= "hugo"
-  publihs = "docs"
   
 [context.master] # 'master' is a branch name
-  command = "hugo"
   publish = "docs"
+  command = "hugo"
+
