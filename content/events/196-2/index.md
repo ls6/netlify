@@ -19,6 +19,6 @@ Przedstawiłabym przypadek projektu, który pokazuje, że żeby coś osiągnąć
 
 #### Prelegent
 
-Ada Stasiak
+<a href="https://www.linkedin.com/in/ada-stasiak-b7440095/" target="_blank">Ada Stasiak</a>
 
 Ada uczestniczyła w budowaniu nowoczesnego centrum technologicznego HL Tech, które skupia się na wytwarzaniu i dostarczaniu wysokiej jakości oprogramowania dla brytyjskiej firmy Hargreaves Lansdown. Jako lider w HL Tech pokazuje kierunek, motywuje i tworzy przestrzeń dla innowacji i rozwoju w oparciu o kulturę Agile polegająca na dzieleniu się wiedzą, ciągłym doskonaleniu się oraz eksperymentowaniu. Jako Product Owner i Senior IT Analyst ściśle współpracuje z zespołami Scrumowymi w celu dostarczania rozwiązań, które są dostosowane do indywidualnych potrzeb klienta, zapewniają wydajność, konkurencyjność i niezawodność. Dzięki swojemu 9 letniemu doświadczeniu w IT promuje najlepsze praktyki w zwinnym zarządzaniu projektami, np. technikę Event Stormingu. Ze względu na swoją pasję i zaangażowanie bierze udział również w transformacji cyfrowej Hargreaves Lansdown.
