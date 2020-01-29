@@ -1,6 +1,6 @@
 ---
 number: "22"
-date: "{{ 2011-06-06T18:57:00+01:00 }}"
+date: "2011-06-06T18:57:00+01:00"
 title: "Zwinny mózg"
 speakers: "Piotr Przybylak"
 lang: "pl"
