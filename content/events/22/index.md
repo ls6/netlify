@@ -14,6 +14,7 @@ Myślę że warto zastanowić się chwilę jak ukształtowanie naszego mózgu wp
 
 Proponuję oprzeć się o modelu rozwoju kompetencji braci Dreyfus:
  - http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
+ 
 i teorii działania mózgu, która go tłumaczy, opisującej dwa tryby jego pracy: 
  - http://www.drawright.com/theory.htm
  - http://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning
