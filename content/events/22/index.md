@@ -9,28 +9,19 @@ videoURL: ""
 draft: false
 ---
 
-To będzie opis wydarzenia w formacie Markdown.
+Chciałbym zaproponować spotkanie z dyskują o tym jak ewolucyjnie jesteśmy przystosowani do "edżajla" i innych metodyk.
+Myślę że warto zastanowić się chwilę jak ukształtowanie naszego mózgu wpływa na nasz sposób pracy a nas sposób pracy na ukształtowanie naszego mózgu.
 
-Paragrafy oddzielamy pustą linią.
+Proponuję oprzeć się o modelu rozwoju kompetencji braci Dreyfus:
+* http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
+i teorii działania mózgu, która go tłumaczy, opisującej dwa tryby jego pracy: 
+* http://www.drawright.com/theory.htm
+* http://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning
 
-Nową linię bez tworzenia nowego paragrafu zrobisz wpisując dwie spacje   
-na końcu łamanej linii.
+W skrócie chodzi o to, że początkujący potrzebują ścisłego zestawu reguł, a ekspertów one upośledzają.  
+Na początek przygotuję krótką (30 - 45 min) prezentację wprowadzającą w temat, a później chciałbym porozmawiać z Wami o doświadczeniach w Waszej pracy związanej z przechodzeniem na kolejne stopnie kompetencji i współpracą z ludźmi na innych poziomach.
 
-# Nagłówek 1
-## Nagłówek 2
-itd.
-
-Lista:
-
-  * bullet
-  * bullet
-
-  1. numerowana
-  2. numerowana
-
-Linki zewnętrzne (jeśli mają otwierać się w nowym oknie) opisujemy HTMLem:
-<a href="https:link" target="_blank">Opis</a>.
-
-Linki, które mają otworzyć się w tym samym oknie możesz opsiać w Markdown: [opis](https://link)
-
-<a href="https://docs.microsoft.com/pl-pl/contribute/how-to-write-use-markdown" target="_blank">Ściągawka z Markdown-a</a>.
+Chciałbym między innymi poruszyć tematy:
+Czy agile jest przeznaczony dla bardziej doświadczonych osób? 
+Czy dla mało doświadczonych ludzi waterfall może się lepiej sprawdzać?
+Czy bazując na doświadczeniach z używaniem agile'a i waterfalla jesteśmy w stanie pójść krok dalej?
