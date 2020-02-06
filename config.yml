@@ -24,11 +24,11 @@ params:
   Sections:
     - about
     - location
-      #- speakers
+    - speakers
     - schedule
-    - sponsors
     - partners
-      #- media
+    - sponsors
+    - media
     - orgs
     - previous
       #- contact
@@ -55,8 +55,8 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-      text: "Registration is not yet open"
-      #link: "register"
+      text: "Free Registration"
+      link: "register"
       #text: "Zarejestruj się gratis"
       #link: "register"
 
@@ -84,9 +84,9 @@ params:
       logo: "img/logo_AW.png"
       url: "http://agilewarsaw.com"
 
-      #- name: "Deloitte"
-      #  logo: "img/logo-deloitte-white.png"
-      #  url: "https://www2.deloitte.com/pl/pl.html"
+      #- name: "PKO BP"
+      #logo: "img/logo_PKOBP.jpg"
+      #url: "https://www.pkobp.pl"
 
       #- name: "PMI Oddział Warszawa"
       #logo: "img/logo_PMI.png"
@@ -94,9 +94,9 @@ params:
 
   # List of Media Partners
   Media:
-      #- name: "Agile Polska"
-      #  logo: "img/logo_APL.png" 
-      #  url: "http://agilepolska.pl/"
+    - name: "Agile Polska"
+      logo: "img/logo_APL.png" 
+      url: "http://agilepolska.pl/"
 
       #- name: "Agile 247"
       #  logo: "img/logo_a247.png" 
@@ -124,92 +124,86 @@ params:
       time: "13h45"
       remark: "Please, be on time!"
 
-    #- name: "AZA Group"
-      #time: "13h45"
-      #remark: "Kilka słów od sponsora: ,,Młodzi i ambitni. Jak bardzo zwinni? Czyli agile w AZAGroup''."
+    - authors:
+        - name: "Gojko Adžic"
+          photo: "img/Gojko.png"
+          bio: "Gojko Adzic is a strategic software delivery consultant who works with ambitious teams to align software delivery with business goals and improve the quality of their software products and processes. Gojko specializes in are Agile and Lean quality improvement, in particular Impact Mapping, Agile Testing, Specification by Example and Behavior Driven Development.<br>
+He is the winner of the 2016 European Software Testing Outstanding Achievement Award and the 2011 \"Most Influential Agile Testing Professional Award\"."
+          link:
+            href: "https://procognita.com/company/team/trainers/gojko-adzic/"
+            text: www
+      presentation:
+        title: "Maximum Impact, Minimum Effort"
+        description: "A big government IT project delivered two years ahead of schedule. A fraud detection initiative saving tens of millions more than predicted. An app that helped a city rebuild faster after a major disaster and save ten times more money than expected. Learn how early adopters use impact mapping to create big impacts and minimise effort, from large government departments to innovative consultancies and small startups.<br><br>
+This talk is based on an extensive research with commercial organisations, government departments and non-profit agencies from all over the world. Gojko will present real-world case studies and distill their experience into useful tips that will enable you to speed up adoption, avoid common pitfalls and reach your goals faster."
 
+    - name: "Workshops"
+      remark: "There will be 6 parallel workshops.<br><br>
+      
+      <strong>1) Gojko Adzic: Given-when-then With Style</strong><br>
+      Hands-on workshop where you will learn about the key techniques to make the most out of the Given-When-Then format for specifications and tests, and how to avoid the most common problems.<br>
+      In English<br><br>
+              
+      <strong>2) Mariusz Petlic: Output vs. Outcome</strong><br>
+      Do we generate value or costs? What's the benefit and what's not? We will check if we can distinguish it both at work and in private life.<br>
+      In Polish<br><br>
 
-      #    - authors:
-      #        - name: "Jurgen De Smet"
-      #          photo: "img/jurgenDeSmet.jpg"
-      #          bio: "I am a Certified LeSS (Large-Scale Scrum) Trainer, Licensed Management 3.0 Trainer and ambassador at Startups.be, the group spearheading the entrepreneurial environment in Belgium. Inside I am still skateboarding, picking up new moves, adapting to ever-changing environments and freestyling with the best, wherever fresh design concepts for improving the world of work are emerging and being perfected."
-      #          #company: "Linux Foundation"
-      #          link:
-      #            href: "https://procognita.com/company/team/trainers/jurgen-de-smet/"
-      #            text: "www"
-      #      presentation:
-      #        title: "Why Should Most Organisations Ditch Scrum!"
-      #        description: "Thanks to HBR, McKinsey and more of those, Agile has become mainstream but is it Agile? I see Agile being used as synonym of Scrum even though Agile is more of an umbrella where Scrum is just one flavour of getting there. Many inquiries show that Scrum is the most used Agile flavour in the world and I’m here to tell you to stop that movement unless you truly mean it. Let me guide you through some basic elements and help you evaluate if you and your organisation should ditch Scrum or not. Help you recognise if you are truly a Scrum Master or rather a Scrum Novice. And much more."
+      <strong>3) Tomasz Wykowski: Product Discovery</strong><br>
+      More info soon…<br><br>
 
-      #    - authors:
-      #        - name: "ProCognita"
-      #          photo: "img/logo_procognita.png"
-      #          bio: "We believe that there will always be better ways to create products and services.<br>We are happy to help those who want to discover them with us.<br>We promote the Agile and Lean approach to product development. We share knowledge and support organizations through training, mentoring, talks and workshops. Our partners provide us with support and knowledge, and a different perspective to work with customers."
-      #          link:
-      #            href: "https://procognita.pl/"
-      #            text: "www"
-      #      presentation:
-      #        title: "Agile Workshops"
-      #        description: "There will be 5 parallel workshops.<br>
-      #        <strong>1) LeSS roleplay</strong><br>
-      #        Big organization, the complex product with multiple stakeholders, couple teams collaborating together. Try LeSS challenge in a safe environment. Join a roleplaying game with the most typical challenges faced by big companies.<br>
-      #        &nbsp Led by Justyna Wykowska<br>
-      #        &nbsp Language: English / Polish<br><br>
-      #
-      #        <strong>2) Responsibilities in Scrum</strong><br>
-      #        There is plenty of duties, and responsible decisions to take during delivering the product. In Scrum, we have three roles that must deal with all of this.<br>
-      #        How to correctly distribute responsibility and deal with assigned tasks? How is it in your and other organizations? We invite you to the discussion supported by tool Management in Scrum.<br>
-      #        In addition, you will have the opportunity to get to know and test an interesting approach to facilitating the meeting.<br>
-      #        &nbsp Led by Mariusz Petlic, Radek Gamracy<br>
-      #        &nbsp Language: English / Polish<br><br>
-      #        
-      #        <strong>3) Cynefin Lego workshop</strong><br>
-      #        There’s no one-size-fits-all approach to problem-solving, as the right decision-making model depends on the domain you’re in. The Cynefin model, created by Dave Snowden, explains how to make decisions in different domains, and this game will let you experience obvious, complicated, complex and chaotic systems.<br>
-      #        After this session, you will be able to explain why different domains need different decision-making models, identify the domain you’re currently in and choose the right approach to solve your problem.<br>
-      #        &nbsp Led by Tomasz Wykowski<br>
-      #        &nbsp language: English / Polish<br><br>
-      #        
-      #        <strong>4) Vision, Strategy, and Tactics</strong><br>
-      #        In other words, how to turn an idea into a valuable product. How and what strategic and tactical tools can we use to maximize the value of the product?<br>
-      #        During the workshop, we will learn the basic tools for product development management, ie. Elevator pitch (visioning & strategy), Impact Map (roadmap), and Product Backlog (tactics).<br>
-      #        &nbsp Led by Krzysztof Niewiński<br>
-      #        &nbsp Language: English / Polish<br><br>
-      #
-      #        <strong>5) Systems Modelling for Organisational Design</strong><br>
-      #        Many organisations are adopting Agile practices, mnay organisations are finding ways to improve but little of them are truly designing their organisations with understanding. Blindly adopting any kind of Agile Scaling framework will result in tensions that require effort and energy that could be used to deliver outcome instead.<br>
-      #        Want to avoid this in the future?<br>
-      #        Want to get a better understanding?<br>
-      #        Want to acquire a tool to help your organisation?<br>
-      #        We will guide you through a series of exercises that will generate insights in the organisational dynamics that are in place within a R&D organisation and it's surrounding departments. With that insight you will be able to design a perfect organisation and evaluate existing Agile Scaling frameworks on best fit in order to avoid tensions and maximise impact.<br>
-      #        &nbsp Led by Jurgen de Smet<br>
-      #        &nbsp Language: English
-      #"
+      <strong>4) Justyna Wykowska: Backlog Prioritization Techniques</strong><br>
+      More info soon…<br><br>
+
+      <strong>5) Ewa Koprowska: Scrum Tale</strong><br>
+      More info soon…<br><br>
+
+      <strong>6) Klaudia Komacka: TBA</strong><br>
+      More info soon…<br><br>
+      "
 
     - name: "Lunch"
       remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
 
-      #    - authors:
-      #        - name: "Agnieszka Balcer-Thinlay"
-      #          photo: "img/AgaBT.jpg"
-      #          bio: "Agnieszka is a Director of Product Research at Codility, working with both qualitative as well as quantitative data and advocating for insights-driven decision making. She has been collecting research experience for over 14 years, working for variety of categories - software, FMCG, cosmetics, automotive, household goods, services and telecommunications (including running Marketing Research Team at Play for over 6 years). She also  teaches courses on research and ethnography to post-graduate students at Warsaw School of Economics, Kozminski Academy and Warsaw School of Social Psychology."
-      #          link:
-      #            href: "https://www.linkedin.com/in/agnieszka-balcer-thinlay-83934345"
-      #            text: LinkedIn
-      #      presentation:
-      #        title: "Filtering out bad ideas: how we decide what not to do @Codility"
-      #        description: "A lot is being written on how to select features for further development: how to sieve through the ideas, agree on the most promising ones and deliver them ASAP. Not only because you get to select the optimal projects - but also (what is sometimes forgotten) avoid doing things that might drive your developer team far away from where they should be spending their time and effort. Saving resources (time of developers) for the right ideas is just as important as selecting the right ideas in the first place. I would like to show an example of 2 features we have terminated at Codility just before the development phase thanks to research and internal cooperation, saving the company months of work on a feature that might not be the most valuable one at the time. Research methods used: qualitative concept tests (also known in Codility as Pizza Disaster Tests) and quantitative analysis of internal data. Important ingredients of the success: strong Research – Product Manager cooperation, feedback ownership and clear assumptions behind the development (we know what problem it was going to solve)."
+    - authors:
+        - name: "Zbigniew Sobiecki"
+          #photo: "img/AgaBT.jpg"
+          #bio: "Agnieszka is a Director of Product Research at Codility, working with both qualitative as well as quantitative data and advocating for insights-driven decision making. She has been collecting research experience for over 14 years, working for variety of categories - software, FMCG, cosmetics, automotive, household goods, services and telecommunications (including running Marketing Research Team at Play for over 6 years). She also  teaches courses on research and ethnography to post-graduate students at Warsaw School of Economics, Kozminski Academy and Warsaw School of Social Psychology."
+          link:
+              #href: "https://www.linkedin.com/in/agnieszka-balcer-thinlay-83934345"
+              #text: LinkedIn
+      presentation:
+        title: "Building New Products and Businesses vs. Cranking out Code"
+        description: "Is it possible to successfully design and build new digital products and services from scratch with an external partner? If so, how does the process, the team, and the business arrangement differs from classic time & materials software house setup? Let's have a frank discussion about the common issues organizations face when trying to outsource product design and how to deal with them. Let's also get specific about focusing on outcomes instead of shipping new features. We will also touch on human and cultural aspects of the two approaches."
 
-      #    - authors:
-      #        - name: "Paweł Polewicz"
-      #          photo: "img/reef.jpg"
-      #          bio: "Pawel is a software engineer with 16 years of professional experience ranging from programming in a local startup to leading large teams for an international corporation. Initially focused on doing things right, later switched to doing the right things. Three years ago he resigned from a full time position and started a software house and completed over 60 projects for businesses of all sizes based in USA, Canada, UK and Australia, from toilet paper level tracker to fintech timeseries analyzers."
-      #          link:
-      #            href: "http://reef.pl"
-      #            text: "www"
-      #      presentation:
-      #        title: "Death as BFF of every project"
-      #        description: "We've all heard interesting stories about projects which almost died, but have miraculously recovered. We can learn a lot from them by focusing on the turning points. In this talk we are going to go through a few examples and see how technological and organizational barriers can suddenly be eliminated in presence of a key catalyst: Fear Of Death. ☠️☠️☠️"
+    - authors:
+        - name: "Gosia Fiedorow"
+          photo: "img/GFiedorow.jpg"
+          bio: "Gosia Fiedorow, Industrial Designer turned Digital Product Designer, believes pixels and code are not that different from wood and carpentery. She’s leading the product design team at Codility, a software platform transforming the way enterprise companies hire, retain and grow engineering teams."
+          link:
+            href: "https://www.linkedin.com/in/gosiafiedorow/"
+            text: LinkedIn
+      presentation:
+        title: "Finding Your Purpose in Chaos — a Designer’s Point of View"
+        description: "In her talk, Gosia will share her story of how she has managed to fit the design mindset into software development; where work is never really done… and never ends up exactly how it was envisioned in the beginning."
 
+    - authors:
+        - name: "Aga Szóstek"
+          photo: "img/Aga-120.jpg"
+          bio: "Aga Szóstek, Ph.D. is a strategic designer. For the past two decades she worked at the forefront of combining design, technology and business. She collaborated with brands such as Google, Microsoft, Philips, Canon, Samsung, EY, Santander, ING, Orange and many more, bringing the experience-focused strategic approach to project teams and boardrooms. Her approach inspired many organisations to refocus and bet on experiences as their strategic differentiator.<br><br>
+          Next to consulting, Aga designs <a href=\"http://seed-cards.com\" target=\"blank\">tools</a> aiming to support delivering unique experiences and co-hosts a podcast about creative leadership: <a href=\"http://catchingthenextwavepodcast.com\" target=\"blank\">Catching The Next Wave</a>. She graduated with her Ph.D. from the Eindhoven University of Technology, The Netherlands, and teaches experience design all around the world from the alternative business school Kaospilot in Denmark to Canterbury University in Christchurch, New Zealand."
+          link:
+            href: "https://pl.linkedin.com/in/agnieszka-sz%C3%B3stek-5aa2321"
+            text: "LinkedIn"
+      presentation:
+        title: "It's All About the Axperience"
+        description: "We talk about how to design the right products in the right way, right? But is it truly the thing we should focus on? In my presentation, I will do my best to convince you that, in fact, we should focus on defining what sort of experience we aim at before we focus on designing products and services."
+
+
+    - name: "Afterparty"
+      remark: "Close by…"
+      time: "~19h30"
+
+      # DWÓCH PRELEGENTÓW WYGLĄDA TAK:
       #    - authors:
       #        - name: "Hanna Kaczyńska"
       #          photo: "img/kaczynska.jpg"
@@ -228,19 +222,3 @@ params:
       #        description: "Rynek szkoleń pełen jest gotowych rozwiązań, które pozwalają zdobywać czy rozwijać potrzebne w organizacji kompetencje. Trudno jednak w komercyjnych propozycjach znaleźć zgrabny pakiet uszyty na miarę dla konkretnej firmy. Ustalone pół roku wcześniej z firmą szkoleniową programy szybko się dezaktualizują i nie zawsze elastycznie się negocjują. Kiedy do tego wszystkiego dodamy nowe w organizacji role: Product Owner i Scrum Master oraz założymy, że organizacja chce inwestować w ich rozwój - zapotrzebowanie ilościowe i jakościowe na różne szkolenia rośnie...
       #Jak firma może poradzić sobie z tym wyzwaniem? I dlaczego, zamiast kupować gotowe ubrania ze sklepowych wieszaków, czasem warto mieć firmowego krawca, który zawsze zdejmie z nas właściwą miarę?<br>Zapraszamy do wysłuchania opowieści o pewnej Akademii Zwinności…"
 
-    - name: "Afterparty"
-      remark: "Close by…"
-      time: "~19h30"
-
-
-      #    - name: "Steve Wozniak"
-      #      photo: "/img/speaker.jpg"
-      #      bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      #      company: "Apple, Inc."
-      #      link:
-      #        href: "http://twitter.com/woz"
-      #        text: "@woz"
-      #      presentation:
-      #        title: "Why do I prefer Android over iPhone"
-      #        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      #        time: "17h00"
