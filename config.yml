@@ -161,8 +161,9 @@ This talk is based on an extensive research with commercial organisations, gover
       <strong>5) Ewa Koprowska, Dominik Jabłoński: Scrum Tale</strong><br>
       More info soon…<br><br>
 
-      <strong>6) Klaudia Komacka: TBA</strong><br>
-      More info soon…<br><br>
+      <strong>6) Klaudia Komacka: FAIL — First Attempt in Learning</strong><br>
+      How to fail and learn during product development?<br>
+      There is a practice that focuses on developing problem solving, scientific thinking and continuous improvement abilities. During this workshop, you will be encouraged to puzzle out the optimal solution through continuous experiments. We will discuss how to create a hypothesis, measure and validate it. In the end, we will celebrate the learning!<br><br>
       "
 
     - name: "Lunch"
@@ -223,6 +224,16 @@ Rookie marathon runner: so far managed to complete the original Marathon-Athens 
              href: "https://www.linkedin.com/in/dominik-jab%C5%82onski-7baa9265/"
              text: "LinkedIn"
       workshop: true
+
+    - authors:
+        - name: "Klaudia Komacka"
+          photo: "img/KlaudiaK.jpg"
+          bio: "Agile and Lean Catalyst / Design Thinking Facilitator. She is a people person helping individuals to become a great team. Supports understanding of Agile and Lean with a focus on the Human. Design Thinking and Management 3.0 enthusiast. She co-organises the <a href=\"http://accpl.pl/\">Agile Coach Camp conference</a> in Poland."
+          link:
+              href: "https://www.linkedin.com/in/klaudiakomacka/"
+              text: "LinkedIn"
+      workshop: true
+  
 
       # DWÓCH PRELEGENTÓW WYGLĄDA TAK:
       #    - authors:
