@@ -162,7 +162,8 @@ This talk is based on an extensive research with commercial organisations, gover
       In English unless all the participants speak Polish<br><br>
 
       <strong>5) Ewa Koprowska, Dominik Jabłoński: Scrum Tale</strong><br>
-      More info soon…<br><br>
+      ScrumTale is designed to teach the Scrum framework. It improves learning experience by simulating Agile product delivery while experiencing all Agile principles. This game is a perfect aid to practice all the elements of the Scrum framework: roles, events and artifacts.<br>
+The players simulate Scrum teams writing a crime story simultaneously using Google Docs. Collaborative story writing is very similar to software production: you need to be creative and act as a team to deliver a product. You will also experience challenges with integration, quality and tools that are present during software development without the need of having a technical background. You can observe the mechanics of the Scrum during the stormy process of story writing.<br><br>
 
       <strong>6) Klaudia Komacka: FAIL — First Attempt in Learning</strong><br>
       How to fail and learn during product development?<br>
@@ -252,14 +253,14 @@ I worked with companies: ComputerLand, Systemy Kodów Kreskowych, Hurra.com, eSk
               text: "www"
       workshop: true
 
-      #- authors:
-      #- name: "Ewa Koprowska"
-      #photo: "img/.jpg"
-      #bio: ""
-      #link:
-      #href: ""
-      #text: "www"
-      #workshop: true
+    - authors:
+        - name: "Ewa Koprowska"
+          photo: "img/EwaK.jpg"
+          bio: "Ewa is an Agile Consultant at Code Sprinters, She was working as an actuarial developer, analyst, project manager, Scrum Master, Product Owner and an Agile coach. Her specialty is cultural change, building internal structures and communities as part of Agile transformations as well as assisting clients in developing internal educational programs. As Code Sprinters  partner she serves as a mentor for other consultants."
+          link:
+              href: "https://pl.linkedin.com/in/ewakoprowska"
+              text: "LinkedIn"
+      workshop: true
 
     - authors:
         - name: "Domink Jabłoński"
