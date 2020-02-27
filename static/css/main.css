@@ -909,6 +909,14 @@ h2.speaker-category {
 .schedule-other {
   color: black;
 }
+
+.icon-lang {
+	display:inline-block;
+	position: relative;
+	height: 1em;
+	margin-bottom: 3px;
+}
+
 /* =============================================================================
    SPONSORS
    ========================================================================== */
