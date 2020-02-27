@@ -4,6 +4,7 @@ date: 2020-02-10T18:00:00.000Z
 title: Improve - how Kanban builds continuous improvement into your work
 speakers: Piotr Kuczyński
 lang: en
+videoURL: "https://youtu.be/LxRR-dbIMv0"
 sponsors:
   - pkobp
   - Code Sprinters
