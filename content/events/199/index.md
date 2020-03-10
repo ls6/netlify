@@ -18,3 +18,7 @@ Od 20 lat jest związana z branżą IT. W trakcie swojej kariery pracowała m.in
 Ewa była również jednym z menedżerów projektu Everest w PZU dzięki któremu została jedną z najbardziej rozpoznawalnych znawczyń tematyki zwinnych transformacji i skalowania w polskiej branży.\
 Profil zawodowy:\
 Partner & CHO w Code Sprinters
+
+Dominik Jabłoński |[](https://www.linkedin.com/in/dominik-jab%C5%82onski-7baa9265/ "https\://www.linkedin.com/in/dominik-jab%C5%82onski-7baa9265/") [www.linkedin.com/in/dominikjablonski](http://www.linkedin.com/in/dominikjablonski)
+
+Dominik, w IT od ponad 7 lat, jest konsultantem Agile i Scrum Masterem w Code Sprinters, z bogatym i różnorodnym doświadczeniem począwszy od sprzedaży, przez obsługę klienta, branżę finansową, HR, skończywszy na modowej. Wspiera zarówno niewielkie software houses jak i duże korporacje. Oprócz fascynacji metodami zwinnymi i tym, jak zmieniają naszą pracę i życie, jest niepoprawnym miłośnikiem gier planszowych.
