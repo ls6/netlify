@@ -10,10 +10,10 @@ draft: false
 ---
 Zapraszamy do udziału w grze symulacyjnej ScrumTale. Celem gry będzie napisanie (pod dużą presją czasu) bestselerowej opowieści kryminalnej. Zespoły będą pracować w Scrumie, zwinnie planować, reagować na zmieniające się wymagania klienta oraz iteracyjnie dostarczać produkt. Warsztat poprowadzą konsultanci Code Sprinters Ewa Koprowska i Dominik Jabłoński. Uczestnicy zostaną podzieleni na cztery zespoły, które będą starały się w trakcie trzech iteracji zrealizować oczekiwania wydawcy. Czy w przeciągu 42 minut, jakie zostaną poświęcone na pisanie, uda się zespołowo stworzyć wciągające, zaskakujące i gotowe do druku opowiadanie kryminalne? Warsztat doskonale symuluje codzienne sytuacje: zmieniające się wymagania, konieczność szybkiego dostarczania wartości biznesowej, problemy z jakością produktu, potrzebę szybkiego podejmowania decyzji. Więcej informacji na temat ScrumTale znajdziecie w opisie poniżej i na stronie [https://scrumtale.com](https://scrumtale.com/ "https\://scrumtale.com")
 
-**Prowadzący:**\
-\
-Ewa Koprowska |[https://www.linkedin.com/in/ewakoprowska](https://www.linkedin.com/in/ewakoprowska "https\://www.linkedin.com/in/ewakoprowska")\
-\
+**Prowadzący:**
+
+Ewa Koprowska |[https://www.linkedin.com/in/ewakoprowska](https://www.linkedin.com/in/ewakoprowska "https\://www.linkedin.com/in/ewakoprowska")
+
 Od 20 lat jest związana z branżą IT. W trakcie swojej kariery pracowała m.in. jako actuarial developer, analityk, project manager, Scrum Master, Product Owner i Agile Coach, dzięki czemu może spojrzeć na organizacje i zespoły z którymi pracuje z szerszej perspektywy.\
 Ewa była również jednym z menedżerów projektu Everest w PZU dzięki któremu została jedną z najbardziej rozpoznawalnych znawczyń tematyki zwinnych transformacji i skalowania w polskiej branży.\
 Profil zawodowy:\
