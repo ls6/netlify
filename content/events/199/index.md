@@ -5,7 +5,7 @@ title: ScrumTale
 speakers: 'Ewa Koprowska, Dominik Jabłoński'
 lang: pl
 sponsors:
-  - nd
+  - Bielański Integrator Przedsiębiorczych
 draft: false
 ---
 Zapraszamy do udziału w grze symulacyjnej ScrumTale. Celem gry będzie napisanie (pod dużą presją czasu) bestselerowej opowieści kryminalnej. Zespoły będą pracować w Scrumie, zwinnie planować, reagować na zmieniające się wymagania klienta oraz iteracyjnie dostarczać produkt. Warsztat poprowadzą konsultanci Code Sprinters Ewa Koprowska i Dominik Jabłoński. Uczestnicy zostaną podzieleni na cztery zespoły, które będą starały się w trakcie trzech iteracji zrealizować oczekiwania wydawcy. Czy w przeciągu 42 minut, jakie zostaną poświęcone na pisanie, uda się zespołowo stworzyć wciągające, zaskakujące i gotowe do druku opowiadanie kryminalne? Warsztat doskonale symuluje codzienne sytuacje: zmieniające się wymagania, konieczność szybkiego dostarczania wartości biznesowej, problemy z jakością produktu, potrzebę szybkiego podejmowania decyzji. Więcej informacji na temat ScrumTale znajdziecie w opisie poniżej i na stronie [https://scrumtale.com](https://scrumtale.com/ "https\://scrumtale.com")
