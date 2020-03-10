@@ -12,10 +12,11 @@ draft: false
 <!--
 TODO:
 
-  * last workshop description
   * videoURL: link to playlist
   * links to video recordings after each description
 -->
+
+TODO: links to videos once they are online
 
 # Talks
 
@@ -68,7 +69,9 @@ When everything is important, nothing is important. During this workshop you’l
 
 ## Ewa Koprowska, Dominik Jabłoński
 ### Scrum Tale
-More info soon…
+ScrumTale is designed to teach the Scrum framework. It improves learning experience by simulating Agile product delivery while experiencing all Agile principles. This game is a perfect aid to practice all the elements of the Scrum framework: roles, events and artifacts.
+
+The players simulate Scrum teams writing a crime story simultaneously using Google Docs. Collaborative story writing is very similar to software production: you need to be creative and act as a team to deliver a product. You will also experience challenges with integration, quality and tools that are present during software development without the need of having a technical background. You can observe the mechanics of the Scrum during the stormy process of story writing.
 
 ## Klaudia Komacka
 ### FAIL — First Attempt in Learning
