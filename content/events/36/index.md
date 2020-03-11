@@ -1,6 +1,6 @@
 ---
 number: "36"
-date: "2012-02-12T18:57:46+01:00"
+date: "2012-03-12T18:57:46+01:00"
 title: "Piękne porażki"
 speakers: "Jakub Nabrdalik, Maciej Próchniak"
 lang: "pl"
