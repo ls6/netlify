@@ -13,23 +13,23 @@ Zajrzyj tutaj na [events](/events)
 
 ## Najprostszy sposób:
 
-Najprostszy dla Ciebie sposób to przesłanie nam wypełnionej formatki wydarzenia i ewentualnie zdjęć czy innych plików, które przynależą do spotkania.
+Najprostszy dla Ciebie sposób to przesłanie nam wypełnionej formatki wydarzenia i ewentualnie zdjęć czy innych plików (na przykład zdjęcie tytułowe czy prezentacja), które przynależą do spotkania.
 
    * Formatka (zwyły tekst) znajduje się <a href="https://raw.githubusercontent.com/AgileWarsaw/netlify/devel-www/themes/agilewarsaw/archetypes/event.md" target="_blank">tutaj</a>.
 	
-   * Zapisz lokalnie stronę i otwórzy przy wykorzystaniu np. notatnika
+   * Zapisz sobie lokalnie lub skopiuj tekst z tej strony i otwórz przy wykorzystaniu np. notatnika.
 
-   * Wypełnij informacje o wydarzeniu według wskazówek w formatce. Pamiętaj że edytujesz treść wewnątrz cudzysłowu, sam cudzysłów zostaje
+   * Wypełnij informacje o wydarzeniu według wskazówek w formatce. Pamiętaj że edytujesz treść wewnątrz cudzysłowu, sam cudzysłów zostaje.
 
-   * Przykłdowy wygląd wiersza z datą: date: "2013-10-28T19:00:00+01:00"
+   * Przykładowy wygląd wiersza z datą: `date: "2013-10-28T19:00:00+01:00"`
    
-   * Jeśli brak sponsora pozostawiamy puste nawiasy: []
+   * Jeśli brak sponsora pozostawiamy puste nawiasy: `[]`
 
-   * To czy było nagranie i link do niego znajdziesz na youtube - wklej adres url do formatki
+   * To czy było nagranie i link do niego znajdziesz na <a href="https://www.youtube.com/playlist?list=PLXRBM3VxEbfPF2-ScvE03bQ6pNS-mli99">YouTube</a> - wklej adres url nagrania do formatki.
 
-   * Jeżeli do wydarzenia były załączone jakieś zdjęcia lub inne pliki pobierz je ze strony (np. meetup), zapisz lokalnie
+   * Jeżeli do wydarzenia były załączone jakieś zdjęcia lub inne pliki pobierz je ze strony (np. meetup, czasem bywają w komentarzach), zapisz lokalnie.
 
-   * Prześlij nam wypełnioną formatkę i pliki na adres: team@agilewarsaw.com
+   * Prześlij nam wypełnioną formatkę i pliki na adres: `team@agilewarsaw.com`
 
 ## Przez github:
 
