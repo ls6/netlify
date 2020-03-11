@@ -1,7 +1,7 @@
 ---
 number: "199"
 date: "2020-03-23T15:17:30+01:00"
-title: "Srum Tale — Warsztat"
+title: "Scrum Tale — Warsztat"
 speakers: "Ewa koprowska, Dominik Jabłoński"
 lang: "pl"
 sponsors: ["Bielański Integrator Przedsiębiorczych"]
@@ -24,6 +24,6 @@ Ewa była również jednym z menedżerów projektu Everest w PZU dzięki którem
 Profil zawodowy:
 Partner & CHO w Code Sprinters
 
-<a href="| https://www.linkedin.com/in/dominikjablonski" target="_blank">Dominik Jabłoński </a>
+<a href="https://www.linkedin.com/in/dominikjablonski" target="_blank">Dominik Jabłoński</a>
 
 Dominik, w IT od ponad 7 lat, jest konsultantem Agile i Scrum Masterem w Code Sprinters, z bogatym i różnorodnym doświadczeniem począwszy od sprzedaży, przez obsługę klienta, branżę finansową, HR, skończywszy na modowej. Wspiera zarówno niewielkie software houses jak i duże korporacje. Oprócz fascynacji metodami zwinnymi i tym, jak zmieniają naszą pracę i życie, jest niepoprawnym miłośnikiem gier planszowych.
