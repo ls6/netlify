@@ -13,17 +13,27 @@ Zajrzyj tutaj na [events](/events)
 
 ## Najprostszy sposób:
 
-Najprostszy dla Ciebie sposób to przesłanie nam wypełnionej formatki wydarzenia i ewentualnie zdjęć czy innych plików, które przynależą do spotkania.
+Najprostszy dla Ciebie sposób to przesłanie nam wypełnionej formatki wydarzenia i ewentualnie zdjęć czy innych plików (na przykład zdjęcie tytułowe czy prezentacja), które przynależą do spotkania.
 
    * Formatka (zwyły tekst) znajduje się <a href="https://raw.githubusercontent.com/AgileWarsaw/netlify/devel-www/themes/agilewarsaw/archetypes/event.md" target="_blank">tutaj</a>.
+	
+   * Zapisz sobie lokalnie lub skopiuj tekst z tej strony i otwórz przy wykorzystaniu np. notatnika.
 
-   * Wypełnij informacje o wydarzeniu według wskazówek w formatce.
+   * Wypełnij informacje o wydarzeniu według wskazówek w formatce. Pamiętaj że edytujesz treść wewnątrz cudzysłowu, sam cudzysłów zostaje.
 
-   * Prześlij nam wypełnioną formatkę i pliki.
+   * Przykładowy wygląd wiersza z datą: `date: "2013-10-28T19:00:00+01:00"`
+   
+   * Jeśli brak sponsora pozostawiamy puste nawiasy: `[]`
+
+   * To czy było nagranie i link do niego znajdziesz na <a href="https://www.youtube.com/playlist?list=PLXRBM3VxEbfPF2-ScvE03bQ6pNS-mli99">YouTube</a> - wklej adres url nagrania do formatki.
+
+   * Jeżeli do wydarzenia były załączone jakieś zdjęcia lub inne pliki pobierz je ze strony (np. meetup, czasem bywają w komentarzach), zapisz lokalnie.
+
+   * Prześlij nam wypełnioną formatkę i pliki na adres: `team@agilewarsaw.com`
 
 ## Przez github:
 
-Jeśli nie boisz się GitHub-a albo chcesz spróbować z niego skorzystać możesz zaoszczdzić nam (organizatorom) pracy samodzielnie dołączając informacje do tej strony.
+Jeśli nie boisz się GitHub-a albo chcesz spróbować z niego skorzystać możesz zaoszczędzić nam (organizatorom) pracy samodzielnie dołączając informacje do tej strony.
 
 ### TODO: opisać jak stworzyć wydarzenie posługując się tylko stroną GitHub.
 
@@ -41,7 +51,7 @@ Instalacja Hugo jest <a href="https://gohugo.io/getting-started/installing#quick
 
 2. W terminalu w folderze repozytorium wpisz:  
    `hugo new events/NUMER/index.md -k event`  
-   zamieniająć `NUMER` na właściwy numer wydarzenia.
+   zamieniając `NUMER` na właściwy numer wydarzenia.
 
 3. Program stworzy nowy podkatalog `NUMER` w katalogu `content` a w nim formatkę wydarzenia.
 
