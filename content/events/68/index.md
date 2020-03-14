@@ -23,10 +23,10 @@ Zachęcająca relacja z poprzednich spotkań tego typu:
 <a href="http://touk.pl/blog/en/2013/02/13/byop-warsaw/" target="_blank">Relacja Piotra Burdyło</a>  
 <a href="https://web.archive.org/web/20150218080354/http://byop.pl/byop-warszawa-2013-01-21/" target="_blank">Relacja Andrzeja Zińczuka</a>.
 
-{{< thumbnail src="aw-bylc-20131118-discussed.jpg" >}}
-{{< thumbnail src="aw-bylc-20131118-agileinbusiness.jpg" >}}
-{{< thumbnail src="aw-bylc-20131118-evo.jpg" >}}
-{{< thumbnail src="aw-bylc-20131118-knowledgebase.jpg" >}}
-{{< thumbnail src="aw-bylc-20131118-meetingsquality.jpg" >}}
-{{< thumbnail src="aw-bylc-20131118-metrics.jpg" >}}
-{{< thumbnail src="aw-bylc-20131118-notdiscussed.jpg" >}}
+{{< thumbnail src="aw-bylc-20131118-discussed.jpg" alt="Przedyskutowane" >}}
+{{< thumbnail src="aw-bylc-20131118-agileinbusiness.jpg" alt="Agile w biznesie" >}}
+{{< thumbnail src="aw-bylc-20131118-evo.jpg" alt="Evo" >}}
+{{< thumbnail src="aw-bylc-20131118-knowledgebase.jpg" alt="baza wiedzy" >}}
+{{< thumbnail src="aw-bylc-20131118-meetingsquality.jpg" alt="Jakość spotkań" >}}
+{{< thumbnail src="aw-bylc-20131118-metrics.jpg" alt="Metryki" >}}
+{{< thumbnail src="aw-bylc-20131118-notdiscussed.jpg" alt="Nie przedyskutowane" >}}

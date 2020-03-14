@@ -41,4 +41,6 @@ Mamy nasz własny skrót na utworzenie miniatury zdjęcia (thumbnail), który po
 
 Plik z grafiką umieść w tym samym katalogu, w którym jest opis i w treści wstaw kod:
 
-{{< thumbnail src="nazwa-pliku.xxx" >}}
+{{< thumbnail src="nazwa-pliku.xxx" alt="Podpis pod miniaturką" >}}
+
+Możesz wstawić dowolną liczbę takich miniaturek.

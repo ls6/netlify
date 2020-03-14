@@ -79,6 +79,11 @@ img.thumbnail {
 	max-height: 250px;
 }
 
+figure.thumbnail {
+	display: inline-block;
+	text-align: center;
+}
+
     /**********************/
     /*  HEADER FORMATTING */
     /**********************/
