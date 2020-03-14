@@ -34,3 +34,13 @@ Linki zewnętrzne (jeśli mają otwierać się w nowym oknie) opisujemy HTMLem:
 Linki, które mają otworzyć się w tym samym oknie możesz opsiać w Markdown: [opis](https://link)
 
 <a href="https://docs.microsoft.com/pl-pl/contribute/how-to-write-use-markdown" target="_blank">Ściągawka z Markdown-a</a>.
+
+## galeria / miniatury
+
+Mamy nasz własny skrót na utworzenie miniatury zdjęcia (thumbnail), który po kliknięciu otwiera zdjęcie w pełnej wielkości.
+
+Plik z grafiką umieść w tym samym katalogu, w którym jest opis i w treści wstaw kod:
+
+{{< thumbnail src="nazwa-pliku.xxx" alt="Podpis pod miniaturką" >}}
+
+Możesz wstawić dowolną liczbę takich miniaturek.
