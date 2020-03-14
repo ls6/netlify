@@ -15,7 +15,7 @@ Zajrzyj tutaj na [events](/events)
 
 Najprostszy dla Ciebie sposób to przesłanie nam wypełnionej formatki wydarzenia i ewentualnie zdjęć czy innych plików (na przykład zdjęcie tytułowe czy prezentacja), które przynależą do spotkania.
 
-   * Formatka (zwyły tekst) znajduje się <a href="https://raw.githubusercontent.com/AgileWarsaw/netlify/devel-www/themes/agilewarsaw/archetypes/event.md" target="_blank">tutaj</a>.
+   * Formatka (zwyły tekst) znajduje się <a href="https://raw.githubusercontent.com/AgileWarsaw/netlify/master/themes/agilewarsaw/archetypes/event.md" target="_blank">tutaj</a>.
 	
    * Zapisz sobie lokalnie lub skopiuj tekst z tej strony i otwórz przy wykorzystaniu np. notatnika.
 
