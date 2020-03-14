@@ -314,7 +314,7 @@ img.lang-icon {
 }
 
 div.all-events-list event {
-    padding: 1em;
+	padding-left: 1em;
 }
 
 div.event-info-full {
