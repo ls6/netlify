@@ -5,7 +5,7 @@ title: "Specification by Example"
 speakers: "Krzysztof Jelski"
 lang: "pl"
 sponsors: []
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=3Sbf8C4nL9E"
 draft: false
 ---
 
@@ -17,6 +17,6 @@ Specification by Example to podejście, które zmniejsza ryzyko wystąpienia pow
 
 Opowiem o elementach Specification by Example i o tym, jak wdrażać to podejście.
 
-Nagranie bliźniaczego wystąpienia:<a href="https://www.youtube.com/watch?v=3Sbf8C4nL9E" target="_blank"> WJUG #131 - Specification by Example - Krzysztof Jelski</a>.
-
 <a href="Agile Warsaw - Specification by Example.pdf">Prezentacja (PDF)</a>
+
+Nagranie bliźniaczego wystąpienia WJUG:
