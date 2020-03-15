@@ -246,6 +246,46 @@ li.team-member {
 li.team-member img {
     width: 120px;
 }
+
+ul.prev-team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+li.prev-team-member {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-items: center;
+    padding-top: 0px;
+    padding-bottom: 1em;
+    padding-left: 1.1em;
+    padding-right: 1.1em;
+    margin-bottom: 1ex;
+    margin-right: 1ex;
+    background: #00000024;
+    width: 105px;
+}
+
+ul.prev-team h4 {
+	flex-basis: 2.5em;
+    color: #C88982;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+}
+
+li.prev-team-member img {
+    width: 80px;
+}
+
+ul.prev-team a {
+    display: block;
+}
     /**************************/
     /*  HOME PAGE FORMATTING */
     /*************************/
