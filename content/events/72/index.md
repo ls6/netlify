@@ -1,11 +1,11 @@
 ---
 number: "72"
 date: "2014-02-24T19:00:00+01:00"
-title: "Scrum, but..."
+title: "Scrum, but…"
 speakers: "Matt Harasymczuk"
 lang: "pl"
 sponsors: []
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=kQnYYaYZg6o"
 draft: false
 ---
 
@@ -19,6 +19,8 @@ Hi my name is Matt and I am a Agile Coach with the Polish Government nationwide 
 
 <a href="https://web.archive.org/web/20140326095148/http://www.harasymczuk.pl/" target="_blank">Matt Harasymczuk</a>.
 
+
 <a href="https://www.slideshare.net/mattharasymczuk/scrum-but-39713417" target="_blank">Prezentacja ze spotkania</a>.
 
 
+Nagranie z bliźniaczego wystąpienia na WJUG:
