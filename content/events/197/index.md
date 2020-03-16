@@ -5,7 +5,7 @@ title: "Lean Inception: How to Align People and Build the Right Product"
 speakers: "Paulo Caroli"
 lang: "en"
 sponsors: ["pkobp"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=NxyNl6pWOVI"
 draft: false
 ---
 
