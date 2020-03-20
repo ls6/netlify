@@ -1,6 +1,6 @@
 ---
 number: "188"
-date: "2019-10-23T19:00:00+01:00"
+date: "2019-09-23T19:00:00+01:00"
 title: "Czego nas uczy 737MAX?"
 speakers: "Andy Brandt"
 lang: "pl"

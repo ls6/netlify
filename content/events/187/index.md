@@ -1,6 +1,6 @@
 ---
 number: "187"
-date: "2019-10-02T18:00:00+01:00"
+date: "2019-09-02T18:00:00+01:00"
 title: "[Warsztat] Meandry facylitacji zwinnych spotkań"
 speakers: "Ewelina Gałęzowska-Szomborg"
 lang: "pl"
