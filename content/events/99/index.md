@@ -1,6 +1,6 @@
 ---
 number: "99"
-date: "2013-10-28T19:00:00+01:00"
+date: "2015-05-28T09:00:00+01:00"
 title: "Scrum Days"
 speakers: ""
 lang: "en"
