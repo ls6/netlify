@@ -4,19 +4,10 @@ date: "2020-03-07T13:30:00+01:00"
 title: "ABE Light 2020"
 speakers: ""
 lang: "en"
-sponsors: ["sponsor1", "sponsor2"]
-videoURL: ""
+sponsors: ["PKO BP", "ProCognita", "Vistula", "Slido"]
+videoURL: "https://www.youtube.com/watch?v=pPvJioa3TO4&list=PLwoIK953bBnNiMBGSQoe_VgJMTnjBSJO3"
 draft: false
 ---
-
-<!--
-TODO:
-
-  * videoURL: link to playlist
-  * links to video recordings after each description
--->
-
-TODO: links to videos once they are online
 
 # Talks
 
@@ -27,20 +18,28 @@ A big government IT project delivered two years ahead of schedule. A fraud detec
 
 This talk is based on an extensive research with commercial organisations, government departments and non-profit agencies from all over the world. Gojko will present real-world case studies and distill their experience into useful tips that will enable you to speed up adoption, avoid common pitfalls and reach your goals faster.
 
+<a href="https://www.youtube.com/watch?v=pPvJioa3TO4&list=PLwoIK953bBnNiMBGSQoe_VgJMTnjBSJO3&index=1" target="_blank">Talk recording</a>
+
 ## Zbigniew Sobiecki
 ### Building New Products and Businesses vs. Cranking out Code
 
 Is it possible to successfully design and build new digital products and services from scratch with an external partner? If so, how does the process, the team, and the business arrangement differs from classic time & materials software house setup? Let's have a frank discussion about the common issues organizations face when trying to outsource product design and how to deal with them. Let's also get specific about focusing on outcomes instead of shipping new features. We will also touch on human and cultural aspects of the two approaches.
+
+<a href="https://www.youtube.com/watch?v=HuTB5-AVyCM&list=PLwoIK953bBnNiMBGSQoe_VgJMTnjBSJO3&index=4" target="_blank">Talk recording</a>
 
 ## Gosia Fiedorow
 ### Finding Your Purpose in Chaos — a Designer’s Point of View
 
 In her talk, Gosia will share her story of how she has managed to fit the design mindset into software development; where work is never really done… and never ends up exactly how it was envisioned in the beginning.
 
+<a href="https://www.youtube.com/watch?v=Xfb9vFxTcI4&list=PLwoIK953bBnNiMBGSQoe_VgJMTnjBSJO3&index=3" target="_blank">Talk recording</a>
+
 ## Aga Szóstek
 ### It's All About the Experience
 
 We talk about how to design the right products in the right way, right? But is it truly the thing we should focus on? In my presentation, I will do my best to convince you that, in fact, we should focus on defining what sort of experience we aim at before we focus on designing products and services.
+
+<a href="https://www.youtube.com/watch?v=fdMg8Oq2p1g&list=PLwoIK953bBnNiMBGSQoe_VgJMTnjBSJO3&index=2" target="_blank">Talk recording</a>
 
 -------------
 
