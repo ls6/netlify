@@ -1,5 +1,5 @@
 ---
-number: "93`"
+number: "93"
 date: "2015-02-16T19:00:00+01:00"
 title: "Jak nie zasnąć na telekonferencjach?"
 speakers: "Paweł Wrzeszcz"
