@@ -1,6 +1,6 @@
 ---
 number: "173.2"
-date: "2019-01-07T19:00:00+01:00"
+date: "2019-01-07T20:00:00+01:00"
 title: "O co może rozbić się Twój Agile? Jak systemy społeczne i władza wpływają na nas i nasze zespoły."
 speakers: "Piotr Kuczyński"
 lang: "pl"
