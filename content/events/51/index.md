@@ -1,6 +1,6 @@
 ---
 number: "51"
-date: "2013-10-28T19:00:00+01:00"
+date: "2013-02-18T19:00:00+01:00"
 title: "Get agile and don't die trying (Agile w MillwardBrown)"
 speakers: "Michał Prządka"
 lang: "pl"

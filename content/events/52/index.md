@@ -1,5 +1,5 @@
 ---
-number: "51"
+number: "52"
 date: "2013-03-04T19:00:00+01:00"
 title: "The Lean Enterpreneur i groupowe tworzenie Lean Canvas"
 speakers: "Piotr Durlej"
