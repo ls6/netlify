@@ -1,10 +1,10 @@
 ---
 number: "199"
 date: "2020-03-23T15:17:30+01:00"
-title: "Scrum Tale — Warsztat"
+title: "Scrum Tale — warsztat zdalny"
 speakers: "Ewa koprowska, Dominik Jabłoński"
 lang: "pl"
-sponsors: ["Bielański Integrator Przedsiębiorczych"]
+sponsors: []
 videoURL: ""
 draft: false
 ---
@@ -27,3 +27,5 @@ Partner & CHO w Code Sprinters
 <a href="https://www.linkedin.com/in/dominikjablonski" target="_blank">Dominik Jabłoński</a>
 
 Dominik, w IT od ponad 7 lat, jest konsultantem Agile i Scrum Masterem w Code Sprinters, z bogatym i różnorodnym doświadczeniem począwszy od sprzedaży, przez obsługę klienta, branżę finansową, HR, skończywszy na modowej. Wspiera zarówno niewielkie software houses jak i duże korporacje. Oprócz fascynacji metodami zwinnymi i tym, jak zmieniają naszą pracę i życie, jest niepoprawnym miłośnikiem gier planszowych.
+
+{{< thumbnail src="ST.jpg" alt="Jedna z podgrup" >}}
