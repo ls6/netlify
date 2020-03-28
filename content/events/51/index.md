@@ -1,0 +1,17 @@
+---
+number: "51"
+date: "2013-10-28T19:00:00+01:00"
+title: "Get agile and don't die trying (Agile w MillwardBrown)"
+speakers: "Michał Prządka"
+lang: "pl"
+sponsors: []
+videoURL: "https://www.youtube.com/watch?v=cIMC6nayDSk"
+draft: false
+---
+
+Na prezentacji opowiem o wdrażaniu agile'a w średniej wielkości zespole. Zachęcony przez różne osoby na AW, skoncetruję się  na błędach i problemach, ale będą też wnioski, które mogą pomóc innym wdrażać agile'a u siebie. Ducha prezentacji oddaje jej podtytuł "Get agile and don't die trying" :)
+
+<a href="https://www.slideshare.net/MichalPrzadka/get-agile-and-dont-die-trying-abe2013" target="_blank">Slajdy: Get agile and don't die trying - ABE13</a>.
+
+
+
