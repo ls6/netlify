@@ -6,10 +6,10 @@
     <div class="event-speakers"> {{ .Params.speakers }} </div>
     <div class="event-title">
         <a href="{{ .RelPermalink }}"> {{ .Params.title }} </a>
-        {{ if (eq .Params.lang "pl") }}
+        {{ if (in .Params.lang "pl") }}
             <img class="lang-icon" src="/assets/flag-pl.svg" />
         {{ end }}
-        {{ if (eq .Params.lang "en") }}
+        {{ if (in .Params.lang "en") }}
             <img class="lang-icon" src="/assets/flag-uk.svg" />
         {{ end }}
         {{ with .Params.videoURL }}
