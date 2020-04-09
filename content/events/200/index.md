@@ -39,7 +39,7 @@ We will start with 8 lightning talks (3-5 mins) (some in polish, some in english
 
 The lightning talks will be followed by discussion panel seeded by question from you. We are collecting questions from now on and even during the meetup (https://sli.do/ code #AW200). Panel will be in english.
 
-###Speakers / Prelegenci
+### Speakers / Prelegenci
 (po polsku)
 1. Tomek Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
 2. Paweł Wrzeszcz "Świadoma Praca Zdalna"
