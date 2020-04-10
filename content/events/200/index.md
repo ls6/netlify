@@ -32,10 +32,10 @@ The lightning talks will be followed by discussion panel seeded by question from
 
 ### Speakers / Prelegenci
 (po polsku)
-1. Tomek Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
-2. Paweł Wrzeszcz "Świadoma Praca Zdalna"
-3. Ewa Koprowska "Każdy ma inny sposób na przetrwanie"
+ 1. Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
+ 1. Paweł Wrzeszcz "Świadoma Praca Zdalna"
+ 1. Ewa Koprowska "Każdy ma inny sposób na przetrwanie"
 (in english)
-4. Michał Grześkowiak "Hello From the Other Side"
-5. Paweł Olchowik & Stine Nørgaard Olesen "Tips For a Good Online Meeting – and How It Goes in Reality When Working From Home With Kids"
-6. Tomasz Szymański "Building Relationships in a Remote Environment"
+ 1. Michał Grześkowiak "Hello From the Other Side"
+ 1. Paweł Olchowik & Stine Nørgaard Olesen "Tips For a Good Online Meeting – and How It Goes in Reality When Working From Home With Kids"
+ 1. Tomasz Szymański "Building Relationships in a Remote Environment"
