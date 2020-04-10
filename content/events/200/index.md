@@ -32,7 +32,7 @@ The lightning talks will be followed by discussion panel seeded by question from
 
 ### Speakers / Prelegenci
 
- 1. (flag-pl.svg) Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
+ 1. ![pl](flag-pl.svg) Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
  1. Paweł Wrzeszcz "Świadoma Praca Zdalna"
  1. Ewa Koprowska "Każdy ma inny sposób na przetrwanie"
  1. Michał Grześkowiak "Hello From the Other Side"
