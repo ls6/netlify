@@ -31,11 +31,15 @@ We will start with six lightning talks (3-5 mins) (some in polish, some in engli
 The lightning talks will be followed by discussion panel seeded by question from you. We are collecting questions from now on and even during the meetup (https://sli.do/ code #AW200). Panel will be in english.
 
 ### Speakers / Prelegenci
-(po polsku)
+
  1. Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
+
  1. Paweł Wrzeszcz "Świadoma Praca Zdalna"
+
  1. Ewa Koprowska "Każdy ma inny sposób na przetrwanie"
-(in english)
+
  1. Michał Grześkowiak "Hello From the Other Side"
+
  1. Paweł Olchowik & Stine Nørgaard Olesen "Tips For a Good Online Meeting – and How It Goes in Reality When Working From Home With Kids"
+
  1. Tomasz Szymański "Building Relationships in a Remote Environment"
