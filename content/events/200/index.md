@@ -15,9 +15,9 @@ draft: false
 
 Zaprosiliśmy 7 osób, które mają zdecydowanie więcej doświadczenia w pracowaniu z domu niż 3 korona tygodnie, by podzieliły się ze wszystkimi swoimi mniej trywialnymi trikami.
 
-Zaczniemy od sześciu lightning talków (3-5 minut) (część po polsku, część po angielsku (żeby nie wykluczać niepolskojęzycznych Warszawiaków).
+Zaczniemy od sześciu lightning talków (3-5 minut) (część po polsku, część po angielsku (żeby nie wykluczać niepolskojęzycznych Warszawiaków)) .
 
-Na deser zadamy prowadzącym pytania od Was (które zaczynamy zbierać już teraz i będziemy zbierać również w trakcie wystąpień: https://sli.do/ kod #AW200). Panel poprowadzimy w języku angielskim.
+Na deser zadamy prowadzącym pytania od Was (które zaczynamy zbierać już teraz i będziemy zbierać również w trakcie wystąpień: https://sli.do/ ). Panel poprowadzimy w języku angielskim.
 
 
 ### (polska treść powyżej)
@@ -28,7 +28,7 @@ We have invited 7 people, who have much more remote working experience than thre
 
 We will start with six lightning talks (3-5 mins) (some in polish, some in english).
 
-The lightning talks will be followed by discussion panel seeded by question from you. We are collecting questions from now on and even during the meetup (https://sli.do/ code #AW200). Panel will be in english.
+The lightning talks will be followed by discussion panel seeded by question from you. We are collecting questions from now on and even during the meetup (https://sli.do/ ). Panel will be in english.
 
 ### Speakers / Prelegenci
 
