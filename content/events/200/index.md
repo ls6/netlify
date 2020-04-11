@@ -32,9 +32,9 @@ The lightning talks will be followed by discussion panel seeded by question from
 
 ### Speakers / Prelegenci
 
- 1. ![pl][assets/flag-pl.svg] Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
- 1. ![pl](https://agilewarsaw.com/assets/flag-pl.svg) Paweł Wrzeszcz "Świadoma Praca Zdalna"
- 1. Ewa Koprowska "Każdy ma inny sposób na przetrwanie"
- 1. Michał Grześkowiak "Hello From the Other Side"
- 1. Paweł Olchowik & Stine Nørgaard Olesen "Tips For a Good Online Meeting – and How It Goes in Reality When Working From Home With Kids"
- 1. Tomasz Szymański "Building Relationships in a Remote Environment"
+ 1. {{% icon-flag-pl %}} Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
+ 1. {{% icon-flag-pl %}} Paweł Wrzeszcz "Świadoma Praca Zdalna"
+ 1. {{% icon-flag-pl %}}Ewa Koprowska "Każdy ma inny sposób na przetrwanie"
+ 1. {{% icon-flag-en %}}Michał Grześkowiak "Hello From the Other Side"
+ 1. {{% icon-flag-en %}}Paweł Olchowik & Stine Nørgaard Olesen "Tips For a Good Online Meeting – and How It Goes in Reality When Working From Home With Kids"
+ 1. {{% icon-flag-en %}}Tomasz Szymański "Building Relationships in a Remote Environment"
