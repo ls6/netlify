@@ -1,7 +1,7 @@
 ---
 number: "200"
 date: "2020-04-07T19:00:00+01:00"
-title: "Jak pracować zdalnie/ Tips on Remote Work(6 lightning talks + panel)"
+title: "Jak pracować zdalnie / Tips on Remote Work"
 speakers: "Ewa Koprowska, Michał Grześkowiak, Paweł Olchowik & Stine Nørgaard Olesen, Paweł Wrzeszcz, Tomasz Łasica, Tomasz Szymański"
 lang: ["en", "pl"]
 sponsors: ["reef", "qagile", "slido"]
