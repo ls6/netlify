@@ -44,3 +44,10 @@ Plik z grafiką umieść w tym samym katalogu, w którym jest opis i w treści w
 {{< thumbnail src="nazwa-pliku.xxx" alt="Podpis pod miniaturką" >}}
 
 Możesz wstawić dowolną liczbę takich miniaturek.
+
+## Ikonki
+
+{{% icon-flag-pl %}}
+{{% icon-flag-en %}}
+{{% icon-yt-red %}}
+{{% icon-yt-gray %}}
