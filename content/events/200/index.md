@@ -9,7 +9,7 @@ videoURL: ""
 draft: false
 ---
 
-### [for english info scroll down]({{< relref #polska-treść-powyżej >}}) 
+### [for english info scroll down]({{< relref #polska-tre-powyej >}}) 
 
 "Jak pracować zdalnie" to odpowiedź AgileWarsaw na konieczność pracowania zdalnie, która od paru tygodni jest rzeczywistością znakomitej większości z nas.
 
