@@ -20,7 +20,7 @@ Zaczniemy od sześciu lightning talków (3-5 minut) (część po polsku, częś�
 Na deser zadamy prowadzącym pytania od Was (które zaczynamy zbierać już teraz i będziemy zbierać również w trakcie wystąpień: https://sli.do/ ). Panel poprowadzimy w języku angielskim.
 
 
-### [(polska treść powyżej)](#for-english-scroll-down)
+### [(polska treść powyżej)](#(for-english-scroll-down))
 
 "Tips on remote work" is the AgileWarsaw's response to forced working from homes, which is the reality of great majority of us for the last couple of weeks.
 
