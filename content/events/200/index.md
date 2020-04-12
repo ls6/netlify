@@ -9,7 +9,7 @@ videoURL: ""
 draft: false
 ---
 
-#Bbb
+# Bbb
 ### [for english info scroll down](#Aaa)
 
 "Jak pracować zdalnie" to odpowiedź AgileWarsaw na konieczność pracowania zdalnie, która od paru tygodni jest rzeczywistością znakomitej większości z nas.
@@ -21,7 +21,7 @@ Zaczniemy od sześciu lightning talków (3-5 minut) (część po polsku, częś�
 Na deser zadamy prowadzącym pytania od Was (które zaczynamy zbierać już teraz i będziemy zbierać również w trakcie wystąpień: https://sli.do/ ). Panel poprowadzimy w języku angielskim.
 
 
-### Aaa
+## Aaa
 
 ### [(polska treść powyżej)](#Bbb)
 
