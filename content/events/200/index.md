@@ -37,4 +37,4 @@ The lightning talks will be followed by discussion panel seeded by question from
  1. {{% icon-flag-pl %}} [{{% icon-yt-red %}}](https://youtu.be/0z94RL0SOig) Ewa Koprowska "Każdy ma inny sposób na przetrwanie"
  1. {{% icon-flag-en %}} [{{% icon-yt-red %}}](https://youtu.be/ORMqXxKWU78) Michał Grześkowiak "Hello From the Other Side"
  1. {{% icon-flag-en %}} [{{% icon-yt-red %}}](https://youtu.be/TWFI5-2vuPI) Paweł Olchowik & Stine Nørgaard Olesen "Tips For a Good Online Meeting – and How It Goes in Reality When Working From Home With Kids"
- 1. {{% icon-flag-en %}} [{{% icon-yt-red %}}](https://youtu.be/CcPG6yZ-ZwA) Tomasz Szymański "Building Relationships in a Remote Environment"
+ 1. {{% icon-flag-en %}} [{{% icon-yt-red %}}](https://youtu.be/4KVxdLEuC7E) Tomasz Szymański "Building Relationships in a Remote Environment"
