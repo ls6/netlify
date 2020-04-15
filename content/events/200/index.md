@@ -5,7 +5,7 @@ title: "Jak pracować zdalnie / Tips on Remote Work"
 speakers: "Ewa Koprowska, Michał Grześkowiak, Paweł Olchowik & Stine Nørgaard Olesen, Paweł Wrzeszcz, Tomasz Łasica, Tomasz Szymański"
 lang: ["en", "pl"]
 sponsors: ["reef", "qagile", "slido"]
-videoURL: ""
+videoURL: "https://www.youtube.com/playlist?list=PLp-rA2lqarDq82YUe_5e_KgOi7kyaT7Zm"
 draft: false
 ---
 
@@ -32,7 +32,7 @@ The lightning talks will be followed by discussion panel seeded by question from
 
 ### Speakers / Prelegenci
 
- 1. {{% icon-flag-pl %}} Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
+ 1. {{% icon-flag-pl %}} ![{{% icon-yt-red}}](https://youtu.be/IJzAw4KAvjw) Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
  1. {{% icon-flag-pl %}} Paweł Wrzeszcz "Świadoma Praca Zdalna"
  1. {{% icon-flag-pl %}} Ewa Koprowska "Każdy ma inny sposób na przetrwanie"
  1. {{% icon-flag-en %}} Michał Grześkowiak "Hello From the Other Side"
