@@ -40,4 +40,4 @@ The lightning talks will be followed by discussion panel seeded by question from
  1. {{% icon-flag-en %}} Tomasz Szymański "Building Relationships in a Remote Environment" [{{% icon-yt-red %}}](https://youtu.be/4KVxdLEuC7E)
  
 ### Panel / Panel
- 1. {{% icon-flag-en %}} Q&A Tips on Remote Work [{{% icon-yt-red %}}](https://www.youtube.com/watch?v=CcPG6yZ-ZwA)
+ 1. {{% icon-flag-en %}} Q&A Tips on Remote Work [{{% icon-yt-red %}}](https://www.youtube.com/watch?v=Bz7pSeRDzD4)
