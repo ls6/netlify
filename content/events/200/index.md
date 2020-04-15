@@ -32,9 +32,12 @@ The lightning talks will be followed by discussion panel seeded by question from
 
 ### Speakers / Prelegenci
 
- 1. {{% icon-flag-pl %}} [{{% icon-yt-red %}}](https://youtu.be/IJzAw4KAvjw) Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją"
- 1. {{% icon-flag-pl %}} [{{% icon-yt-red %}}](https://youtu.be/WICyKAm9I0M) Paweł Wrzeszcz "Świadoma Praca Zdalna"
- 1. {{% icon-flag-pl %}} [{{% icon-yt-red %}}](https://youtu.be/0z94RL0SOig) Ewa Koprowska "Każdy ma inny sposób na przetrwanie"
- 1. {{% icon-flag-en %}} [{{% icon-yt-red %}}](https://youtu.be/ORMqXxKWU78) Michał Grześkowiak "Hello From the Other Side"
- 1. {{% icon-flag-en %}} [{{% icon-yt-red %}}](https://youtu.be/TWFI5-2vuPI) Paweł Olchowik & Stine Nørgaard Olesen "Tips For a Good Online Meeting – and How It Goes in Reality When Working From Home With Kids"
- 1. {{% icon-flag-en %}} [{{% icon-yt-red %}}](https://youtu.be/4KVxdLEuC7E) Tomasz Szymański "Building Relationships in a Remote Environment"
+ 1. {{% icon-flag-pl %}} Tomasz Łasica "To zależy. O zależności pomiędzy celem a komunikacją" [{{% icon-yt-red %}}](https://youtu.be/IJzAw4KAvjw)
+ 1. {{% icon-flag-pl %}} Paweł Wrzeszcz "Świadoma Praca Zdalna" [{{% icon-yt-red %}}](https://youtu.be/WICyKAm9I0M) 
+ 1. {{% icon-flag-pl %}} Ewa Koprowska "Każdy ma inny sposób na przetrwanie" [{{% icon-yt-red %}}](https://youtu.be/0z94RL0SOig)
+ 1. {{% icon-flag-en %}} Michał Grześkowiak "Hello From the Other Side" [{{% icon-yt-red %}}](https://youtu.be/ORMqXxKWU78)
+ 1. {{% icon-flag-en %}} Paweł Olchowik & Stine Nørgaard Olesen "Tips For a Good Online Meeting – and How It Goes in Reality When Working From Home With Kids" [{{% icon-yt-red %}}](https://youtu.be/TWFI5-2vuPI)
+ 1. {{% icon-flag-en %}} Tomasz Szymański "Building Relationships in a Remote Environment" [{{% icon-yt-red %}}](https://youtu.be/4KVxdLEuC7E)
+ 
+### Panel / Panel
+ 1. {{% icon-flag-en %}} Q&A Tips on Remote Work [{{% icon-yt-red %}}](https://www.youtube.com/watch?v=CcPG6yZ-ZwA)
