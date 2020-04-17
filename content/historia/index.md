@@ -41,6 +41,19 @@ Luźne fakty:
 
 * Retro AgileWarsaw z Jakubem Beżelą 25.11.2019 
 
+* 1000 ludzi na meetupie - listopad 2015
+* 2000 ludzi na meetupie - grudzień 2017
+* 3000 ludzi na meetupie - maj 2019
+
+* #50 (2013-02-11)
+* #100 (2015-06-29)
+* 
+* #200 (2020-04-07)
+
+* Pierwszy zagraniczny gość: #25 (2011-08-01) Robin Dymond (Lean Development)
+* Pierwszy warsztat: #28 (2011-10-06) Tom Gilb (Lean Quality Assurance — Training)
+* Pierwsze video: #35 (2012-02-27) Marek Kirejczyk NLP: Sekta, ściema i narzędzie managera
+
 Notatki Łukasza wyciągnięte z nagrań:
 
   * pierwsze video zrobione przez Łukasza: 28.11.2015 — przyjechał Ran Nyman i szkoda było tego jakoś nie utrwalić
