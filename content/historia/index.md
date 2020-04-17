@@ -1,9 +1,9 @@
-# Histora AgileWarsaw (podziękowanie dla byłych i obecnych animatorów, organizatorów i założycieli)
+# Historia AgileWarsaw (podziękowanie dla byłych i obecnych animatorów, organizatorów i założycieli)
 
 ## Początki (Marek Kirejczyk, Mateusz Srebrny, Paweł Lipiński & Marcin Gozdalik)
 Pierwszy pomysł padł na ACE 2010 (wtedy to się nazywało AgileCE ;). Pozazdrościliśmy Krakusom (chyba działało tam wtedy coś innego niż ALE Kraków, ale albo nam się wydawało, albo to jakoś zniknęło, bo teraz to AgileWarsaw jest najstarszą zwinną społecznością w Polsce)
 
-Zgadaliśmy się (w Emerald Irish Pubie przy rondzie de Gaulle'a), że nawet jeśli mielibyśmy spotykać się tylko we czterech, to i tak wystarczająco dużo się będziemy uczyć. Marek wygenerował logo, zarejestrował domenę i postawił *stronę* na google sites.
+Zgadaliśmy się (dwa tygodnie później, w Emerald Irish Pubie przy rondzie de Gaulle'a), że nawet jeśli mielibyśmy spotykać się tylko we czterech, to i tak wystarczająco dużo się będziemy uczyć. Marek wygenerował logo, zarejestrował domenę i postawił *stronę* na google sites. Tak więc, 26ty kwietnia 2010 można uznać za urodziny AgileWarsaw. 
 
 <p style="text-align:center"> <img src="agile-warsaw-logo-2010.png" /> </p>
 
