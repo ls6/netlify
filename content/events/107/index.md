@@ -5,7 +5,7 @@ title: "Narzędzia w Agile: best i worst practices"
 speakers: ""
 lang: "pl"
 sponsors: []
-videoURL: "https://www.youtube.com/playlist?list=PLXRBM3VxEbfPF2-ScvE03bQ6pNS-mli99"
+videoURL: "https://www.youtube.com/watch?v=Tkl_PCu2VXI&list=PLXRBM3VxEbfOwyipMNVCeLKi563pFfR-9"
 draft: false
 ---
 
@@ -30,5 +30,4 @@ Nagrania:
   * <a href="https://www.youtube.com/watch?v=q5c-zsc0SP8&list=PLXRBM3VxEbfPF2-ScvE03bQ6pNS-mli99&index=48&t=0s" target="_blank">Igor Popik, Łukasz Polkowski, Tomasz Bech "Dev&Ops tools in PZU Agile"</a>
   * <a href="https://www.youtube.com/watch?v=MVnFs5r_eFs&list=PLXRBM3VxEbfPF2-ScvE03bQ6pNS-mli99&index=46&t=0s" target="_blank">Marcin Kwapień "Analiza w Scrum vs wybór narzędzi"</a>
 
-Wszystkie filmy nagrania z Agile Warsaw znajdują się:
-
+Playlista ze spotkania:
