@@ -35,6 +35,8 @@ W zasadzie cały 2015 rok zszedł na poszukiwanie naszego miejsca. ElPassion zro
 
 Luźne fakty:
 * Reef dołączył jako organizator  Feb 22, 2017
+* Ewa i Piotr dołączyli 22 Feb 2018 - dokładnie rok później lol ;) tylko, że po okresie próbnym
+
 
 Notatki Łukasza wyciągnięte z nagrań:
 
