@@ -33,6 +33,9 @@ W zasadzie cały 2015 rok zszedł na poszukiwanie naszego miejsca. ElPassion zro
 
 ## ciąg dalszy nastąpi :)
 
+Luźne fakty:
+* Reef dołączył jako organizator  Feb 22, 2017
+
 Notatki Łukasza wyciągnięte z nagrań:
 
   * pierwsze video zrobione przez Łukasza: 28.11.2015 — przyjechał Ran Nyman i szkoda było tego jakoś nie utrwalić
