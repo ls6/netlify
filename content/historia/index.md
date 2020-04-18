@@ -31,6 +31,12 @@ W zasadzie cały 2015 rok zszedł na poszukiwanie naszego miejsca. ElPassion zro
 
 ## Era wideo (Łukasz Szóstek, Mateusz Srebrny)
 
+## Pomoc techniczna nadchodzi (Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz)
+
+## Więcej mocy (Ewa Koprowska, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
+
+## Social PR (Ewa Koprowska, Łukasz Szóstek, Magdalena Walczak, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
+
 ## ciąg dalszy nastąpi :)
 
 Luźne fakty:
@@ -47,12 +53,20 @@ Luźne fakty:
 
 * #50 (2013-02-11)
 * #100 (2015-06-29)
-* 
+* #150 (2018-03-17)
 * #200 (2020-04-07)
 
 * Pierwszy zagraniczny gość: #25 (2011-08-01) Robin Dymond (Lean Development)
 * Pierwszy warsztat: #28 (2011-10-06) Tom Gilb (Lean Quality Assurance — Training)
 * Pierwsze video: #35 (2012-02-27) Marek Kirejczyk NLP: Sekta, ściema i narzędzie managera
+
+* pierwszy meetup w Avivie #106 2015-11-23
+* ostatni meetup na Domaniewskiej #117 2016-06-27
+* ostatni meetup na Inflanckiej #148 2018-03-05
+* BCG, BZ WBK / Santander, Delloite
+* PKO od #183 2019-05-27
+
+* pierwsze [2w1] #172 2018-12-17
 
 Notatki Łukasza wyciągnięte z nagrań:
 
