@@ -19,7 +19,7 @@ A po drodze nie zmieniło się nic.”
 Nie mogę Ci obiecać prostego lekarstwa na te problemy. Jednak chciałbym Ci przybliżyć skąd się biorą, jak ich unikać oraz jak sobie z nimi radzić gdy już się pojawią. W trakcie naszej sesji opowiemy sobie najpierw dlaczego nie możemy dostarczyć projektów na czas i dlaczego te dostarczone często nie spełniają naszych oczekiwań. Następnie zobaczymy co możemy z tymi problemami zrobić. Oczywiście w trakcie poprowadzimy kilka ćwiczeń i dyskusji.
 
 ---
-<a href="https://procognita.pl/trenerzy/tomasz-wykowski/" target="_blank">Tomek</a>pracował jako software engineer, project manager i Scrum Master.
+<a href="https://procognita.pl/trenerzy/tomasz-wykowski/" target="_blank">Tomek</a> pracował jako software engineer, project manager i Scrum Master.
 
 W 2010 roku założył ProCognitę, żeby poprzez Agile Coaching i szkolenia pomagać ludziom budować niezwykłe organizacje. Od 2015 roku jest jedynym polskim Certyfikowanym Trenerem Scrum (Certified Scrum Trainer, CST) akredytowanym przez Scrum Alliance.
 

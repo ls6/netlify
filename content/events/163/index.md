@@ -14,4 +14,4 @@ Podczas warsztatu przygotujemy persony uczestników spotkań Agile Warsaw. Cel j
 
 Warsztat jest kierowany do aktywnych członków społeczności Agile Warsaw. Warunek konieczny: brałe(a)ś udział w conajmniej 3 spotkaniach Agile Warsaw.
 
-<a href="persony.agilewarsaw.com" target="_blank">Materiał wypracowany na spotkaniu</a>
+<a href="Persony.pdf" target="_blank">Materiał wypracowany na spotkaniu</a>
