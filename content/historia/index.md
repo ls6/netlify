@@ -41,7 +41,7 @@ Aviva na Inflanckiej miała specyfikę zabawną w dwóch aspekatach. Po pierwsze
 
 Oba tematy zaadresował dołączający w tym czasie Paweł, często osobiście obsługując bramkę i szykując tak zwaną _skrzynkę_ w której było wszystko co może sobie zamarzyć ktoś próbujący się podłączyć czymkolwiek do rzutnika VGA. 
 
-Zaczęła się też regularna współpraca z Piotrem Klonowskim filmującym i montującym nasze filmy, gry którego też trzeba było wpuścić przez bramkę i zawieźć na górę windą. Pojawił się też budzący dużo emocji flipchart pokazywany prelegentowi z napisem _POWTÓRZ PYTANIE_, będący niskobudżetowym rozwiązaniem problemu z kiepska słyszalnością na filmie pytań od publiczności - nasza publiczność jest tak aktywna, że bardzo rzadko udawało nam się dobiec z mikrofonem zanim pytający skończył zadawać pytanie.
+Zaczęła się też regularna współpraca z Piotrem Klonowskim filmującym i montującym nasze filmy, którego też trzeba było wpuścić przez bramkę i zawieźć na górę windą. Pojawił się też budzący dużo emocji flipchart pokazywany prelegentowi z napisem _POWTÓRZ PYTANIE_, będący niskobudżetowym rozwiązaniem problemu z kiepska słyszalnością pytań od publiczności w nagraniu - nasza publiczność była (i nadal jest) tak aktywna, że bardzo rzadko udawało nam się dobiec z mikrofonem zanim pytający skończył mówić.
 
 ## Więcej mocy (Ewa Koprowska, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
