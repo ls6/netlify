@@ -31,7 +31,17 @@ W zasadzie cały 2015 rok zszedł na poszukiwanie naszego miejsca. ElPassion zro
 
 ## Era wideo (Łukasz Szóstek, Mateusz Srebrny)
 
+Szukanie kolejnych miejsc i pokonywanie ochrony na Domanieskiej wykreowało kolejnego organizatora - Łukasza. Od tego momentu AgileWarsaw zyskało nową misję - coraz lepsze uwiecznianie wspaniałych treści przynoszonych przez niezliczone ilości chcących się dzielić prelegentów. Krok po kroku coraz lepiej technicznie, Łukasz prowadził nas do profesjonalnej edycji i streamowania spotkań na żywo i filmów z odsłonami liczonymi w setkach a nawet w tysiącach. 
+
+Po pół roku Aviva przeniosła się na Inflancką, a my razem z nią. Przez półtora roku korzystalismy ze wspaniałej stabilności, zadomowieni i zaopiekowani w bardzo miły sposób przez Marlenę Kalmuk, a później Adriana Kieltykę. 
+
 ## Pomoc techniczna nadchodzi (Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz)
+
+Aviva na Inflanckiej miała specyfikę zabawną w dwóch aspekatach. Po pierwsze potrzebny był bramkarz, który wpuszczał gości przez bramkę na parterze, podchodził z nimi do windy i podkładając odpowiednią kartę wysyłał na górę... Do odbioru przez drugiego organizatora, który drugą kartą otwierał drzwi do sal konferencyjnych :) Druga specyfika (niekoniecznie związana z samą Avivą) polegała na tym, że co i rusz brakowało działających przejściówek lub kabelków. 
+
+Oba tematy zaadresował dołączający w tym czasie Paweł, często osobiście obsługując bramkę i szykując tak zwaną _skrzynkę_ w której było wszystko co może sobie zamarzyć ktoś próbujący się podłączyć czymkolwiek do rzutnika VGA. 
+
+Zaczęła się też regularna współpraca z Piotrem Klonowskim filmującym i montującym nasze filmy, gry którego też trzeba było wpuścić przez bramkę i zawieźć na górę windą. Pojawił się też budzący dużo emocji flipchart pokazywany prelegentowi z napisem _POWTÓRZ PYTANIE_, będący niskobudżetowym rozwiązaniem problemu z kiepska słyszalnością na filmie pytań od publiczności - nasza publiczność jest tak aktywna, że bardzo rzadko udawało nam się dobiec z mikrofonem zanim pytający skończył zadawać pytanie.
 
 ## Więcej mocy (Ewa Koprowska, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
@@ -40,12 +50,14 @@ W zasadzie cały 2015 rok zszedł na poszukiwanie naszego miejsca. ElPassion zro
 ## ciąg dalszy nastąpi :)
 
 Luźne fakty:
+* Łukasz dołączył Dec 16 2015
 * Reef dołączył jako organizator  Feb 22, 2017
 * Ewa i Piotr dołączyli 22 Feb 2018 - dokładnie rok później lol ;) tylko, że po okresie próbnym
 * Magda dołączyła na wiosnę 2019
 * Ania dołącza 6 kwietnia 2020
+* Luke dołącza 20 kwietnia 2020
 
-* Retro AgileWarsaw z Jakubem Beżelą 25.11.2019 
+* Retro AgileWarsaw z Jakubem Bażelą 25.11.2019 
 
 * 1000 ludzi na meetupie - listopad 2015
 * 2000 ludzi na meetupie - grudzień 2017
