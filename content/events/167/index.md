@@ -1,5 +1,5 @@
 ---
-number: ""
+number: "167"
 date: "2018-10-22T09:00:00+01:00"
 title: "AgileByExample 2018"
 speakers: ""
