@@ -72,6 +72,9 @@ Luźne fakty:
 * #150 (2018-03-17)
 * #200 (2020-04-07)
 
+* opis listy obecności mar 2017
+* cały github mar 2017
+
 * Pierwszy zagraniczny gość: #25 (2011-08-01) Robin Dymond (Lean Development)
 * Pierwszy warsztat: #28 (2011-10-06) Tom Gilb (Lean Quality Assurance — Training)
 * Pierwsze video: #35 (2012-02-27) Marek Kirejczyk NLP: Sekta, ściema i narzędzie managera
