@@ -63,13 +63,18 @@ Ewa natomiast oprócz logistyki wniosła nowe rzesze speakerów, kolejka się ba
 
 A tymczasem w Avivie na Inflanckiej zrobił się tłok, gościli coraz więcej meetupów i nie zawsze byli gotowi nas gościć z oczekiwanym przez nas krótkim wyprzedzeniem (niezbędnym w razie niektórych okazji związanych z zagranicznymi gośćmi). Przez paręnaście miesięcy spotykaliśmy się w BCG, BZ WBK / Santander i Delloite (nasza codwutygodniowa częstotliwość nie była łatwa do gospodarzy).
 
+Kolejka prelegentów była już tak długa, że zaczęliśmy robić spotkania _2w1_ - pierwsze w listopadze 2018.
+
 ## Social PR (Ewa Koprowska, Łukasz Szóstek, Magdalena Walczak, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
-Na wiosnę dołączyła do nas Magda, która zboostowała naszę obecność w mediach społecznościowych. Nasz traktowany po macoszemu [twitter](https://twitter.com/agilewarsaw) zaczął żyć pełnią życia, powstały konta na [facebooku](https://www.facebook.com/AgileWarsaw/) i [linkedinie](https://www.linkedin.com/company/agile-warsaw/). Zaraz potem przebiliśmy 3000 osób zarejestrowanych na meetupie, a ustne czy meetupowe polecenia przestały być najpopularnieszymi sposobami, które nowi uczestnicy wpisują w pole _skąd wiesz o AgileWarsaw_. W 2020 Magda przekazała zbudowane socialowe imperium w ręcę Oli Lysy.
+Na wiosnę 2019 dołączyła do nas Magda, która zboostowała naszę obecność w mediach społecznościowych. Nasz traktowany po macoszemu [twitter](https://twitter.com/agilewarsaw) zaczął żyć pełnią życia, powstały konta na [facebooku](https://www.facebook.com/AgileWarsaw/) i [linkedinie](https://www.linkedin.com/company/agile-warsaw/). Zaraz potem przebiliśmy 3000 osób zarejestrowanych na meetupie, a ustne czy meetupowe polecenia przestały być najpopularnieszymi sposobami, które nowi uczestnicy wpisują w pole _skąd wiesz o AgileWarsaw_. W 2020 Magda przekazała zbudowane socialowe imperium w ręcę Oli Lysy.
 
+Warsztaty robione regularnie na przemian z prezentacjami zachęciły Pawła, żeby wraz ze swoim współpracownikiem Anujem dokończyć _bota_, który na polecenie _wpuść N osób_ ściąga z meetupa listę oczekujących, sortuje pod kątem przewidywalności przychodzenia na poprzednie spotkania i promując tych, którzy częściej bywają sam odklikuje ich meetupowe RSVP. A potem jeszcze wystawia listę do wydrukowania z nie aż tak przez nas używanym QR kodem do elektronicznego odhaczania się na liście obecności.
 
+Wraz ze wzrostem intensywności i rozmiaru zespołu, przestaliśmy sie wszyscy widywać na poniedziałkowych meetupach. Zaczęliśmy się wdzwaniać na cotygodniowe synchronizacje. Szło to tak dobrze, że w listopadzie postanowiliśmy zrobić pierwszą wewnętrzną retrospekcję, poprawadzoną gościnnie i z wielkim wdziękiem przez Kubę Bażelę.
 
-## ciąg dalszy nastąpi :)
+## (Anna Przybyszewska, Ewa Koprowska, Łukasz Przezorski, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
+
 
 Luźne fakty:
 * Łukasz dołączył Dec 16 2015
