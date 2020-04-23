@@ -13,7 +13,7 @@ Spotkania odbywały się na Łuckiej w Aenimie (w firmie Marka), a od stycznia 2
 
 Po kolejnym ACE, Paweł Wrzeszcz i SoftwareMill postanowili zorganizować AgileByExample (z podziwu dla ACE) - zaprosili AgileWarsaw, *bo głupio coś takiego robić w Warszawie bez AgileWarsaw* (ale to inna początek zupełnie innej historii)
 
-W styczniu 2013 trochę zainspirowani i wsparci przez Wiktora Żołnowskiego zaczęliśmy robić BYOPy / Lean Coffee, zwykle w terminach, gdzie nie mieliśmy nagranego speakera.
+W styczniu 2013 trochę zainspirowani i wsparci przez Wiktora Żołnowskiego zaczęliśmy robić BYOPy / Lean Coffee, zwykle w terminach, gdzie nie mieliśmy nagranego speakera. Ta Bring Your Own Problemowa obsesja trwa do dziś - niektórzy z organizatorów uważają, że główna wartość społeczności to wzajemne wsparcie. Dlatego co jakiś czas w różnej formie takie warsztaty proponujemy.
 
 ## Przenosiny na meetup (Marek Kirejczyk, Mateusz Srebrny, Piotr Burdyło)
 
@@ -71,10 +71,17 @@ Na wiosnę 2019 dołączyła do nas Magda, która zboostowała naszę obecność
 
 Warsztaty robione regularnie na przemian z prezentacjami zachęciły Pawła, żeby wraz ze swoim współpracownikiem Anujem dokończyć _bota_, który na polecenie _wpuść N osób_ ściąga z meetupa listę oczekujących, sortuje pod kątem przewidywalności przychodzenia na poprzednie spotkania i promując tych, którzy częściej bywają sam odklikuje ich meetupowe RSVP. A potem jeszcze wystawia listę do wydrukowania z nie aż tak przez nas używanym QR kodem do elektronicznego odhaczania się na liście obecności.
 
-Wraz ze wzrostem intensywności i rozmiaru zespołu, przestaliśmy sie wszyscy widywać na poniedziałkowych meetupach. Zaczęliśmy się wdzwaniać na cotygodniowe synchronizacje. Szło to tak dobrze, że w listopadzie postanowiliśmy zrobić pierwszą wewnętrzną retrospekcję, poprawadzoną gościnnie i z wielkim wdziękiem przez Kubę Bażelę.
+Wraz ze wzrostem intensywności i rozmiaru zespołu, przestaliśmy sie wszyscy widywać na poniedziałkowych meetupach. Zaczęliśmy się wdzwaniać na cotygodniowe synchronizacje. Szło to tak dobrze, że w listopadzie postanowiliśmy zrobić pierwszą wewnętrzną retrospekcję, poprawadzoną gościnnie, z wielkim wdziękiem przez Kubę Bażelę.
+
+Nasza rosnąca wprawa w zakresie wideo doprowadziła (głównie staraniami Łukasza) do regularnych parudziesięciu osób uczestniczących w naszych spotkaniach przez stream. 
 
 ## (Anna Przybyszewska, Ewa Koprowska, Łukasz Przezorski, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
+Pierwszy wniosek z retro - robimy tak dużo spotkań, że nie mamy kiedy robić innych wspaniałych rzeczy. Doprosiliśmy Anię i Luka.
+
+Ania z rozpędu przejęła lwią część logistyki wprawiając resztę zespołu w poczucie, że jeśli ktoś coś chce zrobić musi to zrobić natychmiast, bo inaczej sprawa padnie łupem Ani. Tytanicznym wysiłkiem wraz z Łukaszem, Ania przepisała historyczne wydarzenia z meetupa i starej strony na nową, wspominaną już wcześniej stronę, na której się właśnie zajdujemy.
+
+Luke natomiast, oprócz również niemałego wsparcia logistycznego, dodał to zespołu talenty krasomówcze, podnosząc poprzeczkę w dziedzinie zapowiadania prelegentów tuż przed prezentacją. Drugi sukces to dalsze (już tym razem programatyczne) automatyzacje na naszym trello z logistyką prelegentów.
 
 Luźne fakty:
 * Łukasz dołączył Dec 16 2015
