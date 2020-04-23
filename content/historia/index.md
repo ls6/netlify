@@ -129,5 +129,5 @@ To był też pierwszy rok gdy mieliśmy "sponsora biznesowego". W zamian za "trz
 
 W [2017 roku](/events/130) ABE Light pokonuje kolejny krok w dorastaniu—konferencję otwiera "prawdziwy" keynote. Poprzedni też byli fajni ale tym razem mamy kogoś, kto nie jest dostępny na codzień co przy okazji przesuwa nas z czerwca na kwiecień, gdzie zostaniemy na dłużej. ProCognita sprowadza nam Grega Hutchings-a i przy okazji przeprowadza warsztat.
 
-Kolejne edycje, w [2018](/events/150), [2019](/events/179) i [2020](/events/198) roku trzymają się tej formuły i tylko rośnie nam liczba warsztatów, które z racji ograniczonego czasu musimy prowadzić równolegle.
+Kolejne edycje, w [2018](/events/150), [2019](/events/179) i [2020](/events/198) roku trzymają się tej formuły i tylko rośnie nam liczba warsztatów, które z racji ograniczonego czasu musimy prowadzić równolegle. Od 2018 konferencja dostaje własną stronę <a href="https://abelight.agilewarsaw.com">abelight.agilewarsaw.com</a> a logistykę, zapisy i komunikację przenosimy na Slacka. I tak, krok po kroku, od niewinnego stwierdzenia Tomka powstała wiosenna konferencja, na której co roku znajdujemy kogoś, kto przyjechał na nią specjalnie zza granicy.
 
