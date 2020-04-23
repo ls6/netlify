@@ -41,11 +41,15 @@ Po pół roku Aviva przeniosła się na Inflancką, a my razem z nią. Przez pó
 
 ## Pomoc techniczna nadchodzi (Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz)
 
-Aviva na Inflanckiej miała specyfikę zabawną w dwóch aspekatach. Po pierwsze potrzebny był bramkarz, który wpuszczał gości przez bramkę na parterze, podchodził z nimi do windy i podkładając odpowiednią kartę wysyłał na górę... Do odbioru przez drugiego organizatora, który drugą kartą otwierał drzwi do sal konferencyjnych :) Druga specyfika (niekoniecznie związana z samą Avivą) polegała na tym, że co i rusz brakowało działających przejściówek lub kabelków. 
+Aviva na Inflanckiej miała specyfikę zabawną w dwóch aspekatach. Po pierwsze potrzebny był bramkarz, który wpuszczał gości przez bramkę na parterze, podchodził z nimi do windy i podkładając odpowiednią kartę wysyłał na górę... do odbioru przez drugiego organizatora, który drugą kartą otwierał drzwi do sal konferencyjnych :) Druga specyfika (niekoniecznie związana z samą Avivą) polegała na tym, że co i rusz brakowało działających przejściówek lub kabelków. 
 
 Oba tematy zaadresował dołączający w tym czasie Paweł, często osobiście obsługując bramkę i szykując tak zwaną _skrzynkę_ w której było wszystko co może sobie zamarzyć ktoś próbujący się podłączyć czymkolwiek do rzutnika VGA. 
 
 Pojawił się też budzący dużo emocji flipchart pokazywany prelegentowi z napisem _POWTÓRZ PYTANIE_, będący niskobudżetowym rozwiązaniem problemu z kiepską słyszalnością pytań od publiczności w nagraniu - nasi goście byłi (i nadal są) tak aktywni b, że bardzo rzadko udawało nam się dobiec z mikrofonem zanim pytający skończył mówić. 
+
+Poza tradycyjnymi prezentacjami zaczęliśmy też organizować warsztaty - w tym zakresie głównym problemem organizacyjnym była przewidywalność... Na zwykły meetup przychodziło 30%-50% zapisanych, co podczas komunikacji jeden do wielu różnicy dużej nie robi (logistycznie), ale przy warsztacie zlimitowanym np na 20 osób potrafi sprawę zepsuć totalnie. Tak zaczęła się nasza przygoda z listami obecności i zapisywaniem _no showów_ ludziom, którzy byli kliknięci, że przyjdą a nie przychodzili. Meetup nie był zbyt wygodny w tym zakresie, więc Łukasz na szybko zmontował mikroserwisik, którzy z API meetupowego wyciągał listę gości i formatował pdfa, którego łatwo było wydrukować.
+
+Razem z tym wszystkim objawiła się druga po wideo pasja Łukasza - upublicznianie wszystkich informacji. I znowu, od założenia konta AW na githubie na początku 2017 roku, krok po kroku w 2020 mamy wspaniałą nową stronę www, która w założeniu ma nas uchronić od zależności od meetupa (który miewa różne dziwne pomysł na monetyzację swoich usług i na niezbyt bezpieczne zmiany w API ;)
 
 ## Więcej mocy (Ewa Koprowska, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
