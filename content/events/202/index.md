@@ -15,7 +15,7 @@ Praktyczne wykorzystanie impact mapping oraz user story mapping w przygotowaniu 
 Interaktywna prelekcja z wykorzystaniem wirtualnej tablicy i karteczek, przeplatana dużą liczbą krótkich ćwiczeń.
 
 
-## Prowadzący:
+### Prowadzący:
 
 <a href="https://www.linkedin.com/in/pawelskiscim/" target="_blank">Paweł Skiścim</a>
 
