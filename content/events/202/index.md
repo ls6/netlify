@@ -1,5 +1,5 @@
 ---
-number: "200"
+number: "202"
 date: "2020-05-04T18:00:00+01:00"
 title: "[warsztat] Impact Mapping vs. User Story Mapping - jak zarządzać backlogiem produktu?"
 speakers: "Paweł Skiścim"
