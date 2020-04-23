@@ -77,7 +77,7 @@ Wraz ze wzrostem intensywności i rozmiaru zespołu, przestaliśmy sie wszyscy w
 
 Nasza rosnąca wprawa w zakresie wideo doprowadziła (głównie staraniami Łukasza) do regularnych parudziesięciu osób uczestniczących w naszych spotkaniach przez stream. 
 
-## (Anna Przybyszewska, Ewa Koprowska, Łukasz Przezorski, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
+## Skalowanie na ogromną skalę (Anna Przybyszewska, Ewa Koprowska, Łukasz Przezorski, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
 Pierwszy wniosek z retro - robimy tak dużo spotkań, że nie mamy kiedy robić innych wspaniałych rzeczy. Doprosiliśmy Anię i Luka.
 
