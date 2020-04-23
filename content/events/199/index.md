@@ -2,7 +2,7 @@
 number: "199"
 date: "2020-03-23T15:17:30+01:00"
 title: "Scrum Tale — warsztat zdalny"
-speakers: "Ewa koprowska, Dominik Jabłoński"
+speakers: "Ewa Koprowska, Dominik Jabłoński"
 lang: "pl"
 sponsors: []
 videoURL: ""
