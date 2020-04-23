@@ -33,6 +33,10 @@ W zasadzie cały 2015 rok zszedł na poszukiwanie naszego miejsca. ElPassion zro
 
 Szukanie kolejnych miejsc i pokonywanie ochrony na Domanieskiej wykreowało kolejnego organizatora - Łukasza. Od tego momentu AgileWarsaw zyskało nową misję - coraz lepsze uwiecznianie wspaniałych treści przynoszonych przez niezliczone ilości chcących się dzielić prelegentów. Krok po kroku coraz lepiej technicznie, Łukasz prowadził nas do profesjonalnej edycji i streamowania spotkań na żywo i filmów z odsłonami liczonymi w setkach a nawet w tysiącach. 
 
+Zaczęła się też regularna współpraca z Piotrem Klonowskim (od AgileByExample light 2016) filmującym i montującym nasze filmy, którego odkryliśmy przy okazji któregoś ABE. 
+
+Outsourcing filmowania dał pole do popisu pierwszym sponsorom. Prelegenci do dziś mogą sami opłacać uslugi Piotra lub korzystać z oficjalnego sponsora. Nigdy nie narzekaliśmy na niedostatek firm chcących mieć swoje życie logo na naszym contencie - allegro, sollers i qagile chętnie sponsorowały nie tylko swoje nagrania. Dzięki temu nawet mniej umowcowani prelegnci do dziś dzielą się swoimi historiami na kanale AgileWarsaw. 
+
 Po pół roku Aviva przeniosła się na Inflancką, a my razem z nią. Przez półtora roku korzystalismy ze wspaniałej stabilności, zadomowieni i zaopiekowani w bardzo miły sposób przez Marlenę Kalmuk, a później Adriana Kieltykę. 
 
 ## Pomoc techniczna nadchodzi (Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz)
@@ -41,7 +45,7 @@ Aviva na Inflanckiej miała specyfikę zabawną w dwóch aspekatach. Po pierwsze
 
 Oba tematy zaadresował dołączający w tym czasie Paweł, często osobiście obsługując bramkę i szykując tak zwaną _skrzynkę_ w której było wszystko co może sobie zamarzyć ktoś próbujący się podłączyć czymkolwiek do rzutnika VGA. 
 
-Zaczęła się też regularna współpraca z Piotrem Klonowskim filmującym i montującym nasze filmy, którego też trzeba było wpuścić przez bramkę i zawieźć na górę windą. Pojawił się też budzący dużo emocji flipchart pokazywany prelegentowi z napisem _POWTÓRZ PYTANIE_, będący niskobudżetowym rozwiązaniem problemu z kiepska słyszalnością pytań od publiczności w nagraniu - nasza publiczność była (i nadal jest) tak aktywna, że bardzo rzadko udawało nam się dobiec z mikrofonem zanim pytający skończył mówić.
+Pojawił się też budzący dużo emocji flipchart pokazywany prelegentowi z napisem _POWTÓRZ PYTANIE_, będący niskobudżetowym rozwiązaniem problemu z kiepską słyszalnością pytań od publiczności w nagraniu - nasi goście byłi (i nadal są) tak aktywni b, że bardzo rzadko udawało nam się dobiec z mikrofonem zanim pytający skończył mówić. 
 
 ## Więcej mocy (Ewa Koprowska, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
@@ -77,6 +81,8 @@ Luźne fakty:
 * ostatni meetup na Inflanckiej #148 2018-03-05
 * BCG, BZ WBK / Santander, Delloite
 * PKO od #183 2019-05-27
+
+* Sponsorzy wideo - procognita, allegro, sollers, qagile
 
 * pierwsze [2w1] #172 2018-12-17
 
