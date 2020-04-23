@@ -53,6 +53,18 @@ Razem z tym wszystkim objawiła się druga po wideo pasja Łukasza - upublicznia
 
 ## Więcej mocy (Ewa Koprowska, Łukasz Szóstek, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
+Pod koniec 2017 roku liczba uczestników meetupa przebiła 2000, na co pewnie miało wpływ to, że zaczęliśmy robić więcej spotkań. W tej sytuacji zaprosiliśmy do współpracy Ewę i Piotra, którzy ruszyli z kopyta ogromnie powiększając naszą logistyczna przepustowość. Grona organizatorów ABE i AW zaczęły się tak różnić, że po długiej gościnie na AgileByExamplowym slacku, przesiedliśmy się na własnego.
+
+Okazało się, że to co w 3 osoby było super oczywiste, w 5 jest mniej... Nasze trello w którym wizualizowaliśmy obsługę spotkań się utransparentniło (w 2020 mamy 14 kolumn z checklistami na w sumie 28 pozycji) i faktycznie prowadzi nas przez ten powtarzalny proces prawie bez udziału mózgu (kolejny konik Łukasza)
+
+Piotr zredefiniował rolę bramkarza - teraz mówimy tak o człowieku, który pilnuje, żeby wszyscy przychodzący odhaczyli się na liście, oraz zarządza _żywą waitlistą_, czyli osobami, które się nie zmieściły, ale w razie nie przyjścia wszystkich (zawsze mimo najlepszych chęci komuś coś wypadnie jednak) wskakują z marszu na wolne miejsca.
+
+Ewa natomiast oprócz logistyki wniosła nowe rzesze speakerów, kolejka się bardzo wydłuzyła (lead time wzrósł nam do ponad roku) oraz inicjatywy takie jak publiczna retrospektywa AgileWarsaw (pierwsze zdalne spotkanie przeprowadzone wraz z Piotrkiem) czy warsztaty definiujące [persony uczestników](https://persony.agilewarsaw.com/Persony.pdf)
+
+A tymczasem w Avivie na Inflanckiej zrobił się tłok, gościli coraz więcej meetupów i nie zawsze byli gotowi nas gościć z oczekiwanym przez nas krótkim wyprzedzeniem (niezbędnym w razie niektórych okazji związanych z zagranicznymi gośćmi).
+
+
+
 ## Social PR (Ewa Koprowska, Łukasz Szóstek, Magdalena Walczak, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
 ## ciąg dalszy nastąpi :)
