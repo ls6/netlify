@@ -61,11 +61,13 @@ Piotr zredefiniował rolę bramkarza - teraz mówimy tak o człowieku, który pi
 
 Ewa natomiast oprócz logistyki wniosła nowe rzesze speakerów, kolejka się bardzo wydłuzyła (lead time wzrósł nam do ponad roku) oraz inicjatywy takie jak publiczna retrospektywa AgileWarsaw (pierwsze zdalne spotkanie przeprowadzone wraz z Piotrkiem) czy warsztaty definiujące [persony uczestników](https://persony.agilewarsaw.com/Persony.pdf)
 
-A tymczasem w Avivie na Inflanckiej zrobił się tłok, gościli coraz więcej meetupów i nie zawsze byli gotowi nas gościć z oczekiwanym przez nas krótkim wyprzedzeniem (niezbędnym w razie niektórych okazji związanych z zagranicznymi gośćmi).
-
-
+A tymczasem w Avivie na Inflanckiej zrobił się tłok, gościli coraz więcej meetupów i nie zawsze byli gotowi nas gościć z oczekiwanym przez nas krótkim wyprzedzeniem (niezbędnym w razie niektórych okazji związanych z zagranicznymi gośćmi). Przez paręnaście miesięcy spotykaliśmy się w BCG, BZ WBK / Santander i Delloite (nasza codwutygodniowa częstotliwość nie była łatwa do gospodarzy).
 
 ## Social PR (Ewa Koprowska, Łukasz Szóstek, Magdalena Walczak, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
+
+Na wiosnę dołączyła do nas Magda, która zboostowała naszę obecność w mediach społecznościowych. Nasz traktowany po macoszemu [twitter](https://twitter.com/agilewarsaw) zaczął żyć pełnią życia, powstały konta na [facebooku](https://www.facebook.com/AgileWarsaw/) i [linkedinie](https://www.linkedin.com/company/agile-warsaw/). Zaraz potem przebiliśmy 3000 osób zarejestrowanych na meetupie, a ustne czy meetupowe polecenia przestały być najpopularnieszymi sposobami, które nowi uczestnicy wpisują w pole _skąd wiesz o AgileWarsaw_. W 2020 Magda przekazała zbudowane socialowe imperium w ręcę Oli Lysy.
+
+
 
 ## ciąg dalszy nastąpi :)
 
