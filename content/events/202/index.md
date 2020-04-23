@@ -9,10 +9,10 @@ videoURL: ""
 draft: false
 ---
 
-Techniki pracy z backlogiem złożonym ze zbyt wielu wymagań (lub ich braku).
-Odkrywanie wartości biznesowej dla... no własnie - kogo? - empatyzacja persony.
-Praktyczne wykorzystanie impact mapping oraz user story mapping w przygotowaniu strategii i monitorowaniu postępów budowy produktu.
-Interaktywna prelekcja z wykorzystaniem wirtualnej tablicy i karteczek, przeplatana dużą liczbą krótkich ćwiczeń.
+- Techniki pracy z backlogiem złożonym ze zbyt wielu wymagań (lub ich braku).
+- Odkrywanie wartości biznesowej dla... no własnie - kogo? Empatyzacja persony.
+- Praktyczne wykorzystanie **impact mapping** oraz **user story mapping** w przygotowaniu strategii i monitorowaniu postępów budowy produktu.
+- Interaktywna prelekcja z wykorzystaniem wirtualnej tablicy i karteczek, przeplatana dużą liczbą krótkich ćwiczeń.
 
 
 ### Prowadzący:
