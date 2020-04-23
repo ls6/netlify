@@ -91,49 +91,9 @@ Ten czas przyniósł też kolejne wyzwania związane z pandemiczną koniecznośc
 
 ## ciąg dalszy nastąpi :)
 
-## Luźne kalendarium
-* 2015.12.16 Łukasz dołączył jako organizator 
-* Reef dołączył jako organizator  22, 2017
-* Ewa i Piotr dołączyli 22 Feb 2018 - dokładnie rok później lol ;) tylko, że po okresie próbnym
-* Magda dołączyła na wiosnę 2019
-* Ania dołącza 6 kwietnia 2020
-* Luke dołącza 20 kwietnia 2020
 
-* Retro AgileWarsaw z Jakubem Bażelą 25.11.2019 
 
-* 1000 ludzi na meetupie - listopad 2015
-* 2000 ludzi na meetupie - grudzień 2017
-* 3000 ludzi na meetupie - maj 2019
-
-* #50 (2013-02-11)
-* #100 (2015-06-29)
-* #150 (2018-03-17)
-* #200 (2020-04-07)
-
-* opis listy obecności mar 2017
-* cały github mar 2017
-
-* Pierwszy zagraniczny gość: #25 (2011-08-01) Robin Dymond (Lean Development)
-* Pierwszy warsztat: #28 (2011-10-06) Tom Gilb (Lean Quality Assurance — Training)
-* Pierwsze video: #35 (2012-02-27) Marek Kirejczyk NLP: Sekta, ściema i narzędzie managera
-
-* pierwszy meetup w Avivie #106 2015-11-23
-* ostatni meetup na Domaniewskiej #117 2016-06-27
-* ostatni meetup na Inflanckiej #148 2018-03-05
-* BCG, BZ WBK / Santander, Delloite
-* PKO od #183 2019-05-27
-
-* Sponsorzy wideo - procognita, allegro, sollers, qagile
-
-* pierwsze [2w1] #172 2018-12-17
-
-Notatki Łukasza wyciągnięte z nagrań:
-
-  * pierwsze video zrobione przez Łukasza: 28.11.2015 — przyjechał Ran Nyman i szkoda było tego jakoś nie utrwalić
-  * pierwsze sponsorowane nagranie: ProCognita sponsoruje Mary Poppendieck, którą z resztą nam sprowadzili
-  * od listopada 2016 mamy regularnie sponsorowane nagrania
-
-## ABE Light
+# ABE Light
 
 Równolegle z poniedziałkowymi spotkaniami od 2013 roku organizujemy w sobotnie popołudnie "mniejszą, młodszą i szczuplejszą siostrę konferencji AgileByExample" — <a href="https://abelight.agilewarsaw.com/">ABE Light</a>. [Pierwszą](/events/55/) gościł Wydział Matematyki Informatyki i Mechaniki UW --- to dlatego, że stamtąd wywodzą się ówcześni organizatorzy. Pomysł poddał Tomek Szymański z SoftwareMilla stwierdzeniem  _skoro pierwsze ABE jesienią tak dobrze poszło, czemu czekać aż do kolejnej jesieni?_
 
@@ -141,15 +101,43 @@ Najbardziej intrygujący prelegentem pierwszej edycji był major armii Stanów Z
 
 Nie wiem czy skutkiem prezentacji majora Spencera czy nie ale "celem wychodzenia z agile-owgo pudełka" w programach kolejnych wydań ABE Light zaczął regularnie gościć temat nie związany bezpośrednio ze zwinnością. W [2014 roku](/events/78) Marcin Kwieciński próbował nas namówić, żebyśmy zrozumieli swojego szefa a [w 2015](/events/98) Marek Pasierbski opowiadał o życiu i śnie polifazowym. Upolowanie ciekawych prelegentów spoza świata agile było wyzwaniem jedynym w swoim rodzaju.
 
-### Przełom numer 1: Vistula, warsztaty, sponsorzy
+## Przełom numer 1: Vistula, warsztaty, sponsorzy
 
 W 2016 roku nastąpił przełom w formacie ABE Light. Przypadkowo. Na początku tego roku skontaktowała się z nami grupa coach-ów (takich "tradycyjnych") szukając dla siebie jakichś punktów styku ze światem zwinności. W ramach poniedziałkowych spotkań pomogli nam zrobić [remanent potrzeb Product Ownerów](/events/113) i ten warsztat poszedł tak dobrze, że podjęli się przeprowadzenia dużego warsztatu w ramach [ABE Light 2016](/events/115/). Warsztaty spotkały się z dobrym przyjęciem a my uwierzyliśmy, że możemy je organizować na większą skalę---na ABE Light przychodziło wtedy ponad 100 osób. To był też nasz pierwszy raz na Vistuli, z którą przypadkowo Łukasz nawiązał przyjazne relacje.
 
 To był też pierwszy rok gdy mieliśmy "sponsora biznesowego". W zamian za "trzy minuty z mikrofonem na scenie w celu delikatnego i nienachalnego pokazania wizerunku firmy" CT Partners funduje nam przekąski dla uczestników.
 
-### Przełom numer 2: nadciąga ProCognita
+## Przełom numer 2: nadciąga ProCognita
 
 W [2017 roku](/events/130) ABE Light pokonuje kolejny krok w dorastaniu—konferencję otwiera "prawdziwy" keynote. Poprzedni też byli fajni ale tym razem mamy kogoś, kto nie jest dostępny na codzień co przy okazji przesuwa nas z czerwca na kwiecień, gdzie zostaniemy na dłużej. ProCognita sprowadza nam Grega Hutchings-a i przy okazji przeprowadza warsztat.
 
 Kolejne edycje, w [2018](/events/150), [2019](/events/179) i [2020](/events/198) roku trzymają się tej formuły i tylko rośnie nam liczba warsztatów, które z racji ograniczonego czasu musimy prowadzić równolegle. Od 2018 konferencja dostaje własną stronę <a href="https://abelight.agilewarsaw.com">abelight.agilewarsaw.com</a> a logistykę, zapisy i komunikację przenosimy na Slacka. I tak, krok po kroku, od niewinnego stwierdzenia Tomka powstała wiosenna konferencja, na której co roku znajdujemy kogoś, kto przyjechał na nią specjalnie zza granicy.
+
+# Luźne kalendarium
+
+* 2020 kwiecień - meetup #200
+* 2020 kwiecień Ania i Luke dołączają jako organizatorzy
+* 2020 marzec Magda przekazuje społecznościową pałeczkę Oli Lysy
+* 2019 listopad - retro AgileWarsaw z Kubą Bażelą 
+* 2019 maj - 3000 ludzi na meetupie
+* 2019 marzec Magda dołącza jako organizator
+* 2018 grudzień - pierwsze [2w1] #172 2018-12-17
+* 2018 marzec - meetup #150
+* 2018 luty Ewa i Piotr dołączają jako organizatorzy 
+* 2017 grudzień - 2000 ludzi na meetupie
+* 2017 marzec - github i pierwsze zasady naokoło _no show_ów
+* 2017 luty Paweł dołącza jako organizator
+* 2016 listopad - początek regularnie sponsorowanych nagrań (ProCognita, allegro, Sollers, QAgile)
+* 2015 grudzień Łukasz dołącza jako organizator 
+* 2015 listopad - pierwsze wideo zrobione przez Łukasza (przyjechał Ran Nyman i szkoda było tego jakoś nie utrwalić)
+* 2015 listopad - 1000 ludzi na meetupie 
+* 2015 czerwiec - meetup #100
+* 2013 marzec - Piotr dołącza jako organizator
+* 2013 marzec - pierwszy ABE Light
+* 2013 luty - meetup #50
+* 2012 luty - pierwsze video: #35 Marek Kirejczyk (NLP: Sekta, ściema i narzędzie managera)
+* 2011 sierpień - pierwszy zagraniczny gość: #25 Robin Dymond (Lean Development)
+* 2011 październik - pierwszy warsztat: #28 Tom Gilb (Lean Quality Assurance — Training)
+* 2011 maj - meetup #1
+* 2011 marzec - założycielskie spotkanie w Emerald Irish Pubie przy rondzie de Gaulle'a
 
