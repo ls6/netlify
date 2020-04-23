@@ -110,3 +110,24 @@ Notatki Łukasza wyciągnięte z nagrań:
   * pierwsze video zrobione przez Łukasza: 28.11.2015 — przyjechał Ran Nyman i szkoda było tego jakoś nie utrwalić
   * pierwsze sponsorowane nagranie: ProCognita sponsoruje Mary Poppendieck, którą z resztą nam sprowadzili
   * od listopada 2016 mamy regularnie sponsorowane nagrania
+
+## ABE Light
+
+Równolegle z poniedziałkowymi spotkaniami od 2013 roku organizujemy w sobotnie popołudnie "mniejszą, młodszą i szczuplejszą siostrę konferencji AgileByExample" — <a href="https://abelight.agilewarsaw.com/">ABE Light</a>. [Pierwszą](/events/55/) gościł Wydział Matematyki Informatyki i Mechaniki UW --- to dlatego, że stamtąd wywodzą się ówcześni organizatorzy. Pomysł poddał Tomek Szymański z SoftwareMilla stwierdzeniem  _skoro pierwsze ABE jesienią tak dobrze poszło, czemu czekać aż do kolejnej jesieni?_
+
+Najbardziej intrygujący prelegentem pierwszej edycji był major armii Stanów Zjednoczonych Rocco Spencer. Mówił o przywództwie, w odróżnieniu od zarządzania, i jego opowieść jak to się robi w armii byłaby nowością dla wielu polskich managerów. Ale tacy wtedy do nas nie przychodzili.
+
+Nie wiem czy skutkiem prezentacji majora Spencera czy nie ale "celem wychodzenia z agile-owgo pudełka" w programach kolejnych wydań ABE Light zaczął regularnie gościć temat nie związany bezpośrednio ze zwinnością. W [2014 roku](/events/78) Marcin Kwieciński próbował nas namówić, żebyśmy zrozumieli swojego szefa a [w 2015](/events/98) Marek Pasierbski opowiadał o życiu i śnie polifazowym. Upolowanie ciekawych prelegentów spoza świata agile było wyzwaniem jedynym w swoim rodzaju.
+
+### Przełom numer 1: Vistula, warsztaty, sponsorzy
+
+W 2016 roku nastąpił przełom w formacie ABE Light. Przypadkowo. Na początku tego roku skontaktowała się z nami grupa coach-ów (takich "tradycyjnych") szukając dla siebie jakichś punktów styku ze światem zwinności. W ramach poniedziałkowych spotkań pomogli nam zrobić [remanent potrzeb Product Ownerów](/events/113) i ten warsztat poszedł tak dobrze, że podjęli się przeprowadzenia dużego warsztatu w ramach [ABE Light 2016](/events/115/). Warsztaty spotkały się z dobrym przyjęciem a my uwierzyliśmy, że możemy je organizować na większą skalę---na ABE Light przychodziło wtedy ponad 100 osób. To był też nasz pierwszy raz na Vistuli, z którą przypadkowo Łukasz nawiązał przyjazne relacje.
+
+To był też pierwszy rok gdy mieliśmy "sponsora biznesowego". W zamian za "trzy minuty z mikrofonem na scenie w celu delikatnego i nienachalnego pokazania wizerunku firmy" CT Partners funduje nam przekąski dla uczestników.
+
+### Przełom numer 2: nadciąga ProCognita
+
+W [2017 roku](/events/130) ABE Light pokonuje kolejny krok w dorastaniu—konferencję otwiera "prawdziwy" keynote. Poprzedni też byli fajni ale tym razem mamy kogoś, kto nie jest dostępny na codzień co przy okazji przesuwa nas z czerwca na kwiecień, gdzie zostaniemy na dłużej. ProCognita sprowadza nam Grega Hutchings-a i przy okazji przeprowadza warsztat.
+
+Kolejne edycje, w [2018](/events/150), [2019](/events/179) i [2020](/events/198) roku trzymają się tej formuły i tylko rośnie nam liczba warsztatów, które z racji ograniczonego czasu musimy prowadzić równolegle.
+
