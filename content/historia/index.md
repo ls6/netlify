@@ -113,9 +113,11 @@ Notatki Łukasza wyciągnięte z nagrań:
 
 ## ABE Light
 
-Równolegle z poniedziałkowymi spotkaniami od 2013 roku organizujemy w sobotnie popołudnie "mniejszą, młodszą i szczuplejszą siostrę konferencji AgileByExample" — <a href="https://abelight.agilewarsaw.com/">ABELight</a>. [Pierwszą](/events/55/) gościł Wydział Matematyki Informatyki i Mechaniki UW --- to pewnie dlatego, że stamtąd wywodzą się ówcześni organizatorzy --- a najbardziej intrygujący prelegentem był major armii Stanów Zjednoczonych Rocco Spencer. Mówił o przywództwie, w odróżnieniu od zarządzania, i jego opowieść jak to się robi w armii byłaby nowością dla wielu polskich managerów. Ale tacy wtedy do nas nie przychodzili.
+Równolegle z poniedziałkowymi spotkaniami od 2013 roku organizujemy w sobotnie popołudnie "mniejszą, młodszą i szczuplejszą siostrę konferencji AgileByExample" — <a href="https://abelight.agilewarsaw.com/">ABE Light</a>. [Pierwszą](/events/55/) gościł Wydział Matematyki Informatyki i Mechaniki UW --- to dlatego, że stamtąd wywodzą się ówcześni organizatorzy. Temat rozpoczął Tomek Szymański z SoftwareMilla, z myślą _skoro pierwsze ABE jesienią tak dobrze poszło, czemu czekać aż do kolejnej jesieni?_
 
-Nie wiem czy skutkiem prezentacji majora Spencera czy nie ale w programach kolejnych wydań ABE Light zaczął regularnie gościć temat nie związany bezpośrednio ze zwinnością. W [2014 roku](/events/78) Marcin Kwieciński próbował nas namówić, żebyśmy zrozumieli swojego szefa a [w 2015](/events/98) Marek Pasierbski opowiadał o życiu i śnie polifazowym. Upolowanie ciekawych prelegentów spoza świata agile było wyzwaniem jedynym w swoim rodzaju.
+Najbardziej intrygujący prelegentem był major armii Stanów Zjednoczonych Rocco Spencer. Mówił o przywództwie, w odróżnieniu od zarządzania, i jego opowieść jak to się robi w armii byłaby nowością dla wielu polskich managerów. Ale tacy wtedy do nas nie przychodzili.
+
+Nie wiem czy skutkiem prezentacji majora Spencera czy nie ale celem wychodzenia z pudełka w programach kolejnych wydań ABE Light zaczął regularnie gościć temat nie związany bezpośrednio ze zwinnością. W [2014 roku](/events/78) Marcin Kwieciński próbował nas namówić, żebyśmy zrozumieli swojego szefa a [w 2015](/events/98) Marek Pasierbski opowiadał o życiu i śnie polifazowym. Upolowanie ciekawych prelegentów spoza świata agile było wyzwaniem jedynym w swoim rodzaju.
 
 ### Przełom numer 1: Vistula, warsztaty, sponsorzy
 
