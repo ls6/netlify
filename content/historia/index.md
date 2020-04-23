@@ -63,7 +63,9 @@ Ewa natomiast oprócz logistyki wniosła nowe rzesze speakerów, kolejka się ba
 
 A tymczasem w Avivie na Inflanckiej zrobił się tłok, gościli coraz więcej meetupów i nie zawsze byli gotowi nas gościć z oczekiwanym przez nas krótkim wyprzedzeniem (niezbędnym w razie niektórych okazji związanych z zagranicznymi gośćmi). Przez paręnaście miesięcy spotykaliśmy się w BCG, BZ WBK / Santander i Delloite (nasza codwutygodniowa częstotliwość nie była łatwa do gospodarzy).
 
-Kolejka prelegentów była już tak długa, że zaczęliśmy robić spotkania _2w1_ - pierwsze w listopadze 2018.
+Od czasów Santandera rozwiązujemy w bardziej technologicznie zaawansowany sposób kwestię flipchartu _POWTÓRZ PYTANIE_ - Code Sprinters funduje nam kostę, czyli mikrofon, którym prelegent rzuca w chcącego zadać pytanie.
+
+Kolejka prelegentów stała się już tak długa, że zaczęliśmy robić spotkania _2w1_ - pierwsze w listopadze 2018.
 
 ## Social PR (Ewa Koprowska, Łukasz Szóstek, Magdalena Walczak, Mateusz Srebrny, Paweł Polewicz, Piotr Radaj)
 
@@ -83,9 +85,15 @@ Ania z rozpędu przejęła lwią część logistyki wprawiając resztę zespołu
 
 Luke natomiast, oprócz również niemałego wsparcia logistycznego, dodał to zespołu talenty krasomówcze, podnosząc poprzeczkę w dziedzinie zapowiadania prelegentów tuż przed prezentacją. Drugi sukces to dalsze (już tym razem programatyczne) automatyzacje na naszym trello z logistyką prelegentów.
 
-Luźne fakty:
-* Łukasz dołączył Dec 16 2015
-* Reef dołączył jako organizator  Feb 22, 2017
+Formalnie Ania i Luke dołączyli na wiosnę 2020, po udanym ABE Lightcie. 
+
+Ten czas przyniósł też kolejne wyzwania związane z pandemiczną koniecznością robienia spotkań zdalnie. Eksperymentujemy z formami, dzięki Łukaszowi, Piotrowi i Ewie, wyczyniającymi pod spodem cuda zoomowe, nie przestajemy dostarczać atrakcyjnych treści naszej społeczności.
+
+## ciąg dalszy nastąpi :)
+
+## Luźne kalendarium
+* 2015.12.16 Łukasz dołączył jako organizator 
+* Reef dołączył jako organizator  22, 2017
 * Ewa i Piotr dołączyli 22 Feb 2018 - dokładnie rok później lol ;) tylko, że po okresie próbnym
 * Magda dołączyła na wiosnę 2019
 * Ania dołącza 6 kwietnia 2020
