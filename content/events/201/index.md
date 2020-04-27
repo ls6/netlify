@@ -5,7 +5,7 @@ title: "Narzędzia wspomagające samoorganizację zespołów"
 speakers: "Adrian Janik, Mateusz Hauk"
 lang: "pl"
 sponsors: ["QAgile", "CodeSprinters"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=2iCLflLN-HE"
 draft: false
 ---
 
