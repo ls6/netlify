@@ -138,6 +138,6 @@ Kolejne edycje, w [2018](/events/150), [2019](/events/179) i [2020](/events/198)
 * 2012 luty - pierwsze video: #35 Marek Kirejczyk (NLP: Sekta, ściema i narzędzie managera)
 * 2011 sierpień - pierwszy zagraniczny gość: #25 Robin Dymond (Lean Development)
 * 2011 październik - pierwszy warsztat: #28 Tom Gilb (Lean Quality Assurance — Training)
-* 2011 maj - meetup #1
-* 2011 marzec - założycielskie spotkanie w Emerald Irish Pubie przy rondzie de Gaulle'a
+* 2010 maj - meetup #1
+* 2010 marzec - założycielskie spotkanie w Emerald Irish Pubie przy rondzie de Gaulle'a
 
