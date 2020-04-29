@@ -35,7 +35,7 @@ Szukanie kolejnych miejsc i pokonywanie ochrony na Domanieskiej wykreowało kole
 
 Zaczęła się też regularna współpraca z Piotrem Klonowskim (od AgileByExample light 2016) filmującym i montującym nasze filmy, którego odkryliśmy przy okazji któregoś ABE. 
 
-Outsourcing filmowania dał pole do popisu pierwszym sponsorom. Prelegenci do dziś mogą sami opłacać uslugi Piotra lub korzystać z oficjalnego sponsora. Nigdy nie narzekaliśmy na niedostatek firm chcących mieć swoje życie logo na naszym contencie - allegro, sollers i qagile chętnie sponsorowały nie tylko swoje nagrania. Dzięki temu nawet mniej umowcowani prelegnci do dziś dzielą się swoimi historiami na kanale AgileWarsaw. 
+Outsourcing filmowania dał pole do popisu pierwszym sponsorom. Prelegenci do dziś mogą sami opłacać uslugi Piotra lub korzystać z oficjalnego sponsora. Nigdy nie narzekaliśmy na niedostatek firm chcących mieć swoje życie logo na naszym contencie - allegro, sollers i qagile chętnie sponsorowały nie tylko swoje nagrania. Dzięki temu nawet mniej umocowani prelegnci do dziś dzielą się swoimi historiami na kanale AgileWarsaw. 
 
 Po pół roku Aviva przeniosła się na Inflancką, a my razem z nią. Przez półtora roku korzystalismy ze wspaniałej stabilności, zadomowieni i zaopiekowani w bardzo miły sposób przez Marlenę Kalmuk, a później Adriana Kieltykę. 
 
@@ -136,8 +136,8 @@ Kolejne edycje, w [2018](/events/150), [2019](/events/179) i [2020](/events/198)
 * 2013 marzec - pierwszy ABE Light
 * 2013 luty - meetup #50
 * 2012 luty - pierwsze video: #35 Marek Kirejczyk (NLP: Sekta, ściema i narzędzie managera)
-* 2011 sierpień - pierwszy zagraniczny gość: #25 Robin Dymond (Lean Development)
-* 2011 październik - pierwszy warsztat: #28 Tom Gilb (Lean Quality Assurance — Training)
+* 2011 październik - pierwszy warsztat: #28 Tom Gilb (Lean Quality Assurance — Training, namówiony przez ProCognitę)
+* 2011 sierpień - pierwszy zagraniczny gość: #25 Robin Dymond (Lean Development, namówiony przez ProCognitę)
 * 2010 maj - meetup #1
 * 2010 marzec - założycielskie spotkanie w Emerald Irish Pubie przy rondzie de Gaulle'a
 
