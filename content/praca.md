@@ -1,7 +1,14 @@
+
+# Człowiek szuka pracy 
+
+{{% styled-table "htable" %}}
+
 | Imię i Nazwisko  | O mnie |
 | ---        |    ----   |
 | Mateusz Srebrny      | Tu można napisać coś o sobie. Nowa linia <br> Nowy paragraf: 2 nowe linie <br><br>I reszta. Link do [LinkedIn](https://pl.linkedin.com/in/mateuszsrebrny) |
 |Jan Kowalski | Coś o Janie…|
+
+{{% /styled-table %}}
 
 ### Podpowiedzi:
 
