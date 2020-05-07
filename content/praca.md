@@ -17,3 +17,5 @@ Warto przyłożyć się do ogłoszenia :) Chcesz zaoszczędzić czasu i sobie i 
 Napisz kilka słów o sobie, podlinkuj CV, LinkedIn itp., napisz jakiej pracy i czego generalnie oczekujesz od pracodawcy, dostępność, lokalizacja, typ umowy, może oczekiwania finansowe?
 
 Warto też dać namiary na kogoś, kto pracował z Tobą i porozmawiałby z potencjalnym pracodawcą.
+
+Możesz pisać po polsku i / lub po angielsku - jak wolisz :)
