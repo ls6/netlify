@@ -5,7 +5,7 @@
 
 | Imię, nazwisko i kontakt  | O mnie | Oczekiwania |
 | ---        |    ----   | --- |
-| Mateusz Srebrny<br>[LinkedIn](https://pl.linkedin.com/in/mateuszsrebrny) | Jestem Agile Coachem / Scrum Masterem, który pracuje blisko zespołów, inspirując je w duchu [Modern Agile](http://modernagile.org) oraz [prawa Dude'a](https://twitter.com/YvesHanoulle/status/1025421506107637760/photo/1)<br> Najlepiej się czuję (i za razem najwięcej mogę pomóc) w nie za dużych organizacjach :)<br> Kontakt referencyjny: [Lead zespołu, z którym pracowałem ostatnio](https://www.linkedin.com/in/netczuk/) | Lokalizacja: Warszawa, lub 100% zdalnie<br> Wymiar: 4 dni w tygodniu<br> Umowa: najchętniej b2b<br> Dostępność: od połowy maja / początku czerwca |
+| Mateusz Srebrny<br>[LinkedIn](https://pl.linkedin.com/in/mateuszsrebrny) | Jestem Agile Coachem / Scrum Masterem, który pracuje blisko zespołów, inspirując je w duchu [Modern Agile](http://modernagile.org) oraz [prawa Dude'a](https://twitter.com/YvesHanoulle/status/1025421506107637760/photo/1)<br> Najlepiej się czuję (i za razem najwięcej mogę pomóc) w nie za dużych organizacjach :)<br> Kontakt referencyjny: [Lead zespołu, z którym pracowałem ostatnio](https://www.linkedin.com/in/netczuk/) | Lokalizacja: Warszawa, lub 100% zdalnie<br> Wymiar: 4 dni w tygodniu<br> Umowa: najchętniej b2b<br> Dostępność: od połowy maja / początku czerwca<br> Języki: {{% icon-flag-pl %}} {{% icon-flag-en %}} |
 | Jan Kowalski<br>[Email](mailto:jan.kowalski [at] gmail) | Tu można napisać coś o sobie. Nowa linia <br> Nowy paragraf: 2 nowe linie <br><br>I reszta. Link do [LinkedIn](https://pl.linkedin.com/in/mateuszsrebrny) | Tu można napisać, o lokalizacji, podejściu do znalności, rodzaju konraktu, dostępności itp)
 
 {{% /styled-table %}}
