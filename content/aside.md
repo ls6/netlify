@@ -1,10 +1,8 @@
 ---
 ---
 
-# Pomoc potrzebna…
+# Człowiek szuka pracy…
 
-Zrobiliśmy tę stronę głównie po to, żeby zachować wiedzę, która przewinęła się przez naszą społeczność. Pewnego dnia Meetup.com przestanie istnieć albo dramatycznie podniesie stawki a my nie chcemy stracić całej wiedzy, którą wnieśli nasi prelegenci.
+Sytuacja w niektórych miejscach jest mocno słaba i coraz więcej osób z naszej społeczności musi rozejrzeć się za nową pracą.
 
-Jeśli masz chwilę czasu pomóż nam przenieść tutaj informacje o poprzednich wydarzeniach Agile Warsaw.
-
-Informacje jak to zrobić można znaleźć [tutaj](/help)
+Uruchamiamy miejsce dla osób szukających pracy [agilewarsaw.com/praca](/praca) zapraszamy nie tylko Warszawę!
