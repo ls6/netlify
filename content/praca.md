@@ -11,7 +11,7 @@
 
 {{% /styled-table %}}
 
-Licznik absolwentów tej strony: 1
+Skomentowała już 1 osoba \o/
 
 ### Podpowiedzi:
 
