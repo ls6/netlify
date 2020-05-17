@@ -11,7 +11,7 @@
 
 {{% /styled-table %}}
 
-Skomentowała już 1 osoba \o/
+Skonwertowała już 1 osoba \o/
 
 ### Podpowiedzi:
 
