@@ -11,7 +11,11 @@
 
 {{% /styled-table %}}
 
+Skonwertowała już 1 osoba \o/
+
 ### Podpowiedzi:
+
+By umieścić swoje dane na tej stronie podrzuć nam info o sobie na [team@agilewarsaw.com](mailto:team@agilewarsaw.com) lub podrzuć nam [PR](https://github.com/AgileWarsaw/netlify/blob/master/content/praca.md)
 
 Warto przyłożyć się do ogłoszenia :) Chcesz zaoszczędzić czasu i sobie i potencjalnemu proacodawcy — jeśli nie pasujecie do siebie warto wyłapać to jak najwcześniej.
 
