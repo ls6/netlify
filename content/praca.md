@@ -10,7 +10,7 @@
 
 {{% /styled-table %}}
 
-Skonwertowała już 1 osoba \o/
+Skonwertowała już 2 osoba \o/
 
 ### Podpowiedzi:
 
