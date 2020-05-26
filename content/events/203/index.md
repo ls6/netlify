@@ -5,7 +5,7 @@ title: "Making sticky change by finding the right moment"
 speakers: "Ania Szypszak"
 lang: "en"
 sponsors: ["QAgile", "CodeSprinters"]
-videoURL: "https://www.youtube.com/watch?v=iKQBzj7uLCU&t=227s"
+videoURL: "https://www.youtube.com/watch?v=iKQBzj7uLCU"
 draft: false
 ---
 
