@@ -3,8 +3,8 @@ number: "204"
 date: "2020-06-01T18:30:00+01:00"
 title: "[workshop] Bring Your Own Problem — Solution Room"
 speakers: "Mateusz Srebrny, Piotr Radaj"
-lang: "en"
-sponsors: "reef", "slido"
+lang: ["en"]
+sponsors: ["reef", "slido"]
 videoURL: 
 draft: false
 ---
