@@ -19,7 +19,7 @@ The workshop will bring value for everybody having a problem to discuss, regardl
 ➡️ Facilitators
 The workshop will be run by AgileWarsaw community organizers.
 
-➡️Technicalities
+➡️ Technicalities
 1) The workshop is remote.
 Once we chose you as a participant, you will receive a message on meetup.com with the link to the Zoom meeting and Miro board.
 
