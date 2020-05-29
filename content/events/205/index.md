@@ -30,7 +30,8 @@ Prelekcja powinna szczególnie zainteresować:
 * początkujących Scrum Masterów, którzy przeżywają chwile samotności i zwątpienia,
 * zarządzających, którzy zastanawiają się, co zrobić z Project Managerami w transformacji Agile."
 
-Zapraszamy
+Zapraszamy 
+
 Michał & Mateusz
 
 <a href="https://pl.linkedin.com/in/micha%C5%82-b-b73469155" target="_blank">Michał Baczewski</a>
