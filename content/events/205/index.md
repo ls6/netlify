@@ -31,8 +31,7 @@ Prelekcja powinna szczególnie zainteresować:
 * zarządzających, którzy zastanawiają się, co zrobić z Project Managerami w transformacji Agile."
 
 Zapraszamy 
-
-Michał & Mateusz
+</br>Michał & Mateusz
 
 <a href="https://pl.linkedin.com/in/micha%C5%82-b-b73469155" target="_blank">Michał Baczewski</a>
 
