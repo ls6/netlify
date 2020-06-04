@@ -12,7 +12,7 @@ draft: false
 Cześć!
 
 29 czerwca 2020 w godzinach 18-21 zespół AgileWarsaw serdecznie zaprasza na Wirtualny Maraton Liberating Structures.
-Czytaj dalej, żeby dowiedzieć się o co chodzi lub od razu się <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">zarejestruj :)</a>
+Czytaj dalej, żeby dowiedzieć się o co chodzi lub od razu się zarejestruj na <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS :)</a>
 
 #### Dlaczego to robimy?
 
@@ -34,7 +34,7 @@ Czytaj dalej, żeby dowiedzieć się o co chodzi lub od razu się <a href="https
 
 5. W międzyczasie będą odbywały się różne struktury w różnych pokojach.
 
-6. Na całe wyarzenie możesz zapisać się przez slack: <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">tutaj</a>.
+6. Na całe wyarzenie możesz zapisać się przez: <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS</a>.
 
 7. Po zalogowaniu się na slacku dostaniesz możliwość zapisania się na poszczególne struktury.
 
@@ -47,7 +47,7 @@ Wpadaj na otwarcie i powiedz ludziom jak mogą skorzystać w Waszych osiągnię�
 Wpadnij na wydarzenie i poprowadź wybraną przez siebie strukturę. Im mniej znana tym lepiej. Zgłoś się bezpośrednio do nas: team@agilewarsaw.com
 
 3. Chcesz poznać nową strukturę?
-Zapisz się na maraton i wybierz, w prezentacji której struktury chcesz wziąć udział - <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">zapisy tędy :)</a>.
+Zapisz się na maraton i wybierz, w prezentacji której struktury chcesz wziąć udział - zapisy na <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS :)</a>.
 
 No i przede wszystkim szeruj tę wieść na swoich socialach. Niech się niesie i niech się wydarzy.
 
