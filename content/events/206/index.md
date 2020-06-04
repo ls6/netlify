@@ -34,7 +34,7 @@ Czytaj dalej, żeby dowiedzieć się o co chodzi lub od razu się zarejestruj na
 
 5. W międzyczasie będą odbywały się różne struktury w różnych pokojach.
 
-6. Na całe wyarzenie możesz zapisać się przez: <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS</a>.
+6. Na całe wydarzenie możesz zapisać się przez: <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS</a>.
 
 7. Po zalogowaniu się na slacku dostaniesz możliwość zapisania się na poszczególne struktury.
 
