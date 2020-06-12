@@ -119,7 +119,7 @@
         console.log(futureEventsList)
         console.log(`Future Events List Container`);
         console.log(futureEventsListContainer)
-		futureEvents.forEach(event => futureEventsList.appendChild(event));
+		futureEvents.reverse().forEach(event => futureEventsList.appendChild(event));
 
         const subscriptionLink = document.getElementById('subscription-link')
         futureEventsListContainer.appendChild(subscriptionLink);
