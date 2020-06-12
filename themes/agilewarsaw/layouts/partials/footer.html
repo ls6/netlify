@@ -113,7 +113,13 @@
 		const parentNode = document.getElementById('main-content');
 		const pastEventsList = document.getElementById('past-events');
         parentNode.insertBefore(futureEventsListContainer, pastEventsList);
-		futureEvents.reverse().forEach(event => futureEventsList.appendChild(event));
+        console.log(`Future Events`);
+        console.log(futureEvents)
+        console.log(`Future Events List`);
+        console.log(futureEventsList)
+        console.log(`Future Events List Container`);
+        console.log(futureEventsListContainer)
+		futureEvents.forEach(event => futureEventsList.appendChild(event));
 
         const subscriptionLink = document.getElementById('subscription-link')
         futureEventsListContainer.appendChild(subscriptionLink);
