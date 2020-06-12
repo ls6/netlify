@@ -115,7 +115,6 @@
         parentNode.insertBefore(futureEventsListContainer, pastEventsList);
         // Reversed list of future events. Goal: display upcoming events in an ascending order.
 		futureEvents.reverse().forEach(event => futureEventsList.appendChild(event));
-
         const subscriptionLink = document.getElementById('subscription-link')
         futureEventsListContainer.appendChild(subscriptionLink);
         document.getElementById('subscription-link-para').remove()
