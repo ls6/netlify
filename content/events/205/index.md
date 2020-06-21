@@ -5,7 +5,7 @@ title: "Od PMa do SMa"
 speakers: "Michał Baczewski, Mateusz Drozd"
 lang: "pl"
 sponsors: ["Link4", "CodeSprinters"]
-videoURL: ""
+videoURL: "https://youtu.be/V0SGKi47_O4"
 draft: false
 ---
 
