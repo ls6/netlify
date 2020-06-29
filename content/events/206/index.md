@@ -32,11 +32,13 @@ Czytaj dalej, żeby dowiedzieć się o co chodzi lub od razu się zarejestruj na
 
 4. Kończymy ok 21 po podsumowaniu tego co się wydarzyło.
 
-5. W międzyczasie będą odbywały się różne struktury w różnych pokojach.
+5. Lokalizacja WMLS: <a href="https://us02web.zoom.us/j/88217501998?pwd=SEVlQVhlWHlMOTF5N05RZjJQOFlqQT09" target="_blank">zoom</a>.
 
-6. Na całe wydarzenie możesz zapisać się przez: <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS</a>.
+7. W międzyczasie będą odbywały się różne struktury w różnych pokojach.
 
-7. Po zalogowaniu się na slacku dostaniesz możliwość zapisania się na poszczególne struktury.
+8. Na całe wydarzenie możesz zapisać się przez: <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS</a>.
+
+9. Po zalogowaniu się na slacku dostaniesz możliwość zapisania się na poszczególne struktury.
 
 #### Jak możesz nam pomóc?
 
