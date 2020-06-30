@@ -4,7 +4,7 @@ date: "2020-07-13T19:00:00+01:00"
 title: "Przecież oni wiedzą, że ja myślę, że oni myślą, że ja wiem! - O komunikacji budującej relacje"
 speakers: "Adrian Janik, Mateusz Hauk"
 lang: "pl"
-sponsors: ["QAgile", ""]
+sponsors: ["QAgile", "Reef Technologies"]
 videoURL: ""
 draft: false
 ---
