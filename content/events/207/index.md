@@ -5,7 +5,7 @@ title: "Przecież oni wiedzą, że ja myślę, że oni myślą, że ja wiem! - O
 speakers: "Adrian Janik, Mateusz Hauk"
 lang: "pl"
 sponsors: ["QAgile", "Reef Technologies"]
-videoURL: ""
+videoURL: "https://youtu.be/eI8MhohhmLo"
 draft: false
 ---
 
