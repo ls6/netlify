@@ -2,7 +2,7 @@
 number: "208"
 date: "2020-07-27T18:00:00+01:00"
 title: "Zrozumieć i rozwijać role w zespole Scrumowym w kilku prostych krokach"
-speakers: "Tomek Pawlak, Kuba Milewski"
+speakers: "Kuba Milewski, Tomek Pawlak"
 lang: "pl"
 sponsors: ["Code Sprinters", "Reef Technologies"]
 videoURL: ""
