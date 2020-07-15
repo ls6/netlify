@@ -5,7 +5,7 @@ title: "Przecież oni wiedzą, że ja myślę, że oni myślą, że ja wiem! - O
 speakers: "Adrian Janik, Mateusz Hauk"
 lang: "pl"
 sponsors: ["QAgile", "Reef Technologies"]
-videoURL: ""
+videoURL: "https://youtu.be/eI8MhohhmLo"
 draft: false
 ---
 
@@ -37,3 +37,4 @@ Doktor nauk społecznych w obszarze psychologii. Autor wielu publikacji z zakres
 
 Prowadził dedykowane warsztaty i cykle szkoleniowe dla takich klientów jak: Alvo, Astanet, Colours factory, E-obuwie, Fresenius, Fresh Logistics, Geberit, Ikea, Jost, KPRM (Kancelaria Prezesa Rady Ministrów), Mondelez, OLX, Poczta Polska, Porsche, PZU Everest, Raben Polska, Rockwool, Schattdecor, Schenker, Schulstad, Sonoco, Swarovsky, Vatennfall, Volkswagen Group Polska.
 
+<a href="Prezentacja.pdf" target="_blank">Prezentacja ze spotkania</a></br>
