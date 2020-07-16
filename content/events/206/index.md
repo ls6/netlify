@@ -4,7 +4,7 @@ date: "2020-06-29T18:00:00+01:00"
 title: "Wirtualny Maraton Liberating Structures"
 speakers: ""
 lang: "pl"
-sponsors: ["CodeSprinters"]
+sponsors: ["CodeSprinters, Reef Technologies"]
 videoURL: ""
 draft: false
 ---
