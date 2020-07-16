@@ -59,8 +59,3 @@ Zapisz się na maraton i wybierz, w prezentacji której struktury chcesz wziąć
 4. Łańcuszek: <a href="https://liberatingstructures.org.pl/nine-whys/" target="_blank">NineWhys</a> / <a href="https://liberatingstructures.org.pl/making-space-with-triz/ " target="_blank">TRIZ</a> trener: Antoni Maciaszek </br>
 <a href="Instrukcja TRIZ.jpg" target="_blank">Instrukcja TRIZ</a> </br>
 <a href="Ściąga do Nine Whys.jpg" target="_blank">Ściąga do Nine Whys</a>
-
-#### Flipy przygotowane przez Zwinną Łódź 
-
-
-
