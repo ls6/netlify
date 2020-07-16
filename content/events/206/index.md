@@ -9,10 +9,7 @@ videoURL: ""
 draft: false
 ---
 
-Cześć!
-
 29 czerwca 2020 w godzinach 18-21 zespół AgileWarsaw serdecznie zaprasza na Wirtualny Maraton Liberating Structures.
-Czytaj dalej, żeby dowiedzieć się o co chodzi lub od razu się zarejestruj na <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS :)</a>
 
 #### Dlaczego to robimy?
 
@@ -51,7 +48,19 @@ Wpadnij na wydarzenie i poprowadź wybraną przez siebie strukturę. Im mniej zn
 3. Chcesz poznać nową strukturę?
 Zapisz się na maraton i wybierz, w prezentacji której struktury chcesz wziąć udział - zapisy na <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS :)</a>.
 
-No i przede wszystkim szeruj tę wieść na swoich socialach. Niech się niesie i niech się wydarzy.
+#### Kilka słów podsumowania
 
-Dziękujemy!</br>
-AgileWarsaw Team
+##### Warsztaty które się odbyły:
+
+1. Łańcuszek struktur: <a href="https://liberatingstructures.org.pl/1-2-4-all/" target="_blank">1-2-4-A </a>/ <a href="https://liberatingstructures.org.pl/15-percent-solutions/">15%Solutions </a>/ <a href="https://liberatingstructures.org.pl/helping-heuristics/" target="_blank">Helping Heuristics</a> trener: Jakub Bażela </br>
+<a href="Kuba.pdf" target="_blank">Prezentacja</a>
+2. Łańcuszek struktur: <a href="https://liberatingstructures.org.pl/troika-consulting/" target="_blank">Trójka Consulting</a>/ <a href="https://liberatingstructures.org.pl/appreciative-interviews/" target="_blank">Appreciative Interviews</a> trener: Ewa Koprowska
+3. Struktura: <a href="https://liberatingstructures.org.pl/panarchy/" target="_blank">Panarchy</a> trener: Adam Michalczyk
+4. Łańcuszek: <a href="https://liberatingstructures.org.pl/nine-whys/" target="_blank">NineWhys</a> / <a href="https://liberatingstructures.org.pl/making-space-with-triz/ " target="_blank">TRIZ</a> trener: Antoni Maciaszek </br>
+<a href="Instrukcja TRIZ.jpg" target="_blank">Instrukcja TRIZ</a> </br>
+<a href="Ściąga do Nine Whys.jpg" target="_blank">Ściąga do Nine Whys</a>
+
+#### Flipy przygotowane przez Zwinną Łódź 
+
+
+
