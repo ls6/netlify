@@ -4,7 +4,7 @@ date: "2020-06-29T18:00:00+01:00"
 title: "Wirtualny Maraton Liberating Structures"
 speakers: ""
 lang: "pl"
-sponsors: ["CodeSprinters, Reef Technologies"]
+sponsors: ["CodeSprinters", "Reef Technologies"]
 videoURL: ""
 draft: false
 ---
@@ -29,13 +29,9 @@ draft: false
 
 4. Kończymy ok 21 po podsumowaniu tego co się wydarzyło.
 
-5. Lokalizacja WMLS: <a href="https://us02web.zoom.us/j/88217501998?pwd=SEVlQVhlWHlMOTF5N05RZjJQOFlqQT09" target="_blank">zoom</a>.
+6. W międzyczasie będą odbywały się różne struktury w różnych pokojach.
 
-7. W międzyczasie będą odbywały się różne struktury w różnych pokojach.
-
-8. Na całe wydarzenie możesz zapisać się przez: <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS</a>.
-
-9. Po zalogowaniu się na slacku dostaniesz możliwość zapisania się na poszczególne struktury.
+7. Po zalogowaniu się na slacku dostaniesz możliwość zapisania się na poszczególne struktury.
 
 #### Jak możesz nam pomóc?
 
@@ -46,7 +42,7 @@ Wpadaj na otwarcie i powiedz ludziom jak mogą skorzystać w Waszych osiągnię�
 Wpadnij na wydarzenie i poprowadź wybraną przez siebie strukturę. Im mniej znana tym lepiej. Zgłoś się bezpośrednio do nas: team@agilewarsaw.com
 
 3. Chcesz poznać nową strukturę?
-Zapisz się na maraton i wybierz, w prezentacji której struktury chcesz wziąć udział - zapisy na <a href="https://join.slack.com/t/wirtualny-maraton-ls/shared_invite/zt-ewzf1z3l-nvcVl3Up7K61DlAwq4OErA" target="_blank">SLACK WMLS :)</a>.
+Zapisz się na maraton i wybierz, w prezentacji której struktury chcesz wziąć udział.
 
 #### Kilka słów podsumowania
 
