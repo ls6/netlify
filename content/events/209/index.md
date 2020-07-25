@@ -17,5 +17,5 @@ Powiedzmy to wprost: szkoła w takiej postaci, w jakiej jest dzisiaj nie odpowia
 
 Siostry  <a href="https://www.linkedin.com/in/marta-orbitowska/" target="_blank">Marta Orbitowska</a> i <a href="https://www.linkedin.com/in/paulina-orbitowska-fernandez-53a192105/" target="_blank">Paulina Orbitowska-Fernandez</a> są jedynymi w Polsce trenerkami <a href="https://www.facebook.com/scrumwszkole/" target="_blank">eduScrum</a>.  
 
-Marta pochodzi ze świata IT, jest Agile Coachem i Scrum Masterem, a Paulina ze świata edukacji, jest nauczycielką i trenerką NVC. Zawodowo połączyło je marzenie o (r)ewolucji w edukacji.
+Marta pochodzi ze świata IT, jest Agile Coachem i Scrum Masterem, a Paulina ze świata edukacji, jest nauczycielką i trenerką NVC. Zawodowo połączyło je marzenie o ( r )ewolucji w edukacji.
 
