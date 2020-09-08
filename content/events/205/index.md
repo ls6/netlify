@@ -5,7 +5,7 @@ title: "Od PMa do SMa"
 speakers: "Michał Baczewski, Mateusz Drozd"
 lang: "pl"
 sponsors: ["Link4", "CodeSprinters"]
-videoURL: ""
+videoURL: "https://youtu.be/V0SGKi47_O4"
 draft: false
 ---
 
@@ -45,3 +45,9 @@ Lubię ludzi i właśnie w nich widzę największy potencjał każdej organizacj
 Jestem na pokładzie tego samego samolotu co Michał. Wcześniej również pracowałem jako Project Manager - głównie dla branży bankowej i ubezpieczeniowej.
 W wolnych chwilach oglądam żużel, kopię piłkę na orlikach, czasami chwycę za aparat fotograficzny, zbieram na motor.
 Lubię liczby. Uczę się ludzi.
+
+<a href="Prezentacja.pdf" target="_blank">Prezentacja z spotkania</a></br>
+
+<a href="Materiały.pdf" target="_blank">Materiały z spotkania</a></br>
+
+
