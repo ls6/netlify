@@ -1,7 +1,7 @@
 ---
 number: "210"
 date: "2020-08-31T18:00:00+01:00"
-title: "„Dojrzałość, efektywność i zadowolenie zespołu a fazy jego rozwoju."
+title: "[warsztat] Dojrzałość, efektywność i zadowolenie zespołu a fazy jego rozwoju."
 speakers: "Joanna Gosk, Dawid Lewandowicz"
 lang: "pl"
 sponsors: ["Reef Technologies"]
