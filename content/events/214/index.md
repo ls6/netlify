@@ -14,5 +14,7 @@ Dotkniętym takich tematów jak: czym jest system który chcemy usprawnić, jak 
 
 <a href="https://www.linkedin.com/in/maciejsowinski/" target="_blank">Maciej Sowiński</a> 
 
-Od ponad 15 lat pomagam zespołom i organizacjom rozwijać ich potencjał i przechodzić przez trudne sytuacje, a także proces zmian. Jestem praktykiem – konsultantem, trenerem, coachem i psychologiem pracującym w biznesie. Łączę wiedzę z zarządzania z Analizą Transakcyjną – teorią psychologiczną wykorzystywaną w firmach, w której się specjalizuję. Jestem jedynym w Polsce certyfikowanym Analitykiem Transakcyjnym w dziedzinie organizacji. Koordynowałam projekty szkoleniowe i rozwojowe dla klientów. Pracowałam z najwyższą i średnią kadrą managerską, zarówno indywidualnie jak i grupowo. Przeprowadziłam ponad 5000 godzin szkoleń dla organizacji.
+Maciej Sowiński zajmuje się Scrumem i zwinną organizacją pracy od 2010 roku, od 2014 roku jako agile coach i trener. W tym czasie pracował dla korporacji , spółek skarbu państwa , startupów  i software housów . Zarówno w Polsce jak i w Niemczech, Danii, Anglii. 
+
+Jako trener przeszkolił już ponad 200 osób z tematów takich jak: Scrum, Kanban, zwinne zarządzanie, zwinne przywództwo.
 
