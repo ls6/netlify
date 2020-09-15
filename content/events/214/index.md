@@ -1,6 +1,6 @@
 ---
 number: "214"
-date: "2020-09-21T18:00:00+01:00"
+date: "2020-09-28T18:00:00+01:00"
 title: „[warsztat] Myślenie systemowe dla Agile Coachow"
 speakers: "Maciej Sowiński"
 lang: "pl"
