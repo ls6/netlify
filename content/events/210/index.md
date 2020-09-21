@@ -5,7 +5,7 @@ title: "„Znów zrobili nie tak!” Po co zespołom IT wiedza o różnicach kul
 speakers: "Anna Chodynicka, Joanna Więckowska"
 lang: "pl"
 sponsors: ["Emic Lab", "Code Sprinters"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=Ay2v0VECzNw"
 draft: false
 ---
 
