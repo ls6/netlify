@@ -1,25 +1,43 @@
 ---
 number: "210"
-date: "2020-09-07T18:00:00+01:00"
-title: "„Znów zrobili nie tak!” Po co zespołom IT wiedza o różnicach kulturowych"
-speakers: "Anna Chodynicka, Joanna Więckowska"
+date: "2020-08-31T18:00:00+01:00"
+title: "[warsztat] Dojrzałość, efektywność i zadowolenie zespołu a fazy jego rozwoju."
+speakers: "Joanna Gosk, Dawid Lewandowicz"
 lang: "pl"
 sponsors: ["Emic Lab", "Code Sprinters"]
 videoURL: "https://www.youtube.com/watch?v=Ay2v0VECzNw"
+
 draft: false
 ---
 
-Czy ludzie uważają, że współpraca w zespołach międzynarodowych jest inspirująca? Tak! Czy uważają, że jest łatwa? Nie! Jest zarówno inspirująca, jak i bardzo trudna. W pracy spotykamy wysokiej klasy polskich specjalistów IT, którzy przenoszą się z firmy do firmy, żeby uniknąć współpracy z zespołami z Azji. Spotykamy też sfrustrowanych Amerykanów, którzy mówią, że co prawda Polacy to świetni eksperci w swoich dziedzinach, ale brakuje im profesjonalizmu (tak, tak, to zdanie ma sens z amerykańskiej perspektywy).
-Zespoły muszą radzić sobie z trudnościami, których źródłem są różnice kulturowe: opóźnieniami, dużą ilością błędów, niewykonywaniem obowiązków przez zagranicznych współpracowników i koniecznością wykonania zadań za nich, milczeniem po drugiej stronie.
+Warsztaty są o procesach, które dzieją się w zespołach zwinnych oraz o metodach, które pozwalają tymi procesami zarządzić. Będziemy je oglądać zarówno z perspektywy agile jak i psychologii. Skupimy się przede wszystkim na dojrzałości, efektywności i zadowoleniu pracowników, ponieważ są to naszym zdaniem główne czynniki przyciągania pracowników, ich motywacji jak i zadowolenia właścicieli.
 
-Frustracji pracowników można zaradzić, owocna współpraca z zagranicznymi zespołami jest możliwa. Podczas prezentacji pokażemy oparte na case studies pułapki współpracy w zespołach międzynarodowych. Omówimy nieporozumienia, których źródłem są różnice kulturowe. Pokażemy co może pójść nie tak oraz o co zadbać, żeby konflikty miały pozytywne rozwiązania.
+Proponujemy Ci warsztaty, co oznacza, że będzie pracować cyklem Kolba: najpierw doświadczenie, potem analiza, trochę teorii, a na koniec praktyka.
 
-## Prelegentki
+Warsztaty będą częścią większego szkolenia, z którego możesz skorzystać już teraz.
 
-<a href="https://www.linkedin.com/in/anna-chodynicka/" target="_blank">Anna Chodynicka</a> – trener biznesu i psycholog międzykulturowy. Prowadzi programy szkoleniowe dla firm międzynarodowych ułatwiające komunikację w zespołach międzynarodowych, adaptację zagranicznych menedżerów w Polsce, efektywne pobyty zagraniczne. Jest autorem artykułów z zakresu praktyki psychologii międzykulturowej. Posiada własne doświadczenia pracy, prowadzenia biznesu i mieszkania zagranicą (w krajach Europy i Afryki Subsaharyjskiej).
+## Prowadzący
 
-<a href="https://www.linkedin.com/in/joannawieckowska/" target="_blank">Joanna Więckowska</a> – trener biznesu i psycholog międzykulturowy. Specjalizuje się w coachingu i szkoleniach z zakresu zarządzania i współpracy w środowisku międzynarodowym. Autorka publikacji z zakresu akulturacji, relacji międzynarodowych i stereotypów. Doświadczenie zawodowe wzbogaca o osobiste doświadczenia współpracy biznesowej z partnerami z krajów Azji i Afryki Pn.
+<a href="https://www.linkedin.com/in/joanna-gosk-977a62a8/" target="_blank">Joanna Gosk</a>
 
-<a href="prezentacja.pdf" target="_blank">Prezentacja z spotkania</a>
+Od ponad 15 lat pomagam zespołom i organizacjom rozwijać ich potencjał i przechodzić przez trudne sytuacje, a także proces zmian. 
+Jestem praktykiem – konsultantem, trenerem, coachem i psychologiem pracującym w biznesie. Łączę wiedzę z zarządzania z Analizą Transakcyjną – teorią psychologiczną wykorzystywaną w firmach, w której się specjalizuję. 
+Jestem jedynym w Polsce certyfikowanym Analitykiem Transakcyjnym w dziedzinie organizacji. 
+Koordynowałam projekty szkoleniowe i rozwojowe dla klientów. Pracowałam z najwyższą i średnią kadrą managerską, zarówno indywidualnie jak i grupowo. Przeprowadziłam ponad 5000 godzin szkoleń dla organizacji.
 
-<a href="książki.pdf" target="_blank">Książki o współpracy międzynarodowej</a>
+<a href="https://www.linkedin.com/in/dawid-lewandowicz/" target="_blank">Dawid Lewandowicz</a>
+
+Pomagam tworzyć efektywne zespoły i udane produkty.
+Posiadam prawie 20-letnie doświadczenie związane z wytwarzaniem oprogramowania.
+Jestem praktykiem – pracuję z zespołami, obszarami i organizacją.
+Na początku swojej kariery pracowałem jako analityk, a później jako certyfikowany kierownik projektów (Prince2 Practitioner) w jednym z największych banków w Polsce.
+Od prawie 10 lat pracuję jako Agile Coach (CSP, PSPO) z zespołami deweloperskimi oraz infrastrukturalnymi. Wspierałem przejście z tradycyjnego modelu zarządzania na podejście bardziej zwinne (Scrum, kanban). W ramach roli Agile Coach pracowałem również z zespołami rozproszonymi (ang. distributed teams) znajdującymi się w różnych lokalizacjach w Polsce lub Europie.
+Dzięki swojemu doświadczeniu posiadam perspektywę tradycyjnych systemów zarządzania (waterfall) oraz tych opartych o podejście zwinne (agile w różnych wariacjach).
+Charakteryzuję się niekonwencjonalnymi pomysłami, wielokontekstową analizą prowadzącą do niestandardowych rozwiązań oraz, jak określają mnie współpracownicy, jestem głosem rozsądku połączonym z kwestionowaniem status quo.
+Jestem również wykładowcą Technik Zwinnych na WMiI UAM, współzałożycielem największego w Polsce portalu o metodach zwinnych agile247.pl, prowadzę szkolenia i konsultacje w ramach 202procent.pl oraz jestem współzałożycielem S29 Technologies INC. w Calgary, Kanada.
+
+## Materiały
+
+<a href="prezentacja_community.pdf" target="_blank">Prezentacja z spotkania</a>
+
+<a href="mural.pdf" target="_blank">Tablica Mural</a>

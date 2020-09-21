@@ -19,15 +19,12 @@
             <li class="team-member">
                 <h4>Mateusz Srebrny</h4>
                 <img src="/images/team-MS.jpg" alt="">
+                <a target="_blank" href="https://www.linkedin.com/in/mateuszsrebrny/">LinkedIn</a>
             </li>
             <li class="team-member">
                 <h4>Łukasz Szóstek</h4>
                 <img src="/images/team-LS.jpg" alt="">
                 <a target="_blank" href="https://twitter.com/thels6">@thels6</a>
-            </li>
-			<li class="team-member">
-                <h4>Paweł Polewicz</h4>
-                <img src="/images/team-PP.jpg" alt="">
             </li>
             <li class="team-member">
                 <h4>Ewa Koprowska</h4>
@@ -47,6 +44,7 @@
             <li class="team-member">
                 <h4>Łukasz Przezorski</h4>
                 <img src="/images/team-LP.jpg" alt="">
+		<a target="_blank" href="https://www.linkedin.com/in/lukasz-przezorski/">LinkedIn</a>
             </li>
         </ul>
     </div>
@@ -74,6 +72,10 @@
             <li class="prev-team-member">
                 <h4>Magda Walczak</h4>
                 <img src="/images/team-MW.jpg" alt="">
+            </li>
+            <li class="prev-team-member">
+                <h4>Paweł Polewicz</h4>
+                <img src="/images/team-PP.jpg" alt="">
             </li>
         </ul>
     </div>
@@ -110,9 +112,9 @@
 
 		const parentNode = document.getElementById('main-content');
 		const pastEventsList = document.getElementById('past-events');
-		parentNode.insertBefore(futureEventsListContainer, pastEventsList);
-		futureEvents.forEach(event => futureEventsList.appendChild(event));
-
+              parentNode.insertBefore(futureEventsListContainer, pastEventsList);
+              // Reversed list of future events. Goal: display upcoming events in an ascending order.
+		futureEvents.reverse().forEach(event => futureEventsList.appendChild(event));
         const subscriptionLink = document.getElementById('subscription-link')
         futureEventsListContainer.appendChild(subscriptionLink);
         document.getElementById('subscription-link-para').remove()
