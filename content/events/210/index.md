@@ -4,8 +4,8 @@ date: "2020-08-31T18:00:00+01:00"
 title: "[warsztat] Dojrzałość, efektywność i zadowolenie zespołu a fazy jego rozwoju."
 speakers: "Joanna Gosk, Dawid Lewandowicz"
 lang: "pl"
-sponsors: ["Emic Lab", "Code Sprinters"]
-videoURL: "https://www.youtube.com/watch?v=Ay2v0VECzNw"
+sponsors: ["Reef Technologies"]
+videoURL: ""
 
 draft: false
 ---
