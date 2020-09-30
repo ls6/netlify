@@ -18,4 +18,4 @@ Maciej Sowiński zajmuje się Scrumem i zwinną organizacją pracy od 2010 roku,
 
 Jako trener przeszkolił już ponad 200 osób z tematów takich jak: Scrum, Kanban, zwinne zarządzanie, zwinne przywództwo.
 
-<a href="prezentacja.pdf" target="_blank">Prezentacja z spotkania</a> 
+<a href="prezentacja.pdf" target="_blank">Prezentacja</a> 
