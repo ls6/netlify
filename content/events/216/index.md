@@ -1,7 +1,7 @@
 ---
 number: "216"
 date: "2020-10-19T18:30:00+01:00"
-title: "Debata \"Czy Scrum Master musi być techniczny\""
+title: "Debata \"Czy Scrum Master musi być techniczny?\""
 speakers: "Andy Brandt, Ewa Gowin, Andrzej Łach"
 lang: "pl"
 sponsors: ["Code Sprinters"]
