@@ -2,7 +2,7 @@
 number: "218"
 date: "2020-11-16T18:00:00+01:00"
 title: "[warsztat] \"Flow is the King\""
-speakers: "Jerzy Stawicki, Rafał Zalewski, Maciej Jarosz"
+speakers: "Jerzy Stawicki, Rafał Zalewski, Maciej Jarosz, Anna Sikorska"
 lang: "pl"
 sponsors: ["CodeSprinters"]
 videoURL: ""
@@ -25,5 +25,9 @@ Posiada ponad 10-letnie doświadczenie w zarządzaniu projektami IT i tworzeniu 
 <a href="https://www.linkedin.com/in/maciekjarosz/" target="_blank">Maciej Jarosz</a> 
 
 Jest przedsiębiorcą w ramach Global Entrepreneurs, ambasadorem DevOps Institute, trenerem DevOps, Liberating Structures oraz facylitacji biznesowej. Od stycznia 2019 organizuje wydarzenia Liberating Structures tak w Polsce jak i poza. Twórca piewszej w Polsce formuły Warsztatu Immersyjnego Liberating Structures. Wcześniej zajmował się zarządzaniem SLA (ITIL) oraz pracował jako Scrum Master. Z ciekawostek - posiad 15 certyfikatów.
+
+Anna Krystyna Sikorska
+
+Trener i konsultant Tameflow - czyli podejścia gdzie Flow jest rzeczywiście najważniejszy (King, Queen or Supreme Being) ponieważ jesteśmy skoncentrowani na osiągnięciu najwyższej wydajności organizacyjnej przy zachowaniu dobrego samopoczucia wszystkich członków zespołu (Tameflow is the Philosopher King).
 
 
