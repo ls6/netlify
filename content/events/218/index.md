@@ -26,7 +26,8 @@ Posiada ponad 10-letnie doświadczenie w zarządzaniu projektami IT i tworzeniu 
 
 Jest przedsiębiorcą w ramach Global Entrepreneurs, ambasadorem DevOps Institute, trenerem DevOps, Liberating Structures oraz facylitacji biznesowej. Od stycznia 2019 organizuje wydarzenia Liberating Structures tak w Polsce jak i poza. Twórca piewszej w Polsce formuły Warsztatu Immersyjnego Liberating Structures. Wcześniej zajmował się zarządzaniem SLA (ITIL) oraz pracował jako Scrum Master. Z ciekawostek - posiad 15 certyfikatów.
 
-Anna Krystyna Sikorska
+<a href="www.linkedin.com/in/annasikorska1" target="_blank">Anna Krystyna Sikorska</a> 
+
 
 Trener i konsultant Tameflow - czyli podejścia gdzie Flow jest rzeczywiście najważniejszy (King, Queen or Supreme Being) ponieważ jesteśmy skoncentrowani na osiągnięciu najwyższej wydajności organizacyjnej przy zachowaniu dobrego samopoczucia wszystkich członków zespołu (Tameflow is the Philosopher King).
 
