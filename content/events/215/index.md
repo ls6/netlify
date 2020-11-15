@@ -5,7 +5,7 @@ title: "AgileByExample 2020"
 speakers: ""
 lang: ["en"]
 sponsors: []
-videoURL: ""
+videoURL: "https://www.youtube.com/playlist?list=PLwoIK953bBnMybjowkfENQpIMw1NJ_qPg"
 draft: false
 ---
 
