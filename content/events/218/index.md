@@ -1,6 +1,6 @@
 ---
 number: "218"
-date: "2020-11-16T18:00:00+01:00"
+date: "2020-12-07T18:00:00+01:00"
 title: "[warsztat] \"Flow is the King\""
 speakers: "Jerzy Stawicki, Rafał Zalewski, Maciej Jarosz, Anna Sikorska"
 lang: "pl"
