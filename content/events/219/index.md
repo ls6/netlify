@@ -19,7 +19,7 @@ Radykalna Szczerość (Radical Candor) to złoty środek między byciem obrzydli
 
 Każdy, kto pracuje z innymi i musi dawać lub otrzymywać feedback - i chce robić to lepiej i bardziej świadomie, może wynieść z tego wydarzenia coś dla siebie.
 
-## Karolina Solis
+## Parę słów o Karolinie
 
 Karolina (obecnie SM w Reckitt Benckiser) wspiera zespoły i organizacje w wytwarzaniu oprogramowania w metodykach zwinnych jako zdalny Scrum Master. Prowadzi szkolenia i meetupy związane z feedbackiem, Scrumem, zwinnością i szeroko pojętym rozwojem w kontekście IT. Ogromna fanka Jiry i produktów Atlassiana, w szczególności doskonale utrzymanych tablic i eleganckich workflow'ów. W poprzednim życiu Marketing i PR Manager. Wierzy, że Agile i Scruma tworzą nie tylko narzędzia i procesy - ale przede wszystkim ludzie i relacje. Prywatnie kocia mama i szczęśliwa żona. Mentorka tegorocznej edycji Dare IT.
 
