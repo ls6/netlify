@@ -9,3 +9,4 @@ videoURL: ""
 draft: false
 ---
 
+Więcej informacji już wkrótce :)
