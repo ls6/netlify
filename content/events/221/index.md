@@ -13,7 +13,7 @@ We have a pleasure to host Lucia and Raquel by courtesy of ProCognita (http://pr
 Have you ever dealt with conflict in teams you are coaching?
 How can you evaluate if the level of conflict in your team is supporting their growth?
 What was the impact on their performance and relationship?
-How did you help them improve their communication and collaboration?
+How did you help them improve their communication and collaboration? </br>
 In this workshop we will talk about coaching teams when there is conflict and how to teach them to have constructive conflict and healthy interactions.
 You will take away some techniques that you can use straight away to be effective in challenging situations.
 Looking forward to learning and playing with you.
