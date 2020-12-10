@@ -5,7 +5,7 @@ title: "Radical Candor (w czasach pracy zdalnej)"
 speakers: "Karolina Solis"
 lang: "pl"
 sponsors: ["Code Sprinters", "QAgile"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=9LPNWqVN3bs"
 draft: false
 ---
 
