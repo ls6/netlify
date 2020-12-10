@@ -5,7 +5,7 @@ title: "AgileByExample Light 2019"
 speakers: ""
 lang: "pl"
 sponsors: ["procognita", "deloitte", "vistula", "sli.do"]
-videoURL: ""
+videoURL: "https://www.youtube.com/playlist?list=PLwoIK953bBnNpY2gVjjvXQ8UA56SSWPu4"
 draft: false
 ---
 
