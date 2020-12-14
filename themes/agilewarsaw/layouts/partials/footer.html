@@ -96,7 +96,7 @@
 	}
 
 	function isEventInFuture(event) {
-		const now = new Date();
+		const now = new Date().setHours(0,0,0,0);
 		const eventDate = extractDate(event);
 		return eventDate >= now;
 	}
