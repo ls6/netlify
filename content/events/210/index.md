@@ -6,6 +6,7 @@ speakers: "Joanna Gosk, Dawid Lewandowicz"
 lang: "pl"
 sponsors: ["Reef Technologies"]
 videoURL: ""
+
 draft: false
 ---
 
