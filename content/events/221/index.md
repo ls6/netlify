@@ -33,3 +33,5 @@ She has 20 years of experience in multicultural and geographically distributed e
 Agile Practitioner who cares passionately about helping deliver value to clients through simplicity using transparent processes.
 Besides that, her main mission is to contribute every day to make the workplace a more human place where people enjoy being, trust each other and work better together.
 Raquel is a PCC, International Coaching Federation, Certified Team Coach (CTC), CAL Educator, Path to CSP Educator and ORSC trained practitioner also an active member of the Agile and Coaching Community, ICAgile Authorized instructor for Agile Team Facilitator (ICP-ATF) and Coaching Agile Teams (ICP-ACC).
+
+<a href="presentation.pdf" target="_blank">Presentation from the meeting</a> 
