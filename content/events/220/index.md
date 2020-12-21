@@ -38,4 +38,3 @@ W wolnym czasie wspiera Inicjatywy edukacyjne skierowane do dzieci i młodzieży
 
 1. Pliki z ćwiczeń z prawidłowymi odpowiedziami:
 
-
