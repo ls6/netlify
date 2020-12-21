@@ -34,7 +34,7 @@ W wolnym czasie wspiera Inicjatywy edukacyjne skierowane do dzieci i młodzieży
 
 #### Materiały ze spotkania: 
 
-1. <a href="style zachowań.pdf" target="_blank">Prezentacja</a> 
+1. <a href="Style zachowań.pdf" target="_blank">Prezentacja</a> 
 
 1. Pliki z ćwiczeń z prawidłowymi odpowiedziami:
 
