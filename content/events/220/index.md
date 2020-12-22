@@ -31,3 +31,11 @@ Certyfikowany moderator Design Thinking i trener Metody Biegun Marka Kamińskieg
 W swojej pracy kieruje się zasadą: rozwiązania blisko ludzi.
 
 W wolnym czasie wspiera Inicjatywy edukacyjne skierowane do dzieci i młodzieży.
+
+#### Materiały ze spotkania: 
+
+1. <a href="Style zachowań.pdf" target="_blank">Prezentacja</a> 
+
+1. <a href="warsztaty.zip" target="_blank">Pliki z ćwiczeń z prawidłowymi odpowiedziami</a> 
+
+
