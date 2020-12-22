@@ -36,6 +36,6 @@ W wolnym czasie wspiera Inicjatywy edukacyjne skierowane do dzieci i młodzieży
 
 1. <a href="Style zachowań.pdf" target="_blank">Prezentacja</a> 
 
-1. <a href="warsztaty.7z" target="_blank">Pliki z ćwiczeń z prawidłowymi odpowiedziami</a> 
+1. <a href="warsztaty.zip" target="_blank">Pliki z ćwiczeń z prawidłowymi odpowiedziami</a> 
 
 
