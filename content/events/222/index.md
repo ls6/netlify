@@ -5,7 +5,7 @@ title: "Dług techniczny — profilaktyka i leczenie"
 speakers: "Marcin Kępka"
 lang: "pl"
 sponsors: ["CodeSprinters", "JetBrains"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=AecyNwwfRIk"
 draft: false
 ---
 
