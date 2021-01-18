@@ -18,7 +18,7 @@ Jako prowadzący nadam ramy dyskusji oraz podzielę się swoimi wnioskami z blis
 
 #### <a href="https://www.linkedin.com/in/piotr-radaj-0a7727a5/" target="_blank">Piotr Radaj</a>
 <ul>
-<li> na co dzień współpracuję z Reef Technologies (zdalna firma wytwarzająca oprogramowanie na zamówienie). Jestem odpowiedzialny za: działalność strategiczną/operacyjną/rekrutacyjną, dbanie o zespoły klientów, sprawdzanie dopasowania produktu/usługi do rynku dla małych biznesów i startupów
+<li> na co dzień współpracuję z <a href="https://reef.pl/" target="_blank">Reef Technologies</a> (zdalna firma wytwarzająca oprogramowanie na zamówienie). Jestem odpowiedzialny za: działalność strategiczną/operacyjną/rekrutacyjną, dbanie o zespoły klientów, sprawdzanie dopasowania produktu/usługi do rynku dla małych biznesów i startupów
 <li> działam jako zewnętrzny mentor i coach dla członków zespołu zwinnego (Scrum Masterów, Product Ownerów, Developerów) oraz ich menedżerów/liderów (również pro bono w ramach warszawskiego <a href="https://integrator.naszebielany.pl/index.php/miesieczny/wydarzenie/311/" target="_blank">Bielańskiego Integratora Przedsiębiorczych</a>
 <li> współorganizuję spotkania Agile Warsaw, które zrzeszają nieformalną, lokalną społeczność entuzjastów zwinności.
 </ul>
