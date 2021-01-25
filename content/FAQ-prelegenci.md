@@ -9,13 +9,17 @@
 
 ## Jaki temat wybrać?
 
-Jeśli masz komfort wyboru z różnych historii, najlepiej wypadnie ta, która jest Ci najblliższa. Grupa Agile Warsaw jest duża (ponad 3000 osób) i każdy temat będzie dla jakiejś podgrupy ciekawy, a opowiadając o bliskich Ci tematach łatwiej będzie Ci wciągnąć publiczność.
+Jeśli masz komfort wyboru z różnych historii, najlepiej wypadnie ta, która jest Ci najblliższa. Grupa Agile Warsaw jest duża (ponad 4000 osób) i każdy temat będzie dla jakiejś podgrupy ciekawy, a opowiadając o bliskich Ci tematach łatwiej będzie Ci wciągnąć publiczność.
 
 ## Tytuł
 
 Tytuł powinien być w tym samym języku, w którym będziesz mówił—żeby uniknąć rozczarowania u widowni. Póki co na spotkaniach nie mamy za dużo obcokrajowców nie mówiących po polsku ale przy nagraniu na YouTube sprawa już nie jest oczywista.
 
 Meetup.com ogranicza długość tytułu do 80 znaków, czyli odliczając nagłówek z numerem spotkania `#XXX_` zostaje Ci 75 znaków.
+
+### Opis wydarzenia
+
+Opis powinien być w języku wystąpienia/ prezentacji. Meetup ograicza informację o wydarzeniu do 4000 tys znaków, z wykluczeniem informacji sponsorskich pozostaje 3000 znaków na: krótki opis wydarzenia, BIO prelegenta/prelegentów oraz informację o tym dla kogo jest to wydarzenie. 
 
 ## Selekcja uczestników
 
