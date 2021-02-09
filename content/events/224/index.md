@@ -28,3 +28,9 @@ Swoją pracę metodami zwinnymi rozpocząłem ponad 10 lat temu najpierw jako Pr
 
 Scrum Master z ponad 3 letnim doświadczeniem. Pierwszy raz ze Scrumem miałem do czynienia w Empiku i biorąc aktywnie udział w jego wdrażaniu w firmie doszedłem do dzisiejszego punktu, gdzie jako SM aktywnie pracuje nie tylko z zespołami scrumowymi, ale z całą organizacją. W pracy codziennej bardzo cenię sobie umiejętność pokazywania popełnionych przez siebie błędów i wspólnego, zespołowego uczenia się na nich, co pozwala się doskonalić.
 
+## Matreiały ze spotkania
+
+<a href="kontraktowanie pracy SM - wnioski.png" target="_blank">Kontraktowanie pracy SM - wnioski</a>
+
+<a href="Meetup_Kontrakty.pdf" target="_blank">Prezentacja ze spotkania</a>
+
