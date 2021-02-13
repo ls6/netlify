@@ -1,7 +1,7 @@
 ---
 number: "225"
 date: "2021-02-22T18:00:00+01:00"
-title: "[warsztat] "Napisz z nami 12 historii na 20-lecie Manifestu Agile""
+title: "[warsztat] Napisz z nami 12 historii na 20-lecie Manifestu Agile"
 speakers: ""
 lang: "pl"
 sponsors: ["Reef Technologies"]
