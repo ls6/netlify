@@ -5,7 +5,7 @@ title: "Ograniczenie w pracy Scrum Mastera zmieniające perspektywę: kontraktow
 speakers: "Michał Grześkowiak, Piotr Bączyk, Michał Flasiński"
 lang: "pl"
 sponsors: ["MeetCam", "Code Sprinters"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=p5VMZzrFo1o&feature=youtu.be"
 draft: false
 ---
 
