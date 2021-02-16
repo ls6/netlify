@@ -14,4 +14,4 @@ Aby uczcić to wydarzenie chcielibyśmy zaprosić Was do wspólnej zabawy. Zabaw
 Zastanowimy się nad korzyściami jakie one niosą, oraz postaramy się dowieść, iż mogą one stanowić dla nas ochronę w wielu sytuacjach.
 Zapraszamy wszystkich chętnych – czeka na was praca w grupach i mnóstwo dobrej zabawy :)
 
-Na deser porozmawiamy o ModernAgile - uaktualnionym spojrzeniu na Manifest Agile z 2016 (https://modernagile.org)
+Na deser porozmawiamy o ModernAgile - uaktualnionym spojrzeniu na Manifest Agile z 2016 roku (https://modernagile.org)
