@@ -23,4 +23,4 @@ Jako prowadzący nadam ramy dyskusji oraz podzielę się swoimi wnioskami z blis
 <li> współorganizuję spotkania Agile Warsaw, które zrzeszają nieformalną, lokalną społeczność entuzjastów zwinności.
 </ul>
 
-<a href="#223_AgileWarsaw_Agile Lifestyle.pdf" target="_blank">Prezentacja ze spotkania</a>
+<a href="Agile Lifestyle.pdf" target="_blank">Prezentacja ze spotkania</a>
