@@ -22,3 +22,5 @@ Jako prowadzący nadam ramy dyskusji oraz podzielę się swoimi wnioskami z blis
 <li> działam jako zewnętrzny mentor i coach dla członków zespołu zwinnego (Scrum Masterów, Product Ownerów, Developerów) oraz ich menedżerów/liderów (również pro bono w ramach warszawskiego <a href="https://integrator.naszebielany.pl/index.php/miesieczny/wydarzenie/311/" target="_blank">Bielańskiego Integratora Przedsiębiorczych</a>
 <li> współorganizuję spotkania Agile Warsaw, które zrzeszają nieformalną, lokalną społeczność entuzjastów zwinności.
 </ul>
+
+<a href="Agile Lifestyle.pdf" target="_blank">Prezentacja ze spotkania</a>
