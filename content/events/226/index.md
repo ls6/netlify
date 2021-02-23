@@ -15,6 +15,6 @@ Why do we use metrics? To make us feel better? To optimize the delivery process?
 
 Radek Orszewski is Lean Agile coach, consultant, and a trainer. He has been practicing many methods and tools for over 15 years working in international organization across the Europe. He’s Accredited Kanban Trainer (AKT) and he holds a prestigious title of Accredited Kanban Consultant. He’s also experienced Scrum practitioner (CSP-SM & PO). In his independent work he focuses on optimizing business value flow by including all technical and non-technical stakeholders and working with C-level management. He founded Berlin and Wroclaw Lean Coffee meetups, he teaches at Berlin CODE University and since 2019 he hosts a podcast “Kanban przy kawie”.
 
-<a href="https://www.linkedin.com/in/orszewski" target="_blank">LinkedI</a>
+<a href="https://www.linkedin.com/in/orszewski" target="_blank">LinkedIn</a>
 <a href="https://twitter.com/orszewski" target="_blank">Twitterk</a> 
 <a href="www.kanbanprzykawie.pl" target="_blank">Podcast</a>
