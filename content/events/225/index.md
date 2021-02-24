@@ -15,3 +15,6 @@ Zastanowimy się nad korzyściami jakie one niosą, oraz postaramy się dowieś�
 Zapraszamy wszystkich chętnych – czeka na was praca w grupach i mnóstwo dobrej zabawy :)
 
 Na deser porozmawiamy o ModernAgile - uaktualnionym spojrzeniu na Manifest Agile z 2016 roku (https://modernagile.org)
+
+<a href="https://prezi.com/1xwhbsa8axt7/modern-agile/?present=1" target="_blank">Prezentacja z Modern Agile</a>
+<a href="https://www.infoq.com/articles/modern-agile-intro/" target="_blank">Wprowadzenie do Modern Agile na Infoq</a>
