@@ -16,7 +16,6 @@ Zapraszamy wszystkich chętnych – czeka na was praca w grupach i mnóstwo dobr
 
 Na deser porozmawiamy o ModernAgile - uaktualnionym spojrzeniu na Manifest Agile z 2016 roku (https://modernagile.org)
 
-<ul>
- <li><a href="https://prezi.com/1xwhbsa8axt7/modern-agile/?present=1" target="_blank">Prezentacja z Modern Agile</a>
- <li><a href="https://www.infoq.com/articles/modern-agile-intro/" target="_blank">Wprowadzenie do Modern Agile na Infoq</a>
-</ul>
+<a href="https://prezi.com/1xwhbsa8axt7/modern-agile/?present=1" target="_blank">Prezentacja z Modern Agile</a><br>
+<a href="https://www.infoq.com/articles/modern-agile-intro/" target="_blank">Wprowadzenie do Modern Agile na Infoq</a>
+
