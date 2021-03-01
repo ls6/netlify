@@ -140,39 +140,27 @@ params:
   Schedule:
     - name: "Opening"
       time: "13h45"
-      remark: "Please, be on time!<br>This is where youwill be signing-up for workshops."
+      remark: "Please, be on time!<br>This is where you will be signing-up for workshops."
 
     - name: "Workshops"
+      time: "14h15"
       remark: "There will be X parallel workshops.<br>
       Workshop languages are mentioned in descriptions.<br><br>
       
       <strong>Bożena Andrzejak<br>
-      Konflikt czy zwykłe nieporozumienie, jak rozpoznać nadchodzący konflikt?</strong><br>
-      
-      in Polish <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br><br>
-      
+      Konflikt czy zwykłe nieporozumienie, jak rozpoznać nadchodzący konflikt?</strong>
+      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
       Stara zasada medyczna mówi, ze lepiej zapobiegać niż leczyć. Nie jestem zwolenniczką zarządzania przez konflikt, więc przekładam tę zasadę również na obszar komunikacji międzyludzkiej. Różnorodność, różnica zdań i perspektyw, nawet nieporozumienie, mogę być źródłem kreatywnych rozwiązań. Ale gorący konflikt prawie zawsze jest niszczący.<br>
       Dlatego lepiej rozpoznać jego pierwsze objawy i interweniować zanim będzie za późno. Podczas naszego spotkania przyjrzymy się jak zwykła sytuacja może eskalować w konflikt i co leży u źródeł takiego rozwoju sytuacji. Kiedy rozumiemy powody, mamy szansę na to, aby zatrzymać się w porę i zrobić krok do tyłu zanim wpadniemy w wir niszczącego procesu.<br><br>
 
-      <strong>Workshop EN</strong><br>
-      Workshop 1 desc<br>
-      In English <img class=\"icon-lang\" src=\"img/lang-gb.svg\"> <br><br>
+      <strong>Workshop EN</strong>
+      <img class=\"icon-lang\" src=\"img/lang-gb.svg\"><br>
+      Workshop 1 desc <br><br>
               
-      <strong>Workshop PL</strong><br>
-      Workshop 2<br>
-      In Polish <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br><br>
+      <strong>Workshop PL</strong>
+      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+      Workshop 2<br><br>
       "
-
-    - authors:
-        - name: "Keynote Author" 
-          photo: "img/ABElight-ikonka-square_300.png"
-          bio: "BIO"
-          link:
-            href: "https://agilewarsaw.com"
-            text: www
-      presentation:
-        title: "Title"
-        description: "Desc"
 
       # PANEL
     - authors:
@@ -208,6 +196,9 @@ params:
       weight: 100
 
 
+    - name: "Closing"
+      time: "18h00"
+      remark: ""
 
     #- name: "Lunch"
       #remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
