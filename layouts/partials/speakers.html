@@ -2,8 +2,10 @@
 
 <ul class="speakers-list">
 	<h2 class="tagline speaker-category">Speakers</h2>
-	{{ range $speaker := (where .schedule "presentation" "ne" nil) }}
-	
+	{{ $speakers := where .schedule "presentation" "ne" nil }}
+	{{ $speakers_sorted := (sort $speakers "weight" "desc") }}
+	{{ range $speaker :=  $speakers_sorted }}
+
 	{{ if (ne .bio "skipThisFromSpeakers") }}
 		{{ range $speaker.authors}}
 			<li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">

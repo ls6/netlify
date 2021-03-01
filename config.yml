@@ -191,6 +191,22 @@ params:
       presentation:
         title: "Panel title"
         description: "panel description..."
+        time: "16h00"
+      weight: 10
+
+    - authors:
+        - name: "Keynote Author" 
+          photo: "img/ABElight-ikonka-square_300.png"
+          bio: "BIO"
+          link:
+            href: "https://agilewarsaw.com"
+            text: www
+      presentation:
+        title: "Title"
+        description: "Desc"
+        time: "17h00"
+      weight: 100
+
 
 
     #- name: "Lunch"
