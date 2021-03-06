@@ -18,7 +18,7 @@ Na ich przykładzie wytłumaczę przedstawię Wam:
 3. Jak podejmować lepsze decyzje, w które elementy inwestować?
 4. Jak zaszczepić w zespole odpowiedzialność za jakość przez wszystkich... nie tylko testerów.
 
-### Piotr Włodarczyk | https://www.linkedin.com/in/pwlodarczyk/
+###  <a href="https://www.linkedin.com/in/pwlodarczyk/" target="_blank">Piotr Włodarczyk</a>
 
 Piotr Włodarczyk jest Agile Coachem z ponad 14-letnim doświadczeniem w branżach IT, bankowej, HR oraz logistycznej. Od 7 lat z sukcesem wspiera organizacje i zespoły we wdrażaniu zwinności. Pomaga w dużych korporacjach (mBank, PKO BP, Pracuj.pl, Canal+) jak również mniejszym firmom.
 
