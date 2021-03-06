@@ -12,11 +12,16 @@ draft: false
 Temat jakości towarzyszy nam niezależnie od tego, czy działamy w Scrum, Kanban czy Waterfallu. Każde z tych podejść wpływa na nasze spojrzenie dotyczące jakości, jednak to nie sam framework jest tutaj najważniejszy. O co i jak zadbać, aby nasz zespół dostarczał jakościowy soft? To będzie opowieść o kilku zespołach, z którymi miałem okazję pracować i ich drodze do jakościowego softu.
 
 Na ich przykładzie wytłumaczę przedstawię Wam:
+
 1. Czym jest podejście Shift-left approach?
+
 2. Co to jest piramida testów i jak powinna wyglądać?
-2. Jakich technik użyć do podnoszenia jakości na etapie b.refinementu, dewelopmentu, testów i nie tylko.
-3. Jak podejmować lepsze decyzje, w które elementy inwestować?
-4. Jak zaszczepić w zespole odpowiedzialność za jakość przez wszystkich... nie tylko testerów.
+
+3. Jakich technik użyć do podnoszenia jakości na etapie b.refinementu, dewelopmentu, testów i nie tylko.
+
+4. Jak podejmować lepsze decyzje, w które elementy inwestować?
+
+5. Jak zaszczepić w zespole odpowiedzialność za jakość przez wszystkich... nie tylko testerów.
 
 ###  <a href="https://www.linkedin.com/in/pwlodarczyk/" target="_blank">Piotr Włodarczyk</a>
 
