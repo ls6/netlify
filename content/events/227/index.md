@@ -1,6 +1,6 @@
 ---
 number: "227"
-date: "2021-03-22T18:00:00+01:00"
+date: "2021-03-22T17:30:00+01:00"
 title: "Jak zadbać o wysoką jakość dostarczanego oprogramowania (w zespole Scrumowym i nie tylko)?"
 speakers: "Piotr Włodarczyk"
 lang: "pl"
