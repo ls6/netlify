@@ -185,15 +185,16 @@ params:
       weight: 10
 
     - authors:
-        - name: "Keynote Author" 
+        - name: "Angela Johnson" 
           photo: "img/ABElight-ikonka-square_300.png"
-          bio: "BIO"
+          bio: "Angela is a Certified Scrum Trainer (CST) and Certified Less Practitioner (CLP) and Training from the BACK of the Room (TBR) Certified Trainer and one of the first Scrum Alliance Path to CSP Approved Educators. Angela helps others successfully implement Scrum and Agile to achieve their goals and objectives.<br> Clients that Angela has transformed include: agency / services, software, hardware, marketing, learning and development and more. The breadth and depth of her experience extends beyond Scrum and includes Kanban, eXtreme Programming, Facilitation and Organizational Change for business agility.<br> A graduate of Hamline University (B.A.) and the University of St. Thomas (M.B.C.), Angela focuses her work on the upper Midwestern areas of the United States to best serve in her most important roles: wife and mom.
+"
           link:
             href: "https://agilewarsaw.com"
             text: www
       presentation:
-        title: "Title"
-        description: "Desc"
+        title: "Is Product the New Misused Agile Term?"
+        description: "When you hear “product” or “product owner” what comes to mind in your context? A temporary project? A project manager? If you were to ask the customers who pay your company money what they think your product is would it be the same definition that you came up with?<br> In this session we will discuss how the term product is being misused in the Agile community. We’ll also explore techniques such as broadening questions and narrowing questions that can help your organization figure out just where to start with an Agile approach such as Scrum. These techniques can help set up your Scrum adoption for success and avoid creating confusion with misunderstood terms."
         time: "17h00"
       weight: 100
 
