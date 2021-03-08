@@ -61,6 +61,8 @@ params:
       url: "https://agilewarsaw.com/events/150/"
     - name: "2019"
       url: "https://agilewarsaw.com/events/179/"
+    - name: "2020"
+      url: "https://agilewarsaw.com/events/198/"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
