@@ -18,3 +18,6 @@ Radek Orszewski is Lean Agile coach, consultant, and a trainer. He has been prac
 <a href="https://www.linkedin.com/in/orszewski" target="_blank">LinkedIn</a>
 <a href="https://twitter.com/orszewski" target="_blank">Twitter</a> 
 <a href="www.kanbanprzykawie.pl" target="_blank">Podcast</a>
+
+#### Meeting materials:
+<a href="Prezentacja_AW226.pdf" target="_blank">Slides</a>
