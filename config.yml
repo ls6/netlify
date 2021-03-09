@@ -1,5 +1,5 @@
 publishDir: docs
-baseurl: "https://abelight.agilewarsaw.com"
+baseurl: "https://abelight-2020.agilewarsaw.com"
 title: "ABE Light 2020"
 canonifyurls: true
 theme: "hugo-conference"
