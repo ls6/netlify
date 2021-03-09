@@ -749,9 +749,6 @@ h2.previous-editions {
     font-size: 16px;
     padding: 0;
   }
-  .speakers-bio {
-    display: none;
-  }
 }
 @media only screen and (max-width: 321px) {
   .logo-name {
@@ -774,6 +771,9 @@ h2.previous-editions {
     width: 115px;
     height: 115px;
     line-height: 115px;
+  }
+  .speakers-bio {
+    display: none;
   }
 }
 /* =============================================================================
