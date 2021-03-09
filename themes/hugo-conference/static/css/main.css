@@ -563,7 +563,7 @@ nav {
     text-align: left;
   }
   .schedule-tbl td.schedule-description {
-    font-size: 12px;
+    /* font-size: 12px; */
   }
   /* partners */
   .sponsor-item,
