@@ -618,7 +618,7 @@ h2.previous-editions {
     text-align: left;
   }
   .schedule-tbl td.schedule-description {
-    font-size: 12px;
+    /* font-size: 12px;*/
   }
   /* partners */
   .sponsor-item,
@@ -642,7 +642,50 @@ h2.previous-editions {
   .form .btn {
     margin-bottom: 50px;
   }
+  {
+  .schedule-tbl  {
+    display: block;
+    > .schedule-cell { width: 100% !important; }
+    > .schedule-cell--foot { margin-bottom: 1em; }
+  }
 }
+}
+
+@media only screen and (max-width: 550px) {
+  table, thead, tbody, th, td, tr {
+	display: block;
+  }
+  /* Hide table headers (but not display: none;, for accessibility) */
+  thead tr {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+  }
+  tr {
+    margin: 0 0 1rem 0;
+  }
+  td {
+	/* Behave  like a "row" */
+	border: none;
+	border-bottom: 1px solid #eee;
+	position: relative;
+	padding-left: 50%;
+  }
+  .schedule-tbl .schedule-time {
+    width: auto; 
+    padding: 10px;
+  /* border-bottom-style: none; */
+  }
+  .schedule-tbl .schedule-slot {
+	  width: auto;
+	  /* border-bottom-style: none;*/
+  }
+  .schedule-tbl .schedule-description {
+	  border-bottom-width: 3px;
+  }
+  
+}
+
 @media only screen and (max-width: 480px) {
   /* nav */
   nav {
