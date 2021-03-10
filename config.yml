@@ -154,6 +154,16 @@ params:
       <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
       Stara zasada medyczna mówi, że lepiej zapobiegać niż leczyć. Nie jestem zwolenniczką zarządzania przez konflikt, więc przekładam tę zasadę również na obszar komunikacji międzyludzkiej. Różnorodność, różnica zdań i perspektyw, nawet nieporozumienie, mogę być źródłem kreatywnych rozwiązań. Ale gorący konflikt prawie zawsze jest niszczący.<br>
       Dlatego lepiej rozpoznać jego pierwsze objawy i interweniować zanim będzie za późno. Podczas naszego spotkania przyjrzymy się jak zwykła sytuacja może eskalować w konflikt i co leży u źródeł takiego rozwoju sytuacji. Kiedy rozumiemy powody, mamy szansę na to, aby zatrzymać się w porę i zrobić krok do tyłu zanim wpadniemy w wir niszczącego procesu.<br><br>
+              
+      <strong>Justyna Wykowska<br>
+      Szkiełko i oko czyli dylematy biznes analityka</strong>
+      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+      \"Jeśli nie umiesz zmierzyć rezultatu zmian to nic nie zmieniaj\". Podstawą pracy PO i analityka biznesowego jest mierzenie rezultatów zmian w produkcie. Zapraszam na warsztat gdzie na przykładach produktów dotkniemy tematu metryk i wskaźników. Sprawdzimy co i kiedy warto mierzyć, kiedy metryka przynosi nam oczekiwane korzyści a kiedy jest szkodliwa i zdefiniujemy metryki dla naszych przykładów.<br><br>
+
+      <strong>Jurgen de Smet<br>
+      Agile is not Scrum and Scrum is not necessarily Agile</strong>
+      <img class=\"icon-lang\" src=\"img/lang-gb.svg\"><br>
+      Today, bad or zombie Scrum is the biggest enemy of Scrum and not waterfall or phase gate projects and programs. In this workshop we're going to explore your understanding of Scrum and provide insights on how to bring Scrum to a higher level of Agility. Enabling you and your teams creativity towards experimentation and innovation beyond the retrospective into the Products you build.<br><br>
 
       <strong>Workshop EN</strong>
       <img class=\"icon-lang\" src=\"img/lang-gb.svg\"><br>
@@ -215,6 +225,24 @@ params:
       - name: "Bożena Andrzejak"
         photo: "img/ABElight-ikonka-square_300.png"
         bio: "Facilitator, consultant, coach and therapist. Bożena empowering her clients to explore their natural resources thus creating space to discover and experiment new, effective behaviors. Especially to help to identify and resolve internal and external conflicts.<br> She takes active part as a guest speaker or coach in events as: Scrum Days, Agile By Example, ACCP, Uncof, Management 3.0, Novotalk. She is an author of soft skills training programmes dedicated to agile team members.  "
+        link:
+          href: "https://"
+          text: "www"
+      workshop: true
+
+    - authors:
+      - name: "Justyna Wykowska"
+        photo: "img/JustynaWykowska.png"
+        bio: "Kim jestem? Inżynierem automatykiem, programistą, managerem, Product Ownerem, Scrum Masterem, trenerem, coachem personalnym, specjalistą od Agile... I nie przestaję się uczyć nowych rzeczy.<br>Pomogę Ci wykorzystać Twoje mocne strony. Podpowiem, jak osiągnąć zamierzony cel. Kiedy jestem z zespołem dbam, aby grupa dobrze się czuła, i co najważniejsze była efektywna. Zbudowałam już ponad 20 fantastycznych zespołów, pracując z nimi jako lider lub coach."
+        link:
+          href: "https://"
+          text: "www"
+      workshop: true
+
+    - authors:
+      - name: "Jurgen De Smet"
+        photo: "img/jurgenDeSmet.jpg"
+        bio: "Jurgen De Smet ma dar ulepszania procesów operacyjnych poprzez zastosowanie koncepcji gier w środowisku poważnych organizacji. Jako lider zmiany w jednej z największych transformacji Agile w europejskiej służbie zdrowia, przekształcał firmy w najbardziej regulowanych prawnie i unikających ryzyka branżach i sprawił, że osiągnęły wspaniałe wyniki w zakresie innowacji. Jego wprowadzenie do Agile i Lean sprawia, że organizacje na wszystkich szczeblach zarządzania szybko odkrywają wartość z nowego podejścia i wkrótce nie są w stanie wyobrazić sobie pracy w jakikolwiek inny sposób."
         link:
           href: "https://"
           text: "www"
