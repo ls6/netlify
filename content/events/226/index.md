@@ -5,7 +5,7 @@ title: "Good, Bad and Actionable - metrics for improvement and customer satisfac
 speakers: "Radek Orszewski"
 lang: "en"
 sponsors: ["QAgile","Reef Technologies"]
-videoURL: ""
+videoURL: "https://youtu.be/-wBj5337FGs"
 draft: false
 ---
 
