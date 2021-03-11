@@ -179,9 +179,9 @@ params:
 
       # PANEL
      - authors:
-      #  - name: "Panelist 1"
-      #    photo: "img/ABElight-ikonka-square_300.png"
-      #    bio: "panelist 1 bio"
+        - name: "Paneliści - TBA"
+          photo: "img/ABElight-ikonka-square_300.png"
+          bio: "TBA"
       #    link:
       #      href: "https://agilewarsaw.com"
       #      text: "LinkedIn/www?"
