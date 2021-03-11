@@ -199,9 +199,9 @@ params:
         - name: "Angela Johnson" 
           photo: "img/Angela_Johnson.jpg"
           bio: "Angela is a Certified Scrum Trainer (CST) and Certified Less Practitioner (CLP) and Training from the BACK of the Room (TBR) Certified Trainer and one of the first Scrum Alliance Path to CSP Approved Educators. Angela helps others successfully implement Scrum and Agile to achieve their goals and objectives.<br> Clients that Angela has transformed include: agency / services, software, hardware, marketing, learning and development and more. The breadth and depth of her experience extends beyond Scrum and includes Kanban, eXtreme Programming, Facilitation and Organizational Change for business agility.<br> A graduate of Hamline University (B.A.) and the University of St. Thomas (M.B.C.), Angela focuses her work on the upper Midwestern areas of the United States to best serve in her most important roles: wife and mom."
-          #link:
-          #  href: "https://agilewarsaw.com"
-          #  text: www
+          link:
+            href: "https://procognita.com/company/team/trainers/angela-johnson"
+            text: www
       presentation:
         title: "Is Product the New Misused Agile Term?"
         description: "When you hear “product” or “product owner” what comes to mind in your context? A temporary project? A project manager? If you were to ask the customers who pay your company money what they think your product is would it be the same definition that you came up with?<br> In this session we will discuss how the term product is being misused in the Agile community. We’ll also explore techniques such as broadening questions and narrowing questions that can help your organization figure out just where to start with an Agile approach such as Scrum. These techniques can help set up your Scrum adoption for success and avoid creating confusion with misunderstood terms. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
@@ -225,45 +225,45 @@ params:
       - name: "Bożena Andrzejak"
         photo: "img/bozena_andrzejak.jpg"
         bio: "Facilitator, consultant, coach and therapist. Bożena empowering her clients to explore their natural resources thus creating space to discover and experiment new, effective behaviors. Especially to help to identify and resolve internal and external conflicts.<br> She takes active part as a guest speaker or coach in events as: Scrum Days, Agile By Example, ACCP, Uncof, Management 3.0, Novotalk. She is an author of soft skills training programmes dedicated to agile team members.  "
-        #link:
-        # href: "https://"
-        # text: "www"
+        link:
+         href: "https://www.linkedin.com/in/bozenaandrzejak/"
+         text: "linkedin"
       workshop: true
 
     - authors:
       - name: "Justyna Wykowska"
         photo: "img/JustynaWykowska.png"
         bio: "Kim jestem? Inżynierem automatykiem, programistą, managerem, Product Ownerem, Scrum Masterem, trenerem, coachem personalnym, specjalistą od Agile... I nie przestaję się uczyć nowych rzeczy.<br>Pomogę Ci wykorzystać Twoje mocne strony. Podpowiem, jak osiągnąć zamierzony cel. Kiedy jestem z zespołem dbam, aby grupa dobrze się czuła, i co najważniejsze była efektywna. Zbudowałam już ponad 20 fantastycznych zespołów, pracując z nimi jako lider lub coach."
-        #link:
-        #  href: "https://"
-        #  text: "www"
+        link:
+          href: "https://procognita.com/company/team/trainers/justyna-wykowska"
+          text: "www"
       workshop: true
 
     - authors:
       - name: "Jurgen De Smet"
         photo: "img/jurgenDeSmet.jpg"
         bio: "I help leaders of large organizations deliver on their commitments to high performance. Before, during and after an Agile adoption like LeSS, SAFe, Scrum at Scale, DAD or any kind of Lean transformation, large organizations often find that they need to de-scale and simplify organizational structures and processes. I function as an Executive-level guide for companies approaching their second growth phase. Industry leaders in banking, insurance, telecommunications, healthcare, utilities, media and agriculture hire me to help remove obstacles in their path to innovation.<br> We address specific pain points in the system so upper-management can learn to enable emergent solutions. For example: <br> • Horizontal complexity - consolidating functions across the enterprise<br>• Vertical complexity - shedding obsolete roles, layers and reporting structures<br>• Spatial complexity - preparing distributed teams for success "
-        #link:
-        #  href: "https://"
-        #  text: "www"
+        link:
+          href: "https://procognita.com/company/team/trainers/jurgen-de-smet"
+          text: "www"
       workshop: true
 
     - authors:
       - name: "Maciej Sowiński"
         photo: "img/maciej_sowinski.jpg"
         bio: "Maciej Sowiński zajmuje się Scrumem i zwinną organizacją pracy od 2010 roku, od 2014 roku jako agile coach i trener. W tym czasie pracował dla korporacji , spółek skarbu państwa , startupów i software housów . Zarówno w Polsce jak i w Niemczech, Danii, Anglii.<br> Jako trener przeszkolił już ponad 200 osób z tematów takich jak: Scrum, Kanban, zwinne zarządzanie, zwinne przywództwo."
-        #link:
-        #  href: "https://"
-        #  text: "www"
+        link:
+          href: "https://www.linkedin.com/in/maciejsowinski/"
+          text: "linkedin"
       workshop: true
 
     - authors:
       - name: "Małgorzata Polińska-Fotek"
         photo: "img/gosia_polinska.jpg"
         bio: "Doświadczony manager, konsultant, trener, specjalistka w obszarach innowacyjności. Pierwotnie kształciła się w obszarze HR, aby ostatecznie spełniać się w roli Project i Change Manager oraz Product Ownera. Z pasji miłośniczka ludzi i ich historii, specjalistka w zakresie harmonizacji i rozwoju zespołów.<br> Certyfikowany moderator Design Thinking i trener Metody Biegun Marka Kamińskiego, Certyfikowany Praktyk PRISM oraz Prosci Change Management. <br> W swojej pracy kieruje się zasadą: rozwiązania blisko ludzi. <br> W wolnym czasie wspiera Inicjatywy edukacyjne skierowane do dzieci i młodzieży. "
-        #link:
-        #  href: "https://"
-        #  text: "www"
+        link:
+          href: "https://www.linkedin.com/in/malgorzata-karolina-polinska/"
+          text: "linkedin"
       workshop: true
 
 
