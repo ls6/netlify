@@ -177,18 +177,23 @@ params:
       
       "
 
-    - authors:
-        - name: "Paneliści - TBA"
-          photo: "img/ABElight-ikonka-square_300.png"
-          bio: "TBA"
-          link:
-            href: "https://agilewarsaw.com"
-            text: "LinkedIn/www?"
-      presentation:
-        title: "Panel dyskusyjny"
-        description: "Rozwój produktu<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
-        time: "16h00"
-      weight: 10
+#    - authors:
+#        - name: "Paneliści - TBA"
+#          photo: "img/ABElight-ikonka-square_300.png"
+#          bio: "TBA"
+#          link:
+#            href: "https://agilewarsaw.com"
+#            text: "LinkedIn/www?"
+#      presentation:
+#        title: "Panel dyskusyjny"
+#        description: "Rozwój produktu<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+#        time: "16h00"
+#      weight: 10
+
+    - name: "Panel dyskusyjny"
+      time: "13h45"
+      remark: "Rozwój produktu<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+
 
     - authors:
         - name: "Angela Johnson" 
