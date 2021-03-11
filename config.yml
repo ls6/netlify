@@ -178,7 +178,7 @@ params:
       "
 
       # PANEL
-      #   - authors:
+     - authors:
       #  - name: "Panelist 1"
       #    photo: "img/ABElight-ikonka-square_300.png"
       #    bio: "panelist 1 bio"
