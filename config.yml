@@ -178,22 +178,22 @@ params:
       "
 
       # PANEL
-    - authors:
-        - name: "Panelist 1"
-          photo: "img/ABElight-ikonka-square_300.png"
-          bio: "panelist 1 bio"
-          link:
-            href: "https://agilewarsaw.com"
-            text: "LinkedIn/www?"
-        - name: "Panelist 2"
-          photo: "img/ABElight-ikonka-square_300.png"
-          bio: "panelist 2 bio"
-          link:
-            href: "https://agilewarsaw.com"
-            text: "LinkedIn/www?"
+      #   - authors:
+      #  - name: "Panelist 1"
+      #    photo: "img/ABElight-ikonka-square_300.png"
+      #    bio: "panelist 1 bio"
+      #    link:
+      #      href: "https://agilewarsaw.com"
+      #      text: "LinkedIn/www?"
+      #  - name: "Panelist 2"
+      #    photo: "img/ABElight-ikonka-square_300.png"
+      #    bio: "panelist 2 bio"
+      #    link:
+      #      href: "https://agilewarsaw.com"
+      #      text: "LinkedIn/www?"
       presentation:
-        title: "Panel title"
-        description: "panel description..."
+        title: "Panel dyskusyjny"
+        description: "Rozwój produktu<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
         time: "16h00"
       weight: 10
 
