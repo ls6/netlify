@@ -186,13 +186,13 @@ params:
 #            text: "LinkedIn/www?"
 #      presentation:
 #        title: "Panel dyskusyjny"
-#        description: "Rozwój produktu<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+#        description: "Rozwój produktu <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 #        time: "16h00"
 #      weight: 10
 
     - name: "Panel dyskusyjny"
       time: "16h00"
-      remark: "Rozwój produktu<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+      remark: "Rozwój produktu <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
 
     - authors:
