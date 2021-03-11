@@ -251,6 +251,23 @@ params:
           text: "www"
       workshop: true
 
+    - authors:
+      - name: "Maciej Sowiński"
+        photo: "img/maciej_sowinski.jpg"
+        bio: "TBA"
+        link:
+          href: "https://"
+          text: "www"
+      workshop: true
+
+    - authors:
+      - name: "Małgorzata Polińska-Fotek"
+        photo: "img/gosia_polinska.jpg"
+        bio: "TBA"
+        link:
+          href: "https://"
+          text: "www"
+      workshop: true
 
 
 
