@@ -8,14 +8,14 @@ theme: "hugo-conference"
 
 params:
   # Conference info
-  Name: "ABE Light 2020"
-  Description: "AgileByExample Light 2020"
-  Date: "7 March (Saturday)"
-  startDate: "2020-03-07T13:45"
+  Name: "ABE Light 2021"
+  Description: "AgileByExample Light 2021"
+  Date: "10 April (Saturday)"
+  startDate: "2021-04-10T13:45"
   #Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Akademia Finansów i Biznesu VISTULA"
-  Address: "Stokłosy 3"
-  City:  "Warszawa"
+  Venue: "Online"
+  #Address: "Stokłosy 3"
+  #City:  "Warszawa"
   #State: "Quintana"
   Images: ["/img/ABElight-ikonka.png"]
 
@@ -23,7 +23,7 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
-    - location
+    #- location
     - speakers
     - schedule
     - partners
@@ -47,10 +47,22 @@ params:
     previous: "Previous Editions"
 
   Previous:
+    - name: "2013"
+      url: "https://agilewarsaw.com/events/55/"
+    - name: "2014"
+      url: "https://agilewarsaw.com/events/78/"
+    - name: "2015"
+      url: "https://agilewarsaw.com/events/98/"
+    - name: "2016"
+      url: "https://agilewarsaw.com/events/115/"
+    - name: "2017"
+      url: "https://agilewarsaw.com/events/130/"
     - name: "2018"
-      url: "https://abelight-2018.agilewarsaw.com"
+      url: "https://agilewarsaw.com/events/150/"
     - name: "2019"
-      url: "https://abelight-2019.agilewarsaw.com"
+      url: "https://agilewarsaw.com/events/179/"
+    - name: "2020"
+      url: "https://agilewarsaw.com/events/198/"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
@@ -66,13 +78,17 @@ params:
 
   # List of Sponsors
   Sponsors:
+    - name: "KMD"
+      logo: "img/logo_kmd.png"
+      url: "https://career.kmd.net/join-kmd-poland"
+
     - name: "ProCognita"
       logo: "img/logo_procognita.png"
       url: "https://procognita.pl/"
 
-    - name: "Vistula"
-      logo: "img/logo_vistula.jpg"
-      url: "http://www.vistula.edu.pl/"
+      #  - name: "Vistula"
+      #    logo: "img/logo_vistula.jpg"
+      #    url: "http://www.vistula.edu.pl/"
 
     - name: "Slido"
       logo: "img/logo_slido.png"
@@ -84,9 +100,9 @@ params:
       logo: "img/logo_AW.png"
       url: "http://agilewarsaw.com"
 
-    - name: "PKO BP"
-      logo: "img/logo_PKOBP.jpg"
-      url: "https://www.pkobp.pl"
+      # - name: "PKO BP"
+      #   logo: "img/logo_PKOBP.jpg"
+      #   url: "https://www.pkobp.pl"
 
       #- name: "PMI Oddział Warszawa"
       #logo: "img/logo_PMI.png"
@@ -98,25 +114,25 @@ params:
       logo: "img/logo_APL.png" 
       url: "http://agilepolska.pl/"
 
-    - name: "Agile 247"
-      logo: "img/logo_a247.jpg" 
-      url: "http://www.agile247.pl/"
+    # - name: "Agile 247"
+    #  logo: "img/logo_a247.jpg" 
+    #  url: "http://www.agile247.pl/"
 
   Orgs:
-    - name: "Łukasz Szóstek"
-      img: "img/org_szostek.png"
-    - name: "Ania Przybyszewska"
-      img: "img/org_przybyszewska.png"
-    - name: "Mateusz Srebrny"
-      img: "img/org_srebrny.png"
-    - name: "Ewa Koprowska"
-      img: "img/org_koprowska.png"
     - name: "Piotr Radaj"
       img: "img/org_radaj.png"
-    - name: "Magdalena Walczak"
-      img: "img/org_walczak.png"
+    - name: "Ania Przybyszewska"
+      img: "img/org_przybyszewska.png"
     - name: "Łukasz Przezorski"
       img: "img/org_przezorski.png"
+    - name: "Kinga Grabowska"
+      img: "img/org_kinga.png"
+    - name: "Mateusz Srebrny"
+      img: "img/org_srebrny.png"
+    # - name: "Magdalena Walczak"
+    #img: "img/org_walczak.png"
+    - name: "Łukasz Szóstek"
+      img: "img/org_szostek.png"
     #- name: "Michał Koprowski"
       #img: "img/org_koprowski.png"
       #- name: "Piotr Szczygieł"
@@ -124,170 +140,139 @@ params:
 
   # The entire schedule
   Schedule:
-    - name: "Start"
+    - name: "Opening"
       time: "13h45"
-      remark: "Please, be on time!"
-
-    - authors:
-        - name: "Gojko Adžić"
-          photo: "img/Gojko.png"
-          bio: "Gojko Adzic is a strategic software delivery consultant who works with ambitious teams to align software delivery with business goals and improve the quality of their software products and processes. Gojko specializes in are Agile and Lean quality improvement, in particular Impact Mapping, Agile Testing, Specification by Example and Behavior Driven Development.<br>
-He is the winner of the 2016 European Software Testing Outstanding Achievement Award and the 2011 \"Most Influential Agile Testing Professional Award\"."
-          link:
-            href: "https://procognita.com/company/team/trainers/gojko-adzic/"
-            text: www
-      presentation:
-        title: "Maximum Impact, Minimum Effort"
-        description: "A big government IT project delivered two years ahead of schedule. A fraud detection initiative saving tens of millions more than predicted. An app that helped a city rebuild faster after a major disaster and save ten times more money than expected. Learn how early adopters use impact mapping to create big impacts and minimise effort, from large government departments to innovative consultancies and small startups.<br><br>
-This talk is based on an extensive research with commercial organisations, government departments and non-profit agencies from all over the world. Gojko will present real-world case studies and distill their experience into useful tips that will enable you to speed up adoption, avoid common pitfalls and reach your goals faster. <img class=\"icon-lang\" src=\"img/lang-gb.svg\"> <br><br>
-<a href=\"https://www.youtube.com/watch?v=pPvJioa3TO4&list=PLwoIK953bBnNiMBGSQoe_VgJMTnjBSJO3&index=1\" target=\"_blank\">Recording of the talk</a>"
+      remark: "Please, be on time!<br>This is where you will be signing-up for workshops."
 
     - name: "Workshops"
-      remark: "There will be 6 parallel workshops.<br>
+      time: "14h15"
+      remark: "The workshops will be held in parallel.<br>
       Workshop languages are mentioned in descriptions.<br><br>
       
-      <strong>1) Gojko Adzic: Given-when-then With Style</strong><br>
-      Hands-on workshop where you will learn about the key techniques to make the most out of the Given-When-Then format for specifications and tests, and how to avoid the most common problems.<br>
-      In English <img class=\"icon-lang\" src=\"img/lang-gb.svg\"> <br><br>
+      <strong>Bożena Andrzejak<br>
+      Konflikt czy zwykłe nieporozumienie, jak rozpoznać nadchodzący konflikt?</strong>
+      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
+      Stara zasada medyczna mówi, że lepiej zapobiegać niż leczyć. Nie jestem zwolenniczką zarządzania przez konflikt, więc przekładam tę zasadę również na obszar komunikacji międzyludzkiej. Różnorodność, różnica zdań i perspektyw, nawet nieporozumienie, mogę być źródłem kreatywnych rozwiązań. Ale gorący konflikt prawie zawsze jest niszczący.<br>
+      Dlatego lepiej rozpoznać jego pierwsze objawy i interweniować zanim będzie za późno. Podczas naszego spotkania przyjrzymy się jak zwykła sytuacja może eskalować w konflikt i co leży u źródeł takiego rozwoju sytuacji. Kiedy rozumiemy powody, mamy szansę na to, aby zatrzymać się w porę i zrobić krok do tyłu zanim wpadniemy w wir niszczącego procesu.<br><br>
               
-      <strong>2) Mariusz Petlic: Output vs. Outcome</strong><br>
-      Do we generate value or costs? What's the benefit and what's not? We will check if we can distinguish it both at work and in private life.<br>
-      In Polish <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br><br>
+      <strong>Justyna Wykowska<br>
+      Szkiełko i oko czyli dylematy biznes analityka</strong>
+      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+      \"Jeśli nie umiesz zmierzyć rezultatu zmian to nic nie zmieniaj\". Podstawą pracy PO i analityka biznesowego jest mierzenie rezultatów zmian w produkcie. Zapraszam na warsztat gdzie na przykładach produktów dotkniemy tematu metryk i wskaźników. Sprawdzimy co i kiedy warto mierzyć, kiedy metryka przynosi nam oczekiwane korzyści a kiedy jest szkodliwa i zdefiniujemy metryki dla naszych przykładów.<br><br>
 
-      <strong>3) Tomasz Wykowski: Product Discovery</strong><br>
-      What you don’t know about your product?<br>
-      Join this session to learn why discovering the product is critical for its success and experience tools for defining Product Vision and Success Criteria.<br>
-      In English unless all the participants speak Polish <img class=\"icon-lang\" src=\"img/lang-gb.svg\"> ( <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> ) <br><br>
+      <strong>Jurgen de Smet<br>
+      Agile is not Scrum and Scrum is not necessarily Agile</strong>
+      <img class=\"icon-lang\" src=\"img/lang-gb.svg\"><br>
+      Today, bad or zombie Scrum is the biggest enemy of Scrum and not waterfall or phase gate projects and programs. In this workshop we're going to explore your understanding of Scrum and provide insights on how to bring Scrum to a higher level of Agility. Enabling you and your teams creativity towards experimentation and innovation beyond the retrospective into the Products you build.<br><br>
 
-      <strong>4) Justyna Wykowska: Backlog Prioritization Techniques</strong><br>
-      When everything is important, nothing is important. During this workshop you’ll try different techniques for prioritizing your Product Backlog to find the ones that work for your company.<br>
-      In English unless all the participants speak Polish <img class=\"icon-lang\" src=\"img/lang-gb.svg\"> ( <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> ) <br><br>
-
-      <strong>5) Ewa Koprowska, Dominik Jabłoński: Scrum Tale</strong><br>
-      ScrumTale is designed to teach the Scrum framework. It improves learning experience by simulating Agile product delivery while experiencing all Agile principles. This game is a perfect aid to practice all the elements of the Scrum framework: roles, events and artifacts.<br>
-The players simulate Scrum teams writing a crime story simultaneously using Google Docs. Collaborative story writing is very similar to software production: you need to be creative and act as a team to deliver a product. You will also experience challenges with integration, quality and tools that are present during software development without the need of having a technical background. You can observe the mechanics of the Scrum during the stormy process of story writing.<br>
-      In Polish <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br><br>
-
-      <strong>6) Klaudia Komacka: FAIL — First Attempt in Learning</strong><br>
-      How to fail and learn during product development?<br>
-      There is a practice that focuses on developing problem solving, scientific thinking and continuous improvement abilities. During this workshop, you will be encouraged to puzzle out the optimal solution through continuous experiments. We will discuss how to create a hypothesis, measure and validate it. In the end, we will celebrate the learning!<br>
-      In English unless all the participants speak Polish <img class=\"icon-lang\" src=\"img/lang-gb.svg\"> ( <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> ) <br><br>
+      <strong>Maciej Sowiński<br>
+      Myślenie systemowe dla Agile Coachów Light</strong>
+      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+      TBA<br><br>
+      
+      <strong>Małgorzata Polińska-Fotek<br>
+      Zarządzanie zmianą jako integralna część dostarczania produktu do użytkowników i odpowiedzialność PO</strong>
+      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+      TBA<br><br>
+      
       "
 
-    - name: "Lunch"
-      remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
+#    - authors:
+#        - name: "Paneliści - TBA"
+#          photo: "img/ABElight-ikonka-square_300.png"
+#          bio: "TBA"
+#          link:
+#            href: "https://agilewarsaw.com"
+#            text: "LinkedIn/www?"
+#      presentation:
+#        title: "Panel dyskusyjny"
+#        description: "Rozwój produktu <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+#        time: "16h00"
+#      weight: 10
+
+    - name: "Panel dyskusyjny"
+      time: "16h00"
+      remark: "Rozwój produktu <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+
 
     - authors:
-        - name: "Zbigniew Sobiecki"
-          photo: "img/ZbigniewS.jpg"
-          bio: "I’ve been building software one way (with my own hands) or another (building teams and companies to do so) with dozens of technologies for almost 20 years now. Co-founded 5 companies.<br>
-Currently at Arabella Labs, helping fantastic teams build products for exciting startups and world-famous corporations.<br>
-In front of a computer (or terminal) screen since early ‘90s.<br>
-Rookie marathon runner: so far managed to complete the original Marathon-Athens course in 2015 and not die immediately thereafter. "
+        - name: "Angela Johnson" 
+          photo: "img/Angela_Johnson.jpg"
+          bio: "Angela is a Certified Scrum Trainer (CST) and Certified Less Practitioner (CLP) and Training from the BACK of the Room (TBR) Certified Trainer and one of the first Scrum Alliance Path to CSP Approved Educators. Angela helps others successfully implement Scrum and Agile to achieve their goals and objectives.<br> Clients that Angela has transformed include: agency / services, software, hardware, marketing, learning and development and more. The breadth and depth of her experience extends beyond Scrum and includes Kanban, eXtreme Programming, Facilitation and Organizational Change for business agility.<br> A graduate of Hamline University (B.A.) and the University of St. Thomas (M.B.C.), Angela focuses her work on the upper Midwestern areas of the United States to best serve in her most important roles: wife and mom.
+"
           link:
-              href: "http://zbigniew.me/"
-              text: LinkedIn
+            href: "https://agilewarsaw.com"
+            text: www
       presentation:
-        title: "Building New Products and Businesses vs. Cranking out Code"
-        description: "Is it possible to successfully design and build new digital products and services from scratch with an external partner? If so, how does the process, the team, and the business arrangement differs from classic time & materials software house setup? Let's have a frank discussion about the common issues organizations face when trying to outsource product design and how to deal with them. Let's also get specific about focusing on outcomes instead of shipping new features. We will also touch on human and cultural aspects of the two approaches. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">  <br><br>
-<a href=\"https://www.youtube.com/watch?v=HuTB5-AVyCM&list=PLwoIK953bBnNiMBGSQoe_VgJMTnjBSJO3&index=4\" target=\"_blank\">Recording of the talk</a>"
-
-    - authors:
-        - name: "Gosia Fiedorow"
-          photo: "img/GFiedorow.jpg"
-          bio: "Gosia Fiedorow, Industrial Designer turned Digital Product Designer, believes pixels and code are not that different from wood and carpentery. She’s leading the product design team at Codility, a software platform transforming the way enterprise companies hire, retain and grow engineering teams."
-          link:
-            href: "https://www.linkedin.com/in/gosiafiedorow/"
-            text: LinkedIn
-      presentation:
-        title: "Finding Your Purpose in Chaos — a Designer’s Point of View"
-        description: "In her talk, Gosia will share her story of how she has managed to fit the design mindset into software development; where work is never really done… and never ends up exactly how it was envisioned in the beginning. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">  <br><br>
-<a href=\"https://www.youtube.com/watch?v=Xfb9vFxTcI4&list=PLwoIK953bBnNiMBGSQoe_VgJMTnjBSJO3&index=3\" target=\"_blank\">Recording of the talk</a>"
-
-    - authors:
-        - name: "Aga Szóstek"
-          photo: "img/Aga-120.jpg"
-          bio: "Aga Szóstek, Ph.D. is a strategic designer. For the past two decades she worked at the forefront of combining design, technology and business. She collaborated with brands such as Google, Microsoft, Philips, Canon, Samsung, EY, Santander, ING, Orange and many more, bringing the experience-focused strategic approach to project teams and boardrooms. Her approach inspired many organisations to refocus and bet on experiences as their strategic differentiator.<br><br>
-          Next to consulting, Aga designs <a href=\"http://seed-cards.com\" target=\"blank\">tools</a> aiming to support delivering unique experiences and co-hosts a podcast about creative leadership: <a href=\"http://catchingthenextwavepodcast.com\" target=\"blank\">Catching The Next Wave</a>. She graduated with her Ph.D. from the Eindhoven University of Technology, The Netherlands, and teaches experience design all around the world from the alternative business school Kaospilot in Denmark to Canterbury University in Christchurch, New Zealand."
-          link:
-            href: "https://pl.linkedin.com/in/agnieszka-sz%C3%B3stek-5aa2321"
-            text: "LinkedIn"
-      presentation:
-        title: "It's All About the Experience"
-        description: "We talk about how to design the right products in the right way, right? But is it truly the thing we should focus on? In my presentation, I will do my best to convince you that, in fact, we should focus on defining what sort of experience we aim at before we focus on designing products and services. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">  <br><br>
-<a href=\"https://www.youtube.com/watch?v=fdMg8Oq2p1g&list=PLwoIK953bBnNiMBGSQoe_VgJMTnjBSJO3&index=2\" target=\"_blank\">Recording of the talk</a>"
+        title: "Is Product the New Misused Agile Term?"
+        description: "When you hear “product” or “product owner” what comes to mind in your context? A temporary project? A project manager? If you were to ask the customers who pay your company money what they think your product is would it be the same definition that you came up with?<br> In this session we will discuss how the term product is being misused in the Agile community. We’ll also explore techniques such as broadening questions and narrowing questions that can help your organization figure out just where to start with an Agile approach such as Scrum. These techniques can help set up your Scrum adoption for success and avoid creating confusion with misunderstood terms. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
+        time: "17h00"
+      weight: 100
 
 
-    - name: "Afterparty"
-      remark: "Close by…"
-      time: "~19h30"
+    - name: "Closing"
+      time: "18h00"
+      remark: ""
+
+    #- name: "Lunch"
+      #remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
+
 
 
      ###########################
      ###  WORKSHOP TRAINERS  ###
      ###########################
-
     - authors:
-        - name: "Tomasz Wykowski"
-          photo: "img/TomekWykowski.png"
-          bio: "“We learn thru all our life, therefore learning needs to be fun.”<br>
-          As an Agile Coach and Trainer, Tomasz supports individuals and organizations in their quest for Agility, better results and amazing workplace. He's the first Polish Certified Scrum Trainer and LeSS-Friendly Scrum Trainer. He understands the needs of young companies and helps them succeed in their markets.<br>
-Tomasz holds a Master's Degree in Automatic and Robotic and has a broad experience in software development from different perspectives, including engineering, quality assurance, project management and Agile Coaching. In 2010 he founded ProCognita, a training and consulting company."
-          link:
-              href: "https://procognita.com/company/team/trainers/tomasz-wykowski/"
-              text: "www"
+      - name: "Bożena Andrzejak"
+        photo: "img/bozena_andrzejak.jpg"
+        bio: "Facilitator, consultant, coach and therapist. Bożena empowering her clients to explore their natural resources thus creating space to discover and experiment new, effective behaviors. Especially to help to identify and resolve internal and external conflicts.<br> She takes active part as a guest speaker or coach in events as: Scrum Days, Agile By Example, ACCP, Uncof, Management 3.0, Novotalk. She is an author of soft skills training programmes dedicated to agile team members.  "
+        link:
+          href: "https://"
+          text: "www"
       workshop: true
 
     - authors:
-        - name: "Justyna Wykowska"
-          photo: "img/JustynaWykowska.png"
-          bio: "“Behind every product, there are people who are creating it.”<br>
-An engineer, software developer, manager, Product Owner, Scrum Master, trainer, personal coach, and Agile specialist. By combining a technical degree with soft skills education and real-life experience, Justyna emphasizes the collaboration and communication factors in organizations and teams' dynamics.<br>
-For almost a decade Justyna has led diverse multinational and distributed teams involved in huge projects. Since 2014 she is working with ProCognita as an Agile Coach and Trainer, supporting companies from many business sectors including customer support, software and hardware development."
-          link:
-              href: "https://procognita.com/company/team/trainers/justyna-wykowska/"
-              text: "www"
+      - name: "Justyna Wykowska"
+        photo: "img/JustynaWykowska.png"
+        bio: "Kim jestem? Inżynierem automatykiem, programistą, managerem, Product Ownerem, Scrum Masterem, trenerem, coachem personalnym, specjalistą od Agile... I nie przestaję się uczyć nowych rzeczy.<br>Pomogę Ci wykorzystać Twoje mocne strony. Podpowiem, jak osiągnąć zamierzony cel. Kiedy jestem z zespołem dbam, aby grupa dobrze się czuła, i co najważniejsze była efektywna. Zbudowałam już ponad 20 fantastycznych zespołów, pracując z nimi jako lider lub coach."
+        link:
+          href: "https://"
+          text: "www"
       workshop: true
 
     - authors:
-        - name: "Mariusz Petlic"
-          photo: "img/MariuszPetlic.png"
-          bio: "“The quality of the product is created by the quality of the process.”<br>
-          I am fascinated by the quality of the product and the process. I would like to help you refine your product so that customers are satisfied and recommend it to others. That is why it is important to constantly improve the process of creating a product. If you do not want to spend money on activities that may end in failure, we can find together the best models for creating new products and developing existing ones.<br>
-I worked with companies: ComputerLand, Systemy Kodów Kreskowych, Hurra.com, eSky.pl. As an active Scrum Master, I supported and built teams. Now I'm an Agile Coach. At work with major companies I have learned how to test products and I will gladly share this knowledge with you."
-          link:
-              href: "https://procognita.com/company/team/trainers/mariusz-petlic/"
-              text: "www"
+      - name: "Jurgen De Smet"
+        photo: "img/jurgenDeSmet.jpg"
+        bio: "Jurgen De Smet ma dar ulepszania procesów operacyjnych poprzez zastosowanie koncepcji gier w środowisku poważnych organizacji. Jako lider zmiany w jednej z największych transformacji Agile w europejskiej służbie zdrowia, przekształcał firmy w najbardziej regulowanych prawnie i unikających ryzyka branżach i sprawił, że osiągnęły wspaniałe wyniki w zakresie innowacji. Jego wprowadzenie do Agile i Lean sprawia, że organizacje na wszystkich szczeblach zarządzania szybko odkrywają wartość z nowego podejścia i wkrótce nie są w stanie wyobrazić sobie pracy w jakikolwiek inny sposób."
+        link:
+          href: "https://"
+          text: "www"
       workshop: true
 
     - authors:
-        - name: "Ewa Koprowska"
-          photo: "img/EwaK.jpg"
-          bio: "Ewa is an Agile Consultant at Code Sprinters, She was working as an actuarial developer, analyst, project manager, Scrum Master, Product Owner and an Agile coach. Her specialty is cultural change, building internal structures and communities as part of Agile transformations as well as assisting clients in developing internal educational programs. As Code Sprinters  partner she serves as a mentor for other consultants."
-          link:
-              href: "https://pl.linkedin.com/in/ewakoprowska"
-              text: "LinkedIn"
+      - name: "Maciej Sowiński"
+        photo: "img/maciej_sowinski.jpg"
+        bio: "Maciej Sowiński zajmuje się Scrumem i zwinną organizacją pracy od 2010 roku, od 2014 roku jako agile coach i trener. W tym czasie pracował dla korporacji , spółek skarbu państwa , startupów i software housów . Zarówno w Polsce jak i w Niemczech, Danii, Anglii.<br> Jako trener przeszkolił już ponad 200 osób z tematów takich jak: Scrum, Kanban, zwinne zarządzanie, zwinne przywództwo."
+        link:
+          href: "https://"
+          text: "www"
       workshop: true
 
     - authors:
-        - name: "Domink Jabłoński"
-          photo: "img/DominikJ.jpg"
-          bio: "Agile Consultant at <a href=\"https://codesprinters.pl/\">Code Sprinters</a> with a diverse experience ranging from sales, through customer service, to QA and scrum mastery. He gained experience in small software houses as well as in HR and banking corporations. Apart from his fascination with Agile methodologies and how they change our work and life, he is an avid board game geek."
-          link:
-             href: "https://www.linkedin.com/in/dominik-jab%C5%82onski-7baa9265/"
-             text: "LinkedIn"
+      - name: "Małgorzata Polińska-Fotek"
+        photo: "img/gosia_polinska.jpg"
+        bio: "Doświadczony manager, konsultant, trener, specjalistka w obszarach innowacyjności. Pierwotnie kształciła się w obszarze HR, aby ostatecznie spełniać się w roli Project i Change Manager oraz Product Ownera. Z pasji miłośniczka ludzi i ich historii, specjalistka w zakresie harmonizacji i rozwoju zespołów.<br> Certyfikowany moderator Design Thinking i trener Metody Biegun Marka Kamińskiego, Certyfikowany Praktyk PRISM oraz Prosci Change Management. <br> W swojej pracy kieruje się zasadą: rozwiązania blisko ludzi. <br> W wolnym czasie wspiera Inicjatywy edukacyjne skierowane do dzieci i młodzieży. "
+        link:
+          href: "https://"
+          text: "www"
       workshop: true
 
-    - authors:
-        - name: "Klaudia Komacka"
-          photo: "img/KlaudiaK.jpg"
-          bio: "Agile and Lean Catalyst / Design Thinking Facilitator. She is a people person helping individuals to become a great team. Supports understanding of Agile and Lean with a focus on the Human. Design Thinking and Management 3.0 enthusiast. She co-organises the <a href=\"http://accpl.pl/\">Agile Coach Camp conference</a> in Poland."
-          link:
-              href: "https://www.linkedin.com/in/klaudiakomacka/"
-              text: "LinkedIn"
-      workshop: true
-  
 
+
+
+    #####################
+    ##     TEMPLATE    ##
+    #####################
       # DWÓCH PRELEGENTÓW WYGLĄDA TAK:
       #    - authors:
       #        - name: "Hanna Kaczyńska"

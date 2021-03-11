@@ -1,3 +1,5 @@
 docs/
 *.swp
 .DS_Store
+*.un~
+*~
