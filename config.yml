@@ -191,7 +191,7 @@ params:
 #      weight: 10
 
     - name: "Panel dyskusyjny"
-      time: "13h45"
+      time: "16h00"
       remark: "Rozwój produktu<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
 
