@@ -1,13 +1,37 @@
 {{ define "main" }}
 <div class="content">
     <div class="content-container event-info-full">
-        <h1>#{{ .Params.number }} {{ .Params.title }} </h1>
-        <h3>{{ dateFormat "2006-01-02" .Params.date }}</h3>
+        <h1 id="event-id">#{{ .Params.number }} {{ .Params.title }} </h1>
+        <h3 id="event-date">{{ dateFormat "2006-01-02" .Params.date }}</h3>
         <h2>{{ .Params.speakers}}</h2>
         {{ if (.Page.Resources.GetMatch (printf "%s*" "hero.*")) }}
             <img class="hero-image" src="{{ (.Page.Resources.GetMatch "hero.*").RelPermalink }}" />
         {{ end }}
         <p> {{ .Content }}</p>
+		<div id="signup" class="{{ .Params.lang }}">
+		</div>
+		<script>
+			function singleEventDate() {
+				const dateString = document.querySelector('#event-date').textContent;
+				const date = new Date(dateString);
+				return date;
+			}
+			function isThisEventInFuture() {
+				const date = singleEventDate()
+				const now = new Date().setHours(0,0,0,0);
+				return date >= now;
+
+			}
+			function insertSignUpInfo() {
+				placeholder = document.getElementById('signup')
+				if (placeholder.classList.contains('en')) {
+					placeholder.innerHTML = '<a href="https://www.meetup.com/AgileWarsaw/events/">Sign up on Meetup.com </a>';
+				} else {
+					placeholder.innerHTML = '<a href="https://www.meetup.com/AgileWarsaw/events/">Zapisy na Meetup.com </a>';
+				}
+			}
+			if (isThisEventInFuture()) {insertSignUpInfo()} 
+		</script>
         {{ with .Params.videoURL }}
             <p>
                 <a href="{{ . }}" target="_blank">
