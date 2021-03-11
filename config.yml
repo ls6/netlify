@@ -252,7 +252,7 @@ params:
     - authors:
       - name: "Maciej Sowiński"
         photo: "img/maciej_sowinski.jpg"
-        bio: "TBA"
+        bio: "Maciej Sowiński zajmuje się Scrumem i zwinną organizacją pracy od 2010 roku, od 2014 roku jako agile coach i trener. W tym czasie pracował dla korporacji , spółek skarbu państwa , startupów i software housów . Zarówno w Polsce jak i w Niemczech, Danii, Anglii.<br> Jako trener przeszkolił już ponad 200 osób z tematów takich jak: Scrum, Kanban, zwinne zarządzanie, zwinne przywództwo."
         link:
           href: "https://"
           text: "www"
@@ -261,7 +261,7 @@ params:
     - authors:
       - name: "Małgorzata Polińska-Fotek"
         photo: "img/gosia_polinska.jpg"
-        bio: "TBA"
+        bio: "Doświadczony manager, konsultant, trener, specjalistka w obszarach innowacyjności. Pierwotnie kształciła się w obszarze HR, aby ostatecznie spełniać się w roli Project i Change Manager oraz Product Ownera. Z pasji miłośniczka ludzi i ich historii, specjalistka w zakresie harmonizacji i rozwoju zespołów.<br> Certyfikowany moderator Design Thinking i trener Metody Biegun Marka Kamińskiego, Certyfikowany Praktyk PRISM oraz Prosci Change Management. <br> W swojej pracy kieruje się zasadą: rozwiązania blisko ludzi. <br> W wolnym czasie wspiera Inicjatywy edukacyjne skierowane do dzieci i młodzieży. "
         link:
           href: "https://"
           text: "www"
