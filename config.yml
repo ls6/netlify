@@ -13,9 +13,9 @@ params:
   Date: "10 April (Saturday)"
   startDate: "2021-04-10T13:45"
   #Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Online"
+  Venue: "Internet"
   #Address: "Stokłosy 3"
-  #City:  "Warszawa"
+  City:  "Planet Earth"
   #State: "Quintana"
   Images: ["/img/ABElight-ikonka.png"]
 
