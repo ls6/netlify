@@ -118,6 +118,19 @@ params:
       logo: "img/logo_a247.jpg" 
       url: "http://www.agile247.pl/"
 
+    - name: "Agile 4U"
+      logo: "img/logo_agile4u.png" 
+      url: "https://www.meetup.com/agile4u/"
+
+    - name: "Big Agile Theory"
+      logo: "img/logo_big-agile-theory.png" 
+      url: "https://www.meetup.com/Big-Agile-Theory/"
+
+    - name: "Fundacja Zwinność"
+      logo: "img/logo_fundacja-zwinnosc.jpg" 
+      url: "https://zwinnosc.org/"
+
+
   Orgs:
     - name: "Piotr Radaj"
       img: "img/org_radaj.png"
