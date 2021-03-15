@@ -129,6 +129,10 @@ params:
     - name: "Fundacja Zwinność"
       logo: "img/logo_fundacja-zwinnosc.jpg" 
       url: "https://zwinnosc.org/"
+      
+    - name: "LubLean"
+      logo: "img/logo_LubLean.png" 
+      url: "https://www.meetup.com/LubLean-and-Agile/"
 
 
   Orgs:
