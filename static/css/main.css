@@ -526,7 +526,11 @@ h2.previous-editions {
   display: inline-block;
   font-family: 'aberegular';
   font-size: 2em;
-  margin: 0 30px 30px 0;
+  margin-right: 1em;
+}
+
+.previous-item p {
+  margin-bottom: 0.8ex;
 }
 
 /* =============================================================================
