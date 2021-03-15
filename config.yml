@@ -267,9 +267,9 @@ params:
       - name: "Maciej Sowiński"
         photo: "img/maciej_sowinski.jpg"
         bio: "Maciej Sowiński zajmuje się Scrumem i zwinną organizacją pracy od 2010 roku, a od 2014 roku jako agile coach i trener. W tym czasie pracował dla korporacji, spółek skarbu państwa, startupów i software house`ów zarówno w Polsce jak i za granicą (Niemcy, Dania, Anglia). Jako trener przeszkolił już ponad 200 osób z tematów takich jak: Scrum, Kanban, zwinne zarządzanie, zwinne przywództwo."
-        #link:
-        #  href: "https://"
-        #  text: "www"
+        link:
+          href: "https://www.linkedin.com/in/maciejsowinski/"
+          text: "linkedin"
       workshop: true
 
     - authors:
