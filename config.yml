@@ -241,8 +241,8 @@ params:
         photo: "img/bozena_andrzejak.jpg"
         bio: "Facilitator, consultant, coach and therapist. Bożena empowering her clients to explore their natural resources thus creating space to discover and experiment new, effective behaviors. Especially to help to identify and resolve internal and external conflicts.<br> She takes active part as a guest speaker or coach in events as: Scrum Days, Agile By Example, ACCP, Uncof, Management 3.0, Novotalk. She is an author of soft skills training programmes dedicated to agile team members.  "
         link:
-         href: "https://www.linkedin.com/in/bozenaandrzejak/"
-         text: "linkedin"
+         href: "http://www.scrumcoaching.eu"
+         text: "www"
       workshop: true
 
     - authors:
