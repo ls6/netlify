@@ -211,7 +211,22 @@ params:
 
     - name: "Panel dyskusyjny"
       time: "16h00"
-      remark: "Rozwój produktu <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+      remark: "<strong>Rozwój niesamowitych produktów w niepewnych czasach</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br><br>
+      Do rozmowy zaprosiliśmy reprezentantów biznesu / Product Ownerów ze znanych firm, których rynek dynamicznie się zmieniał w ciągu ostatniego roku. Posłuchajcie co mają do powiedzenia eksperci i zadajcie im własne pytania.<br><br>
+      Udało nam się zaprosić przedstawicieli:<br>
+      • inFakt - dostawca usług i systemów umożliwiających prowadzenie księgowości online.<br>
+      • InPost - lider w oferowaniu nowoczesnych usług logistycznych, pierwsza firma w Polsce, która stworzyła sieć Paczkomatów.<br>
+      • WP Desk  - największa i najpopularniejsza polska platforma z rozszerzeniami do WooCommerce.<br>
+      A panel poprowadzi Tomek Wykowski.
+      <br><br>
+      <strong>Agata Bar (inPost)</strong> — specjalistka z branży kontrolingu i logistyki, znająca rynek zarówno z perspektywy klienta jak i zespołów IT. Zdecydowana entuzjastka Agilowych metodyk prowadzenia projektów. Product Owner w firmie InPost, gdzie przez 3 lata miała okazje pracować w wielu projektach, które z sukcesem są dziś w Waszym użyciu.<br><br>
+
+      <strong>Jakub Chudarek (inFakt)</strong> — absolwent Uniwersytetu Ekonomicznego w Krakowie. Z branżą Interactive związany jest od 2004 roku. Jako Product Owner w inFakcie odpowiada za rozwój aplikacji www oraz aplikacji mobilnych. Pracował w kilku agencjach interaktywnych, realizując projekty na skalę światową. Prywatnie pasjonat nowych technologii, mobile oraz dronów.<br><br>
+
+      <strong>Piotr Jabłonowski (WP Desk)</strong> — pasjonat produktywności, fan Agile'a i GTD. Zajmuje się organizacją zespołów i poszukiwaniem najlepszych rozwiązań. Pracuje jako Product Owner w WP Desk przekuwając pomysły na rozwiązania dla WooCommerce.<br><br>
+
+      <strong>Tomasz Wykowski (ProCognita)</strong> — praktyk nowoczesnego rozwijania biznesu. Zdobywał doświadczenie jako inżynier, manager oraz Agile Coach w firmach od światowych korporacji do start-upów. Międzynarodowy mówca i jedyny w Polsce Certified Scrum Trainer®, akredytowany przez Scrum Alliance. Twórca i CEO ProCognita, współzałożyciel społeczności ALE Kraków.
+      "
 
 
     - authors:
