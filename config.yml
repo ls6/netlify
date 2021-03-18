@@ -315,6 +315,14 @@ params:
       workshop: true
 
 
+    - authors:
+      - name: "Krzysztof Niewiński"
+        photo: "img/niewinski.png"
+        bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem oprogramowania, trenerem, konsultantem i promotorem podejścia Agile i Lean. Od 16 lat podążam ścieżką „zwinności” i zajmowałem wiele stanowisk w procesie tworzenia oprogramowania - od programisty, przez analityka, managera, aż po Scrum Mastera / Agile Coacha. Od 8 lat jestem zawodowo zaangażowany w tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Jestem promotorem podejścia LeSS (Large-Scale Scrum) w Polsce, umożliwiającego rozwój produktów na dużą skalę. Regularnie występuję na konferencjach, piszę artykuły i organizuję społeczność LeSS Warsaw."
+        link:
+          href: "https://procognita.com/company/team/trainers/krzysztof-niewinski"
+          text: "www"
+      workshop: true
 
 
     #####################
