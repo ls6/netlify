@@ -78,9 +78,9 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "KMD"
-      logo: "img/logo_kmd.png"
-      url: "https://career.kmd.net/join-kmd-poland"
+      #- name: "KMD"
+      #  logo: "img/logo_kmd.png"
+      #  url: "https://career.kmd.net/join-kmd-poland"
 
     - name: "ProCognita"
       logo: "img/logo_procognita.png"
@@ -194,7 +194,21 @@ params:
       <strong>Małgorzata Polińska-Fotek<br>
       Zarządzanie zmianą jako integralna część dostarczania produktu do użytkowników</strong>
       <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-      Nawet najlepszy i najbardziej innowacyjny produkt nie odniesie sukcesu, jeśli użytkownicy nie będą mu przychylni. Dostarczenie funkcjonalności z backlogu nie zawsze przesądza o sukcesie produktu. Jak zatem przygotować grunt dla efektywnego wdrożenia naszego rozwiązania, jak przekonać nieprzekonanych, zachęcić ludzi do korzystania z nowego produktu czy usługi i pokonać ich opór? Jak zidentyfikować bariery związane ze zmianą oraz zarządzać emocjami? Jak zbudować świadomość a nawet wzbudzić pożądanie dla naszego produktu? Podczas warsztatu poszukamy odpowiedzi na te i inne pytania. Zastanowimy się po czyjej stronie leżą poszczególne obszary odpowiedzialności, zidentyfikujemy możliwe działania i omówimy model ADKAR jako źródła sukcesu zmiany."
+      Nawet najlepszy i najbardziej innowacyjny produkt nie odniesie sukcesu, jeśli użytkownicy nie będą mu przychylni. Dostarczenie funkcjonalności z backlogu nie zawsze przesądza o sukcesie produktu. Jak zatem przygotować grunt dla efektywnego wdrożenia naszego rozwiązania, jak przekonać nieprzekonanych, zachęcić ludzi do korzystania z nowego produktu czy usługi i pokonać ich opór? Jak zidentyfikować bariery związane ze zmianą oraz zarządzać emocjami? Jak zbudować świadomość a nawet wzbudzić pożądanie dla naszego produktu? Podczas warsztatu poszukamy odpowiedzi na te i inne pytania. Zastanowimy się po czyjej stronie leżą poszczególne obszary odpowiedzialności, zidentyfikujemy możliwe działania i omówimy model ADKAR jako źródła sukcesu zmiany.<br><br>
+
+      <strong>Krzysztof Niewiński<br>
+      (De)Skalowanie Agile: Jak osiągnąć adaptacyjność dużej organizacji?</strong>
+      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+      W ciągu ostatnich dwóch dekad podejście zwinne (ang. “Agile”) do tworzenia produktów sprawdziło się zarówno w software, jak i poza nim i stało się normą. Najbardziej popularną metodą pracy zwinnej stał się framework Scrum stosowany do małych, efektywnych zespołów. Co zatem powinniśmy stosować, gdy nad produktem pracują dziesiątki, setki czy nawet tysiące osób? W trakcie naszego spotkania opowiem w jaki sposób wyjść poza jeden zespół i zorganizować pracę dużej organizacji bez utraty elastyczności. Porozmawiamy o największych wyzwaniach firm próbujących “skalować Agile” i czy dostępne na rynku frameworki dadzą nam to czego faktycznie potrzebujemy.<br>
+      Agenda:<br>
+      · Największe wyzwania tworzenia produktów w dużej skali<br>
+      · Chaos koordynacyjny – skąd się bierze?<br>
+      · Adaptacyjność – czym jest i jak ją osiągnąć?<br>
+      · Dynamika współpracy zespołów<br>
+      · Struktury organizacyjne i ich wpływ na adaptacyjność i kulturę organizacji<br>
+      · Wstęp do LeSS (Large-Scale Scrum)<br>
+
+      "
 
 #    - authors:
 #        - name: "Paneliści - TBA"
@@ -301,6 +315,14 @@ params:
       workshop: true
 
 
+    - authors:
+      - name: "Krzysztof Niewiński"
+        photo: "img/niewinski.png"
+        bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem oprogramowania, trenerem, konsultantem i promotorem podejścia Agile i Lean. Od 16 lat podążam ścieżką „zwinności” i zajmowałem wiele stanowisk w procesie tworzenia oprogramowania - od programisty, przez analityka, managera, aż po Scrum Mastera / Agile Coacha. Od 8 lat jestem zawodowo zaangażowany w tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Jestem promotorem podejścia LeSS (Large-Scale Scrum) w Polsce, umożliwiającego rozwój produktów na dużą skalę. Regularnie występuję na konferencjach, piszę artykuły i organizuję społeczność LeSS Warsaw."
+        link:
+          href: "https://procognita.com/company/team/trainers/krzysztof-niewinski"
+          text: "www"
+      workshop: true
 
 
     #####################
