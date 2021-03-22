@@ -134,6 +134,10 @@ params:
       logo: "img/logo_LubLean.png" 
       url: "https://www.meetup.com/LubLean-and-Agile/"
 
+    - name: "Kanban przy kawie"
+      logo: "img/logo_kanban_przy_kawie.png" 
+      url: "https://kanbanprzykawie.pl/"
+
 
   Orgs:
     - name: "Piotr Radaj"
