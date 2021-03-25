@@ -5,7 +5,7 @@ title: "Jak zadbać o wysoką jakość dostarczanego oprogramowania (w zespole S
 speakers: "Piotr Włodarczyk"
 lang: "pl"
 sponsors: ["CodeSprinters", "Agile Rebels", "JetBrains"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=peGKeSt7L98"
 draft: false
 ---
 
@@ -31,3 +31,6 @@ W roli konsultanta pracuje z zarządami firm, managerami i działami HR jak rów
 Produkt Ownerów, Managerów oraz Zespołów Scrumowych.
 
 Prywatnie ojciec dwójki wspaniałych dzieci i równie wspaniałej żony. Hobbystycznie robi zabawki z drewna dla swoich dzieci. Żeby zachować równowagę medytuje i podróżuje własnym kamperem.
+
+ 
+<a href="AgileWarsaw - jakość.pdf" target="_blank">Slajdy ze spotkania</a>
