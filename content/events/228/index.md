@@ -3,7 +3,7 @@ number: "228"
 date: "2021-04-10T13:45:00+01:00"
 title: "ABE Light 2021"
 speakers: ""
-lang: "en"
+lang: ["en", "pl"]
 sponsors: ["KMD", "ProCognita", "Slido"]
 videoURL: ""
 draft: false
@@ -12,18 +12,17 @@ draft: false
 # Keynote Speaker
 
 ## Angela Johnson
-### Is Product the New Misused Agile Term?
+### [Is Product the New Misused Agile Term?] ({{< relref "#opis-pl" >}}) {#opis-en}
 
 When you hear “product” or “product owner” what comes to mind in your context? A temporary project? A project manager? If you were to ask the customers who pay your company money what they think your product is would it be the same definition that you came up with?
 In this session we will discuss how the term product is being misused in the Agile community. We’ll also explore techniques such as broadening questions and narrowing questions that can help your organization figure out just where to start with an Agile approach such as Scrum. These techniques can help set up your Scrum adoption for success and avoid creating confusion with misunderstood terms
 
 # Panel dyskusyjny
 
-## Rozwój niesamowitych produktów w niepewnych czasach
+## [Rozwój niesamowitych produktów w niepewnych czasach] ({{< relref "#opis-en" >}}) {#opis-pl}
 
 Do rozmowy zaprosiliśmy reprezentantów biznesu / Product Ownerów ze znanych firm, których rynek dynamicznie się zmieniał w ciągu ostatniego roku. Posłuchajcie co mają do powiedzenia eksperci i zadajcie im własne pytania.
 
-Udało nam się zaprosić:
 Udało nam się zaprosić:
 • Jakub Chudarek (inFakt - dostawca usług i systemów umożliwiających prowadzenie księgowości online.)
 • Agata Bra (InPost - lider w oferowaniu nowoczesnych usług logistycznych, pierwsza firma w Polsce, która stworzyła sieć Paczkomatów.)
