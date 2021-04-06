@@ -78,9 +78,9 @@ params:
 
   # List of Sponsors
   Sponsors:
-      #- name: "KMD"
-      #  logo: "img/logo_kmd.png"
-      #  url: "https://career.kmd.net/join-kmd-poland"
+    - name: "KMD"
+      logo: "img/logo_kmd.png"
+      url: "https://career.kmd.net/join-kmd-poland"
 
     - name: "ProCognita"
       logo: "img/logo_procognita.png"
