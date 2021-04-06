@@ -12,7 +12,7 @@ draft: false
 # Keynote Speaker
 
 ## Angela Johnson
-### [Is Product the New Misused Agile Term?] ({{< relref "#opis-pl" >}}) {#opis-en} {{% icon-flag-en %}}
+### {{% icon-flag-en %}} [Is Product the New Misused Agile Term?] ({{< relref "#opis-pl" >}}) {#opis-en} 
 
 When you hear “product” or “product owner” what comes to mind in your context? A temporary project? A project manager? If you were to ask the customers who pay your company money what they think your product is would it be the same definition that you came up with?
 In this session we will discuss how the term product is being misused in the Agile community. We’ll also explore techniques such as broadening questions and narrowing questions that can help your organization figure out just where to start with an Agile approach such as Scrum. These techniques can help set up your Scrum adoption for success and avoid creating confusion with misunderstood terms
