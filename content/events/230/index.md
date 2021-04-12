@@ -32,5 +32,5 @@ Dla liderów chcących skutecznie wspierać rozwój zespołów.
 
 <a href="https://www.linkedin.com/in/michalparkola/" target="_blank">Michał </a> jest engineering managerem w Appsilon, gdzie <a href="https://appsilon.com/careers/" target="_blank">zatrudniamy</a> osoby jedzące dane na śniadanie, algorytmy na obiad i wizualizacje na kolacje.<br><br>
 
-Michał jest też 7-krotnym prelegentem Agile Warsaw, autorem tekstów na <a href="fluidcircle.net" target="_blank">fluidcircle.net</a> i twórcą programu rozwoju liderów <a href="GrowTogether.Academy" target="_blank">GrowTogether.Academy</a>.
+Michał jest też 7-krotnym prelegentem Agile Warsaw, autorem tekstów na <a href="https://fluidcircle.net" target="_blank">fluidcircle.net</a> i twórcą programu rozwoju liderów <a href="https://GrowTogether.Academy" target="_blank">GrowTogether.Academy</a>.
 
