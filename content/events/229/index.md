@@ -32,3 +32,6 @@ Jestem praktykiem i certyfikowaną trenerką samoorganizacji będąc przekonaną
 Paulina Koperska - Jestem entuzjastką, praktyczką i promotorką samoorganizacji; liderką z kilkunastoletnim doświadczeniem biznesowym w obszarze FMCG, coachem indywidualnym i zespołowym, trenerką umiejętności miękkich w kilkudziesięciu organizacjach.
 Założyłam Stowarzyszenia Design for Change Polska.
 Należę do zespołu Turkusowych Śniadań i SoFA
+
+<a href="Agile Warsaw_bezpieczeństwo psychologiczne_12.04.21.pdf" target="_blank">Slajdy ze spotkania</a>
+
