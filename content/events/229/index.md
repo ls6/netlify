@@ -5,7 +5,7 @@ title: "Bezpieczeństwo psychologiczne w samoorganizacji."
 speakers: "Irena Kaszewska, Paulina Koperska"
 lang: "pl"
 sponsors: ["Reef Technologies", "QAgile"]
-videoURL: ""
+videoURL: "https://youtu.be/bRO5WqlaSnA"
 draft: false
 ---
 
