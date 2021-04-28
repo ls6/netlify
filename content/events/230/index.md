@@ -5,7 +5,7 @@ title: "Jak być liderem cieszącym się szacunkiem i zaufaniem"
 speakers: "Michał Parkoła"
 lang: "pl"
 sponsors: ["CodeSprinters", "Appsilon"]
-videoURL: ""
+videoURL: "https://youtu.be/lLZC2m2xskM"
 draft: false
 ---
 
