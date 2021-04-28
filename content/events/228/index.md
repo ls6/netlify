@@ -5,7 +5,7 @@ title: "ABE Light 2021"
 speakers: ""
 lang: ["en", "pl"]
 sponsors: ["KMD", "ProCognita", "Slido"]
-videoURL: ""
+videoURL: "https://www.youtube.com/playlist?list=PLwoIK953bBnPjunG5R-W1smy5FAd2Qkm0"
 draft: false
 ---
 
