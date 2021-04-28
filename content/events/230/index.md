@@ -34,3 +34,5 @@ Dla liderów chcących skutecznie wspierać rozwój zespołów.
 
 Michał jest też 7-krotnym prelegentem Agile Warsaw, autorem tekstów na <a href="https://fluidcircle.net" target="_blank">fluidcircle.net</a> i twórcą programu rozwoju liderów <a href="https://GrowTogether.Academy" target="_blank">GrowTogether.Academy</a>.
 
+
+<a href="https://docs.google.com/presentation/d/1aajHUNTuqwcpypmyEkoyyg43cxVqPeFNH4EpBxyfLa8/" target="_blank">Slajdy ze spotkania</a>
