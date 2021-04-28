@@ -17,6 +17,8 @@ draft: false
 When you hear “product” or “product owner” what comes to mind in your context? A temporary project? A project manager? If you were to ask the customers who pay your company money what they think your product is would it be the same definition that you came up with?
 In this session we will discuss how the term product is being misused in the Agile community. We’ll also explore techniques such as broadening questions and narrowing questions that can help your organization figure out just where to start with an Agile approach such as Scrum. These techniques can help set up your Scrum adoption for success and avoid creating confusion with misunderstood terms
 
+<a href="https://www.youtube.com/watch?v=QhF61K_8xtg&list=PLwoIK953bBnPjunG5R-W1smy5FAd2Qkm0&index=1" target="_blank">Talk recording</a>
+
 # Panel dyskusyjny
 
 ### {{% icon-flag-pl %}} [Rozwój niesamowitych produktów w niepewnych czasach] ({{< relref "#opis-en" >}}) {#opis-pl}
@@ -28,6 +30,8 @@ Udało nam się zaprosić:
 • Agata Bra (InPost - lider w oferowaniu nowoczesnych usług logistycznych, pierwsza firma w Polsce, która stworzyła sieć Paczkomatów.)
 • Piotr Jabonowski (WP Desk - największa i najpopularniejsza polska platforma z rozszerzeniami do WooCommerce.)
 Panel poprowadzi Tomek Wykowski (Procognita)
+
+<a href="https://www.youtube.com/watch?v=hZhcA7-iVA0&list=PLwoIK953bBnPjunG5R-W1smy5FAd2Qkm0&index=2" target="_blank">Nagranie panelu</a>
 
 -------------
 
