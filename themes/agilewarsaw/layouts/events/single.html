@@ -46,6 +46,11 @@
                     {{ cond (eq $.Page.Params.lang "en") "No video recording" "Nagrania brak" }}
             </p>
         {{ end }}
+        {{ with .Params.slidesURL }}
+            <a href="{{ . }}">
+                <img class="slides-icon" src="/assets/slides.svg"> slides
+            </a>
+        {{ end }}
         <!-- <p>Sponsor: {{ .Params.sponsors }}</p> -->
     </div>
 </div>
