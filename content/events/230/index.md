@@ -6,6 +6,7 @@ speakers: "Michał Parkoła"
 lang: "pl"
 sponsors: ["CodeSprinters", "Appsilon"]
 videoURL: "https://youtu.be/lLZC2m2xskM"
+slidesURL: "https://docs.google.com/presentation/d/1aajHUNTuqwcpypmyEkoyyg43cxVqPeFNH4EpBxyfLa8/"
 draft: false
 ---
 
