@@ -376,7 +376,7 @@ img.slides-icon {
 img.slides-icon-small {
     height: 2ex;
     position: relative;
-    bottom: -0.4ex;
+    top: 0.5ex;
 }
 
 div.all-events-list event {
