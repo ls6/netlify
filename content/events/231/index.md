@@ -28,4 +28,4 @@ Ten warsztat jest dla wszystkich tych, którym zależy na szacunku, rozwiązywan
 Certyfikowana trenerka Porozumienia bez Przemocy ( ang. Nonviolent Communication, NVC) oraz eduScruma, Business & Life Coach, Facylitatorka Systemowej Transformacji opartej na NVC i neurobiologii, mediatorka. Prowadzi zajęcia ze studentami z zakresu komunikacji międzykulturowej na Uniwersytecie Warszawskim.
 Prowadzi warsztaty, wykłady, sesje indywidualne w biznesie, edukacji, organizacji pozarządowych oraz sesje indywidualne w języku polskim i angielskim. Współtworzy zespół Empathic Way Europe www.empathiceurope.com, eduScrum Polska www.eduscrum.info oraz akcję #WidzęCzłowieka www.widzeczlowieka.pl.
 
-Więcej o Paulinie można znaleźć na stronie <a href=https://paulinaorbitowska.pl" target="_blank">www.paulinaorbitowska.pl</a>
+Więcej o Paulinie można znaleźć na stronie <a href="https://paulinaorbitowska.pl" target="_blank">www.paulinaorbitowska.pl</a>
