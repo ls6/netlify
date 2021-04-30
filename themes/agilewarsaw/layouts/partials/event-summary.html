@@ -18,9 +18,14 @@
             <img class="YT-icon-small" src="/assets/YT-gray.svg">
         {{ end }}
         {{ with .Params.slidesURL }}
-        <a href="{{ cond ( hasPrefix . "http" ) . (path.Join $.Dir . | absURL)}}">
+            {{ $url := urls.Parse . }}
+            {{ if (eq $url.Host "") }} 
+                <a href="{{ path.Join $.Dir . | absURL}}">
+            {{ else }}
+                <a href="{{ . }}">
+            {{ end }}
             <img class="slides-icon-small" src="/assets/slides.svg">
         </a>
-    {{ end }}
+        {{ end }}
     </div>
 </event>
