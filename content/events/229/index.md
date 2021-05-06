@@ -6,7 +6,7 @@ speakers: "Irena Kaszewska, Paulina Koperska"
 lang: "pl"
 sponsors: ["Reef Technologies", "QAgile"]
 videoURL: "https://youtu.be/bRO5WqlaSnA"
-slideURL: "Agile Warsaw_bezpieczeństwo psychologiczne_12.04.21.pdf"
+slidesURL: "Agile Warsaw_bezpieczeństwo psychologiczne_12.04.21.pdf"
 draft: false
 ---
 
