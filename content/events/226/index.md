@@ -6,6 +6,7 @@ speakers: "Radek Orszewski"
 lang: "en"
 sponsors: ["QAgile","Reef Technologies"]
 videoURL: "https://youtu.be/-wBj5337FGs"
+slidesURL: "Prezentacja_AW226.pdf"
 draft: false
 ---
 
