@@ -366,6 +366,19 @@ img.lang-icon {
     top: 1px;
 }
 
+img.slides-icon {
+    height: 3ex;
+    padding-right: 0.5em;
+    position: relative;
+    bottom: -0.7ex;
+}
+
+img.slides-icon-small {
+    height: 2ex;
+    position: relative;
+    top: 0.5ex;
+}
+
 div.all-events-list event {
 	padding-left: 1em;
 }
@@ -383,4 +396,5 @@ div.event-info-full {
     margin-right: auto;
     max-width: 100%;
     max-height: 500px;
+	box-shadow: 2px 5px 15px #aaaaaa;
 }
