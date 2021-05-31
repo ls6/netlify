@@ -6,6 +6,7 @@ speakers: "Przemysław Piwowar"
 lang: "pl"
 sponsors: ["CodeSprinters", "QAgile"]
 videoURL: ""
+slidesURL: "AW232-PodrozPoZloteRuno-WartoscBiznesowa.pdf"
 draft: false
 ---
 
