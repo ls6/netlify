@@ -6,7 +6,7 @@ speakers: "Michał Parkoła"
 lang: "pl"
 sponsors: ["CodeSprinters", "Appsilon"]
 videoURL: "https://youtu.be/lLZC2m2xskM"
-slidesURL: "https://docs.google.com/presentation/d/1aajHUNTuqwcpypmyEkoyyg43cxVqPeFNH4EpBxyfLa8/"
+slidesURL: "20210426-AW230-Jak-byc-liderem-cieszacym-sie-szacunkiem-i-zaufaniem-Michal-Parkola.pdf"
 draft: false
 ---
 
