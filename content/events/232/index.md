@@ -5,7 +5,7 @@ title: "W poszukiwaniu złotego runa - czyli gdzie ta wartość biznesowa?"
 speakers: "Przemysław Piwowar"
 lang: "pl"
 sponsors: ["CodeSprinters", "QAgile"]
-videoURL: ""
+videoURL: "https://youtu.be/6D1_mSi63Ts"
 slidesURL: "AW232-PodrozPoZloteRuno-WartoscBiznesowa.pdf"
 draft: false
 ---
