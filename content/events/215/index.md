@@ -21,5 +21,5 @@ Keynote of ABE 2020: Joe Justice, Mary Poppendieck, Patricia Kong, Ralph Joham, 
 
 Feel welcome to join DOJO at 5.10 & the Conference at 6-7.10!
 
-<a href="https://agilebyexample.com/" target="_blank">Conference page</a>
+<a href="http://agilebyexample.com/?page_id=5635" target="_blank">Conference page</a>
 
