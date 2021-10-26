@@ -12,7 +12,7 @@ draft: false
 ABE16 is a great place to meet with all that’s Agile:
 
   * two days of inspiring and energizing talks, all held in English
-  * Dojo—a day of intensive workshops on practical topics
+  * Dojo—a day of intensive workshops on practical topics
 
 Thanks to its unique atmosphere, this is the best occasion to network with like-minded people and share what’s best in software development management.
 
