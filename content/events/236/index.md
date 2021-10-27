@@ -6,6 +6,7 @@ speakers: "Joanna Płaskonka, Justyna Gajewska"
 lang: "en"
 sponsors: ["Nomagic", "DCG"]
 videoURL: ""
+slidesURL: "Agile_Warsaw_25.10.pdf"
 draft: false
 ---
 
