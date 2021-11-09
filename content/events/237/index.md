@@ -4,7 +4,7 @@ date: "2021-11-08T18:30:00+01:00"
 title: "[Warsztat stacjonarny] \"Wytwarzanie iteracyjne czyli ze scrum ku doskonałości.\""
 speakers: "Wojciech Cora"
 lang: "pl"
-sponsors: [""]
+sponsors: ["DCG"]
 videoURL: ""
 draft: false
 ---
