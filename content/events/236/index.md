@@ -5,7 +5,7 @@ title: "Scrum and robotics — what can we learn from Nomagic?"
 speakers: "Joanna Płaskonka, Justyna Gajewska"
 lang: "en"
 sponsors: ["Nomagic", "DCG"]
-videoURL: ""
+videoURL: "https://youtu.be/Dm3xikFIjlU"
 slidesURL: "Agile_Warsaw_25.10.pdf"
 draft: false
 ---
