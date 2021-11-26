@@ -1,6 +1,6 @@
 ---
 number: "238"
-date: "2021-10-22T18:00:00+01:00"
+date: "2021-11-22T18:00:00+01:00"
 title: "Future-focused agility: diversity & inclusion based culture"
 speakers: "Magdalena Cichoń"
 lang: "en"
