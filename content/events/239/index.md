@@ -5,7 +5,7 @@ title: "Spojrzenie na delivery z perspektywy danych - case study"
 speakers: "Kamil Szymański"
 lang: "pl"
 sponsors: ["DCG","Kitopi"]
-videoURL: ""
+videoURL: "https://youtu.be/13AdDvmy_tE"
 draft: false
 ---
 
