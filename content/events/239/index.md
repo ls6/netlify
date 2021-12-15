@@ -7,6 +7,7 @@ lang: "pl"
 sponsors: ["DCG","Kitopi"]
 videoURL: "https://youtu.be/13AdDvmy_tE"
 slidesURL: "Looking at your delivery through data lenses.pdf"
+
 draft: false
 ---
 
