@@ -5,7 +5,7 @@ title: "Słowa obce. Słowa wspólne. Aktywne słuchanie w zespole. Jak budować
 speakers: "Tobiasz Majstrenko"
 lang: "pl"
 sponsors: ["QAgile","Reef Technologies"]
-videoURL: ""
+videoURL: "https://youtu.be/E1f2M3wacfA"
 draft: false
 ---
 
