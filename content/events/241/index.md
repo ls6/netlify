@@ -6,7 +6,7 @@ speakers: "Piotr Kuczyński, Krzysztof Kiprowski"
 lang: "pl"
 sponsors: ["Brass Willow","Reef Technologies"]
 videoURL: ""
-slidesURL: ""
+slidesURL: "LSD.pdf"
 draft: false
 ---
 
