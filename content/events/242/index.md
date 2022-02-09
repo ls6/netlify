@@ -6,7 +6,7 @@ speakers: "Karolina Kluczyk"
 lang: "pl"
 sponsors: ["Reef Technologies"]
 videoURL: ""
-slidesURL: ""
+slidesURL: "Rozprawa sądowa o wartościach Scrum (1).pdf"
 draft: false
 ---
 
