@@ -6,7 +6,7 @@ speakers: "Karolina Kluczyk"
 lang: "pl"
 sponsors: ["Reef Technologies"]
 videoURL: ""
-slidesURL: "Rozprawa sądowa o wartościach Scrum (1).pdf"
+slidesURL: ""
 draft: false
 ---
 
@@ -22,3 +22,6 @@ Jeśli chcesz doświadczyć na własnej skórze czym są wartości Scrum i ugry�
 ###  <a href="https://www.linkedin.com/in/karolina-kluczyk-6a667bb4">Karolina Kluczyk</a>
 
  Scrum to moja pasja zawodowo i prywatnie. Fanka i kreatorka kilku gier symulacyjnych związanych z Agilem. Uwielbiam współpracę z ludźmi i nie toleruję kłamstwa. Obecnie zawodowo Agile Coach i Kierownik Zespołu Agile w LUX MED, prywatnie etatowa mama 2,5 rocznej Zuzi.
+
+
+<a href="Rozprawa sądowa o wartościach Scrum (1).pdf">Materiały z warsztatów</a>  
