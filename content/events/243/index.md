@@ -4,7 +4,7 @@ date: "2022-02-21T18:00:00+01:00"
 title: "Czy ja dobrze słyszę? Kiedy i jak zadawać pytania"
 speakers: "Kasia Mydło"
 lang: "pl"
-sponsors: [""]
+sponsors: ["Reef Technologies"]
 videoURL: ""
 slidesURL: ""
 draft: false
