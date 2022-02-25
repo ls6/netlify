@@ -5,7 +5,7 @@ title: "Co nas wciąga w Lean Software Development"
 speakers: "Piotr Kuczyński, Krzysztof Kiprowski"
 lang: "pl"
 sponsors: ["Brass Willow","Reef Technologies"]
-videoURL: ""
+videoURL: "https://youtu.be/3eprWllFfLk"
 slidesURL: "LSD.pdf"
 draft: false
 ---
