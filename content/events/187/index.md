@@ -6,6 +6,7 @@ speakers: "Ewelina Gałęzowska-Szomborg"
 lang: "pl"
 sponsors: ["pkobp"]
 videoURL: ""
+slidesURL: "Meandry_facylitacji_zwinnych_spotka_AgileHats.pdf"
 draft: false
 ---
 
