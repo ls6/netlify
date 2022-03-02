@@ -49,7 +49,7 @@
         {{ with .Params.slidesURL }}
             <a href="{{ . }}">
                 <img class="slides-icon" src="/assets/slides.svg"> 
-                {{ cond (eq $.Page.Params.lang "en") "Slides" "Prezentacja" }}
+                {{ cond (eq $.Page.Params.lang "en") "Handout" "Materiały ze spotkania" }}
             </a>
         {{ end }}
         <!-- <p>Sponsor: {{ .Params.sponsors }}</p> -->
