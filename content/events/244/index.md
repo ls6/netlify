@@ -4,7 +4,7 @@ date: "2022-03-07T18:00:00+01:00"
 title: "Scrum Master w świecie Azure DevOps"
 speakers: "Weronika Mularczyk"
 lang: "pl"
-sponsors: ["Reef Technologies". "QAgile"]
+sponsors: ["Reef Technologies", "QAgile"]
 videoURL: ""
 slidesURL: ""
 draft: false
