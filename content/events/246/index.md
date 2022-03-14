@@ -1,7 +1,7 @@
 ---
 number: "246"
 date: "2022-03-16T18:00:00+01:00"
-title: "[Solidarni z Ukrainą] "Rosyjskie Sankcje, o co tu chodzi?""
+title: "\[Solidarni z Ukrainą] "Rosyjskie Sankcje, o co tu chodzi?""
 speakers: "Daniel Mazurek"
 lang: "pl"
 sponsors: [""]
