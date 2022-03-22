@@ -5,8 +5,8 @@ title: "Zwinne narzędzia nie tylko w pracy - studium przypadku z organizacji po
 speakers: "Jan Pastwa"
 lang: "pl"
 sponsors: ["ReefTechnologies"]
-videoURL: ""
-slidesURL: ""
+videoURL: "https://youtu.be/R5roVA84vyU"
+slidesURL: "zwinne-narzedzia.pdf"
 draft: false
 ---
 
