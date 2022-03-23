@@ -24,8 +24,8 @@ params:
   Sections:
     - about
     #- location
-    #- speakers
-    #- schedule
+    - speakers
+    - schedule
     - partners
     - sponsors
     #- media
@@ -171,104 +171,28 @@ params:
       time: "13h45"
       remark: "Please, be on time!<br>This is where you will be signing-up for workshops."
 
-    - name: "Workshops"
-      time: "14h15"
-      remark: "The workshops will be held in parallel.<br>
-      Workshop languages are mentioned in descriptions.<br><br>
-      
-      <strong>Bożena Andrzejak<br>
-      Konflikt czy zwykłe nieporozumienie, jak rozpoznać nadchodzący konflikt?</strong>
-      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
-      Stara zasada medyczna mówi, że lepiej zapobiegać niż leczyć. Nie jestem zwolenniczką zarządzania przez konflikt, więc przekładam tę zasadę również na obszar komunikacji międzyludzkiej. Różnorodność, różnica zdań i perspektyw, nawet nieporozumienie, mogę być źródłem kreatywnych rozwiązań. Ale gorący konflikt prawie zawsze jest niszczący.<br>
-      Dlatego lepiej rozpoznać jego pierwsze objawy i interweniować zanim będzie za późno. Podczas naszego spotkania przyjrzymy się jak zwykła sytuacja może eskalować w konflikt i co leży u źródeł takiego rozwoju sytuacji. Kiedy rozumiemy powody, mamy szansę na to, aby zatrzymać się w porę i zrobić krok do tyłu zanim wpadniemy w wir niszczącego procesu.<br><br>
-              
-      <strong>Justyna Wykowska<br>
-      Szkiełko i oko czyli dylematy biznes analityka</strong>
-      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-      \"Jeśli nie umiesz zmierzyć rezultatu zmian to nic nie zmieniaj\". Podstawą pracy PO i analityka biznesowego jest mierzenie rezultatów zmian w produkcie. Zapraszam na warsztat gdzie na przykładach produktów dotkniemy tematu metryk i wskaźników. Sprawdzimy co i kiedy warto mierzyć, kiedy metryka przynosi nam oczekiwane korzyści a kiedy jest szkodliwa i zdefiniujemy metryki dla naszych przykładów.<br><br>
-
-      <strong>Jurgen de Smet<br>
-      Agile is not Scrum and Scrum is not necessarily Agile</strong>
-      <img class=\"icon-lang\" src=\"img/lang-gb.svg\"><br>
-      Today, bad or zombie Scrum is the biggest enemy of Scrum and not waterfall or phase gate projects and programs. In this workshop we're going to explore your understanding of Scrum and provide insights on how to bring Scrum to a higher level of Agility. Enabling you and your teams creativity towards experimentation and innovation beyond the retrospective into the Products you build.<br><br>
-
-      <strong>Maciej Sowiński<br>
-      Myślenie systemowe dla Agile Coachów Light</strong>
-      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-      Problemy z którymi mierzą się agile coachowie i scrum masterzy mają często naturę trudną do uchwycenia w logice, która mówi, że zawsze jest przyczyna i efekt. Podczas pracy z większymi grupami często można odkryć, że relacje przyczynowe są nieintuicyjne, nieliniowe oraz, zależnie od tego kto patrzy, mogą być jednocześnie \"logiczne\" jak i \"nielogiczne\". Na tym krótkim warsztacie poruszymy dwa metanarzędzia myślenia systemowego, diagramy CLD oraz modele mentalne. Warsztat jest dla tych, którzy chcą je poznać lub poćwiczyć/odświeżyć. Zapraszam<br><br>
-      
-      <strong>Małgorzata Polińska-Fotek<br>
-      Zarządzanie zmianą jako integralna część dostarczania produktu do użytkowników</strong>
-      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-      Nawet najlepszy i najbardziej innowacyjny produkt nie odniesie sukcesu, jeśli użytkownicy nie będą mu przychylni. Dostarczenie funkcjonalności z backlogu nie zawsze przesądza o sukcesie produktu. Jak zatem przygotować grunt dla efektywnego wdrożenia naszego rozwiązania, jak przekonać nieprzekonanych, zachęcić ludzi do korzystania z nowego produktu czy usługi i pokonać ich opór? Jak zidentyfikować bariery związane ze zmianą oraz zarządzać emocjami? Jak zbudować świadomość a nawet wzbudzić pożądanie dla naszego produktu? Podczas warsztatu poszukamy odpowiedzi na te i inne pytania. Zastanowimy się po czyjej stronie leżą poszczególne obszary odpowiedzialności, zidentyfikujemy możliwe działania i omówimy model ADKAR jako źródła sukcesu zmiany.<br><br>
-
-      <strong>Krzysztof Niewiński<br>
-      (De)Skalowanie Agile: Jak osiągnąć adaptacyjność dużej organizacji?</strong>
-      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-      W ciągu ostatnich dwóch dekad podejście zwinne (ang. “Agile”) do tworzenia produktów sprawdziło się zarówno w software, jak i poza nim i stało się normą. Najbardziej popularną metodą pracy zwinnej stał się framework Scrum stosowany do małych, efektywnych zespołów. Co zatem powinniśmy stosować, gdy nad produktem pracują dziesiątki, setki czy nawet tysiące osób? W trakcie naszego spotkania opowiem w jaki sposób wyjść poza jeden zespół i zorganizować pracę dużej organizacji bez utraty elastyczności. Porozmawiamy o największych wyzwaniach firm próbujących “skalować Agile” i czy dostępne na rynku frameworki dadzą nam to czego faktycznie potrzebujemy.<br>
-      Agenda:<br>
-      · Największe wyzwania tworzenia produktów w dużej skali<br>
-      · Chaos koordynacyjny – skąd się bierze?<br>
-      · Adaptacyjność – czym jest i jak ją osiągnąć?<br>
-      · Dynamika współpracy zespołów<br>
-      · Struktury organizacyjne i ich wpływ na adaptacyjność i kulturę organizacji<br>
-      · Wstęp do LeSS (Large-Scale Scrum)<br>
-
-      "
-
-#    - authors:
-#        - name: "Paneliści - TBA"
-#          photo: "img/ABElight-ikonka-square_300.png"
-#          bio: "TBA"
-#          link:
-#            href: "https://agilewarsaw.com"
-#            text: "LinkedIn/www?"
-#      presentation:
-#        title: "Panel dyskusyjny"
-#        description: "Rozwój produktu <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
-#        time: "16h00"
-#      weight: 10
-
-    - name: "Panel dyskusyjny"
-      time: "16h00"
-      remark: "<strong>Rozwój niesamowitych produktów w niepewnych czasach</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br><br>
-      Do rozmowy zaprosiliśmy reprezentantów biznesu / Product Ownerów ze znanych firm, których rynek dynamicznie się zmieniał w ciągu ostatniego roku. Posłuchajcie co mają do powiedzenia eksperci i zadajcie im własne pytania.<br><br>
-      Udało nam się zaprosić przedstawicieli:<br>
-      • inFakt - dostawca usług i systemów umożliwiających prowadzenie księgowości online.<br>
-      • InPost - lider w oferowaniu nowoczesnych usług logistycznych, pierwsza firma w Polsce, która stworzyła sieć Paczkomatów.<br>
-      • WP Desk  - największa i najpopularniejsza polska platforma z rozszerzeniami do WooCommerce.<br>
-      • UPC - dostawca usług telewizji cyfrowej, szerokopasmowego dostępu do internetu, telefonii i usług mobilnych.<br>
-      <br>
-      A panel poprowadzi Tomek Wykowski.
-      <br><br>
-      <strong>Agata Bar (InPost)</strong> — specjalistka z branży kontrolingu i logistyki, znająca rynek zarówno z perspektywy klienta jak i zespołów IT. Zdecydowana entuzjastka Agilowych metodyk prowadzenia projektów. Product Owner w firmie InPost, gdzie przez 3 lata miała okazje pracować w wielu projektach, które z sukcesem są dziś w Waszym użyciu.<br><br>
-
-      <strong>Jakub Chudarek (inFakt)</strong> — absolwent Uniwersytetu Ekonomicznego w Krakowie. Z branżą Interactive związany jest od 2004 roku. Jako Product Owner w inFakcie odpowiada za rozwój aplikacji www oraz aplikacji mobilnych. Pracował w kilku agencjach interaktywnych, realizując projekty na skalę światową. Prywatnie pasjonat nowych technologii, mobile oraz dronów.<br><br>
-
-      <strong>Piotr Jabłonowski (WP Desk)</strong> — pasjonat produktywności, fan Agile'a i GTD. Zajmuje się organizacją zespołów i poszukiwaniem najlepszych rozwiązań. Pracuje jako Product Owner w WP Desk przekuwając pomysły na rozwiązania dla WooCommerce.<br><br>
-
-      <strong>Jacek Jaworski (UPC)</strong> — Product Owner odpowiedzialny za rozwój kanału online firmy UPC na potrzeby marketingu, sprzedaży i obsługi klienta.<br><br>
-
-      <strong>Tomasz Wykowski (ProCognita)</strong> — praktyk nowoczesnego rozwijania biznesu. Zdobywał doświadczenie jako inżynier, manager oraz Agile Coach w firmach od światowych korporacji do start-upów. Międzynarodowy mówca i jedyny w Polsce Certified Scrum Trainer®, akredytowany przez Scrum Alliance. Twórca i CEO ProCognita, współzałożyciel społeczności ALE Kraków.
-      "
-
 
     - authors:
-        - name: "Angela Johnson" 
-          photo: "img/Angela_Johnson.jpg"
-          bio: "Angela is a Certified Scrum Trainer (CST) and Certified Less Practitioner (CLP) and Training from the BACK of the Room (TBR) Certified Trainer and one of the first Scrum Alliance Path to CSP Approved Educators. Angela helps others successfully implement Scrum and Agile to achieve their goals and objectives.<br> Clients that Angela has transformed include: agency / services, software, hardware, marketing, learning and development and more. The breadth and depth of her experience extends beyond Scrum and includes Kanban, eXtreme Programming, Facilitation and Organizational Change for business agility.<br> A graduate of Hamline University (B.A.) and the University of St. Thomas (M.B.C.), Angela focuses her work on the upper Midwestern areas of the United States to best serve in her most important roles: wife and mom."
+        - name: "Alexey Krivitsky" 
+          photo: "img/krivitsky.jpg"
+          bio: "Alexey has been a developer, scrum master, conference producer, and speaker since 2004. He has written several books and is the inventor of lego4scrum. He is a Certified Scrum Trainer (CST)--the very first from Central and Eastern Europe, in fact--and works as an organization agility coach. He is  originally from Ukraine, now lives in Germany,"
           link:
-            href: "https://procognita.com/company/team/trainers/angela-johnson"
-            text: www
+            href: "https://www.linkedin.com/in/alexeykrivitsky/"
+            text: LinkedIn
       presentation:
-        title: "Is Product the New Misused Agile Term?"
-        description: "When you hear “product” or “product owner” what comes to mind in your context? A temporary project? A project manager? If you were to ask the customers who pay your company money what they think your product is would it be the same definition that you came up with?<br> In this session we will discuss how the term product is being misused in the Agile community. We’ll also explore techniques such as broadening questions and narrowing questions that can help your organization figure out just where to start with an Agile approach such as Scrum. These techniques can help set up your Scrum adoption for success and avoid creating confusion with misunderstood terms. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
-        time: "17h00"
+        title: "Improving Transformation Results with Adaptivity that Fits"
+        description: "We believe that every organization needs to discover its own agile adoption goal, and then lay down a path to it. “Agile” in abstract terms means very little. But “being agile and adaptive for a specific organization X” might have a lot of meaning! So discovering the northern star to Agility is vital for any organization that doesn’t want just to adopt the agile terminology but start changing itself, its core, its way of thinking and operating."
+        time: "14h00"
       weight: 100
 
 
+    - name: "Parallel Workshops"
+      time: "16h00"
+      remark: "We are still compiling the list…"
+
+
     - name: "Closing"
-      time: "18h00"
+      time: "18h30"
       remark: ""
 
     #- name: "Lunch"
@@ -279,59 +203,14 @@ params:
      ###########################
      ###  WORKSHOP TRAINERS  ###
      ###########################
-    - authors:
-      - name: "Bożena Andrzejak"
-        photo: "img/bozena_andrzejak.jpg"
-        bio: "Facilitator, consultant, coach and therapist. Bożena empowering her clients to explore their natural resources thus creating space to discover and experiment new, effective behaviors. Especially to help to identify and resolve internal and external conflicts.<br> She takes active part as a guest speaker or coach in events as: Scrum Days, Agile By Example, ACCP, Uncof, Management 3.0, Novotalk. She is an author of soft skills training programmes dedicated to agile team members.  "
-        link:
-         href: "http://www.scrumcoaching.eu"
-         text: "www"
-      workshop: true
 
     - authors:
-      - name: "Justyna Wykowska"
-        photo: "img/JustynaWykowska.png"
-        bio: "Kim jestem? Inżynierem automatykiem, programistą, managerem, Product Ownerem, Scrum Masterem, trenerem, coachem personalnym, specjalistą od Agile... I nie przestaję się uczyć nowych rzeczy.<br>Pomogę Ci wykorzystać Twoje mocne strony. Podpowiem, jak osiągnąć zamierzony cel. Kiedy jestem z zespołem dbam, aby grupa dobrze się czuła, i co najważniejsze była efektywna. Zbudowałam już ponad 20 fantastycznych zespołów, pracując z nimi jako lider lub coach."
-        link:
-          href: "https://procognita.com/company/team/trainers/justyna-wykowska"
-          text: "www"
-      workshop: true
-
-    - authors:
-      - name: "Jurgen De Smet"
-        photo: "img/jurgenDeSmet.jpg"
-        bio: "I help leaders of large organizations deliver on their commitments to high performance. Before, during and after an Agile adoption like LeSS, SAFe, Scrum at Scale, DAD or any kind of Lean transformation, large organizations often find that they need to de-scale and simplify organizational structures and processes. I function as an Executive-level guide for companies approaching their second growth phase. Industry leaders in banking, insurance, telecommunications, healthcare, utilities, media and agriculture hire me to help remove obstacles in their path to innovation.<br> We address specific pain points in the system so upper-management can learn to enable emergent solutions. For example: <br> • Horizontal complexity - consolidating functions across the enterprise<br>• Vertical complexity - shedding obsolete roles, layers and reporting structures<br>• Spatial complexity - preparing distributed teams for success "
-        link:
-          href: "https://procognita.com/company/team/trainers/jurgen-de-smet"
-          text: "www"
-      workshop: true
-
-    - authors:
-      - name: "Maciej Sowiński"
-        photo: "img/maciej_sowinski.jpg"
-        bio: "Maciej Sowiński (konsultant 7N) zajmuje się Scrumem i zwinną organizacją pracy od 2010 roku, a od 2014 roku jako agile coach i trener. W tym czasie pracował dla korporacji, spółek skarbu państwa, startupów i software house`ów zarówno w Polsce jak i za granicą (Niemcy, Dania, Anglia). Jako trener przeszkolił już ponad 200 osób z tematów takich jak: Scrum, Kanban, zwinne zarządzanie, zwinne przywództwo."
-        link:
-          href: "https://www.linkedin.com/in/maciejsowinski/"
-          text: "linkedin"
-      workshop: true
-
-    - authors:
-      - name: "Małgorzata Polińska-Fotek"
-        photo: "img/gosia_polinska.jpg"
-        bio: "Doświadczony manager, konsultant, trener, specjalistka w obszarach innowacyjności. Pierwotnie kształciła się w obszarze HR, aby ostatecznie spełniać się w roli Project i Change Manager oraz Product Ownera. Z pasji miłośniczka ludzi i ich historii, specjalistka w zakresie harmonizacji i rozwoju zespołów.<br> Certyfikowany moderator Design Thinking i trener Metody Biegun Marka Kamińskiego, Certyfikowany Praktyk PRISM oraz Prosci Change Management. <br> W swojej pracy kieruje się zasadą: rozwiązania blisko ludzi. <br> W wolnym czasie wspiera Inicjatywy edukacyjne skierowane do dzieci i młodzieży. "
-        link:
-          href: "https://www.linkedin.com/in/malgorzata-karolina-polinska/"
-          text: "linkedin"
-      workshop: true
-
-
-    - authors:
-      - name: "Krzysztof Niewiński"
-        photo: "img/niewinski.png"
-        bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem oprogramowania, trenerem, konsultantem i promotorem podejścia Agile i Lean. Od 16 lat podążam ścieżką „zwinności” i zajmowałem wiele stanowisk w procesie tworzenia oprogramowania - od programisty, przez analityka, managera, aż po Scrum Mastera / Agile Coacha. Od 8 lat jestem zawodowo zaangażowany w tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Jestem promotorem podejścia LeSS (Large-Scale Scrum) w Polsce, umożliwiającego rozwój produktów na dużą skalę. Regularnie występuję na konferencjach, piszę artykuły i organizuję społeczność LeSS Warsaw."
-        link:
-          href: "https://procognita.com/company/team/trainers/krzysztof-niewinski"
-          text: "www"
+      - name: "Soon…"
+        #        photo: "img/niewinski.png"
+        #        bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem oprogramowania, trenerem, konsultantem i promotorem podejścia Agile i Lean. Od 16 lat podążam ścieżką „zwinności” i zajmowałem wiele stanowisk w procesie tworzenia oprogramowania - od programisty, przez analityka, managera, aż po Scrum Mastera / Agile Coacha. Od 8 lat jestem zawodowo zaangażowany w tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Jestem promotorem podejścia LeSS (Large-Scale Scrum) w Polsce, umożliwiającego rozwój produktów na dużą skalę. Regularnie występuję na konferencjach, piszę artykuły i organizuję społeczność LeSS Warsaw."
+        #        link:
+        #          href: "https://procognita.com/company/team/trainers/krzysztof-niewinski"
+        #          text: "www"
       workshop: true
 
 

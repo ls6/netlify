@@ -1,8 +1,8 @@
 ---
 title: "Registration"
-date: 2019-02-23T09:51:48+01:00
+date: 2022-03-23T07:51:48+01:00
 draft: false
-description: "Registration for ABELight 2019"
+description: "Registration for ABELight 2022"
 ---
 
 ## Registration
@@ -41,4 +41,4 @@ Specifically:
 
 ## …and finally:
 
-#### Sign-up <a id="in-your-face" href="https://join.slack.com/t/abelight21/shared_invite/zt-niahwdwy-mIGOsANZLQUUrvBrDi0ONg">here</a>
+#### Sign-up <a id="in-your-face" href="https://join.slack.com/t/newworkspace-cq73322/shared_invite/zt-15w7np6no-6GJlDiWFBajiJF4Ka0hjmg">here</a>
