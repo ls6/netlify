@@ -10,8 +10,8 @@ params:
   # Conference info
   Name: "ABE Light 2022"
   Description: "AgileByExample Light 2022"
-  Date: "23 April (Saturday)"
-  startDate: "2021-04-10T13:45"
+  Date: "4 June (Saturday)"
+  startDate: "2022-06-04T13:45"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Still looking for a venue in "
   #Address: "Stokłosy 3"
@@ -173,21 +173,21 @@ params:
 
 
     - authors:
-        - name: "Alexey Krivitsky" 
-          photo: "img/krivitsky.jpg"
-          bio: "Alexey has been a developer, scrum master, conference producer, and speaker since 2004. He has written several books and is the inventor of lego4scrum. He is a Certified Scrum Trainer (CST)--the very first from Central and Eastern Europe, in fact--and works as an organization agility coach. He is  originally from Ukraine, now lives in Germany,"
-          link:
-            href: "https://www.linkedin.com/in/alexeykrivitsky/"
-            text: LinkedIn
+        - name: "Soon…" 
+          #photo: "img/krivitsky.jpg"
+          #bio: "Alexey has been a developer, scrum master, conference producer, and speaker since 2004. He has written several books and is the inventor of lego4scrum. He is a Certified Scrum Trainer (CST)--the very first from Central and Eastern Europe, in fact--and works as an organization agility coach. He is  originally from Ukraine, now lives in Germany,"
+          #link:
+           #href: "https://www.linkedin.com/in/alexeykrivitsky/"
+           #text: LinkedIn
       presentation:
-        title: "Improving Transformation Results with Adaptivity that Fits"
-        description: "We believe that every organization needs to discover its own agile adoption goal, and then lay down a path to it. “Agile” in abstract terms means very little. But “being agile and adaptive for a specific organization X” might have a lot of meaning! So discovering the northern star to Agility is vital for any organization that doesn’t want just to adopt the agile terminology but start changing itself, its core, its way of thinking and operating."
-        time: "14h00"
-      weight: 100
+        title: ""
+     #description: "We believe that every organization needs to discover its own agile adoption goal, and then lay down a path to it. “Agile” in abstract terms means very little. But “being agile and adaptive for a specific organization X” might have a lot of meaning! So discovering the northern star to Agility is vital for any organization that doesn’t want just to adopt the agile terminology but start changing itself, its core, its way of thinking and operating."
+     #time: "14h00"
+     #weight: 100
 
 
     - name: "Parallel Workshops"
-      time: "16h00"
+      #time: "16h00"
       remark: "We are still compiling the list…"
 
 
