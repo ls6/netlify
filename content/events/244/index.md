@@ -5,7 +5,7 @@ title: "Scrum Master w świecie Azure DevOps"
 speakers: "Weronika Mularczyk"
 lang: "pl"
 sponsors: ["Reef Technologies", "QAgile"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=y5Z3sWkDvk0"
 slidesURL: ""
 draft: false
 ---
