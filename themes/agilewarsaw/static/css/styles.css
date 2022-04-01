@@ -398,3 +398,22 @@ div.event-info-full {
     max-height: 500px;
 	box-shadow: 2px 5px 15px #aaaaaa;
 }
+
+    /*********************/
+    /**  FEEDBACK FORM  **/
+    /*********************/
+
+#feedback-points .wrap {
+  display: inline-block;
+}
+
+#feedback-points label {
+  display: block;
+  text-align: center;
+  margin: 0 0.2em;
+}
+
+#feedback-points input[type="radio"] {
+  display: block;
+  margin: 0.5em auto;
+}
