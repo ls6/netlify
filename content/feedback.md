@@ -31,11 +31,9 @@
 	    </div>
 	  </div>
       <h2><label for="good">Co poszło dobrze?</label><br></h2>
-      <textarea id="good" name="good" rows="10" style="width: 90%">
-      </textarea><br>
+      <textarea id="good" name="good" rows="10" style="width: 90%"></textarea><br>
       <h2><label for="bad">Co można poprawić?</label><br></h2>
-      <textarea id="bad" name="bad" rows="10" style="width: 90%">
-      </textarea><br>
+      <textarea id="bad" name="bad" rows="10" style="width: 90%"></textarea><br>
       <input  type="submit" value="wyślij">
     </form>
 <div>
