@@ -34,6 +34,6 @@
       <textarea id="good" name="good" rows="10" style="width: 90%"></textarea><br>
       <h2><label for="bad">Co można poprawić?</label><br></h2>
       <textarea id="bad" name="bad" rows="10" style="width: 90%"></textarea><br>
-      <input  type="submit" value="wyślij">
+      <input id="feedback-submit-button" type="submit" value="wyślij">
     </form>
 <div>
