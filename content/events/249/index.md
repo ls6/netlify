@@ -24,7 +24,7 @@ Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach proceso
 
 Justyna Rędzikowska - buduję zespoły, pracuję z wartościami, ludźmi, danymi i procesami. Uwielbiam się uczyć oraz dzielić wiedzą. Od 2003 rozwijam się jako liderka, a od 2006 jako trenerka, facylitatorka i mentorka. Lubię zadawać pytania, ogromnie ciekawi mnie świat, człowiek i procesy jakie zachodzą pomiędzy. W 2018 odkryłam Scrum i Agile, a od 2019 jestem pełnoetatową Scrum Masterką i uwielbiam swoją pracę. Aktualnie działam jako Scrum Masterka w BinarApps, w mojej ukochanej Łodzi.
 
-Możesz mnie złapać na [LinkedIn](https://www.linkedin.com/in/justyna-redzikowska/).
+Możesz mnie złapać na <a href="https://www.linkedin.com/in/justyna-redzikowska/" target="_blank">LinkedIn</a>.
 
 ---
 P.S. To spotkanie trochę historyczne bo z oficjalnym afterparty -- pandemia odpuściła.
