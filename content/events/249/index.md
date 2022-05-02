@@ -6,7 +6,7 @@ speakers: "Justyna Rędzikowska"
 lang: "pl"
 sponsors: ["Bielański Integrator Przedsiębiorczych"]
 videoURL: ""
-slidesURL: ""
+slidesURL: "praca-z-metrykami.pdf"
 draft: false
 ---
 
