@@ -28,7 +28,7 @@ params:
     - schedule
     - partners
     - sponsors
-    #- media
+    - media
     - orgs
     - previous
       #- contact
@@ -112,9 +112,9 @@ params:
 
   # List of Media Partners
   Media:
-      #- name: "Agile Polska"
-      #logo: "img/logo_APL.png" 
-      #url: "http://agilepolska.pl/"
+      - name: "Agile Polska"
+        logo: "img/logo_APL.png" 
+        url: "http://agilepolska.pl/"
 
       #- name: "Agile 247"
       #logo: "img/logo_a247.jpg" 
@@ -181,19 +181,33 @@ params:
            #text: LinkedIn
       presentation:
         title: ""
-     #description: "We believe that every organization needs to discover its own agile adoption goal, and then lay down a path to it. “Agile” in abstract terms means very little. But “being agile and adaptive for a specific organization X” might have a lot of meaning! So discovering the northern star to Agility is vital for any organization that doesn’t want just to adopt the agile terminology but start changing itself, its core, its way of thinking and operating."
+        description: ""
      #time: "14h00"
      #weight: 100
 
 
     - name: "Parallel Workshops"
-      #time: "16h00"
-      remark: "We are still compiling the list…"
+      #time: "14h15"
+      remark: "The workshops will be held in parallel.<br>
+      Workshop languages are mentioned in descriptions.<br><br>
+      
+      <strong>Justyna Rędzikowska<br>
+      Jak się za to zabrać? Czyli o przełożeniu teorii metryk do pierwszego, konkretnego użycia w zespole</strong>
+      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
+      Jest to warsztat dla:<br>
+      <ul style=\"padding-left: 0.5em;\">
+<li>• takiej mnie sprzed kilku lat, czyli każdej osoby, która chce zacząć pracę z metrykami, a do tego zaangażować w to cały zespół,</li>
+<li>• każdej osoby, która chce opierać pracę z procesem na danych i mieć porządny wkład do Retrospektywy,</li>
+<li>• każdej osoby, która wie o istotności metryk, ale zawsze ciężko było jej zacząć, bo nie wiedziała w szczegółach od czego i jak.</li>
+</ul>
+Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach procesowych (nie produktowych). Niemniej wartość z tego warsztatu będzie płynęła dla każdej osoby zainteresowanej pracą z danymi w zespole Scrumowym. Jako FRISowy Badacz z Partnerskim zacięciem - zapraszam na naszą małą przygodę z budowaniem zespołu wykresów :)
+
+      <br><br>"
 
 
-    - name: "Closing"
-      time: "18h30"
-      remark: ""
+      #- name: "Closing"
+      #time: "18h30"
+      #remark: ""
 
     #- name: "Lunch"
       #remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
@@ -205,12 +219,14 @@ params:
      ###########################
 
     - authors:
-      - name: "Soon…"
-        #        photo: "img/niewinski.png"
-        #        bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem oprogramowania, trenerem, konsultantem i promotorem podejścia Agile i Lean. Od 16 lat podążam ścieżką „zwinności” i zajmowałem wiele stanowisk w procesie tworzenia oprogramowania - od programisty, przez analityka, managera, aż po Scrum Mastera / Agile Coacha. Od 8 lat jestem zawodowo zaangażowany w tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Jestem promotorem podejścia LeSS (Large-Scale Scrum) w Polsce, umożliwiającego rozwój produktów na dużą skalę. Regularnie występuję na konferencjach, piszę artykuły i organizuję społeczność LeSS Warsaw."
-        #        link:
-        #          href: "https://procognita.com/company/team/trainers/krzysztof-niewinski"
-        #          text: "www"
+        - name: "Justyna Rędzikowska"
+          photo: "img/redzikowska.png"
+          bio: "Buduję zespoły, pracuję z wartościami, ludźmi, danymi i procesami. Uwielbiam się uczyć oraz dzielić wiedzą. Od 2003 rozwijam się jako liderka, a od 2006 jako trenerka, facylitatorka i mentorka. Lubię zadawać pytania, ogromnie ciekawi mnie świat, człowiek i procesy jakie zachodzą pomiędzy. W 2018 odkryłam Scrum i Agile, a od 2019 jestem pełnoetatową Scrum Masterką i uwielbiam swoją pracę. Aktualnie działam jako Scrum Masterka w BinarApps, w mojej ukochanej Łodzi."
+          link:
+              href: "https://www.linkedin.com/in/justyna-redzikowska/"
+              text: "LinkedIn"
+          # presentation: "title"
+          # description: "desc"
       workshop: true
 
 
