@@ -13,8 +13,8 @@ params:
   Date: "4 June (Saturday)"
   startDate: "2022-06-04T13:45"
   #Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Still looking for a venue in "
-  #Address: "Stokłosy 3"
+  Venue: " Akademia Finansów i Biznesu Vistula"
+  Address: "Stokłosy 3"
   City:  "Warsaw"
   #State: "Quintana"
   Images: ["/img/ABElight-ikonka.png"]
@@ -23,7 +23,7 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
-    #- location
+    - location
     - speakers
     - schedule
     - partners
