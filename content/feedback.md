@@ -3,7 +3,7 @@
 <div style="text-align: center" id="feedback-form">
 	<p style="text-align: left;">Zachęta :)</p>
     <form action="https://awfeedback.dev2.szostek.net/thanks" method="post" accept-charset="UTF-8">
-	  <h2>Ogólna ocena wydarzenia<br>Overall score:</h2>
+	  <h2>Ogólna ocena wydarzenia<br>How did you like it overall?</h2>
 	  <div id="feedback-points">
 		<div class="wrap">
           <input type="radio" id="1" name="score" value="1">
@@ -32,7 +32,7 @@
 	  </div>
       <h2><label for="good">Co poszło dobrze?<br>What went well?</label><br></h2>
       <textarea id="good" name="good" rows="10" style="width: 90%"></textarea><br>
-      <h2><label for="bad">Co można poprawić?<br>What can we improve?</label><br></h2>
+      <h2><label for="bad">Co można poprawić?<br>What can be improved?</label><br></h2>
       <textarea id="bad" name="bad" rows="10" style="width: 90%"></textarea><br>
       <input id="feedback-submit-button" type="submit" value="send">
     </form>
