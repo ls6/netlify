@@ -183,9 +183,20 @@ params:
         description: "Something about a deep dive into product culture and psychological safety. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
 
     - authors:
+        - name: "Bartosz Janowski"
+          photo: "img/janowski.jpg"
+          #bio: "bio"
+          #link:
+            #href: "https://www.linkedin.com/in/paulklipp/"
+            #text: LinkedIn
+      presentation:
+        title: "tbd"
+        description: "tbd"
+
+    - authors:
         - name: "Maciej Malesa"
           photo: "img/malesa.jpg"
-          #bio: "Pauls' bio"
+          #bio: "bio"
           #link:
             #href: "https://www.linkedin.com/in/paulklipp/"
             #text: LinkedIn
@@ -213,8 +224,8 @@ Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach proceso
       <br><br>"
 
 
-    - name: "Closing"
-      remark: ""
+      #- name: "Closing"
+        #remark: ""
 
     - name: "Afterparty!"
 
