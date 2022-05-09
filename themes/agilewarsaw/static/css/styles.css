@@ -426,3 +426,7 @@ div.event-info-full {
   margin-top: 1em;
   font-size: 1.2em;
 }
+
+#feedback-form h2 {
+  font-size: 1.1em;
+}
