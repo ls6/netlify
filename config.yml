@@ -171,19 +171,27 @@ params:
       time: "13h45"
       remark: "Please, be on time!<br>This is where you will be signing-up for workshops."
 
+    - authors:
+        - name: "Paul Klipp"
+          photo: "img/klipp.jpg"
+          #bio: "Pauls' bio"
+          #link:
+            #href: "https://www.linkedin.com/in/paulklipp/"
+            #text: LinkedIn
+      presentation:
+        title: "The title is still under construction…"
+        description: "Something about a deep dive into product culture and psychological safety. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
 
     - authors:
-        - name: "Soon…" 
-          #photo: "img/krivitsky.jpg"
-          #bio: "Alexey has been a developer, scrum master, conference producer, and speaker since 2004. He has written several books and is the inventor of lego4scrum. He is a Certified Scrum Trainer (CST)--the very first from Central and Eastern Europe, in fact--and works as an organization agility coach. He is  originally from Ukraine, now lives in Germany,"
+        - name: "Maciej Malesa"
+          photo: "img/malesa.jpg"
+          #bio: "Pauls' bio"
           #link:
-           #href: "https://www.linkedin.com/in/alexeykrivitsky/"
-           #text: LinkedIn
+            #href: "https://www.linkedin.com/in/paulklipp/"
+            #text: LinkedIn
       presentation:
-        title: ""
-        description: ""
-     #time: "14h00"
-     #weight: 100
+        title: "Przykład samoorganizującego się zespołu i kilku wyzwań którym sprostał"
+        description: " <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
 
     - name: "Parallel Workshops"
@@ -205,9 +213,10 @@ Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach proceso
       <br><br>"
 
 
-      #- name: "Closing"
-      #time: "18h30"
-      #remark: ""
+    - name: "Closing"
+      remark: ""
+
+    - name: "Afterparty!"
 
     #- name: "Lunch"
       #remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
