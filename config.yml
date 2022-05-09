@@ -13,8 +13,8 @@ params:
   Date: "4 June (Saturday)"
   startDate: "2022-06-04T13:45"
   #Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Still looking for a venue in "
-  #Address: "Stokłosy 3"
+  Venue: " Akademia Finansów i Biznesu Vistula"
+  Address: "Stokłosy 3"
   City:  "Warsaw"
   #State: "Quintana"
   Images: ["/img/ABElight-ikonka.png"]
@@ -23,7 +23,7 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
-    #- location
+    - location
     - speakers
     - schedule
     - partners
@@ -171,19 +171,38 @@ params:
       time: "13h45"
       remark: "Please, be on time!<br>This is where you will be signing-up for workshops."
 
+    - authors:
+        - name: "Paul Klipp"
+          photo: "img/klipp.jpg"
+          bio: "Paul is a coach who works with leaders and organizations to instil lean and agile thinking and practices that improve product development and delivery. He is the founder of Lunar Logic and the ACE! Conference. He is also co-host of the Agile Book Club podcast."
+          link:
+            href: "https://paulklipp.com/"
+            text: www
+      presentation:
+        title: "The title is still under construction…"
+        description: "Paul is creating this talk especailly for this conference :) <br>About continuous learning, a deep dive into product culture and psychological safety. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
 
     - authors:
-        - name: "Soon…" 
-          #photo: "img/krivitsky.jpg"
-          #bio: "Alexey has been a developer, scrum master, conference producer, and speaker since 2004. He has written several books and is the inventor of lego4scrum. He is a Certified Scrum Trainer (CST)--the very first from Central and Eastern Europe, in fact--and works as an organization agility coach. He is  originally from Ukraine, now lives in Germany,"
+        - name: "Bartosz Janowski"
+          photo: "img/janowski.jpg"
+          #bio: "bio"
           #link:
-           #href: "https://www.linkedin.com/in/alexeykrivitsky/"
-           #text: LinkedIn
+            #href: "https://www.linkedin.com/in/paulklipp/"
+            #text: LinkedIn
       presentation:
-        title: ""
-        description: ""
-     #time: "14h00"
-     #weight: 100
+        title: "Coś wokół: \"Za co płacą scrum masterowi?\""
+        description: "tbd <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+
+    - authors:
+        - name: "Maciej Malesa"
+          photo: "img/malesa.jpg"
+          #bio: "bio"
+          #link:
+            #href: "https://www.linkedin.com/in/paulklipp/"
+            #text: LinkedIn
+      presentation:
+        title: "Przykład samoorganizującego się zespołu i kilku wyzwań którym sprostał"
+        description: "tbd <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
 
     - name: "Parallel Workshops"
@@ -206,8 +225,9 @@ Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach proceso
 
 
       #- name: "Closing"
-      #time: "18h30"
-      #remark: ""
+        #remark: ""
+
+    - name: "Afterparty!"
 
     #- name: "Lunch"
       #remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
