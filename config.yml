@@ -174,13 +174,13 @@ params:
     - authors:
         - name: "Paul Klipp"
           photo: "img/klipp.jpg"
-          #bio: "Pauls' bio"
-          #link:
-            #href: "https://www.linkedin.com/in/paulklipp/"
-            #text: LinkedIn
+          bio: "Paul is a coach who works with leaders and organizations to instil lean and agile thinking and practices that improve product development and delivery. He is the founder of Lunar Logic and the ACE! Conference. He is also co-host of the Agile Book Club podcast."
+          link:
+            href: "https://paulklipp.com/"
+            text: www
       presentation:
         title: "The title is still under construction…"
-        description: "Something about a deep dive into product culture and psychological safety. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
+        description: "Paul is creating this talk especailly for this conference :) <br>About continuous learning, a deep dive into product culture and psychological safety. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
 
     - authors:
         - name: "Bartosz Janowski"
