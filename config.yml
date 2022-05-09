@@ -190,8 +190,8 @@ params:
             #href: "https://www.linkedin.com/in/paulklipp/"
             #text: LinkedIn
       presentation:
-        title: "tbd"
-        description: "tbd"
+        title: "Coś wokół: \"Za co płacą scrum masterowi?\""
+        description: "tbd <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
     - authors:
         - name: "Maciej Malesa"
@@ -202,7 +202,7 @@ params:
             #text: LinkedIn
       presentation:
         title: "Przykład samoorganizującego się zespołu i kilku wyzwań którym sprostał"
-        description: " <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+        description: "tbd <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
 
     - name: "Parallel Workshops"
