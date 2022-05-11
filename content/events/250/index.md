@@ -6,7 +6,7 @@ speakers: "Heather Chavin"
 lang: "en"
 sponsors: ["ReefTechnologies", "QAgile"]
 videoURL: ""
-slidesURL: ""
+slidesURL: "Embrace-Procrastination.pdf"
 draft: false
 ---
 
