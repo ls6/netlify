@@ -116,9 +116,9 @@ params:
         logo: "img/logo_APL.png" 
         url: "http://agilepolska.pl/"
 
-      #- name: "Agile 247"
-      #logo: "img/logo_a247.jpg" 
-      #url: "http://www.agile247.pl/"
+      - name: "Agile 247"
+        logo: "img/logo_a247.jpg" 
+        url: "http://www.agile247.pl/"
 
       #- name: "Agile 4U"
       #logo: "img/logo_agile4u.png" 
