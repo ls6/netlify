@@ -196,13 +196,19 @@ params:
     - authors:
         - name: "Maciej Malesa"
           photo: "img/malesa.jpg"
-          #bio: "bio"
+          bio: "Nazywam się Maciek Malesa, pracuję na stanowisku dyrektora marketingu w firmie Schneider Electric.  Zajmuję się tworzeniem pozytywnych wrażeń klienta przy szukaniu oferty w przeglądarkach internetowych (SEO) oraz na publicznych stronach internetowych i aplikacjach firmy w 120 krajach. Doświadczenie w budowaniu efektywnych organizacji zdobywałem pracując jako konsultant w Accenture oraz Deloitte Digital. Bazuję na technikach zarządzania i tworzenia Scrum, LeSS, SAFe, TOGAF, ITIL, DSDM oraz Prince2.<br> Ukończyłem Szkołę Główną Handlową (Polska), University of Hertofordshire (UK) oraz Stanford University Graduate School of Business (USA)."
           #link:
             #href: "https://www.linkedin.com/in/paulklipp/"
             #text: LinkedIn
       presentation:
         title: "Przykład samoorganizującego się zespołu i kilku wyzwań którym sprostał"
-        description: "tbd <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+        description: "<ul>
+  <li>• Które decyzje należą do zespołu a które nie?</li>
+  <li>• Wyzwanie pierwsze: ustalenie struktury zespołów</li>
+  <li>• Wyzwanie drugie: ustalenie zakresu prac</li>
+  <li>• Wyzwanie trzecie: identyfikacja oszustów (praca zdalna na 2 fronty)</li>
+  <li>• Wyzwanie czwarte: za dużo spotkań</li>
+</ul> <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
 
     - name: "Parallel Workshops"
