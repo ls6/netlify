@@ -227,7 +227,33 @@ params:
 </ul>
 Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach procesowych (nie produktowych). Niemniej wartość z tego warsztatu będzie płynęła dla każdej osoby zainteresowanej pracą z danymi w zespole Scrumowym. Jako FRISowy Badacz z Partnerskim zacięciem - zapraszam na naszą małą przygodę z budowaniem zespołu wykresów :)
 
-      <br><br>"
+      <br><br>
+
+      <strong>Tomasz Wykowski<br>
+      Agile Leadership - Personal Leadership </strong><img class=\"icon-lang\" src=\"img/lang-gb.svg\"> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
+      To become more agile, the company usually requires a significant change in its engineering practices, business model, organizational structure, and leadership approach. The last one seems to be the largest bottleneck for most companies, therefore during this session, we’ll focus on one aspect of Agile Leadership - Personal Leadership. We will dive into two models of leaders’ development, identifying different shades of leadership and learning the responsibility process.<br>
+      After the session, you’ll be able to define your role in different groups and communities, both inside and outside your company. You’ll also better understand how to avoid different stages of denial and take responsibility.
+
+      <br><br>
+
+      <strong>Karolina Karbarz, Justyna Wykowska <br>
+      Poznaj wrażenia klienta - warsztat User Journey Mapping</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+      Są produkty, które kochamy i takie, z których korzystanie jest dla nas torturą. To jak klient ocenia produkt zależy od tego jakie są jego doświadczenia podczas całego cyklu użytkowania od momentu, gdy dowiaduje się o jego istnieniu do momentu, gdy przestaje z niego korzystać. W czasie warsztatu nauczymy się patrzeć na pełny proces kontaktu z użytkownika z produktem, odkryjemy na przykładzie popularnych aplikacji co to jest ścieżka klienta, jak ją stworzyć, analizować i poprawiać tak, aby wszystkie punkty styku między użytkownikiem a produktem dawały poczucie spójnej i satysfakcjonującej całości. Zapraszamy osoby zainteresowane obszarami rozwoju produktów, analizy biznesowej, UX i UI.
+
+      <br><br>
+
+      <strong>Krzysztof Niewiński<br>
+      Topologie Zespołów w Produktowej Organizacji</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+      Nikogo dziś nie zaskoczę pisząc, że świat jest zmienny, niepewny, złożony i niejednoznaczny (ang. VUCA world). Tworzenie cyfrowych Produktów i konkurowanie w cyfrowym biznesie wymaga dziś nie tylko nowoczesnego przywództwa, myślenia Produktowego, czy znajomości technologii, ale i wiedzy z zakresu projektowania organizacji.<br>
+      Na rynku pojawiły się książki z teoriami organizacji zespołów, ale każda z nich mówi coś innego. Co więcej, wdrożenia tych teorii w firmach wyglądają bardzo różnie. Konsultanci konkurują w sprzedaży nowoczesnych frameworków. A piekło inżynierów wciąż jest brukowane dobrymi intencjami i „zdrowym rozsądkiem” menedżerów.<br>
+      A zatem, jak najlepiej zorganizować zespoły - per technologię, per platformę, czy per obszar biznesowy? Jaka struktura organizacji da nam największą prędkość, największą jakość, a jaka największą zdolność do adaptacji? Czy tak samo organizujemy małe, średnie i duże firmy?<br>
+      Na moim warsztacie doświadczymy empirycznie najbardziej popularnych topologi zespołów:<br>
+      1 - każdy zespół zorientowany wokół własnego komponentu technicznego, lub platformy <br>
+      2 - każdy zespół zorientowany wokół własnego, wąskiego strumienia wartości biznesowej nazywanym także małym obszarem biznesowym, lub pod-produktem.<br>
+      3 - wiele zespołów zorientowanych wokół jednego, wspólnego i szerokiego strumienia wartości biznesowej – czyli jednego dużego produktu, często zdefiniowanego do granic firmy, lub nawet poza nie.<br>
+      Całość podsumujemy nawiązaniem do znanych frameworków, zweryfikujemy pod co są zoptymalizowane i jaki design organizacyjny najlepiej sprawdzi się u nas.
+
+    "
 
 
       #- name: "Closing"
@@ -254,6 +280,48 @@ Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach proceso
           # presentation: "title"
           # description: "desc"
       workshop: true
+    
+    - authors:
+        - name: "Tomasz Wykowski"
+          photo: "img/TWykowski_2022.png"
+          bio: "Tomasz Wykowski is an Agile Coach, Certified Scrum Trainer accredited by Scrum Alliance, and LeSS-Friendly Scrum Trainer accredited by LeSS Company. Working with leaders from companies from startups to international organizations, he helps them understand the dynamic of their system, find inefficiencies and discover a better way to deliver amazing products and services. He loves experimenting, applying agile concepts in marketing, sales, customer support, and hardware development.<br> In 2010, Tomasz founded ProCognita, a Polish-based company, to help people build extraordinary organizations through Agile Coaching and training. He shares his thoughts and experiences through conferences, meetups, company blog and podcast."
+          link:
+              href: "https://www.linkedin.com/in/wykowski/"
+              text: "LinkedIn"
+          # presentation: "title"
+          # description: "desc"
+      workshop: true
+
+    - authors:
+        - name: "Karolina Karbarz"
+          photo: "img/Karolina_Karbarz_2022.jpeg"
+          bio: "Projektuję od 2014 roku, w tym czasie z powodzeniem pracowałam nad produktami zarówno w dużej korporacji, jak i we współpracy z obiecującymi start-upami. Na co dzień zajmuję się badaniem potrzeb użytkowników, projektowaniem oraz walidacją tworzonych rozwiązań.<br> Współtworzę jedną z najbardziej rozpoznawalnych na świecie konferencji o tworzeniu treści — soap!, która od ponad 8 lat przyciąga do Krakowa specjalistów z 35 krajów."
+          link:
+              #href: ""
+              #text: ""
+          # presentation: "title"
+          # description: "desc"
+        - name: "Justyna Wykowska"
+          photo: "img/JWykowska_2022.png"
+          bio: "Od 2005 roku nieustannie uczestniczę w rozwoju produktów. Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. Współpracowałam z takimi firmami jak Codewise, inPost, BSH, HRS i Kontakt Simon."
+          link:
+              #href: ""
+              #text: ""
+          # presentation: "title"
+          # description: "desc"
+      workshop: true
+
+    - authors:
+        - name: "Krzysztof Niewiński"
+          photo: "img/Krzysztof_Niewiński_2022.png"
+          bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem oprogramowania, trenerem, konsultantem i promotorem podejścia Agile i Lean. Od 17 lat podążam ścieżką „zwinności” i zajmowałem wiele stanowisk w procesie tworzenia oprogramowania - od programisty, przez analityka, managera, aż po Scrum Mastera / Agile Coacha. Od 8 lat jestem zawodowo zaangażowany w tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Jestem promotorem podejścia LeSS (Large Scale Scrum) w Polsce, umożliwiającego rozwój produktów na dużą skalę. Doświadczenie zdobywałem m.in. w Grupie Allegro (PayU), w mniejszych firmach, w tym VRenetic, Finevare, HRS, a także w dużych korporacjach, takich jak ERGO, Orange, UPC czy CircleK. Regularnie występuję na konferencjach, piszę artykuły i organizuję społeczność LeSS Warsaw."
+          link:
+              #href: ""
+              #text: ""
+          # presentation: "title"
+          # description: "desc"
+      workshop: true
+
 
 
     #####################
