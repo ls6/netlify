@@ -185,7 +185,7 @@ params:
     - authors:
         - name: "Bartosz Janowski"
           photo: "img/janowski.jpg"
-          #bio: "bio"
+          bio: "Od wielu lat związany ze zwinnością. Pracował w każdej roli zapisanej w Przewodniku po Scrumie, najdłużej jako scrum master, również jako członek zespołu deweloperskiego (programista, QA), czasem jak PO. Trenował to w IT. Pracował dla branży energetycznej i liderów telekomunikacji. Posiada szerokie, inżynierskie doświadczenie w obszarze systemów uniksowych, czasu rzeczywistego.<br> Aktualnie w branży finansowej, związany z mBankiem, gdzie początkowo jako agile coach, wspierał transformacje organizacji. Teraz jest szefem Agile Centre, które stworzył. W obszarze jego obowiązków jest praca nad rozwojem ludzi, wpływ na kulturę firmy, wprowadzanie, utrzymywanie oraz ciągłe usprawnianie nowych sposobów pracy."
           #link:
             #href: "https://www.linkedin.com/in/paulklipp/"
             #text: LinkedIn
