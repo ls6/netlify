@@ -243,16 +243,21 @@ Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach proceso
       <br><br>
 
       <strong>Krzysztof Niewiński<br>
-      Topologie Zespołów w Produktowej Organizacji</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-      Nikogo dziś nie zaskoczę pisząc, że świat jest zmienny, niepewny, złożony i niejednoznaczny (ang. VUCA world). Tworzenie cyfrowych Produktów i konkurowanie w cyfrowym biznesie wymaga dziś nie tylko nowoczesnego przywództwa, myślenia Produktowego, czy znajomości technologii, ale i wiedzy z zakresu projektowania organizacji.<br>
-      Na rynku pojawiły się książki z teoriami organizacji zespołów, ale każda z nich mówi coś innego. Co więcej, wdrożenia tych teorii w firmach wyglądają bardzo różnie. Konsultanci konkurują w sprzedaży nowoczesnych frameworków. A piekło inżynierów wciąż jest brukowane dobrymi intencjami i „zdrowym rozsądkiem” menedżerów.<br>
-      A zatem, jak najlepiej zorganizować zespoły - per technologię, per platformę, czy per obszar biznesowy? Jaka struktura organizacji da nam największą prędkość, największą jakość, a jaka największą zdolność do adaptacji? Czy tak samo organizujemy małe, średnie i duże firmy?<br>
-      Na moim warsztacie doświadczymy empirycznie najbardziej popularnych topologi zespołów:<br>
-      1 - każdy zespół zorientowany wokół własnego komponentu technicznego, lub platformy <br>
-      2 - każdy zespół zorientowany wokół własnego, wąskiego strumienia wartości biznesowej nazywanym także małym obszarem biznesowym, lub pod-produktem.<br>
-      3 - wiele zespołów zorientowanych wokół jednego, wspólnego i szerokiego strumienia wartości biznesowej – czyli jednego dużego produktu, często zdefiniowanego do granic firmy, lub nawet poza nie.<br>
-      Całość podsumujemy nawiązaniem do znanych frameworków, zweryfikujemy pod co są zoptymalizowane i jaki design organizacyjny najlepiej sprawdzi się u nas.
-
+      Topologie zespołów w organizacji produktowej</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+      Prowadzenie organizacji produktowej wymaga dziś nie tylko nowoczesnego przywództwa,
+myślenia produktowego, czy znajomości technologii, ale i wiedzy z zakresu <i>projektowania
+organizacji</i>.<br>
+Na rynku pojawiły się książki z teoriami organizacji zespołów, ale każda z nich mówi coś
+innego. Co więcej, wdrożenia tych teorii w firmach wyglądają bardzo różnie. Jak zatem lepiej
+zorganizować zespoły - per technologię, per platformę, czy per obszar biznesowy? Jaka
+struktura organizacji da nam największą prędkość, największą jakość, a jaka największą
+zdolność do adaptacji? Czy tak samo organizujemy małe, średnie i duże firmy?
+<br><br>
+Na moim warsztacie spróbujemy odpowiedzieć na te i inne pytanina. Doświadczymy
+empirycznie dynamiki najbardziej popularnych topologii zespołów tj. zespołów
+komponentowych, platformowych, wąsko i szeroko produktowych. Całość podsumujemy
+nawiązaniem do znanych frameworków, zweryfikujemy pod co są zoptymalizowane i co
+najlepiej sprawdzi się u nas w firmie.
     "
 
 
@@ -314,7 +319,7 @@ Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach proceso
     - authors:
         - name: "Krzysztof Niewiński"
           photo: "img/Krzysztof_Niewinski_2022.png"
-          bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem oprogramowania, trenerem, konsultantem i promotorem podejścia Agile i Lean. Od 17 lat podążam ścieżką „zwinności” i zajmowałem wiele stanowisk w procesie tworzenia oprogramowania - od programisty, przez analityka, managera, aż po Scrum Mastera / Agile Coacha. Od 8 lat jestem zawodowo zaangażowany w tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Jestem promotorem podejścia LeSS (Large Scale Scrum) w Polsce, umożliwiającego rozwój produktów na dużą skalę. Doświadczenie zdobywałem m.in. w Grupie Allegro (PayU), w mniejszych firmach, w tym VRenetic, Finevare, HRS, a także w dużych korporacjach, takich jak ERGO, Orange, UPC czy CircleK. Regularnie występuję na konferencjach, piszę artykuły i organizuję społeczność LeSS Warsaw."
+          bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem i Agile Coachem promującym podejście LeSS (Large-scale Scrum). Od 8 lat zawodowo wspieram tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Doświadczenie zdobywałem m.in. w Grupie Allegro (PayU), w mniejszych firmach, w tym Uncapped, VRenetic, Finevare, HRS, a także w dużych korporacjach, takich jak ERGO, Orange, UPC czy CircleK."
           link:
               #href: ""
               #text: ""
