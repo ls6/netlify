@@ -127,10 +127,6 @@ params:
       #- name: "Big Agile Theory"
       #logo: "img/logo_big-agile-theory.png" 
       #url: "https://www.meetup.com/Big-Agile-Theory/"
-
-      #- name: "Fundacja Zwinność"
-      #logo: "img/logo_fundacja-zwinnosc.jpg" 
-      #url: "https://zwinnosc.org/"
       
       - name: "LubLean"
         logo: "img/logo_LubLean.png" 
@@ -139,6 +135,10 @@ params:
       - name: "Agile Poznań"
         logo: "img/logo_ap_margines.png" 
         url: "https://agilepoznan.org/"
+
+      - name: "Fundacja Zwinność"
+        logo: "img/logo_fundacja-zwinnosc.jpg" 
+        url: "https://zwinnosc.org/"
 
       #- name: "Kanban przy kawie"
       #logo: "img/logo_kanban_przy_kawie.png" 
