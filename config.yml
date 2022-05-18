@@ -185,10 +185,10 @@ params:
     - authors:
         - name: "Bartosz Janowski"
           photo: "img/janowski.jpg"
-          #bio: "bio"
-          #link:
-            #href: "https://www.linkedin.com/in/paulklipp/"
-            #text: LinkedIn
+          bio: "Od wielu lat związany ze zwinnością. Pracował w każdej roli zapisanej w Przewodniku po Scrumie, najdłużej jako scrum master, również jako członek zespołu deweloperskiego (programista, QA), czasem jak PO. Trenował to w IT. Pracował dla branży energetycznej i liderów telekomunikacji. Posiada szerokie, inżynierskie doświadczenie w obszarze systemów uniksowych, czasu rzeczywistego.<br> Aktualnie w branży finansowej, związany z mBankiem, gdzie początkowo jako agile coach, wspierał transformacje organizacji. Teraz jest szefem Agile Centre, które stworzył. W obszarze jego obowiązków jest praca nad rozwojem ludzi, wpływ na kulturę firmy, wprowadzanie, utrzymywanie oraz ciągłe usprawnianie nowych sposobów pracy."
+          link:
+            href: "https://www.linkedin.com/in/bartosz-janowski/"
+            text: LinkedIn
       presentation:
         title: "Coś wokół: \"Za co płacą scrum masterowi?\""
         description: "tbd <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
@@ -258,6 +258,13 @@ empirycznie dynamiki najbardziej popularnych topologii zespołów tj. zespołów
 komponentowych, platformowych, wąsko i szeroko produktowych. Całość podsumujemy
 nawiązaniem do znanych frameworków, zweryfikujemy pod co są zoptymalizowane i co
 najlepiej sprawdzi się u nas w firmie.
+
+      <br><br>
+
+    <strong>Mariusz Petlic, Bartosz Janowski <br>
+    Podejście systemowe w usprawnianiu organizacji – praktyczne podejście, z perspektywy SM/AC.</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+    Opis już się robi…
+
     "
 
 
@@ -323,6 +330,17 @@ najlepiej sprawdzi się u nas w firmie.
           link:
               #href: ""
               #text: ""
+          # presentation: "title"
+          # description: "desc"
+      workshop: true
+
+    - authors:
+        - name: "Mariusz Petlic"
+          photo: "img/petlic.jpg"
+          bio: "Zwinnym myśleniem zaraziłem się ponad dekadę temu. Od kilku lat jestem Agile Coachem, a wcześniej byłem wiele lat Scrum Masterem. Uważam, że każdy produkt można szybko zaprojektować, zbudować i zweryfikować. Wystarczy odpowiednie nastawienie i umiejętności.<br> Nastawiony na świadomość, samoorganizację, zaufanie i komunikację wspieram zespoły w dążeniu do dojrzałości i radości pracy w środowisku Agile. Współpracowałem z firmami ComputerLand, Systemy Kodów Kreskowych, Hurra.com, eSky.pl, ProCognita, Alior Bank, a obecnie mBank.<br> Podejście Agile jest moją pasją. Założyłem portal informacyjny Agile Polska oraz uczestniczę w działaniach non-profit jako współorganizator ALE Kraków, ALE w terenie i Agile Coach Camp PL."
+          link:
+              href: "https://mariuszpetlic.pl/"
+              text: "www"
           # presentation: "title"
           # description: "desc"
       workshop: true
