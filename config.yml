@@ -280,6 +280,24 @@ Co wyciągnie uczestnik dla siebie:<br>
 <li>• ZwinnośćWDużejOrganizacji<br></li>
 </ul>
 Dla kogo: Scrum masterzy, agile coache i inne role wspierające zmiany organizacyjne.
+
+      <br><br>
+
+    <strong>Kasia Mydło <br>
+    Czy ja dobrze słyszę? Kiedy i jak zadawać pytania</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+
+    Co robisz, kiedy słyszysz wypowiedź “ktoś powinien się zająć komunikacją”?<br>
+Czasem przytakniesz.<br>
+Czasem się zdziwisz.<br>
+Czasem się zastanowisz, o kim jest mowa?<br>
+Skąd wynika ta “powinność”?<br>
+Co jest do zrobienia?<br>
+Kto tu się komunikuje?<br>
+Jakich rezultatów rozmówca się spodziewa?<br>
+…<br>
+Dużo tego, prawda?<br>
+Przejdziemy przez prosty model, który choć intuicyjny, to pozwala uporządkować i nazwać elementy wypowiedzi o które warto dopytać.<br>
+
     "
 
 
@@ -360,6 +378,17 @@ Dla kogo: Scrum masterzy, agile coache i inne role wspierające zmiany organizac
           # description: "desc"
       workshop: true
 
+
+    - authors:
+        - name: "Kasia Mydło"
+          photo: "img/k-mydlo.jpg"
+          bio: "Lubię się uczyć i poznawać perspektywę innych ludzi na otaczającą nas rzeczywistość. Lubię też dzielić się zdobytą wiedzą - stąd też zaproszenie na ten warsztat.<br> Od ponad dwóch lat pracuję jako Scrum Master wspierając organizacje, które zdecydowały się pracować zwinnie, w drodze ku lepszym produktom. W pracy szczególnie cieszy mnie rozgryzanie jak działają zespoły i znajdowanie sposobów na to, żeby zostawić po sobie organizację lepszą niż ta, do której dołączyłam.<br> Prywatnie zaś lubię jeść dobre jedzenie, porządnie się wyspać i głaskać kotki (w domu mam 3, więc jest kogo głaskać :D)."
+          #link:
+            #href: "https://mariuszpetlic.pl/"
+            #text: "www"
+          # presentation: "title"
+          # description: "desc"
+      workshop: true
 
 
     #####################
