@@ -184,8 +184,8 @@ params:
             href: "https://paulklipp.com/"
             text: www
       presentation:
-        title: "The title is still under construction…"
-        description: "Paul is creating this talk especailly for this conference :) <br>About continuous learning, a deep dive into product culture and psychological safety. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
+        title: "Break the Learning Addiction"
+        description: "We must always be learning. So many of us can't consume enough content and we can never know enough about our craft. Agile has become so large that it's easy to feel plagued by perpetual imposter syndrome. I'll be talking about how I've learned to apply structure and focus to my learning as well as sharing many mistakes I've made along the way. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
 
     - authors:
         - name: "Bartosz Janowski"
