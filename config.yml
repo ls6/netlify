@@ -145,6 +145,10 @@ params:
         logo: "img/logo_fundacja-zwinnosc.jpg" 
         url: "https://zwinnosc.org/"
 
+      - name: "Agile Wrocław"
+        logo: "img/logo-agile-wroclaw.png" 
+        url: "https://www.facebook.com/AgileWroclaw"
+
       - name: "ALE Kraków"
         logo: "img/logo-ale-krakow.png" 
         url: "https://www.alekrakow.com/"
