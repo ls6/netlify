@@ -145,6 +145,10 @@ params:
         logo: "img/logo_fundacja-zwinnosc.jpg" 
         url: "https://zwinnosc.org/"
 
+      - name: "ALE Kraków"
+        logo: "img/logo-ale-krakow.png" 
+        url: "https://www.alekrakow.com/"
+
       #- name: "Kanban przy kawie"
       #logo: "img/logo_kanban_przy_kawie.png" 
       #url: "https://kanbanprzykawie.pl/"
