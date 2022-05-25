@@ -46,7 +46,7 @@ Specifically:
 
 <h4 style="font-size: 2.2em;"><br>If you Slack is giving you an unhelpful error message:</h4>
 
-Unfortunately Slack is really buggy this year and we cannot do anything about it. If the registration link does not work for you, plese try:  
+Unfortunately Slack is really buggy this year and we cannot do anything about it. If the registration link does not work for you, please try:  
 
   • Joining using a computer, not a phone. Once you are in, the Slack app should work.  
   • If you know someone who joined already, ask them to invite you "from the inside". They can find info on how to do it in the `#official-announcements` channel.  
