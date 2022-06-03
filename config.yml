@@ -309,6 +309,7 @@ Przejdziemy przez prosty model, który choć intuicyjny, to pozwala uporządkowa
         #remark: ""
 
     - name: "Afterparty!"
+      time: "~18:00"
 
     #- name: "Lunch"
       #remark: "You will have to take care of your own lunch. There are restauriants in the neighbourhood."
