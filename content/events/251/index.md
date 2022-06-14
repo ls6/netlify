@@ -26,4 +26,3 @@ Wyznaję zasadę, że ludzie pracują tak, jak im otoczenie pozwala, dlatego wsp
 <a href="https://www.linkedin.com/in/mariusz-wiktor-baranowski/" target="_blank">Mariusz Baranowski</a> - Certyfikowany scrum master & freak agilowy.
 Kiedyś event manager realizujący wydarzenia w Polsce i Europie, absolwent Politechniki Warszawskiej, obecnie spełniony servant leader.
 Mocno wierzę, że efektywna komunikacja jest najczęstszym problem spotykanym w zespołach i organizacji, a jednocześnie najmocniej wpływa ona na ich sukces. Dlatego pomagam zespołom odkryć potencjał drzemiący w nich i uwolnić energię niezbędną do realizacji celów. Na co dzień pracuję z zespołami scrumowymi i kanbanowymi oraz wspieram organizację w zwinnej przemianie krzewiąc hasło Just Do IT.
-
