@@ -16,58 +16,79 @@ draft: false
 
 We must always be learning. So many of us can't consume enough content and we can never know enough about our craft. Agile has become so large that it's easy to feel plagued by perpetual imposter syndrome. I'll be talking about how I've learned to apply structure and focus to my learning as well as sharing many mistakes I've made along the way.
 
-# Panel dyskusyjny
+# Speakers
 
-### {{% icon-flag-pl %}} [Rozwój niesamowitych produktów w niepewnych czasach] ({{< relref "#opis-en" >}}) {#opis-pl}
+## Maciej Malesa
+### {{% icon-flag-pl %}} [Przykład samoorganizującego się zespołu i kilku wyzwań którym sprostał] ({{< relref "#opis-en" >}}) {#opis-pl}
 
-Do rozmowy zaprosiliśmy reprezentantów biznesu / Product Ownerów ze znanych firm, których rynek dynamicznie się zmieniał w ciągu ostatniego roku. Posłuchajcie co mają do powiedzenia eksperci i zadajcie im własne pytania.
+• Które decyzje należą do zespołu a które nie?
+• Wyzwanie pierwsze: ustalenie struktury zespołów
+• Wyzwanie drugie: ustalenie zakresu prac
+• Wyzwanie trzecie: identyfikacja oszustów (praca zdalna na 2 fronty)
+• Wyzwanie czwarte: za dużo spotkań
 
-Udało nam się zaprosić:
-• Jakub Chudarek (inFakt - dostawca usług i systemów umożliwiających prowadzenie księgowości online.)
-• Agata Bra (InPost - lider w oferowaniu nowoczesnych usług logistycznych, pierwsza firma w Polsce, która stworzyła sieć Paczkomatów.)
-• Piotr Jabonowski (WP Desk - największa i najpopularniejsza polska platforma z rozszerzeniami do WooCommerce.)
-Panel poprowadzi Tomek Wykowski (Procognita)
+## Bartosz Janowski
+### {{% icon-flag-pl %}} [Za co płacą scrum masterowi?"] ({{< relref "#opis-en" >}}) {#opis-pl}
 
-<a href="https://www.youtube.com/watch?v=hZhcA7-iVA0&list=PLwoIK953bBnPjunG5R-W1smy5FAd2Qkm0&index=2" target="_blank">Nagranie panelu</a>
+Scrum master jest kosztem. A co wnosi do organizacji? Znamy dobrze obowiązki kasjerki, ochroniarza, kelnera czy hydraulika. Wiem za co im płacimy. Podobnie jak za pracę zespołu deweloperskiego czy product ownera.
+Opowiem, jak do tego podchodzę do w mBanku. I czy rozliczam za przytulanie drzew ;-)
 
 -------------
 
 # Workshops
 
-## Bożena Andrzejak
-### {{% icon-flag-pl %}} [Konflikt czy zwykłe nieporozumienie, jak rozpoznać nadchodzący konflikt?] ({{< relref "#opis-en" >}}) {#opis-pl} 
+## Justyna Rędzikowska
+### {{% icon-flag-pl %}} [Jak się za to zabrać? Czyli o przełożeniu teorii metryk do pierwszego, konkretnego użycia w zespole] ({{< relref "#opis-en" >}}) {#opis-pl} 
 
-Stara zasada medyczna mówi, że lepiej zapobiegać niż leczyć. Nie jestem zwolenniczką zarządzania przez konflikt, więc przekładam tę zasadę również na obszar komunikacji międzyludzkiej. Różnorodność, różnica zdań i perspektyw, nawet nieporozumienie, mogę być źródłem kreatywnych rozwiązań. Ale gorący konflikt prawie zawsze jest niszczący.
-Dlatego lepiej rozpoznać jego pierwsze objawy i interweniować zanim będzie za późno. Podczas naszego spotkania przyjrzymy się jak zwykła sytuacja może eskalować w konflikt i co leży u źródeł takiego rozwoju sytuacji. Kiedy rozumiemy powody, mamy szansę na to, aby zatrzymać się w porę i zrobić krok do tyłu zanim wpadniemy w wir niszczącego procesu.
+Jest to warsztat dla:
+• takiej mnie sprzed kilku lat, czyli każdej osoby, która chce zacząć pracę z metrykami, a do tego zaangażować w to cały zespół,
+• każdej osoby, która chce opierać pracę z procesem na danych i mieć porządny wkład do Retrospektywy,
+• każdej osoby, która wie o istotności metryk, ale zawsze ciężko było jej zacząć, bo nie wiedziała w szczegółach od czego i jak.
+Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach procesowych (nie produktowych). Niemniej wartość z tego warsztatu będzie płynęła dla każdej osoby zainteresowanej pracą z danymi w zespole Scrumowym. Jako FRISowy Badacz z Partnerskim zacięciem - zapraszam na naszą małą przygodę z budowaniem zespołu wykresów :)
 
-## Justyna Wykowska
-### {{% icon-flag-pl %}} [Szkiełko i oko czyli dylematy biznes analityka] ({{< relref "#opis-en" >}}) {#opis-pl} 
+## Tomasz Wykowski
+### {{% icon-flag-en %}} [Agile Leadership - Personal Leadership] ({{< relref "#opis-pl" >}}) {#opis-en} 
 
-"Jeśli nie umiesz zmierzyć rezultatu zmian to nic nie zmieniaj". Podstawą pracy PO i analityka biznesowego jest mierzenie rezultatów zmian w produkcie. Zapraszam na warsztat gdzie na przykładach produktów dotkniemy tematu metryk i wskaźników. Sprawdzimy co i kiedy warto mierzyć, kiedy metryka przynosi nam oczekiwane korzyści a kiedy jest szkodliwa i zdefiniujemy metryki dla naszych przykładów.
+To become more agile, the company usually requires a significant change in its engineering practices, business model, organizational structure, and leadership approach. The last one seems to be the largest bottleneck for most companies, therefore during this session, we’ll focus on one aspect of Agile Leadership - Personal Leadership. We will dive into two models of leaders’ development, identifying different shades of leadership and learning the responsibility process.
+After the session, you’ll be able to define your role in different groups and communities, both inside and outside your company. You’ll also better understand how to avoid different stages of denial and take responsibility.
 
-## Jurgen de Smet
-### {{% icon-flag-en %}} [Agile is not Scrum and Scrum is not necessarily Agile] ({{< relref "#opis-pl" >}}) {#opis-en} 
+## Karolina Karbarz, Justyna Wykowska
+### {{% icon-flag-pl %}} [Poznaj wrażenia klienta - warsztat User Journey Mapping] ({{< relref "#opis-en" >}}) {#opis-pl} 
 
-Today, bad or zombie Scrum is the biggest enemy of Scrum and not waterfall or phase gate projects and programs. In this workshop we're going to explore your understanding of Scrum and provide insights on how to bring Scrum to a higher level of Agility. Enabling you and your teams creativity towards experimentation and innovation beyond the retrospective into the Products you build.
-
-## Maciej Sowiński
-###  {{% icon-flag-pl %}} [Myślenie systemowe dla Agile Coachów Light ] ({{< relref "#opis-en" >}}) {#opis-pl}
-
-Problemy z którymi mierzą się agile coachowie i scrum masterzy mają często naturę trudną do uchwycenia w logice, która mówi, że zawsze jest przyczyna i efekt. Podczas pracy z większymi grupami często można odkryć, że relacje przyczynowe są nieintuicyjne, nieliniowe oraz, zależnie od tego kto patrzy, mogą być jednocześnie "logiczne" jak i "nielogiczne". Na tym krótkim warsztacie poruszymy dwa metanarzędzia myślenia systemowego, diagramy CLD oraz modele mentalne. Warsztat jest dla tych, którzy chcą je poznać lub poćwiczyć/odświeżyć. Zapraszam
-
-## Małgorzata Polińska-Fotek
-### {{% icon-flag-pl %}} [Zarządzanie zmianą jako integralna część dostarczania produktu do użytkowników] ({{< relref "#opis-en" >}}) {#opis-pl} 
-
-Nawet najlepszy i najbardziej innowacyjny produkt nie odniesie sukcesu, jeśli użytkownicy nie będą mu przychylni. Dostarczenie funkcjonalności z backlogu nie zawsze przesądza o sukcesie produktu. Jak zatem przygotować grunt dla efektywnego wdrożenia naszego rozwiązania, jak przekonać nieprzekonanych, zachęcić ludzi do korzystania z nowego produktu czy usługi i pokonać ich opór? Jak zidentyfikować bariery związane ze zmianą oraz zarządzać emocjami? Jak zbudować świadomość a nawet wzbudzić pożądanie dla naszego produktu? Podczas warsztatu poszukamy odpowiedzi na te i inne pytania. Zastanowimy się po czyjej stronie leżą poszczególne obszary odpowiedzialności, zidentyfikujemy możliwe działania i omówimy model ADKAR jako źródła sukcesu zmiany.
+Są produkty, które kochamy i takie, z których korzystanie jest dla nas torturą. To jak klient ocenia produkt zależy od tego jakie są jego doświadczenia podczas całego cyklu użytkowania od momentu, gdy dowiaduje się o jego istnieniu do momentu, gdy przestaje z niego korzystać. W czasie warsztatu nauczymy się patrzeć na pełny proces kontaktu z użytkownika z produktem, odkryjemy na przykładzie popularnych aplikacji co to jest ścieżka klienta, jak ją stworzyć, analizować i poprawiać tak, aby wszystkie punkty styku między użytkownikiem a produktem dawały poczucie spójnej i satysfakcjonującej całości. Zapraszamy osoby zainteresowane obszarami rozwoju produktów, analizy biznesowej, UX i UI.
 
 ## Krzysztof Niewiński
-### {{% icon-flag-pl %}} [(De)Skalowanie Agile: Jak osiągnąć adaptacyjność dużej organizacji?] ({{< relref "#opis-en" >}}) {#opis-pl} 
+###  {{% icon-flag-pl %}} [Topologie zespołów w organizacji produktowej] ({{< relref "#opis-en" >}}) {#opis-pl}
 
-W ciągu ostatnich dwóch dekad podejście zwinne (ang. “Agile”) do tworzenia produktów sprawdziło się zarówno w software, jak i poza nim i stało się normą. Najbardziej popularną metodą pracy zwinnej stał się framework Scrum stosowany do małych, efektywnych zespołów. Co zatem powinniśmy stosować, gdy nad produktem pracują dziesiątki, setki czy nawet tysiące osób? W trakcie naszego spotkania opowiem w jaki sposób wyjść poza jeden zespół i zorganizować pracę dużej organizacji bez utraty elastyczności. Porozmawiamy o największych wyzwaniach firm próbujących “skalować Agile” i czy dostępne na rynku frameworki dadzą nam to czego faktycznie potrzebujemy.
-Agenda:
-· Największe wyzwania tworzenia produktów w dużej skali
-· Chaos koordynacyjny – skąd się bierze?
-· Adaptacyjność – czym jest i jak ją osiągnąć?
-· Dynamika współpracy zespołów
-· Struktury organizacyjne i ich wpływ na adaptacyjność i kulturę organizacji
-· Wstęp do LeSS (Large-Scale Scrum)
+Prowadzenie organizacji produktowej wymaga dziś nie tylko nowoczesnego przywództwa, myślenia produktowego, czy znajomości technologii, ale i wiedzy z zakresu projektowania organizacji.
+Na rynku pojawiły się książki z teoriami organizacji zespołów, ale każda z nich mówi coś innego. Co więcej, wdrożenia tych teorii w firmach wyglądają bardzo różnie. Jak zatem lepiej zorganizować zespoły - per technologię, per platformę, czy per obszar biznesowy? Jaka struktura organizacji da nam największą prędkość, największą jakość, a jaka największą zdolność do adaptacji? Czy tak samo organizujemy małe, średnie i duże firmy?
+
+Na moim warsztacie spróbujemy odpowiedzieć na te i inne pytanina. Doświadczymy empirycznie dynamiki najbardziej popularnych topologii zespołów tj. zespołów komponentowych, platformowych, wąsko i szeroko produktowych. Całość podsumujemy nawiązaniem do znanych frameworków, zweryfikujemy pod co są zoptymalizowane i co najlepiej sprawdzi się u nas w firmie.
+
+## Mariusz Petlic, Bartosz Janowski
+### {{% icon-flag-pl %}} [Podejście systemowe w usprawnianiu organizacji – praktyczne podejście, z perspektywy SM/AC.] ({{< relref "#opis-en" >}}) {#opis-pl} 
+
+Podzielimy się nasza historią, jak wspólnie pracujemy nad poprawą efektywności. Jak nam nie wyszło, bo co coś co było proste, okazało się złożone. Czego się z tego nauczyliśmy. Jak zaplanowaliśmy zmianę w zupełnie innym kierunku.
+Przećwiczymy z Wami, jakie narzędzia nam w tym teraz pomagają.
+Wynikiem będzie konkretny cel wspierający efektywność zwinnej organizacji w formie OKR-a, który zaproponujemy w Agile Centre w mBanku.
+Co wyciągnie uczestnik dla siebie:
+• MyślenieSystemowe
+• CausalLoopDiagram
+• OKR
+• ZwinnośćWDużejOrganizacji
+Dla kogo: Scrum masterzy, agile coache i inne role wspierające zmiany organizacyjne.
+
+## Kasia Mydło
+### {{% icon-flag-pl %}} [Czy ja dobrze słyszę? Kiedy i jak zadawać pytania ] ({{< relref "#opis-en" >}}) {#opis-pl} 
+
+Co robisz, kiedy słyszysz wypowiedź “ktoś powinien się zająć komunikacją”?
+Czasem przytakniesz.
+Czasem się zdziwisz.
+Czasem się zastanowisz, o kim jest mowa?
+Skąd wynika ta “powinność”?
+Co jest do zrobienia?
+Kto tu się komunikuje?
+Jakich rezultatów rozmówca się spodziewa?
+…
+Dużo tego, prawda?
+Przejdziemy przez prosty model, który choć intuicyjny, to pozwala uporządkować i nazwać elementy wypowiedzi o które warto dopytać.
