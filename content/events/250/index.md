@@ -5,7 +5,7 @@ title: "How to embrace procrastination and use it to your advantage"
 speakers: "Heather Chavin"
 lang: "en"
 sponsors: ["ReefTechnologies", "QAgile"]
-videoURL: ""
+videoURL: "https://youtu.be/j3FPah3BigQ"
 slidesURL: "Embrace-Procrastination.pdf"
 draft: false
 ---
