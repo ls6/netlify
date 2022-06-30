@@ -19,5 +19,5 @@ W 2020 roku uzupełniłem moje kompetencje o wiedzę teoretyczną, a potem prakt
 Na co dzień pracuję jako Scrum Master, dodatkowo prowadzę wywiady z przedsiębiorcami, udzielam się w radiu oraz prowadzę konferencje i inne wydarzenia w roli konferansjera.
 
 
-Możesz mnie złapać na <a href="[https://www.linkedin.com/in/justyna-redzikowska/](https://www.linkedin.com/in/jerzy-cieslinski/)" target="_blank">LinkedIn</a>.
+Możesz mnie złapać na <a href="(https://www.linkedin.com/in/jerzy-cieslinski/)" target="_blank">LinkedIn</a>.
 
