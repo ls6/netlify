@@ -17,5 +17,7 @@ Jerzy Cieśliński - 18 lat doświadczenia w sprzedaży i obsłudze klienta, w t
 W międzyczasie przeprowadziłem kilkadziesiąt prezentacji biznesowych, każdorazowo dla co najmniej 100 osób.
 W 2020 roku uzupełniłem moje kompetencje o wiedzę teoretyczną, a potem praktykę, w zakresie coachingu biznesowego. Ponadto, dla potwierdzenia umiejętności szkoleniowych zdobytych przez minione lata, odbyłem z pozytywnym skutkiem kurs trenerski, zakończony akredytacją.
 Na co dzień pracuję jako Scrum Master, dodatkowo prowadzę wywiady z przedsiębiorcami, udzielam się w radiu oraz prowadzę konferencje i inne wydarzenia w roli konferansjera.
+
+
 Możesz mnie złapać na <a href="[https://www.linkedin.com/in/justyna-redzikowska/](https://www.linkedin.com/in/jerzy-cieslinski/)" target="_blank">LinkedIn</a>.
 
