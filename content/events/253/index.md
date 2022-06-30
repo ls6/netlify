@@ -6,7 +6,7 @@ speakers: "Jerzy Cieśliński"
 lang: "pl"
 sponsors: ["Bielański Integrator Przedsiębiorczych"]
 videoURL: ""
-slidesURL: ""
+slidesURL: "Notatki.pdf"
 draft: false
 ---
 Byłem na szkoleniu z feedbacku i dowiedziałem się, że najważniejsze jest, żeby go udzielać". Tyle ostatnio powiedział mi jeden z członków mojego zespołu na ten temat. Otóż feedbacku warto udzielać. A najlepiej tak, żeby zachęcał do współpracy, zamiast zniechęcać. Podczas warsztatu odświeżymy sobie wiedzę na temat feedbacku, a dodatkowo połączymy ją z "podstawami podstaw" porozumienia bez przemocy (NVC). I przećwiczymy jak to jest kiedy precyzyjnie wypowiadamy nasze prośby.
