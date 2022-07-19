@@ -12,26 +12,38 @@ draft: false
 # Keynote Speaker
 
 ## Paul Klipp
-### Break the Learning Addiction
+### {{% icon-flag-en %}} [Break the Learning Addiction] ({{< relref "#opis-pl" >}}) {#opis-en} 
 
 We must always be learning. So many of us can't consume enough content and we can never know enough about our craft. Agile has become so large that it's easy to feel plagued by perpetual imposter syndrome. I'll be talking about how I've learned to apply structure and focus to my learning as well as sharing many mistakes I've made along the way.
+
+<a href="https://www.youtube.com/watch?v=zkmaA3XQyL0" target="_blank">Talk recording</a>
 
 # Speakers
 
 ## Maciej Malesa
-### Przykład samoorganizującego się zespołu i kilku wyzwań którym sprostał
+### {{% icon-flag-pl %}} [Przykład samoorganizującego się zespołu i kilku wyzwań którym sprostał] ({{< relref "#opis-en" >}}) {#opis-pl}
+
 
 • Które decyzje należą do zespołu a które nie?
+
 • Wyzwanie pierwsze: ustalenie struktury zespołów
+
 • Wyzwanie drugie: ustalenie zakresu prac
+
 • Wyzwanie trzecie: identyfikacja oszustów (praca zdalna na 2 fronty)
+
 • Wyzwanie czwarte: za dużo spotkań
 
+<a href="https://www.youtube.com/watch?v=qn77KHecMyw" target="_blank">Talk recording</a>
+
 ## Bartosz Janowski
-### Za co płacą scrum masterowi?
+### {{% icon-flag-pl %}} [Za co płacą scrum masterowi?] ({{< relref "#opis-en" >}}) {#opis-pl}
 
 Scrum master jest kosztem. A co wnosi do organizacji? Znamy dobrze obowiązki kasjerki, ochroniarza, kelnera czy hydraulika. Wiem za co im płacimy. Podobnie jak za pracę zespołu deweloperskiego czy product ownera.
 Opowiem, jak do tego podchodzę do w mBanku. I czy rozliczam za przytulanie drzew ;-)
+
+
+<a href="https://www.youtube.com/watch?v=c7tCmPXwJno" target="_blank">Talk recording</a>
 
 -------------
 
@@ -41,9 +53,13 @@ Opowiem, jak do tego podchodzę do w mBanku. I czy rozliczam za przytulanie drze
 ### Jak się za to zabrać? Czyli o przełożeniu teorii metryk do pierwszego, konkretnego użycia w zespole
 
 Jest to warsztat dla:
+
 • takiej mnie sprzed kilku lat, czyli każdej osoby, która chce zacząć pracę z metrykami, a do tego zaangażować w to cały zespół,
+
 • każdej osoby, która chce opierać pracę z procesem na danych i mieć porządny wkład do Retrospektywy,
+
 • każdej osoby, która wie o istotności metryk, ale zawsze ciężko było jej zacząć, bo nie wiedziała w szczegółach od czego i jak.
+
 Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach procesowych (nie produktowych). Niemniej wartość z tego warsztatu będzie płynęła dla każdej osoby zainteresowanej pracą z danymi w zespole Scrumowym. Jako FRISowy Badacz z Partnerskim zacięciem - zapraszam na naszą małą przygodę z budowaniem zespołu wykresów :)
 
 ## Tomasz Wykowski
