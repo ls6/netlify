@@ -4,8 +4,8 @@ date: "2022-10-17T18:00:00+01:00"
 title: "[spotkanie stacjonarne] Zwinność dla dorosłych, czyli jak zastosować Metodę Kanban i Teorię Ograniczeń w praktyce"
 speakers: "Adam Myszak"
 lang: "pl"
-sponsors: ["QAgile"; "PKO BP"]
-videoURL: ""
+sponsors: ["QAgile", "PKO BP"]
+videoURL: "https://youtu.be/qWTaD0fXmkc"
 slidesURL: "AgileWarsaw - Kanban+TOC.pdf"
 draft: false
 ---
