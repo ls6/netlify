@@ -6,7 +6,7 @@ speakers: "Adam Myszak"
 lang: "pl"
 sponsors: ["QAgile", "PKO BP"]
 videoURL: "https://youtu.be/qWTaD0fXmkc"
-slidesURL: "AgileWarsaw - Kanban+TOC.pdf"
+slidesURL: ""
 draft: false
 ---
 Podczas prezentacji omówię kluczowe elementy Metody Kanban i Teorii Ograniczeń, które przyczyniły się do podniesienia efektywności pracy jednego z zespołów zajmującego się BigData. Będzie o filarach TOC, procesie POOGI a także o porządnych systemach i tablicach kanban.
