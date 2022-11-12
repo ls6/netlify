@@ -5,8 +5,8 @@ title: "[spotkanie stacjonarne] Zwinność dla dorosłych, czyli jak zastosować
 speakers: "Adam Myszak"
 lang: "pl"
 sponsors: ["QAgile", "PKO BP"]
-videoURL: "https://youtu.be/qWTaD0fXmkc"
-slidesURL: ""
+videoURL: ""
+slidesURL: "AgileWarsaw - TOC v2.pdf"
 draft: false
 ---
 Podczas prezentacji omówię kluczowe elementy Metody Kanban i Teorii Ograniczeń, które przyczyniły się do podniesienia efektywności pracy jednego z zespołów zajmującego się BigData. Będzie o filarach TOC, procesie POOGI a także o porządnych systemach i tablicach kanban.
