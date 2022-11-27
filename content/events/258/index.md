@@ -5,8 +5,8 @@ title: "Houston, mamy problem!"
 speakers: "Marta Orbitowska"
 lang: "pl"
 sponsors: ["DXC", "QAgile"]
-videoURL: ""
-slidesURL: ""
+videoURL: "https://youtu.be/PdZJW4NGu54"
+slidesURL: "Problem Solving2.pdf"
 draft: false
 ---
 
