@@ -30,6 +30,10 @@ Dla każdego z Was, członków zespołów, liderów, kierowników projektów.
 
 Z pasji i przekonania jestem Scrum Masterem z wieloletnim doświadczeniem, wprowadzam podejście zwinne holistycznie w całej organizacji oraz eduScrum w placówkach oświatowych.
 
+
+{{< figure src="20221121_203622.jpg" >}}
+{{< figure src="20221121_203632.jpg" >}}
+
 Jako Agile Coach, wspieram organizacje w adaptacji zmian w szybko zmieniającym się otoczeniu biznesowym oraz w byciu organizacją uczącą się wykorzystując Scrum, LeSS, metodę Kanban. Na co dzień pomagam zespołom korzystać z wartości i praktyk Scruma, wspieram w doskonaleniu praktyk metody Kanban, a interesariuszom rozwijać postawę Agile.
 
 Z wytwarzaniem oprogramowania związana jestem od ponad dwudziestu lat, zaczynając swoją drogę jako inżynier jakości, przez lidera zespołu, a od dziesięciu lat jestem Scrum Masterką, mentorką Agile.
