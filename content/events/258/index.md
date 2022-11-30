@@ -5,8 +5,8 @@ title: "Houston, mamy problem!"
 speakers: "Marta Orbitowska"
 lang: "pl"
 sponsors: ["DXC", "QAgile"]
-videoURL: ""
-slidesURL: ""
+videoURL: "https://youtu.be/PdZJW4NGu54"
+slidesURL: "Problem Solving2.pdf"
 draft: false
 ---
 
@@ -30,6 +30,7 @@ Dla każdego z Was, członków zespołów, liderów, kierowników projektów.
 
 Z pasji i przekonania jestem Scrum Masterem z wieloletnim doświadczeniem, wprowadzam podejście zwinne holistycznie w całej organizacji oraz eduScrum w placówkach oświatowych.
 
+
 Jako Agile Coach, wspieram organizacje w adaptacji zmian w szybko zmieniającym się otoczeniu biznesowym oraz w byciu organizacją uczącą się wykorzystując Scrum, LeSS, metodę Kanban. Na co dzień pomagam zespołom korzystać z wartości i praktyk Scruma, wspieram w doskonaleniu praktyk metody Kanban, a interesariuszom rozwijać postawę Agile.
 
 Z wytwarzaniem oprogramowania związana jestem od ponad dwudziestu lat, zaczynając swoją drogę jako inżynier jakości, przez lidera zespołu, a od dziesięciu lat jestem Scrum Masterką, mentorką Agile.
@@ -37,3 +38,14 @@ Z wytwarzaniem oprogramowania związana jestem od ponad dwudziestu lat, zaczynaj
 Wraz z moją siostrą Pauliną Orbitowską-Fernandez, jestem prekursorką podejścia zwinnego w polskiej edukacji, sprowadzając metodę eduScrum®, która służy nauczycielom, wykładowcom, uczniom i studentom w odkrywaniu własnego procesu uczenia się opartego na rozwoju kluczowych kompetencji XXI w.
 
 Martę znajdziesz na [LindkedIn](https://www.linkedin.com/in/marta-orbitowska/) oraz [www](https://agilekata.pl/)
+
+
+
+{{< figure src="20221121_203622.jpg" >}}
+{{< figure src="20221121_203632.jpg" >}}
+{{< figure src="20221121_203648.jpg" >}}
+{{< figure src="20221121_203658.jpg" >}}
+{{< figure src="20221121_203711.jpg" >}}
+
+
+
