@@ -21,7 +21,7 @@ Będziemy chcieli umówić się z Tobą na długi "okres przetarcia". Spotkania 
 więc musimy się poprzecierać klilka ładnych miesięcy, żebyś miał(a) sensowne poczucie co tu się dzieje.
 
 
-Czego się spodziewamy po "pełnym" orgsie:
+Czego się spodziewamy po "pełnym" orgsie (wspomnieć o "przyjaciołach AW"):
   * regularne zdzwonki / synchra
   * responsywności na Slacku wewn.
   * wsparcie i organizacja spotkań
