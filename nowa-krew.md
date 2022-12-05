@@ -19,3 +19,10 @@ Po naszej stronie urodziły się takie pytania:
 
 Będziemy chcieli umówić się z Tobą na długi "okres przetarcia". Spotkania są maksymalnie 2 razy w miesiącu,
 więc musimy się poprzecierać klilka ładnych miesięcy, żebyś miał(a) sensowne poczucie co tu się dzieje.
+
+
+Czego się spodziewamy po "pełnym" orgsie:
+  * regularne zdzwonki / synchra
+  * responsywności na Slacku wewn.
+  * wsparcie i organizacja spotkań
+  * hostowanie raz na jakiś czas
