@@ -19,7 +19,7 @@ realistycznie, poszukujemy trzeciej osoby, nie siódmej.
   * Może masz już pomysły co AW mogłoby robić inaczej, więcej, lepiej? A może masz pomysł co Ty chciał(a)byś robić w AW?
 
 Będziemy chcieli umówić się z Tobą na długi "okres przetarcia". Spotkania są maksymalnie 2 razy w miesiącu,
-więc musimy się poprzecierać klilka ładnych miesięcy, żebyś miał(a) sensowne poczucie co tu się dzieje.
+więc musimy się poprzecierać kilka ładnych miesięcy, żebyś miał(a) sensowne poczucie co tu się dzieje.
 
 ### Co będzie potrzeba:
 
@@ -29,6 +29,8 @@ Będzie oficjalna grupa "przyjaciół AW", gdzie zaangażowanie będzie na zasad
 
   * Responsywności na naszym wewnętrznym Slacku. Najtrudniejsza do ogarnięcia jest cisza na łączach. Szybka odpowiedź "nie dam rady się tym zająć" albo "nie liczcie na mnie do końca tygodnia" to jest dobra responsywność :)
   
-  * Wsparcie i organizacja spotkań. Standardowe spotkania mamy pod kontrolą (wypieszczone karteczki i checklisty na Trello), więc wzięcie części na siebie to jest prosty temat. Marzy nam się, że "nowa krew" będzie miała też nowe pomysły i "drive" do ich robienia, eksperymentowania itp.
+  * Wsparcie i organizacja spotkań. Standardowe spotkania mamy pod kontrolą (wypieszczone karteczki i checklisty na Trello), więc wzięcie części na siebie to jest prosty temat. 
+
+  * Marzy nam się, że "nowa krew" będzie miała też nowe pomysły i "drive" do ich robienia, eksperymentowania itp.
   
-  * Hostowanie raz na jakiś czas. Z doświadczenia wiemy, że jak się nie wpada na własne wydarzenia to znika duża część motywacji. Plus, dobrze jak jest kilka osób, które mogą ogarnąć spokanie już na miejscu.
+  * Hostowanie spotkań "w realu" raz na jakiś czas. Z doświadczenia wiemy, że jak się nie wpada na własne wydarzenia to znika duża część motywacji. Plus, dobrze jak jest kilka osób, które mogą ogarnąć spokanie już na miejscu.
