@@ -1,5 +1,5 @@
 ---
-number: "258"
+number: "259"
 date: "2022-11-28T18:00:00+01:00"
 title: "[warsztat stacjonarny] Liberating Structures"
 speakers: "Paulina Karnabal, Mikołaj Gajewski, Jakub Karolak, Michał Tarnowski"
