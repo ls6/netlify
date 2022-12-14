@@ -5,7 +5,7 @@ title: "[spotkanie stacjonarne] Techniczne aspekty w pracy Scrum Mastera"
 speakers: "Paweł Lasek"
 lang: "pl"
 sponsors: ["Valkir Academy", "DXC Technology"]
-videoURL:
+videoURL: ""
 slidesURL:"Techniczne aspekty pracy w Pracy  Scrum Mastera.pdf"
 draft: false
 ---
