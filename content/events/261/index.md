@@ -6,7 +6,7 @@ speakers: "Paweł Lasek"
 lang: "pl"
 sponsors: ["Valkir Academy", "DXC Technology"]
 videoURL: ""
-slidesURL:"Techniczne aspekty pracy w Pracy  Scrum Mastera.pdf"
+slidesURL:"TechniczneaspektypracySM.pdf"
 draft: false
 ---
 
