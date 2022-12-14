@@ -6,7 +6,7 @@ speakers: "Paweł Lasek"
 lang: "pl"
 sponsors: ["Valkir Academy", "DXC Technology"]
 videoURL:
-slidesURL:
+slidesURL: "TechniczneAspektyPracySM.pdf"
 draft: false
 ---
 
