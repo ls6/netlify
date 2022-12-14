@@ -1,7 +1,7 @@
 ---
 number: "261"
 date: "2022-12-12T19:00:00+01:00"
-title: "[spotkanie stacjonarne] Techniczne aspekty w pracy Scrum Mastera"
+title: "[spotkanie stacjonarne] TechniczneaspektywpracyScrum Mastera"
 speakers: "Paweł Lasek"
 lang: "pl"
 sponsors: ["Valkir Academy", "DXC Technology"]
