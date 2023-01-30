@@ -261,6 +261,41 @@ li.team-member img {
     width: 120px;
 }
 
+ul.friends {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+ul.friends h4 {
+    color: #EE5141;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+}
+
+ul.friends a {
+    display: block;
+}
+
+li.friend {
+    padding-top: 0px;
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    margin-bottom: 1ex;
+    margin-right: 1ex;
+    background: #00000024;
+    width: 125px;
+}
+
+li.friend img {
+    width: 120px;
+}
+
 ul.prev-team {
     display: flex;
     flex-wrap: wrap;
