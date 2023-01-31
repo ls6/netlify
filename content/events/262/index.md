@@ -6,7 +6,7 @@ speakers: "Kate Prokopiuk"
 lang: "pl"
 sponsors: ["DXC Technology"]
 videoURL:
-slidesURL: 
+slidesURL: "Same shit - different story.pdf"
 draft: false
 ---
 
