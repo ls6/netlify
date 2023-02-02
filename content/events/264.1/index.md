@@ -18,7 +18,7 @@ This presentation is mainly targeted towards individuals who are looking to swit
 ### Dawid Chudek:
 
 I'm the Scrum Master, podcaster, and author of the blog about personal development. My mission is to redefine personal development, support people in their growth, and convince as many people as possible that change is possible, no matter what is your current situation. I also popularize the usage of Scrum in everyday life situations and also I help people to become Scrum Masters from scratch.
-Linkedin Blog Podcast
+
 [LinkedIn](https://www.linkedin.com/in/dawid-chudek/)
 [Blog](https://dawidchudek.com/)
 [Podcast](https://open.spotify.com/show/6VkGy9Z8L2czUbgrHCsu46)
