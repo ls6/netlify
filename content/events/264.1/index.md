@@ -6,7 +6,7 @@ speakers: "Dawid Chudek"
 lang: "en"
 sponsors: ["DXC Technology"]
 videoURL:
-slidesURL: 
+slidesURL: "Od zera do scrum mastera - agile warsaw (3).pdf"
 draft: false
 ---
 

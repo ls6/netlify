@@ -6,7 +6,7 @@ speakers: "Łukasz Adamski"
 lang: "en"
 sponsors: ["DXC Technology"]
 videoURL:
-slidesURL: 
+slidesURL: "Escaping the Jungle Law - Łukasz Adamski.pdf"
 draft: false
 ---
 
