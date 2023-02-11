@@ -1,6 +1,6 @@
 publishDir: docs
 baseurl: "https://abelight.agilewarsaw.com"
-title: "ABE Light 2022"
+title: "ABE Light 2023"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -8,13 +8,13 @@ theme: "hugo-conference"
 
 params:
   # Conference info
-  Name: "ABE Light 2022"
-  Description: "AgileByExample Light 2022"
-  Date: "4 June (Saturday)"
-  startDate: "2022-06-04T13:45"
+  Name: "ABE Light 2023"
+  Description: "AgileByExample Light 2023"
+  Date: "18 March (Saturday)"
+  startDate: "2023-03-18T13:45"
   #Price: "Only $100" # If your event is free, just comment this line
-  Venue: " Akademia Finansów i Biznesu Vistula"
-  Address: "Stokłosy 3"
+  Venue: "BEC Poland"
+  Address: "Emilii Plater 53"
   City:  "Warsaw"
   #State: "Quintana"
   Images: ["/img/ABElight-ikonka.png"]
@@ -24,11 +24,11 @@ params:
   Sections:
     - about
     - location
-    - speakers
-    - schedule
-    - partners
+    #- speakers
+    #- schedule
+    #- partners
     - sponsors
-    - media
+    #- media
     - orgs
     - previous
       #- contact
@@ -65,12 +65,14 @@ params:
       url: "https://agilewarsaw.com/events/198/"
     - name: "2021"
       url: "https://agilewarsaw.com/events/228/"
+    - name: "2022"
+      url: "https://agilewarsaw.com/events/252/"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-     text: "Free Registration"
-     link: "register"
+     #text: "Free Registration"
+     #link: "register"
       #text: "Zarejestruj się gratis"
       #link: "register"
 
@@ -83,14 +85,18 @@ params:
       #- name: "KMD"
       #logo: "img/logo_kmd.png"
       #url: "https://career.kmd.net/join-kmd-poland"
+    
+    - name: "BEC Poland"
+      logo: "img/logo_bec.png"
+      url: "https://www.bec.dk/"
 
     - name: "ProCognita"
       logo: "img/logo_procognita.png"
       url: "https://procognita.pl/"
 
-    - name: "mBank"
-      logo: "img/logo-mbank-color.png"
-      url: "https://mbank.pl/"
+    # - name: "mBank"
+    #   logo: "img/logo-mbank-color.png"
+    #   url: "https://mbank.pl/"
 
       #
       #  - name: "Vistula"
@@ -117,13 +123,13 @@ params:
 
   # List of Media Partners
   Media:
-      - name: "Agile Polska"
-        logo: "img/logo_APL.png" 
-        url: "http://agilepolska.pl/"
+      # - name: "Agile Polska"
+      #   logo: "img/logo_APL.png" 
+      #   url: "http://agilepolska.pl/"
 
-      - name: "Agile 247"
-        logo: "img/logo_a247.jpg" 
-        url: "http://www.agile247.pl/"
+      # - name: "Agile 247"
+      #   logo: "img/logo_a247.jpg" 
+      #   url: "http://www.agile247.pl/"
 
       #- name: "Agile 4U"
       #logo: "img/logo_agile4u.png" 
@@ -133,21 +139,21 @@ params:
       #logo: "img/logo_big-agile-theory.png" 
       #url: "https://www.meetup.com/Big-Agile-Theory/"
       
-      - name: "LubLean"
-        logo: "img/logo_LubLean.png" 
-        url: "https://www.meetup.com/LubLean-and-Agile/"
+      # - name: "LubLean"
+      #   logo: "img/logo_LubLean.png" 
+      #   url: "https://www.meetup.com/LubLean-and-Agile/"
       
-      - name: "Agile Poznań"
-        logo: "img/logo_ap_margines.png" 
-        url: "https://agilepoznan.org/"
+      # - name: "Agile Poznań"
+      #   logo: "img/logo_ap_margines.png" 
+      #   url: "https://agilepoznan.org/"
 
-      - name: "Fundacja Zwinność"
-        logo: "img/logo_fundacja-zwinnosc.png" 
-        url: "https://zwinnosc.org/"
+      # - name: "Fundacja Zwinność"
+      #   logo: "img/logo_fundacja-zwinnosc.png" 
+      #   url: "https://zwinnosc.org/"
 
-      - name: "ALE Kraków"
-        logo: "img/logo-ale-krakow.png" 
-        url: "https://www.alekrakow.com/"
+      # - name: "ALE Kraków"
+      #   logo: "img/logo-ale-krakow.png" 
+      #   url: "https://www.alekrakow.com/"
 
       #- name: "Kanban przy kawie"
       #logo: "img/logo_kanban_przy_kawie.png" 
@@ -155,22 +161,22 @@ params:
 
 
   Orgs:
-    - name: "Piotr Radaj"
-      img: "img/org_radaj.png"
+    - name: "Ewa Koprowska"
+      img: "img/org_koprowska.png"
     - name: "Ania Przybyszewska"
       img: "img/org_przybyszewska.png"
-    - name: "Łukasz Przezorski"
-      img: "img/org_przezorski.png"
-    - name: "Kinga Grabowska"
-      img: "img/org_kinga.png"
-    - name: "Mateusz Srebrny"
-      img: "img/org_srebrny.png"
+    - name: "Piotr Radaj"
+      img: "img/org_radaj.png"
+    # - name: "Łukasz Przezorski"
+    #   img: "img/org_przezorski.png"
+    # - name: "Kinga Grabowska"
+    #   img: "img/org_kinga.png"
+    # - name: "Mateusz Srebrny"
+    #   img: "img/org_srebrny.png"
     # - name: "Magdalena Walczak"
     #img: "img/org_walczak.png"
     - name: "Łukasz Szóstek"
       img: "img/org_szostek.png"
-    - name: "Ewa Koprowska"
-      img: "img/org_koprowska.png"
       #- name: "Piotr Szczygieł"
       #img: "img/org_szczygiel.png"
 
