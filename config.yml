@@ -256,7 +256,7 @@ params:
 
     - authors:
         - name: "Jakub Bażela"
-          #photo: "img/"
+          photo: "img/bazela.jpg"
           bio: "Jakub Bażela is a Scrum Master, trainer, co-author of the book “How to tame Agile. A guide practically agile” (2018), a former consultant with scaling experience in banking industry, a happy husband, and a paw-rent of Burger the German Shepherd."
           #link:
               #href: ""
