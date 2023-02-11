@@ -24,11 +24,11 @@ params:
   Sections:
     - about
     - location
-    #- speakers
-    #- schedule
-    #- partners
+    - speakers
+    - schedule
+    - partners
     - sponsors
-    #- media
+    - media
     - orgs
     - previous
       #- contact
@@ -187,126 +187,54 @@ params:
       remark: "Please, be on time!<br>This is where you will be signing-up for workshops."
 
     - authors:
-        - name: "Paul Klipp"
-          photo: "img/klipp.jpg"
-          bio: "Paul is a coach who works with leaders and organizations to instil lean and agile thinking and practices that improve product development and delivery. He is the founder of Lunar Logic and the ACE! Conference. He is also co-host of the Agile Book Club podcast."
-          link:
-            href: "https://paulklipp.com/"
-            text: www
-      presentation:
-        title: "Break the Learning Addiction"
-        description: "We must always be learning. So many of us can't consume enough content and we can never know enough about our craft. Agile has become so large that it's easy to feel plagued by perpetual imposter syndrome. I'll be talking about how I've learned to apply structure and focus to my learning as well as sharing many mistakes I've made along the way. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
-
-    - authors:
-        - name: "Bartosz Janowski"
-          photo: "img/janowski.jpg"
-          bio: "Od wielu lat związany ze zwinnością. Pracował w każdej roli zapisanej w Przewodniku po Scrumie, najdłużej jako scrum master, również jako członek zespołu deweloperskiego (programista, QA), czasem jak PO. Trenował to w IT. Pracował dla branży energetycznej i liderów telekomunikacji. Posiada szerokie, inżynierskie doświadczenie w obszarze systemów uniksowych, czasu rzeczywistego.<br> Aktualnie w branży finansowej, związany z mBankiem, gdzie początkowo jako agile coach, wspierał transformacje organizacji. Teraz jest szefem Agile Centre, które stworzył. W obszarze jego obowiązków jest praca nad rozwojem ludzi, wpływ na kulturę firmy, wprowadzanie, utrzymywanie oraz ciągłe usprawnianie nowych sposobów pracy."
-          link:
-            href: "https://www.linkedin.com/in/bartosz-janowski/"
-            text: LinkedIn
-      presentation:
-        title: "Coś wokół: \"Za co płacą scrum masterowi?\""
-        description: "Scrum master jest kosztem. A co wnosi do organizacji? Znamy dobrze obowiązki kasjerki, ochroniarza, kelnera czy hydraulika. Wiem za co im płacimy. Podobnie jak za pracę zespołu deweloperskiego czy product ownera.<br> Opowiem, jak do tego podchodzę do w mBanku. I czy rozliczam za przytulanie drzew ;-) <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
-
-    - authors:
-        - name: "Maciej Malesa"
-          photo: "img/malesa.jpg"
-          bio: "Nazywam się Maciek Malesa, pracuję na stanowisku dyrektora marketingu w firmie Schneider Electric. Zajmuję się tworzeniem pozytywnych wrażeń klienta przy szukaniu oferty w przeglądarkach internetowych (SEO) oraz na publicznych stronach internetowych i aplikacjach firmy w 120 krajach. Doświadczenie w budowaniu efektywnych organizacji zdobywałem pracując jako konsultant w Accenture oraz Deloitte Digital. Ukończyłem Szkołę Główną Handlową (Polska), University of Hertofordshire (UK) oraz Stanford University Graduate School of Business (USA)."
+        - name: "Angel Diaz-Maroto"
+          #photo: "img/"
+          #bio: ""
           #link:
-            #href: "https://www.linkedin.com/in/paulklipp/"
+            #href: ""
+            #text: www
+      presentation:
+        title: ""
+        description: "<img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
+
+    - authors:
+        - name: "Jaga Biernacka"
+          #photo: "img/"
+          #bio: ""
+          #link:
+            #href: ""
             #text: LinkedIn
       presentation:
-        title: "Przykład samoorganizującego się zespołu i kilku wyzwań którym sprostał"
-        description: "<ul>
-  <li>• Które decyzje należą do zespołu a które nie?</li>
-  <li>• Wyzwanie pierwsze: ustalenie struktury zespołów</li>
-  <li>• Wyzwanie drugie: ustalenie zakresu prac</li>
-  <li>• Wyzwanie trzecie: identyfikacja oszustów (praca zdalna na 2 fronty)</li>
-  <li>• Wyzwanie czwarte: za dużo spotkań</li>
-</ul> <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+        title: ""
+        description: "<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
+    - authors:
+        - name: "Adrian Janik"
+          #photo: "img/"
+          #bio: ""
+          #link:
+            #href: ""
+            #text: LinkedIn
+      presentation:
+        title: ""
+        description: "<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
     - name: "Parallel Workshops"
       #time: "14h15"
       remark: "The workshops will be held in parallel.<br>
       Workshop languages are mentioned in descriptions.<br><br>
-      
-      <strong>Justyna Rędzikowska<br>
-      Jak się za to zabrać? Czyli o przełożeniu teorii metryk do pierwszego, konkretnego użycia w zespole</strong>
-      <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
-      Jest to warsztat dla:<br>
+
+      <strong>Jakub Bażela<br>
+      Kanban Light</strong>
+      <img class=\"icon-lang\" src=\"img/lang-gb.svg\"> <br>
+      You will learn:<br>
       <ul style=\"padding-left: 0.5em;\">
-<li>• takiej mnie sprzed kilku lat, czyli każdej osoby, która chce zacząć pracę z metrykami, a do tego zaangażować w to cały zespół,</li>
-<li>• każdej osoby, która chce opierać pracę z procesem na danych i mieć porządny wkład do Retrospektywy,</li>
-<li>• każdej osoby, która wie o istotności metryk, ale zawsze ciężko było jej zacząć, bo nie wiedziała w szczegółach od czego i jak.</li>
+<li>• How to map the flow of work?</li>
+<li>• What makes a good Kanban board?</li>
+<li>• What are rules of Kanban, if any?</li>
+<li>• How are Kanban teams improving their services and ways of work?</li>
 </ul>
-Z faktu, że pełnię rolę Scrum Masterki, to skupię się na metrykach procesowych (nie produktowych). Niemniej wartość z tego warsztatu będzie płynęła dla każdej osoby zainteresowanej pracą z danymi w zespole Scrumowym. Jako FRISowy Badacz z Partnerskim zacięciem - zapraszam na naszą małą przygodę z budowaniem zespołu wykresów :)
-
       <br><br>
-
-      <strong>Tomasz Wykowski<br>
-      Agile Leadership - Personal Leadership </strong><img class=\"icon-lang\" src=\"img/lang-gb.svg\"> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
-      To become more agile, the company usually requires a significant change in its engineering practices, business model, organizational structure, and leadership approach. The last one seems to be the largest bottleneck for most companies, therefore during this session, we’ll focus on one aspect of Agile Leadership - Personal Leadership. We will dive into two models of leaders’ development, identifying different shades of leadership and learning the responsibility process.<br>
-      After the session, you’ll be able to define your role in different groups and communities, both inside and outside your company. You’ll also better understand how to avoid different stages of denial and take responsibility.
-
-      <br><br>
-
-      <strong>Karolina Karbarz, Justyna Wykowska <br>
-      Poznaj wrażenia klienta - warsztat User Journey Mapping</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-      Są produkty, które kochamy i takie, z których korzystanie jest dla nas torturą. To jak klient ocenia produkt zależy od tego jakie są jego doświadczenia podczas całego cyklu użytkowania od momentu, gdy dowiaduje się o jego istnieniu do momentu, gdy przestaje z niego korzystać. W czasie warsztatu nauczymy się patrzeć na pełny proces kontaktu z użytkownika z produktem, odkryjemy na przykładzie popularnych aplikacji co to jest ścieżka klienta, jak ją stworzyć, analizować i poprawiać tak, aby wszystkie punkty styku między użytkownikiem a produktem dawały poczucie spójnej i satysfakcjonującej całości. Zapraszamy osoby zainteresowane obszarami rozwoju produktów, analizy biznesowej, UX i UI.
-
-      <br><br>
-
-      <strong>Krzysztof Niewiński<br>
-      Topologie zespołów w organizacji produktowej</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-      Prowadzenie organizacji produktowej wymaga dziś nie tylko nowoczesnego przywództwa,
-myślenia produktowego, czy znajomości technologii, ale i wiedzy z zakresu <i>projektowania
-organizacji</i>.<br>
-Na rynku pojawiły się książki z teoriami organizacji zespołów, ale każda z nich mówi coś
-innego. Co więcej, wdrożenia tych teorii w firmach wyglądają bardzo różnie. Jak zatem lepiej
-zorganizować zespoły - per technologię, per platformę, czy per obszar biznesowy? Jaka
-struktura organizacji da nam największą prędkość, największą jakość, a jaka największą
-zdolność do adaptacji? Czy tak samo organizujemy małe, średnie i duże firmy?
-<br><br>
-Na moim warsztacie spróbujemy odpowiedzieć na te i inne pytanina. Doświadczymy
-empirycznie dynamiki najbardziej popularnych topologii zespołów tj. zespołów
-komponentowych, platformowych, wąsko i szeroko produktowych. Całość podsumujemy
-nawiązaniem do znanych frameworków, zweryfikujemy pod co są zoptymalizowane i co
-najlepiej sprawdzi się u nas w firmie.
-
-      <br><br>
-
-    <strong>Mariusz Petlic, Bartosz Janowski <br>
-    Podejście systemowe w usprawnianiu organizacji – praktyczne podejście, z perspektywy SM/AC.</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-
-Podzielimy się nasza historią, jak wspólnie pracujemy nad poprawą efektywności. Jak nam nie wyszło, bo co coś co było proste, okazało się złożone. Czego się z tego nauczyliśmy. Jak zaplanowaliśmy zmianę w zupełnie innym kierunku.<br>
-Przećwiczymy z Wami, jakie narzędzia nam w tym teraz pomagają.<br>
-Wynikiem będzie konkretny cel wspierający efektywność zwinnej organizacji w formie OKR-a, który zaproponujemy w Agile Centre w mBanku.<br>
-Co wyciągnie uczestnik dla siebie:<br>
-<ul style=\"padding-left: 0.5em;\">
-<li>• MyślenieSystemowe </li>
-<li>• CausalLoopDiagram </li>
-<li>• OKR </li>
-<li>• ZwinnośćWDużejOrganizacji<br></li>
-</ul>
-Dla kogo: Scrum masterzy, agile coache i inne role wspierające zmiany organizacyjne.
-
-      <br><br>
-
-    <strong>Kasia Mydło <br>
-    Czy ja dobrze słyszę? Kiedy i jak zadawać pytania</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-
-    Co robisz, kiedy słyszysz wypowiedź “ktoś powinien się zająć komunikacją”?<br>
-Czasem przytakniesz.<br>
-Czasem się zdziwisz.<br>
-Czasem się zastanowisz, o kim jest mowa?<br>
-Skąd wynika ta “powinność”?<br>
-Co jest do zrobienia?<br>
-Kto tu się komunikuje?<br>
-Jakich rezultatów rozmówca się spodziewa?<br>
-…<br>
-Dużo tego, prawda?<br>
-Przejdziemy przez prosty model, który choć intuicyjny, to pozwala uporządkować i nazwać elementy wypowiedzi o które warto dopytać.<br>
 
     "
 
@@ -327,78 +255,39 @@ Przejdziemy przez prosty model, który choć intuicyjny, to pozwala uporządkowa
      ###########################
 
     - authors:
-        - name: "Justyna Rędzikowska"
-          photo: "img/redzikowska.png"
-          bio: "Buduję zespoły, pracuję z wartościami, ludźmi, danymi i procesami. Uwielbiam się uczyć oraz dzielić wiedzą. Od 2003 rozwijam się jako liderka, a od 2006 jako trenerka, facylitatorka i mentorka. Lubię zadawać pytania, ogromnie ciekawi mnie świat, człowiek i procesy jakie zachodzą pomiędzy. W 2018 odkryłam Scrum i Agile, a od 2019 jestem pełnoetatową Scrum Masterką i uwielbiam swoją pracę. Aktualnie działam jako Scrum Masterka w BinarApps, w mojej ukochanej Łodzi."
-          link:
-              href: "https://www.linkedin.com/in/justyna-redzikowska/"
-              text: "LinkedIn"
-          # presentation: "title"
-          # description: "desc"
+        - name: "Jakub Bażela"
+          #photo: "img/"
+          bio: "Jakub Bażela is a Scrum Master, trainer, co-author of the book “How to tame Agile. A guide practically agile” (2018), a former consultant with scaling experience in banking industry, a happy husband, and a paw-rent of Burger the German Shepherd."
+          #link:
+              #href: ""
+              #text: ""
       workshop: true
     
     - authors:
-        - name: "Tomasz Wykowski"
-          photo: "img/TWykowski_2022.png"
-          bio: "Tomasz Wykowski is an Agile Coach, Certified Scrum Trainer accredited by Scrum Alliance, and LeSS-Friendly Scrum Trainer accredited by LeSS Company. Working with leaders from companies from startups to international organizations, he helps them understand the dynamic of their system, find inefficiencies and discover a better way to deliver amazing products and services. He loves experimenting, applying agile concepts in marketing, sales, customer support, and hardware development.<br> In 2010, Tomasz founded ProCognita, a Polish-based company, to help people build extraordinary organizations through Agile Coaching and training. He shares his thoughts and experiences through conferences, meetups, company blog and podcast."
-          link:
-              href: "https://www.linkedin.com/in/wykowski/"
-              text: "LinkedIn"
-          # presentation: "title"
-          # description: "desc"
-      workshop: true
-
-    - authors:
-        - name: "Karolina Karbarz"
-          photo: "img/Karolina_Karbarz_2022.jpeg"
-          bio: "Projektuję od 2014 roku, w tym czasie z powodzeniem pracowałam nad produktami zarówno w dużej korporacji, jak i we współpracy z obiecującymi start-upami. Na co dzień zajmuję się badaniem potrzeb użytkowników, projektowaniem oraz walidacją tworzonych rozwiązań.<br> Współtworzę jedną z najbardziej rozpoznawalnych na świecie konferencji o tworzeniu treści — soap!, która od ponad 8 lat przyciąga do Krakowa specjalistów z 35 krajów."
-          link:
-              #href: ""
-              #text: ""
-          # presentation: "title"
-          # description: "desc"
-        - name: "Justyna Wykowska"
-          photo: "img/JWykowska_2022.png"
-          bio: "Od 2005 roku nieustannie uczestniczę w rozwoju produktów. Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. Współpracowałam z takimi firmami jak Codewise, inPost, BSH, HRS i Kontakt Simon."
-          link:
-              #href: ""
-              #text: ""
-          # presentation: "title"
-          # description: "desc"
-      workshop: true
-
-    - authors:
-        - name: "Krzysztof Niewiński"
-          photo: "img/Krzysztof_Niewinski_2022.png"
-          bio: "Pracuję w branży IT od 2005 roku. Jestem inżynierem i Agile Coachem promującym podejście LeSS (Large-scale Scrum). Od 8 lat zawodowo wspieram tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Doświadczenie zdobywałem m.in. w Grupie Allegro (PayU), w mniejszych firmach, w tym Uncapped, VRenetic, Finevare, HRS, a także w dużych korporacjach, takich jak ERGO, Orange, UPC czy CircleK."
-          link:
-              #href: ""
-              #text: ""
-          # presentation: "title"
-          # description: "desc"
-      workshop: true
-
-    - authors:
-        - name: "Mariusz Petlic"
-          photo: "img/petlic.jpg"
-          bio: "Zwinnym myśleniem zaraziłem się ponad dekadę temu. Od kilku lat jestem Agile Coachem, a wcześniej byłem wiele lat Scrum Masterem. Uważam, że każdy produkt można szybko zaprojektować, zbudować i zweryfikować. Wystarczy odpowiednie nastawienie i umiejętności.<br> Nastawiony na świadomość, samoorganizację, zaufanie i komunikację wspieram zespoły w dążeniu do dojrzałości i radości pracy w środowisku Agile. Współpracowałem z firmami ComputerLand, Systemy Kodów Kreskowych, Hurra.com, eSky.pl, ProCognita, Alior Bank, a obecnie mBank.<br> Podejście Agile jest moją pasją. Założyłem portal informacyjny Agile Polska oraz uczestniczę w działaniach non-profit jako współorganizator ALE Kraków, ALE w terenie i Agile Coach Camp PL."
-          link:
-              href: "https://mariuszpetlic.pl/"
-              text: "www"
-          # presentation: "title"
-          # description: "desc"
-      workshop: true
-
-
-    - authors:
-        - name: "Kasia Mydło"
-          photo: "img/k-mydlo.jpg"
-          bio: "Lubię się uczyć i poznawać perspektywę innych ludzi na otaczającą nas rzeczywistość. Lubię też dzielić się zdobytą wiedzą - stąd też zaproszenie na ten warsztat.<br> Od ponad dwóch lat pracuję jako Scrum Master wspierając organizacje, które zdecydowały się pracować zwinnie, w drodze ku lepszym produktom. W pracy szczególnie cieszy mnie rozgryzanie jak działają zespoły i znajdowanie sposobów na to, żeby zostawić po sobie organizację lepszą niż ta, do której dołączyłam.<br> Prywatnie zaś lubię jeść dobre jedzenie, porządnie się wyspać i głaskać kotki (w domu mam 3, więc jest kogo głaskać :D)."
+        - name: "Bogumiła Kwiatkowska"
+          photo: "img/"
+          bio: ""
           #link:
-            #href: "https://mariuszpetlic.pl/"
-            #text: "www"
-          # presentation: "title"
-          # description: "desc"
+              #href: ""
+              #text: ""
+      workshop: true
+    
+    - authors:
+        - name: "Łukasz Niemiec"
+          photo: "img/"
+          bio: ""
+          #link:
+              #href: ""
+              #text: ""
+      workshop: true
+    
+    - authors:
+        - name: "Noela Zdunek"
+          photo: "img/"
+          bio: ""
+          #link:
+              #href: ""
+              #text: ""
       workshop: true
 
 
