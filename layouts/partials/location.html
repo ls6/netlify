@@ -8,6 +8,9 @@
   <span itemprop="streetAddress">{{ .address }}, </span>
   <span itemprop="addressLocality">{{ .city }}</span>
   <span itemprop="addressRegion"> {{ .state }}</span>
+  {{with .addressremarks }}
+  <br> <span>{{ . }}</span>
+  {{end}}
 </p>
 </span>
 

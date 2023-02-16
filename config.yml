@@ -16,6 +16,7 @@ params:
   Venue: "BEC Poland"
   Address: "Emilii Plater 53"
   City:  "Warsaw"
+  AddressRemarks: "(floor 23, take the 'A' lifts)"
   #State: "Quintana"
   Images: ["/img/ABElight-ikonka.png"]
 
