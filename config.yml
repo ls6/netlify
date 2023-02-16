@@ -73,8 +73,8 @@ params:
   CallToAction:
      #text: "Free Registration"
      #link: "register"
-      #text: "Zarejestruj się gratis"
-      #link: "register"
+     text: "Registration via Meetup"
+     link: "https://www.meetup.com/agilewarsaw/events/291555202/"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
   #ForkButton:
