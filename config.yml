@@ -132,17 +132,17 @@ params:
         logo: "img/logo_a247.jpg" 
         url: "http://www.agile247.pl/"
 
-      #- name: "Agile 4U"
-      #logo: "img/logo_agile4u.png" 
-      #url: "https://www.meetup.com/agile4u/"
+      - name: "Agile 4U"
+        logo: "img/logo_agile4u.png" 
+        url: "https://www.meetup.com/agile4u/"
 
       #- name: "Big Agile Theory"
       #logo: "img/logo_big-agile-theory.png" 
       #url: "https://www.meetup.com/Big-Agile-Theory/"
       
-      # - name: "LubLean"
-      #   logo: "img/logo_LubLean.png" 
-      #   url: "https://www.meetup.com/LubLean-and-Agile/"
+      - name: "LubLean"
+        logo: "img/logo_LubLean.png" 
+        url: "https://www.meetup.com/LubLean-and-Agile/"
       
       # - name: "Agile Poznań"
       #   logo: "img/logo_ap_margines.png" 
