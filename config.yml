@@ -241,6 +241,25 @@ params:
 </ul>
       <br><br>
 
+      <strong>Bogumiła Kwiatkowska-Koterba<br>
+Współpraca popłaca - o efektywnej współpracy Scrum Mastera i Product Ownera</strong>
+<img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+W ramach warsztatu skupimy się na obszarze działania SM z PO.  
+Porozmawiamy o dobrych praktykach we współpracy SM i PO oraz odpowiemy sobie na poniższe pytania: <br>
+      <ul style=\"padding-left: 0.5em;\">
+<li>• Jakie mogą być wzajemne oczekiwania między SM i PO?</li>
+<li>• W czym SM realnie może pomóc PO i w jakim zakresie?</li>
+<li>• W czym zazwyczaj PO widzi największą korzyść ze współpracy z SM?</li>
+<li>• Jakie narzędzia w kontekście efektywności pracy może zaproponować SM - Product Ownerowi?</li>
+<li>• Jak pracować z POs w zależności od ich poziomu zaawansowania w roli? </li>
+<li>• Czego jako PO mogę oczekiwać od SM?</li>
+<li>• Czego jako SM potrzebuje, aby osiągnąć satysfakcjonującą współpracę?</li>
+</ul>
+Rezultatem warsztatu będzie lista działań, praktyk i narzędzi, które Scrum Master i Product Owner mogą wykorzystać w codziennej pracy. <br>
+Warsztat będzie idealny dla PO, którzy zastanawiają się w czym SM może ich na co dzień lepiej wspierać, dla SM, którzy zastanawiają się jak realnie wspierać POA oraz dla Managerów, którzy chcą pomagać zarówno SM jak i PO w efektywnej kooperacji.
+
+<br><br>
+
     "
 
 
@@ -269,9 +288,15 @@ params:
       workshop: true
     
     - authors:
-        - name: "Bogumiła Kwiatkowska"
+        - name: "Bogumiła Kwiatkowska-Koterba"
           photo: "img/kwiatkowska.jpg"
-          bio: ""
+          bio: "Product Ownerka w Żabka Future (sercem cały czas Scrum Masterka :)<br>
+Od 2 lat w roli Product Ownera, a od ponad roku zajmuje się kluczowym procesem w firmie tj. zamawianie towaru do sklepu. 
+Na co dzień współpracuje z Franczyzobiorcami, biznesem i zespołem deweloperskim, konfrontując zbierane wymagania od różnych interesariuszy z danymi. 
+Swoje wcześniejsze ponad 5 letnie doświadczenie jako Scrum Master/ Agile Coach nadal wykorzystuje kiedy tylko mam do tego sposobność.  
+W dalszym ciągnie mnie do polepszania procesów, a poza tym uwielbia dzielić się wiedzą i polepszać efektywność w zespołach oraz organizacji. 
+Swój umysł odrywa od codzienności w tańcu towarzyskim ze swoim mężem.
+A w wolnych chwilach uchwyca ludzkie emocje na fotografiach. "
           #link:
               #href: ""
               #text: ""
