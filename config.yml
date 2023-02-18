@@ -163,8 +163,8 @@ params:
       #url: "https://kanbanprzykawie.pl/"
       
       - name: "Agile Silesia"
-      #   logo: "img/Agile Silesia.png" 
-      #   url: "https://www.agilesilesia.pl/"
+        logo: "img/logo_AgileSilesia.png" 
+        url: "https://www.agilesilesia.pl/"
 
 
   Orgs:
