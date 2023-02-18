@@ -1,4 +1,6 @@
 [context.abelight-2020] # 'abelight-2020' is a branch name
   command = "hugo"
   publish = "docs"
- 
+
+[context.deploy-preview]
+  command = "hugo --gc -b $DEPLOY_PRIME_URL"

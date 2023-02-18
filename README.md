@@ -6,11 +6,11 @@ Strona www konferencji ABE Light 2018, 2019, 2020
 ## Mechanika:
 
    1. Sklonuj to repo.
-   2. Ściągnij odpowiednią wersję Hugo (generator statycznych stron) stąd: https://github.com/gohugoio/hugo/releases
-   3. Lokalny podgląd: `hugo server --watch`
-   4. Jeśli chcesz wprowadzić zmiany na stronie (a nie tylko u siebie lokalnie), wygeneruj nową statyczną wersję strony: `hugo`   
-(pliki lądują w katalogu `docs`, który jest skonfigurowany jako źródło strony pod adresem `https://agilewarsaw.github.io/ABELight/`)
-   5. Popchnij zmiany na github.
+   2. Strona abelight jest automatycznie generowana z kodu na branchu `abelight`
+   3. Decyzja potrzebna: czy chcesz zmiany od razu wrzucić "na produkcję" czy raczej pull-request
+   4. Ściągnij odpowiednią wersję Hugo (generator statycznych stron) stąd: https://github.com/gohugoio/hugo/releases
+   5. Lokalny podgląd: `hugo server --watch`
+   6. Popchnij zmiany na github.
 
 ## Treść:
 
