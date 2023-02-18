@@ -1,6 +1,8 @@
 publishDir: docs
+abelight
 baseurl: "https://abelight.agilewarsaw.com"
 title: "ABE Light 2023"
+
 canonifyurls: true
 theme: "hugo-conference"
 
