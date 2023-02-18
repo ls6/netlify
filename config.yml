@@ -161,6 +161,10 @@ params:
       #- name: "Kanban przy kawie"
       #logo: "img/logo_kanban_przy_kawie.png" 
       #url: "https://kanbanprzykawie.pl/"
+      
+      - name: "Agile Silesia"
+      #   logo: "img/Agile Silesia.png" 
+      #   url: "https://www.agilesilesia.pl/"
 
 
   Orgs:
