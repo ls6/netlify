@@ -5,7 +5,7 @@ title: "[onsite talks] From Zero to Scrum Master"
 speakers: "Dawid Chudek"
 lang: "en"
 sponsors: ["DXC Technology"]
-videoURL:
+videoURL: "https://youtu.be/lrqNtfOwT8U"
 slidesURL: "Od zera do scrum mastera - agile warsaw (3).pdf"
 draft: false
 ---

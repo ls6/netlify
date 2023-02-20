@@ -5,7 +5,7 @@ title: "[onsite talks] Escaping the Jungle Law - how sociocratic facilitation ma
 speakers: "Łukasz Adamski"
 lang: "en"
 sponsors: ["DXC Technology"]
-videoURL:
+videoURL: "https://youtu.be/48rjZ0AFktM"
 slidesURL: "Escaping the Jungle Law - Łukasz Adamski.pdf"
 draft: false
 ---
