@@ -224,6 +224,17 @@ params:
         title: ""
         description: "<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
+    #- authors:
+        #- name: "Łukasz Kosacki"
+          #photo: "img/l-kosacki.jpg"
+          #bio: "Łukasz is lifelong learner. Thanks to his teaching experience, he knows that active learning is the competence of the future. He has been involved with agile in its broadest sense since 2016. Co-organizer of Scrumvival, co-creator of several training courses for Scrum Masters. Supports the organization at every level helping organizations focus on the outcoms of the products they produce and more. He tries to be adaptive not to 'do adaptive' and to simplify our complex word."
+          #link:
+            #href: ""
+            #text: LinkedIn
+      #presentation:
+        #title: "Let's Give Agile Back to Developers"
+        #description: "Who needs agile? Will our products manage without agile?  Are our developers and our companies ready to take responsibility for agile?  Who started agile and why it was created? Why managers are comfortable with agile?  How to give responsibility for agile software development to development teams?  When we are more likely to make our product a product that matters, products that changes the world? <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
+
     - name: "Parallel Workshops"
       #time: "14h15"
       remark: "The workshops will be held in parallel.<br>
