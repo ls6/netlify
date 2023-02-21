@@ -274,6 +274,16 @@ Warsztat będzie idealny dla PO, którzy zastanawiają się w czym SM może ich 
 
 <br><br>
 
+     <strong>Noela Zdunek<br>
+Scrum a wartości—w poszukiwaniu sensu</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
+
+Jest to warsztat dość intymny–będziemy wszak rozmawiać o wartościach.
+Po co zostały umieszczone w Scrum Guide i… dlaczego akurat te? Jak często rozmawiasz o nich z zespołem? Jak rozumiesz szacunek? Gdzie na co dzień towarzyszy Ci odwaga? Co nam daje skupienie, otwartość, zaangażowanie? Spróbujemy odpowiedzieć na trudne pytania, podzielimy się doświadczeniami, spostrzeżeniami i interpretacjami.
+Rezultatem warsztatu będzie cel indywidualny oparty na wybranej wartości i–mam nadzieję–powracająca refleksja o tym, jakie miejsce wartości scrumowe zajmują w Twojej codziennej pracy.<br>
+Warsztat przeznaczony dla Scrum Masterów na każdym etapie rozwoju.
+
+<br><br>
+
      <strong>Krzysztof Niewiński<br>
 Systems Thinking Basics</strong> <br>
 TBA <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
@@ -357,6 +367,15 @@ A w wolnych chwilach uchwyca ludzkie emocje na fotografiach."
       workshop: true
 
     - authors:
+        - name: "Noela Zdunek"
+          photo: "img/noela-zdunek.jpg"
+          bio: "Scrum Masterką oficjalnie jest od dwóch lat, choć w oparciu o filary i wartości scrumowe działa intuicyjnie całe życie. Obecnie wspiera zwinną transformację w BNP Paribas na wszystkich szczeblach organizacji. Równie ważny jest dla niej deweloper, menedżer, jak i prezes zarządu – wierzy, że dzięki współpracy organizacje mogą osiągnąć najwięcej. Skupia się na budowaniu bezpiecznej atmosfery do pracy, eksperymentowania i ciągłego doskonalenia. Jako mentorka (m. in. w ScrumDzielni) działa na rzecz społeczności Agile i propagowania dobrych wzorców. Prywatnie – psia mama dwóch kundelków, fanka pizzy, piwa i playstation."
+          #link:
+              #href: ""
+              #text: ""
+      workshop: true
+
+    - authors:
         - name: "Łukasz Adamski"
           photo: "img/"
           bio: ""
@@ -365,15 +384,6 @@ A w wolnych chwilach uchwyca ludzkie emocje na fotografiach."
               #text: ""
       workshop: true
     
-    - authors:
-        - name: "Noela Zdunek"
-          photo: "img/"
-          bio: ""
-          #link:
-              #href: ""
-              #text: ""
-      workshop: true
-
 
     #####################
     ##     TEMPLATE    ##
