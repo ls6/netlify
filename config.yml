@@ -160,10 +160,13 @@ params:
       #   logo: "img/logo-ale-krakow.png" 
       #   url: "https://www.alekrakow.com/"
 
-      #- name: "Kanban przy kawie"
-      #logo: "img/logo_kanban_przy_kawie.png" 
-      #url: "https://kanbanprzykawie.pl/"
+      - name: "Kanban przy kawie"
+        logo: "img/logo_kanban_przy_kawie.png" 
+        url: "https://kanbanprzykawie.pl/"
 
+      - name: "Agile Wrocław"
+        logo: "img/logo-agile-wroclaw.png" 
+        url: "https://www.meetup.com/pl-PL/agilewroclaw/"
 
   Orgs:
     - name: "Ewa Koprowska"
