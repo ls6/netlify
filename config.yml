@@ -370,9 +370,9 @@ A w wolnych chwilach uchwyca ludzkie emocje na fotografiach."
         - name: "Noela Zdunek"
           photo: "img/noela-zdunek.jpg"
           bio: "Scrum Masterką oficjalnie jest od dwóch lat, choć w oparciu o filary i wartości scrumowe działa intuicyjnie całe życie. Obecnie wspiera zwinną transformację w BNP Paribas na wszystkich szczeblach organizacji. Równie ważny jest dla niej deweloper, menedżer, jak i prezes zarządu – wierzy, że dzięki współpracy organizacje mogą osiągnąć najwięcej. Skupia się na budowaniu bezpiecznej atmosfery do pracy, eksperymentowania i ciągłego doskonalenia. Jako mentorka (m. in. w ScrumDzielni) działa na rzecz społeczności Agile i propagowania dobrych wzorców. Prywatnie – psia mama dwóch kundelków, fanka pizzy, piwa i playstation."
-          #link:
-              #href: ""
-              #text: ""
+          link:
+              href: "https://www.linkedin.com/in/noela-zdunek"
+              text: "LinkedIn"
       workshop: true
 
     - authors:
