@@ -163,6 +163,10 @@ params:
       - name: "Kanban przy kawie"
         logo: "img/logo_kanban_przy_kawie.png" 
         url: "https://kanbanprzykawie.pl/"
+        
+      - name: "Agile Silesia"
+        logo: "img/logo_AgileSilesia.png" 
+        url: "https://www.agilesilesia.pl/"
 
       - name: "Agile Wrocław"
         logo: "img/logo-agile-wroclaw.png" 
@@ -237,6 +241,8 @@ params:
       #presentation:
         #title: "Let's Give Agile Back to Developers"
         #description: "Who needs agile? Will our products manage without agile?  Are our developers and our companies ready to take responsibility for agile?  Who started agile and why it was created? Why managers are comfortable with agile?  How to give responsibility for agile software development to development teams?  When we are more likely to make our product a product that matters, products that changes the world? <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
+        description: "<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+
 
     - name: "Parallel Workshops"
       #time: "14h15"
