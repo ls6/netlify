@@ -218,14 +218,14 @@ params:
 
     - authors:
         - name: "Adrian Janik"
-          #photo: "img/"
-          #bio: ""
+          photo: "img/janik.jpg"
+          bio: "Od 15 lat zajmuję się szkoleniem, rozwijaniem kompetencji miękkich.  Od 5 lat odkrywam świat zwinnych zespołów i przynoszę do niego narzędzia i rozwiązania wzmacniające zespołowość, samoorganizację oraz współodpowiedzialność.  Wspieram organizacje w planowaniu i skutecznym wdrażaniu zmian, dostarczam wiedzę i umiejętności związane z kompetencjami osobistymi, komunikacją oraz zespołowością. Pomagam liderom i członkom zespołów skutecznie pełnić ich role, a przez to budować samodzielne i odpowiedzialne teamy. Jako trener i psycholog głęboko wierzę, że dobre relacje są nie tylko kluczem do sukcesu zespołów i organizacji, ale też źródłem dobrego i pełnego życia. Prywatnie podróżuję i biegam, a później odpoczywam z książką w ręku."
           #link:
             #href: ""
             #text: LinkedIn
       presentation:
-        title: "TBA"
-        description: "Niedługo… <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+        title: "Czy w zespołach dostrzegamy to co ważne? O znakach rozpoznania i budowaniu relacji"
+        description: "<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
     #- authors:
         #- name: "Łukasz Kosacki"
