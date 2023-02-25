@@ -6,7 +6,7 @@ speakers: "Antonii Maciaszek, Ewa Dębska"
 lang: "pl"
 sponsors: ["DXC Technology"]
 videoURL:
-slidesURL: 
+slidesURL: "Panarchy.pdf"
 draft: false
 ---
 
