@@ -286,10 +286,16 @@ Warsztat przeznaczony dla Scrum Masterów na każdym etapie rozwoju.
 
 <br><br>
 
-     <strong>Krzysztof Niewiński<br>
-Systems Thinking Basics</strong> <br>
-TBA <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
-
+     <strong>Krzysztof Niewiński i Tomasz Wykowski<br>
+Myślenie Systemowe, czyli jak przekonać nieprzekonanych</strong><img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
+Myślenie Systemowe to niezwykle ważne narzędzie nowoczesnego menedżera. Pozwala zrozumieć dynamikę otaczającego nas świata, a przez to umożliwia lepsze adresowanie złożonych problemów. Przede wszystkim jednak daje możliwość wspólnego ustalenia przyczyn i potencjalnych rozwiązań.<br> Na warsztacie nauczymy się, jak wizualizować złożone problemy i dostrzegać ich struktury - czyli trudne do zidentyfikowania korelacje przyczynowo-skutkowe. Zobaczymy jak wprowadzać właściwsze zmiany przechodząc od zachowania reaktywnego (\"od pożaru do pożaru\") do strategicznego (świadomego).<br>
+Konkretnie, poznamy:
+<ul style=\"padding-left: 0.5em;\">
+ <li>• czym są Systemy i jakie są ich cechy,
+ <li>• 3 poziomy postrzegania i adresowania problemów,
+ <li>• jak formułować i wizualizować chroniczne problemy (diagram BOT),
+ <li>• jak modelować złożone problemy w większych ekosystemach (diagram CLD). <br>
+</ul>
       <br><br>
 
     <strong>Karolina Karbarz, Justyna Wykowska <br>
@@ -344,8 +350,13 @@ A w wolnych chwilach uchwyca ludzkie emocje na fotografiach."
           link:
               href: "https://www.linkedin.com/in/krzysztofniewinski/"
               text: LinkedIn
-          # presentation: "title"
-          # description: "desc"
+        - name: "Tomasz Wykowski"
+          photo: "img/TWykowski_2022.png"
+          bio: "Od ponad dwóch dekad uczestniczę w tworzeniu produktów software'owych, a od ponad piętnastu lat dzielę się swoją wiedzą poprzez szkolenia i konsulting. Jestem jedynym polskim Certified Scrum Trainer, CST akredytowanym przez Scrum Alliance oraz jednym z dwóch polskich Certified LeSS Coach. W przerwach pomiędzy pracą z liderami różnych firm piszę artykuły i nagrywam podcasty, które znajdziesz na stronie ProCognity. Jestem autorem książki \"Biznes Odczarowany. Scrum: jak osiągać cele, gdy wszystko się zmienia?\", w której opowiadam jak uniknąć iluzji nierealnych planów i stworzyć zwinną firmę."
+          link:
+              href: "https://www.linkedin.com/in/wykowski/"
+              text: LinkedIn
+
       workshop: true
 
 
