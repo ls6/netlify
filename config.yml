@@ -207,14 +207,14 @@ params:
 
     - authors:
         - name: "Jaga Biernacka"
-          #photo: "img/"
-          #bio: ""
-          #link:
-            #href: ""
-            #text: LinkedIn
+          photo: "img/jaga.jpg"
+          bio: "Kiedyś członek zespołu deweloperskiego, potem Scrum Master, obecnie Scrum Master działający na wszystkich poziomach organizacji, co zwykliśmy nazywać Agile Coachem. Psycholog społeczny z wykształcenia, naukowiec zajmujący się motywacją w zwinnych zespołach z niezaspokojonej ciekawości. Fan myślenia systemowego, dobrze rozumianego Lean-a i samoorganizacji."
+          link:
+            href: "https://www.linkedin.com/in/agnieszka-jaga-biernacka/"
+            text: LinkedIn
       presentation:
-        title: "TBA"
-        description: "Niedługo… <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+        title: "Nowoczesny model budowy zespołów, czyli dlaczego Scrum jest efektem, a nie przyczyną"
+        description: "Obserwując proces budowy zespołów w różnych organizacjach, coraz częściej dochodziłam do wniosku, że coś jest nie tak z założeniami. Pewne założenia, często spotykane w środowisku zwinnym, wydawały mi się nieskuteczne. Powszechnie używany model Tuckmana został poddany ostatnio silnej krytyce (nie zawsze zresztą słusznie), jednocześnie nie było propozycji, czego można używać w zamian.<br> Model, który chcę pokazać, integruje wiele lat badań nad rozwojem zespołów. Co szczególnie ważne, obejmuje nie tylko aspekt społeczny, ale również zadaniowy budowy zespołu. Pokazuje, jak zmienia się rola lidera, podejmowane działania i obszary skupienia wraz ze wzrostem zespołu. <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
     - authors:
         - name: "Adrian Janik"
