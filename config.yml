@@ -301,7 +301,11 @@ Konkretnie, poznamy:
     <strong>Karolina Karbarz, Justyna Wykowska <br>
     Jak można wykorzystać narzędzia UX  przy facylitacji? </strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
 Skoro można projektować wrażenia użytkownika to można też zaprojektować wrażenia współpracownika. Boisz się trudnej rozmowy z kolegą, chcesz do czegoś przekonać szefa a może musisz poprowadzić spotkanie, na którym zazwyczaj ludzie umierają z nudów? Zapraszamy na warsztat w czasie którego pokażemy Wam jak narzędzia używane w pracy z produktem jak Persona czy Mapa Empatii mogą pomóc w poznaniu swoich wpółpracowników, prowadzeniu rozmów, negocjacji i spotkań. Zapraszamy wszystkie osoby, których praca polega na szeroko pojętej komunikacji.
+
       <br><br>
+
+    <strong>Paulina Koperska i Łukasz Adamski<br>
+    Sociocratic Consent Decision Making </strong> <img class=\"icon-lang\" src=\"img/lang-gb.svg\"><br>
 
     "
 
@@ -389,9 +393,17 @@ A w wolnych chwilach uchwyca ludzkie emocje na fotografiach."
       workshop: true
 
     - authors:
+        - name: "Paulina Koperska"
+          photo: "img/koperska.jpg"
+          bio: "I enjoy accompanying people and companies to develop their potential. I am an enthusiast, practitioner and promoter of self-organization. I am a team member of Teal Breakfasts and SoFA - Sociocracy for All.<br> I have several years of leadership experience in the FMCG area. I am an individual (Co-Active) and team (ORSC) coach, as well as a soft skills and basic financial skills trainer. My current focus is on accompanying the introduction of the self-organization approach.<br> With the future in mind, I have founded the Design for Change Poland Association promoting an attitude of agency in children and young people through projects that change the world around them.
+"
+          link:
+              href: "http://www.linkedin.com/in/paulinakoperska"
+              text: "LinkedIn"
+
         - name: "Łukasz Adamski"
-          photo: "img/"
-          bio: ""
+          photo: "img/adamski.jpg"
+          bio: "I am a Scrum Master/Agile Coach with 3.5 years of experience in these roles. In recent months my main focus was self-management transformation, in which I got to know Sociocracy. I discovered that I believe in its values of effective collaboration and an inclusive environment. I especially fell in love with round discussion and decision by consent."
           #link:
               #href: ""
               #text: ""
