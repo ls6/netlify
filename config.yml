@@ -225,7 +225,8 @@ params:
             #text: LinkedIn
       presentation:
         title: "Czy w zespołach dostrzegamy to co ważne? O znakach rozpoznania i budowaniu relacji"
-        description: "<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+        description: "Manifest Agile stawia ludzi i interakcje ponad procesy i narzędzia, stąd też zwinne podejście do projektów i zespołów tak duży nacisk kładzie na dbałość o motywację, kulturę feedbacku i zespołowość. Jednocześnie żyjemy w czasach rosnącej popularności pracy zdalnej i rozproszenia zespołów. Niesie to szereg nie zawsze pozytywnych następstw zarówno dla liderów, jak i członków zespołów. W trakcie mojego wystąpienia opowiem o ,,znakach rozpoznania''— jednym z ważnych konceptów psychologicznych, który wyjaśnia jak budujemy relacje i jak komunikujemy się z innymi. Poznanie tej teorii pozwoli Ci lepiej zrozumieć potrzeby współpracowników w sytuacji pracy zdalnej, a dzięki temu łatwiej dbać o zespołowość, zaangażowanie, satysfakcję z pracy i dobrostan psychologiczny zarówno Twój, jak i Twoich współpracowników. <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+
 
     #- authors:
         #- name: "Łukasz Kosacki"
@@ -237,7 +238,6 @@ params:
       #presentation:
         #title: "Let's Give Agile Back to Developers"
         #description: "Who needs agile? Will our products manage without agile?  Are our developers and our companies ready to take responsibility for agile?  Who started agile and why it was created? Why managers are comfortable with agile?  How to give responsibility for agile software development to development teams?  When we are more likely to make our product a product that matters, products that changes the world? <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
-        description: "<img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
 
 
     - name: "Parallel Workshops"
