@@ -274,7 +274,7 @@ Porozmawiamy o dobrych praktykach we współpracy SM i PO oraz odpowiemy sobie n
 Rezultatem warsztatu będzie lista działań, praktyk i narzędzi, które Scrum Master i Product Owner mogą wykorzystać w codziennej pracy. <br>
 Warsztat będzie idealny dla PO, którzy zastanawiają się w czym SM może ich na co dzień lepiej wspierać, dla SM, którzy zastanawiają się jak realnie wspierać POA oraz dla Managerów, którzy chcą pomagać zarówno SM jak i PO w efektywnej kooperacji.
 
-<br><br>
+<br><br><br>
 
      <strong>Noela Zdunek<br>
 Scrum a wartości—w poszukiwaniu sensu</strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
@@ -284,7 +284,7 @@ Po co zostały umieszczone w Scrum Guide i… dlaczego akurat te? Jak często ro
 Rezultatem warsztatu będzie cel indywidualny oparty na wybranej wartości i–mam nadzieję–powracająca refleksja o tym, jakie miejsce wartości scrumowe zajmują w Twojej codziennej pracy.<br>
 Warsztat przeznaczony dla Scrum Masterów na każdym etapie rozwoju.
 
-<br><br>
+<br><br><br>
 
      <strong>Krzysztof Niewiński i Tomasz Wykowski<br>
 Myślenie Systemowe, czyli jak przekonać nieprzekonanych</strong><img class=\"icon-lang\" src=\"img/lang-pl.svg\"> <br>
@@ -302,10 +302,12 @@ Konkretnie, poznamy:
     Jak można wykorzystać narzędzia UX  przy facylitacji? </strong> <img class=\"icon-lang\" src=\"img/lang-pl.svg\"><br>
 Skoro można projektować wrażenia użytkownika to można też zaprojektować wrażenia współpracownika. Boisz się trudnej rozmowy z kolegą, chcesz do czegoś przekonać szefa a może musisz poprowadzić spotkanie, na którym zazwyczaj ludzie umierają z nudów? Zapraszamy na warsztat w czasie którego pokażemy Wam jak narzędzia używane w pracy z produktem jak Persona czy Mapa Empatii mogą pomóc w poznaniu swoich wpółpracowników, prowadzeniu rozmów, negocjacji i spotkań. Zapraszamy wszystkie osoby, których praca polega na szeroko pojętej komunikacji.
 
-      <br><br>
+      <br><br><br>
 
     <strong>Paulina Koperska i Łukasz Adamski<br>
     Sociocratic Consent Decision Making </strong> <img class=\"icon-lang\" src=\"img/lang-gb.svg\"><br>
+    There is a moment in the meeting when you want to agree on something. What do you do then? The leader decides with the autocratic voice of one person? Maybe you vote and the majority wins? Perhaps you want to take into account different opinions and come to a consensus. Then the discussion takes forever and still everyone is slightly dissatisfied. <br> Here comes consent. An effective way to take into account different points of view to make decisions that everybody wants to implement. Instead of looking for the answer to the question “who agrees” you would look for the opposite - “who objects”. The return of the liberum veto? Not exactly! Please, come and check by yourself! <br> The workshop is for everyone who would like to expand their toolbox of group decision making. 
+
 
     "
 
@@ -404,9 +406,9 @@ A w wolnych chwilach uchwyca ludzkie emocje na fotografiach."
         - name: "Łukasz Adamski"
           photo: "img/adamski.jpg"
           bio: "I am a Scrum Master/Agile Coach with 3.5 years of experience in these roles. In recent months my main focus was self-management transformation, in which I got to know Sociocracy. I discovered that I believe in its values of effective collaboration and an inclusive environment. I especially fell in love with round discussion and decision by consent."
-          #link:
-              #href: ""
-              #text: ""
+          link:
+              href: "https://www.linkedin.com/in/luka-adamski/"
+              text: "LinkedIn"
       workshop: true
     
 
