@@ -1,32 +1,19 @@
 ---
 number: "266"
-date: "2023-02-13T18:00:00+01:00"
-title: "[warsztat stacjonarny] Liberating Structures – herbatka w karawanie"
-speakers: "Paulina Karnabal, Mikołaj Gajewski, Jakub Karolak, Michał Tarnowski"
+date: "2023-02-20T18:00:00+01:00"
+title: "[warsztat stacjonarny] Tomasz Serafin "Symulacja Scruma: obraz czy 1000 słów?""
+speakers: "Tomasz Serafin"
 lang: "pl"
-sponsors: ["Orsted"]
+sponsors: ["DXC Technology"]
 videoURL: 
 slidesURL:
 draft: false
 ---
 
-## Czym są Liberating Structures?
+Z przewodnika po Scrumie: Scrum to uproszczone ramy postępowania, które pomagają […] wytwarzać wartość poprzez adaptacyjne rozwiązywanie złożonych problemów.
+Czy przewodnik po Scrumie jest tak prosty jak to możliwe? Jak dobrze rozumiemy podstawowe elementy metody i do jakiego stopnia nasze rozumienie jest zgodne z rozumieniem innych? Czy potrafimy wyjaśnić Scruma innym nie używając trudnych słów? Na te i inne pytania odpowiemy sobie w trakcie warsztatu, w trakcie którego będziemy wytwarzać wartość (zrozumienie Scruma) przez adaptacyjne rozwiązywanie złożonego problemu (jak to zrobić dobrze?) - wyjaśnijmy Scruma pracując Scrumem!
 
-Liberating Structures to zestaw 33 technik facylitacji pozwalający na wyzwolenie kreatywności i zaangażowanie uczestników. Można się z nimi zapoznać tutaj: https://liberatingstructures.org.pl
-Każda struktura rozwiązuje inny problem, ma swoje miejsce i zastosowanie.
+### Tomasz Serafin o sobie:
 
-## Jaki jest cel meetupu?
-
-Celem meetupu jest praktyka kilku wybranych technik Liberating Structures. Podczas tego warsztatu użyjemy:
-
-  * Mad Tea (LS in development),
-  * Caravan (LS in development),
-  * What, So What, Now What?
-
-## Do kogo skierowany jest meetup?
-
-Do każdego kto chce poznać techniki facylitacji spotkań, których celem jest rozwiązywanie problemów. Nie ma znaczenia, z jakiej branży jesteś. Jeśli pracujesz w zespole, to ten warsztat jest dla Ciebie :)
-
-## Czego się nauczysz?
-
-Technik aktywizacji grupy, które pozwalają na zaangażowanie uczestników i wyzwalają duże dawki kreatywności. Alternatywnych technik rozwiązywania problemów - jeśli prowadzisz spotkania to dołożysz do swojego arsenału nowe narzędzia :)
+Zaczynałem karierę zawodową jako programista, następnie spróbowałem sił jako analityk, menadżer projektu, menadżer produktu, lider zespołu, Scrum Master, a nawet Head of HR. Obecnie jestem programistą i przywódcą służebnym zespołu Scrumowego. Jednym z moich hobby jest tworzenie oraz prowadzenie warsztatów wzmacniających zrozumienie zwinności. Lubię zrozumienie.
+[LinkedIn](https://www.linkedin.com/in/tpserafin/)
