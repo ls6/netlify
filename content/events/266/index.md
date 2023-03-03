@@ -1,7 +1,7 @@
 ---
 number: "266"
 date: "2023-02-20T18:00:00+01:00"
-title: "[warsztat stacjonarny] Tomasz Serafin "Symulacja Scruma: obraz czy 1000 słów?""
+title: "[warsztat stacjonarny] Symulacja Scruma: obraz czy 1000 słów?"
 speakers: "Tomasz Serafin"
 lang: "pl"
 sponsors: ["DXC Technology"]
