@@ -1,5 +1,5 @@
 ---
-number: "266"
+number: "265"
 date: "2023-02-13T18:00:00+01:00"
 title: "[warsztat stacjonarny] Liberating Structures – herbatka w karawanie"
 speakers: "Paulina Karnabal, Mikołaj Gajewski, Jakub Karolak, Michał Tarnowski"
