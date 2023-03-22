@@ -67,6 +67,7 @@ You will learn:
   * What are rules of Kanban, if any?
   * How are Kanban teams improving their services and ways of work?
 
+[Slajdy z warsztatu](Kuba-ABELight-2023.pdf)
 
 ## Bogumiła Kwiatkowska-Koterba
 ### {{% icon-flag-pl %}} Współpraca popłaca - o efektywnej współpracy Scrum Mastera i Product Ownera
