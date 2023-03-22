@@ -38,6 +38,8 @@ Obserwując proces budowy zespołów w różnych organizacjach, coraz częściej
 
 Model, który chcę pokazać, integruje wiele lat badań nad rozwojem zespołów. Co szczególnie ważne, obejmuje nie tylko aspekt społeczny, ale również zadaniowy budowy zespołu. Pokazuje, jak zmienia się rola lidera, podejmowane działania i obszary skupienia wraz ze wzrostem zespołu.
 
+[Slajdy z prezentacji](Jaga-ABELight-2023.pdf)
+
 <!-- <a href="https://www.youtube.com/watch?v=qn77KHecMyw" target="_blank">Talk recording</a> -->
 
 ## Adrian Janik
@@ -46,6 +48,8 @@ Model, który chcę pokazać, integruje wiele lat badań nad rozwojem zespołów
 Manifest Agile stawia ludzi i interakcje ponad procesy i narzędzia, stąd też zwinne podejście do projektów i zespołów tak duży nacisk kładzie na dbałość o motywację, kulturę feedbacku i zespołowość. Jednocześnie żyjemy w czasach rosnącej popularności pracy zdalnej i rozproszenia zespołów. Niesie to szereg nie zawsze pozytywnych następstw zarówno dla liderów, jak i członków zespołów. 
 
 W trakcie mojego wystąpienia opowiem o ,,znakach rozpoznania''---jednym z ważnych konceptów psychologicznych, który wyjaśnia jak budujemy relacje i jak komunikujemy się z innymi. Poznanie tej teorii pozwoli Ci lepiej zrozumieć potrzeby współpracowników w sytuacji pracy zdalnej, a dzięki temu łatwiej dbać o zespołowość, zaangażowanie, satysfakcję z pracy i dobrostan psychologiczny zarówno Twój, jak i Twoich współpracowników.
+
+[Slajdy z prezentacji](Adrian-ABELight-2023.pdf)
 
 <!-- <a href="https://www.youtube.com/watch?v=c7tCmPXwJno" target="_blank">Talk recording</a> -->
 
