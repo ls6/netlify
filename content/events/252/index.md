@@ -5,7 +5,7 @@ title: "ABE Light 2022"
 speakers: ""
 lang: ["en", "pl"]
 sponsors: ["mBank", "ProCognita"]
-videoURL: ""
+videoURL: "https://www.youtube.com/playlist?list=PLwoIK953bBnM8guAhF5zDCV2JmaT485Da"
 draft: false
 ---
 
