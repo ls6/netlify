@@ -4,7 +4,7 @@ date: "2023-04-217T18:00:00+01:00"
 title: "[spotkanie stacjonarne] Czego boją się osoby w roli Scrum Mastera i Agile Coacha i jak sobie z tym radzić?"
 speakers: "Mateusz Drozd i Michał Baczewski"
 lang: "pl"
-sponsors: ["DXC Technology"]
+sponsors: ["Bank Millennium"]
 videoURL:
 slidesURL: ""
 draft: false
