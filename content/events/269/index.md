@@ -5,8 +5,8 @@ title: "[spotkanie stacjonarne] Czego boją się osoby w roli Scrum Mastera i Ag
 speakers: "Mateusz Drozd i Michał Baczewski"
 lang: "pl"
 sponsors: ["Bank Millennium"]
-videoURL:
-slidesURL: ""
+videoURL: "https://youtu.be/tj7MbBqaiRw"
+slidesURL: "Final_Czego_boja_sie.pdf"
 draft: false
 ---
 
