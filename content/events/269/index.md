@@ -40,4 +40,4 @@ Agenda spotkania:
 [Michał Baczewski](https://www.linkedin.com/in/micha%C5%82-baczewski-b73469155/): to Agile Coach w Banku Millennium, psycholog w Instytucie Psychiatrii i Neurologii. Pasjonat ciągłego zmieniania pasji – ostatnio uczy się grać na klawiszach, lubi ludzi i podróże.
 
 
-##### Wyniki ćwiczenia: [Wasze metodu radzenia soboie z lękiem](AW_Cwiczenie2Metody.pdf) 
+##### Wyniki ćwiczenia: [Wasze metodu radzenia sobie z lękiem](AW_Cwiczenie2Metody.pdf) 
