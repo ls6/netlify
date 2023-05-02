@@ -38,3 +38,5 @@ Agenda spotkania:
 [Mateusz Drozd](https://www.linkedin.com/in/mateuszdrozd/): pracuje jako Scrum Leader w firmie Emerson Automation Solutions. Pomimo analitycznego umysłu, stara się widzieć człowieka. Pasjonat fotografii, żużla, pracy w biurze.
 
 [Michał Baczewski](https://www.linkedin.com/in/micha%C5%82-baczewski-b73469155/): to Agile Coach w Banku Millennium, psycholog w Instytucie Psychiatrii i Neurologii. Pasjonat ciągłego zmieniania pasji – ostatnio uczy się grać na klawiszach, lubi ludzi i podróże.
+
+#### Wyniki ćwiczenia: [Wasze metodu radzenia soboie z lękiem](AW_Cwiczenie2Metody.pdf) 
