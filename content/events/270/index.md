@@ -22,6 +22,7 @@ Jest to warsztat dla: Warsztat jest dla wszystkich. Zapraszamy programistów, li
 
 Agile&lean coach, trenerka, mentorka i profesjonalna coach. Od 2015 roku podążam drogą przywództwa służebnego, skupionego na potrzebach i rozwoju poszczególnych osób, zespołów i organizacji. W pracy interesuje mnie zarówno proces oparty na współpracy, jak i cel. W obszarze moich zaintersowań jest obecnie strategia umami, turkus i sociokracja oraz improwizacja. Często spotkasz mnie w górach, na rowerze lub w kajaku.
 
+#### Materiały ze spotkania:
 {{< figure src="1.jpg" >}}
 {{< figure src="2.jpg" >}}
 {{< figure src="3.jpg" >}}
