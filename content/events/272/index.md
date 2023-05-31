@@ -18,13 +18,11 @@ Bycie przedsiębiorcą to jeden z najbardziej wymagających zawodów na świecie
 
 W części drugiej, skupimy się na zewnętrznych uwarunkowaniach, które powodują, że praca w startupie często mocno odbiega od ideałów przedstawionych w manifeście agile i spróbujemy wspólnie zastanowić się nad tym z czego to wynika i jak można temu przeciwdziałać.
 
-UWAGA: po spotkaniu, wybieramy się na afterparty w Fabryce Norblina. #workhardpartyhard
-
-### Dla kogo jest ten meetup?
+#### Dla kogo jest ten meetup?
 
 Do ludzi budujących produkty w korporacjach lub software house'ach, którzy zastanawiali się czy praca w startupie jest znacząco inna od ich doświadczenia.
 
-## [Michał Rychlik:](https://www.linkedin.com/in/michal-rychlik/)
+### [Michał Rychlik:](https://www.linkedin.com/in/michal-rychlik/)
 
 całe życie zawodowe spędził pracując ze startupami. Jest byłym i przyszłym przedsiębiorcą, pracował nad pomysłami w każdej fazie rozwoju: od idei na serwetce, przez pozyskiwanie pierwszych użytkowników, budowanie MVP, aż po skalowanie biznesu od kilku do kilkudziesięciu milionów dolarów przychodu rocznie.
 Miłośnik pizzy na meetupach.
