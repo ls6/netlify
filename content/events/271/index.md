@@ -20,5 +20,3 @@ Zapraszamy członków i liderów zespołów IT, Scrum Masterów, PO-sów, Agile 
 
 [Agnieszka Zawadzka](https://www.linkedin.com/in/agnieszkazawadzkascrum/): Na co dzień pełnię rolę Scrum Masterki w zwinnych zespołach. Jestem również mediatorką oraz trenerką kompetencji psycho-społecznych.
 Jestem fanką konfliktów 😊. Praca z konfliktem jest dla mnie zarazem fascynująca i wymagająca. Pozwala osiągać doskonałe rezultaty w procesie budowania współpracy i wzmacniania efektywności osobistej oraz zespołów w których pracujemy. Konflikt może tworzyć „twórczy ferment”, jak i mieć destrukcyjną siłę. Wierzę, ze możemy mieć wpływ na to, jak z niego skorzystamy.
-
-##### prezentacja z meetupu: [Podstawy mediacji - Agile Warsaw](Podstawy_mediacji_Agile_Warsaw_dla_uczestników.pdf) 
