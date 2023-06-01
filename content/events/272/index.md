@@ -24,6 +24,6 @@ Do ludzi budujących produkty w korporacjach lub software house'ach, którzy zas
 
 ### [Michał Rychlik:](https://www.linkedin.com/in/michal-rychlik/)
 
-całe życie zawodowe spędził pracując ze startupami. Jest byłym i przyszłym przedsiębiorcą, pracował nad pomysłami w każdej fazie rozwoju: od idei na serwetce, przez pozyskiwanie pierwszych użytkowników, budowanie MVP, aż po skalowanie biznesu od kilku do kilkudziesięciu milionów dolarów przychodu rocznie.
+Całe życie zawodowe spędził pracując ze startupami. Jest byłym i przyszłym przedsiębiorcą, pracował nad pomysłami w każdej fazie rozwoju: od idei na serwetce, przez pozyskiwanie pierwszych użytkowników, budowanie MVP, aż po skalowanie biznesu od kilku do kilkudziesięciu milionów dolarów przychodu rocznie.
 Miłośnik pizzy na meetupach.
 
