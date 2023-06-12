@@ -1,29 +1,28 @@
 ---
-number: "272"
-date: "2023-05-22T18:00:00+01:00"
-title: "Dlaczego startupy powinny być zwinne, a rzadko są?"
-speakers: "Michał Rychlik"
+number: "273"
+date: "2023-06-05T18:00:00+01:00"
+title: "Liberating Structures - spotkanie dla agilowych śmiałków!"
+speakers: "Paulina Karnabal, Mikołaj Gajewski, Jakub Karolak, i Michał Tarnowski"
 lang: "pl"
-sponsors: ["DXC"]
+sponsors: ["Ørsted"]
 videoURL: ""
 slidesURL: ""
 draft: false
 ---
 
-Kiedy użytkownik staje się centrum wszechświata zespołu, dzieją się rzeczy magiczne.
+**Czym są Liberating Structures?**
 
-W części pierwszej, przyjrzymy się temu jakie korzyści przynosi takie podejście i opowiemy o kilku mniej oczywistych, a bardzo konkretnych i skutecznych metodach wdrożeniowych, które wypróbowałem dotychczas (będzie mnóstwo przykładów!)
+Liberating Structures to zestaw 33 technik facylitacji pozwalający na wyzwolenie kreatywności i zaangażowanie uczestników. Można się z nimi zapoznać tutaj: https://liberatingstructures.org.pl.
+Każda struktura rozwiązuje inny problem, ma swoje miejsce i zastosowanie.
 
-Bycie przedsiębiorcą to jeden z najbardziej wymagających zawodów na świecie.
+**Jaki jest cel meetupu?**
 
-W części drugiej, skupimy się na zewnętrznych uwarunkowaniach, które powodują, że praca w startupie często mocno odbiega od ideałów przedstawionych w manifeście agile i spróbujemy wspólnie zastanowić się nad tym z czego to wynika i jak można temu przeciwdziałać.
+Celem meetupu jest praktyka kilku wybranych technik Liberating Structures. Podczas tego warsztatu użyjemy:
 
-#### Dla kogo jest ten meetup?
+* Mad Tea (LS in development),
+* TRIZ,
+* Ecocycle Planning.
 
-Do ludzi budujących produkty w korporacjach lub software house'ach, którzy zastanawiali się czy praca w startupie jest znacząco inna od ich doświadczenia.
+#### **Dla kogo jest ten meetup?**
 
-### [Michał Rychlik:](https://www.linkedin.com/in/michal-rychlik/)
-
-Całe życie zawodowe spędził pracując ze startupami. Jest byłym i przyszłym przedsiębiorcą, pracował nad pomysłami w każdej fazie rozwoju: od idei na serwetce, przez pozyskiwanie pierwszych użytkowników, budowanie MVP, aż po skalowanie biznesu od kilku do kilkudziesięciu milionów dolarów przychodu rocznie.
-Miłośnik pizzy na meetupach.
-
+Do każdego kto chce poznać techniki facylitacji spotkań, których celem jest rozwiązywanie problemów. Nie ma znaczenia, z jakiej branży jesteś. Jeśli pracujesz w zespole, to ten warsztat jest dla Ciebie :).
