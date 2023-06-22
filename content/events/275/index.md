@@ -1,28 +1,32 @@
 ---
-number: "273"
-date: "2023-06-05T18:00:00+01:00"
-title: "Liberating Structures - spotkanie dla agilowych śmiałków!"
-speakers: "Paulina Karnabal, Mikołaj Gajewski, Jakub Karolak, i Michał Tarnowski"
+number: "275"
+date: "2023-07-03T18:00:00+01:00"
+title: "Jak sobie radzić z ciągle rosnącą listą wymagań/zadań, czyli techniki priorytetyzacji backlogu"
+speakers: "Magda i Marcin Gałaj"
 lang: "pl"
-sponsors: ["Ørsted"]
+sponsors: ["PKO Bank Polski"]
 videoURL: ""
 slidesURL: ""
 draft: false
 ---
 
-**Czym są Liberating Structures?**
+Listy wymagań, listy zadań, czy po prostu backlogi mają tę niewdzięczną cechę, że lubią się rozrastać w nieskończoność i zawsze zawierają dużo więcej elementów niż my, czy nasz zespół jest w stanie zrealizować.
 
-Liberating Structures to zestaw 33 technik facylitacji pozwalający na wyzwolenie kreatywności i zaangażowanie uczestników. Można się z nimi zapoznać tutaj: https://liberatingstructures.org.pl.
-Każda struktura rozwiązuje inny problem, ma swoje miejsce i zastosowanie.
+Jak zatem wybrać te najbardziej wartościowe zadania, wymagania czy historyjki użytkownika, skoro wszystko wydaje się tak samo ważne?
+Jak odsiać ziarno od plew? Od których elementów naszej listy zacząć?
+Temat może być szczególnie istotny dla każdego, kto w swojej codzienności mierzy się z wyzwaniem zarządzania wieloma tematami na raz.
 
-**Jaki jest cel meetupu?**
+Podczas warsztatu:
 
-Celem meetupu jest praktyka kilku wybranych technik Liberating Structures. Podczas tego warsztatu użyjemy:
+* poznacie 10 technik radzenia sobie z ciągle rosnącymi listami wymagań,
+* poznacie wady i zalety poszczególnych technik,
+* dowiecie się, którą technikę w jakiej sytuacji stosować.
 
-* Mad Tea (LS in development),
-* TRIZ,
-* Ecocycle Planning.
+### Dla kogo jest ten meetup?
 
-#### **Dla kogo jest ten meetup?**
+Warsztat adresowany jest do Scrum Masterów oraz Product Ownerów, ale również do każdego, kto na co dzień mierzy się z wyzwaniem zarządzania wieloma tematami na raz.
 
-Do każdego kto chce poznać techniki facylitacji spotkań, których celem jest rozwiązywanie problemów. Nie ma znaczenia, z jakiej branży jesteś. Jeśli pracujesz w zespole, to ten warsztat jest dla Ciebie :).
+## Prelegenci:
+[Magdalena Gałaj](https://www.linkedin.com/in/magdalena-galaj/) – uwielbia pracę z ludźmi, w zgodzie z wartościami, którym jest wierna. Zafascynowana metodami zwinnymi, od 2 lat spełnia się w roli Scrum Mastera. Radość i satysfakcję daje jej możliwość przekazywania wiedzy, wspierania potencjału, który tkwi w ludziach, obserwowania, jak stają się samodzielni i coraz lepsi w tym, co robią. Prywatnie miłośniczka podróży, kina, teatru i dobrej kuchni.
+
+[Marcin Gałaj](https://www.linkedin.com/in/marcin-gałaj-a3808a1/) – mąż, ojciec, Agile Coach, Scrum Master. Od 4 lat praktykuje Scruma w branży finansowej. Wieloletni biznesowy background sprawia, że doskonale czuje biznesowy aspekt tego, nad czym pracują zespoły scrumowe, z którymi współpracuje. Głęboko wierzy w sens pracy zespołowej. Na co dzień tworzy ramy, w których zespoły mogą się samoorganizować i efektywnie pracować. W wolnym czasie podróżuje, żegluje i serwuje dobrą kuchnię swojej żonie.
