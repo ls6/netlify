@@ -6,7 +6,7 @@ speakers: "Agnieszka Zawadzka"
 lang: "pl"
 sponsors: ["PKO Bank Polski"]
 videoURL: ""
-slidesURL: "Warsztat_Rozwiązywanie_konfliktów_w_zespołach_zwinnych.pdf"
+slidesURL: "Warsztat_Rozwiązywanie_konfliktów.pdf"
 draft: false
 ---
 
