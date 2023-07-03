@@ -27,7 +27,7 @@ In this framework I deconstruct leadership in 4 dimensions:
 This dimensions are developed in 9 conversation patterns that any Agile leader should master to ensure success.
 This framework and patters have been proven as a very helpful instrument for thousands of professionals from more than 50 countries in 5 continents to unleash their leadership capabilities and develop an informed strategy to influence organizational change.
 
-<!-- <a href="https://www.youtube.com/watch?v=zkmaA3XQyL0" target="_blank">Talk recording</a> -->
+<a href="https://youtu.be/LLQlKt3Emes" target="_blank">Talk recording</a>
 
 # Speakers
 
@@ -40,7 +40,7 @@ Model, który chcę pokazać, integruje wiele lat badań nad rozwojem zespołów
 
 [Slajdy z prezentacji](Jaga-ABELight-2023.pdf)
 
-<!-- <a href="https://www.youtube.com/watch?v=qn77KHecMyw" target="_blank">Talk recording</a> -->
+<a href="https://youtu.be/fM7DFf4_538" target="_blank">Nagranie prezentacji</a>
 
 ## Adrian Janik
 ### {{% icon-flag-pl %}} Czy w zespołach dostrzegamy to co ważne? O znakach rozpoznania i budowaniu relacji 
@@ -51,7 +51,7 @@ W trakcie mojego wystąpienia opowiem o ,,znakach rozpoznania''---jednym z ważn
 
 [Slajdy z prezentacji](Adrian-ABELight-2023.pdf)
 
-<!-- <a href="https://www.youtube.com/watch?v=c7tCmPXwJno" target="_blank">Talk recording</a> -->
+<a href="https://youtu.be/BM3JsH5osgg" target="_blank">Nagranie prezentacji</a>
 
 -------------
 
