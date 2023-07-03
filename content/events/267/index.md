@@ -5,7 +5,7 @@ title: "ABE Light 2023"
 speakers: ""
 lang: ["en", "pl"]
 sponsors: ["BEC", "ProCognita"]
-videoURL: ""
+videoURL: "https://youtube.com/playlist?list=PLwoIK953bBnNCdsPgCmdpqmhDXX5t01uu"
 draft: false
 ---
 
