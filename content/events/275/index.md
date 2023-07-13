@@ -6,7 +6,7 @@ speakers: "Magda i Marcin Gałaj"
 lang: "pl"
 sponsors: ["PKO Bank Polski"]
 videoURL: ""
-slidesURL: ""
+slidesURL: "Metody Priorytetyzacji.zip"
 draft: false
 ---
 
