@@ -1,6 +1,6 @@
 ---
 number: "283"
-date: "2023-10-05T18:00:00+01:00"
+date: "2023-10-09T18:00:00+01:00"
 title: "Warsztat EventStorming"
 speakers: "Kamil Szymański"
 lang: "pl"
