@@ -4,8 +4,8 @@ date: "2023-09-18T18:00:00+01:00"
 title: "[spotkanie stacjonarne] Co ten programista? - czyli jak zrozumieć programistę."
 speakers: "Kate Prokopiuk"
 lang: "pl"
-sponsors: ["technicznysm.pl";"PKO Bank Polski"]
-videoURL: "https://youtu.be/tj7MbBqaiRw"
+sponsors: ["technicznysm.pl","PKO Bank Polski"]
+videoURL: "https://youtu.be/8KQuSJoU33I"
 slidesURL: "Co_ten_programista_AW_Prokopiuk.pdf"
 draft: false
 ---
