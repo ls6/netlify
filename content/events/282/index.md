@@ -6,7 +6,7 @@ speakers: "Marta Grzesiczek"
 lang: "pl"
 sponsors: ["DXC"]
 videoURL: ""
-slidesURL: "Co_nas_kreci_AW_Grzesiczek.ppsm"
+slidesURL: "Co_nas_kreci_AW_Grzesiczek.pdf"
 draft: false
 ---
 
