@@ -10,7 +10,7 @@ slidesURL: "Co_ten_programista_AW_Prokopiuk.pdf"
 draft: false
 ---
 
-Podbijemy libkę, spropagujemy zmiany na developa. Naprawimy co się rozsypie i jak CR przejdzie plus testy w trakcie builda się nie rozsypią to za requestujemy MR, a infra nam to przepchnie na maina.” Zdarzyło Ci się słyszeć podobne teksty od programistów? Nie jest wiedzą tajemną, że ogarnianie na czym polega praca programistów znacznie ułatwi Ci życie. Obojętnie od twojej roli.
+Podbijemy libkę, spropagujemy zmiany na developa. Naprawimy co się rozsypie i jak CR przejdzie plus testy w trakcie builda się nie rozsypią to za requestujemy MR, a infra nam to przepchnie na maina. Zdarzyło Ci się słyszeć podobne teksty od programistów? Nie jest wiedzą tajemną, że ogarnianie na czym polega praca programistów znacznie ułatwi Ci życie. Obojętnie od twojej roli.
 Na wybranych przykładach z życia przybliżę kilka zagadnień technicznych, które będą przydatne w pracy z zespołem programistycznym.
 
 ### Dla kogo jest ten meetup?

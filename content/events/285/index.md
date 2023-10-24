@@ -10,8 +10,6 @@ slidesURL: ""
 draft: false
 ---
 
-More with LeSS: Jak osiągnąć Zwinność w Dużej Skali?
-
 Elastyczność wynika z prostoty. Podobnie adaptacyjność organizacji nie jest efektem wdrożenia kolejnych frameworków, ale wynika z prostoty jej konstrukcji. Co zmienić w konstrukcji dużej organizacji, lub wielozespołowej grupy produktowej, aby była zwinna jak startup? Jakie elementy uprościć, by nie wprowadzić chaosu, a jednocześnie zyskać na adaptacyjności?
 
 Zapraszam do dyskusji o tym, jak podejście LeSS może w tym pomóc. Zbadamy kluczowe aspekty redukowania złożoności organizacyjnej i skalowania zdolności adaptacyjnych (aka Agility). Wspólnie zamodelujemy omawianą dynamikę w organizacji, korzystając z Diagramu Pętli Przyczynowo-Skutkowej (Causal-Loop Diagram - CLD) - jednego z kluczowych narzędzi Myślenia Systemowego.

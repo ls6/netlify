@@ -10,10 +10,10 @@ slidesURL: "Co_nas_kreci_AW_Grzesiczek.pdf"
 draft: false
 ---
 
-"Co nas motywuje? Co motywuje naszych współpracowników? Czy jest to kasa? status?, a może władza?
+Co nas motywuje? Co motywuje naszych współpracowników? Czy jest to kasa? Status? A może władza?
 
-W trakcie spotkanie poznacie narzędzia, które ułatwią Wam identyfikację i wizualizację motywatorów, a także przygotujecie własne cele rozwojowe, a może nawet plany.
-Uzbrojeni w nową wiedzę i umiejętności po warsztacie, będziecie mogli je wykorzystać w Waszej codziennej pracy, zarówno z zespołami jak i w pracy indywidualnej."
+W trakcie spotkania poznacie narzędzia, które ułatwią Wam identyfikację i wizualizację motywatorów. Przygotujecie także własne cele rozwojowe, a może nawet plany.
+Uzbrojeni w nową wiedzę i umiejętności po warsztacie, będziecie mogli je wykorzystać w Waszej codziennej pracy, zarówno z zespołami jak i w pracy indywidualnej.
 
 ### Dla kogo jest ten meetup?
 
