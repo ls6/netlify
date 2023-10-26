@@ -1,6 +1,6 @@
 ---
 number: "285"
-date: "2023-09-18T18:00:00+01:00"
+date: "2023-11-06T18:00:00+01:00"
 title: "More with LeSS: Jak osiągnąć Zwinność w Dużej Skali?"
 speakers: "Krzysztof Newiński"
 lang: "pl"
