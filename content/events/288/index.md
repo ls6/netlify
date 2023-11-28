@@ -19,6 +19,6 @@ Org Topologies™ is a framework-agnostic approach to design and sustain large-s
 
 All people who work in product development and are affected by or involved in transformations.
 
-## Prelegents:
+## Speakers:
 
 [Alex & Roland](https://www.orgtopologies.com/authors)
