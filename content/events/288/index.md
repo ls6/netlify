@@ -5,7 +5,7 @@ title: "Designing Agile Ecosystems with Org Topologies™"
 speakers: "Alexey Krivitsky, Roland Flemm"
 lang: "en"
 sponsors: ["ProCognita","PKO Bank Polski"]
-videoURL: ""
+videoURL: "https://www.youtube.com/watch?v=Pn4__zs9poo"
 slidesURL: ""
 draft: false
 ---
