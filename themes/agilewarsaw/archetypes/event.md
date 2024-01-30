@@ -9,7 +9,15 @@ videoURL: ""
 draft: false
 ---
 
-To będzie opis wydarzenia w formacie Markdown.
+Format daty (i godziny) wydarzenia do wpisania w nagłówku powyżej:
+ "2023-12-14T19:00:00+01:00"
+
+Opis wydarzenia robimy w formacie Markdown.
+
+Ściągawka z Markdown w sieci:
+<a href="https://learn.microsoft.com/pl-pl/training/modules/communicate-using-markdown/2-what-is-markdown" target="_blank">Ściągawka z Markdown-a</a>.
+
+Najczęściej używane formatowanie:
 
 Paragrafy oddzielamy pustą linią.
 
@@ -32,8 +40,6 @@ Linki zewnętrzne (jeśli mają otwierać się w nowym oknie) opisujemy HTMLem:
 <a href="https:link" target="_blank">Opis</a>.
 
 Linki, które mają otworzyć się w tym samym oknie możesz opsiać w Markdown: [opis](https://link)
-
-<a href="https://docs.microsoft.com/pl-pl/contribute/how-to-write-use-markdown" target="_blank">Ściągawka z Markdown-a</a>.
 
 ## galeria / miniatury
 
