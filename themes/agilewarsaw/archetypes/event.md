@@ -21,8 +21,9 @@ Najczęściej używane formatowanie:
 
 Paragrafy oddzielamy pustą linią.
 
-Nową linię bez tworzenia nowego paragrafu zrobisz wpisując dwie spacje   
-na końcu łamanej linii.
+Nową linię bez tworzenia nowego paragrafu zrobisz dodając dwie spacje   
+na końcu łamanej linii.  
+Innymi słowy, linię kończysz: spacja spacja ENTER
 
 # Nagłówek 1
 ## Nagłówek 2
