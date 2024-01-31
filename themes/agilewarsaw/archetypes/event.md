@@ -9,8 +9,22 @@ videoURL: ""
 draft: false
 ---
 
-Format daty (i godziny) wydarzenia do wpisania w nagłówku powyżej:
+# Ściąga:
+
+Pliki opisujące wszystkie dotąd opublikowane wydarzenia można podglądać tu:
+
+https://github.com/AgileWarsaw/netlify/tree/master/content/events
+
+UWAGA: kuszące jest skopiowanie któregoś z poprzednich wydarzeń i nadpisanie danych ale prawie zawsze kończy się to jakąś pomyłką. Bezpieczniej jest wystartować z tego szablonu.
+
+
+# Data i godzina wydarzenia
+
+Format daty (i godziny) wydarzenia do wpisania w nagłówku:
  "2023-12-14T19:00:00+01:00"
+Dosłownie jak wyżej, tylko w cudzysłowiu, bez nawiasów, które teraz są tam teraz.
+
+# Opis
 
 Opis wydarzenia robimy w formacie Markdown.
 
