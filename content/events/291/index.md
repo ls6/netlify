@@ -9,7 +9,8 @@ videoURL: ""
 draft: false
 ---
 
-Czy zastanawiałaś/zastanawiałeś się kiedyś nad znaczeniem słowa ,,etyka” w kontekście Scruma? Jeżeli tak, to bardzo serdecznie zapraszam na workshop poświęcony temu zagadnieniu. Odpowiemy sobie na pytanie:  - Czym są zachowania nieetyczne w Scrumie oraz jak możemy się przed nimi ustrzec?
+Czy zastanawiałaś/zastanawiałeś się kiedyś nad znaczeniem słowa ,,etyka” w kontekście Scruma? Jeżeli tak, to bardzo serdecznie zapraszam na workshop poświęcony temu zagadnieniu. Odpowiemy sobie na pytanie:  
+- Czym są zachowania nieetyczne w Scrumie oraz jak możemy się przed nimi ustrzec?
 
 ## Jest to warsztat dla:
 
