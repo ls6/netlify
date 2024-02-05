@@ -107,10 +107,14 @@ url = "https://agilewarsaw.com/events/267/"
 ####################################
 
 [[params.Sponsors]]
+name = "DXC Technology"
+logo = "img/logo-DXC.png"
+url = "https://dxc.com/pl/en"
+
+[[params.Sponsors]]
 name = "ProCognita"
 logo = "img/logo_procognita.png"
 url = "https://procognita.pl/"
-
 
 ####################################
 #  Partnerzy
