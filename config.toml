@@ -41,16 +41,16 @@ link = "register"
 ##########################
 
 [params.Titles]
-about = "About the conference"
-location = "Where?"
-speakers = "Who?"
-schedule = "Timetable"
-sponsors = "Sponsors"
-partners = "Partners"
-media = "Media Partners"
-orgs = "Organizers"
-contact = "Contact"
-previous = "Previous Editions"
+about = "O konferencji"
+location = "Gdzie?"
+speakers = "Kto?"
+schedule = "Rozkład jazdy"
+sponsors = "Sponsorzy"
+partners = "Partnerzy"
+media = "Partnerzy medialni"
+orgs = "Organizatorzy"
+contact = "Kontakt"
+previous = "Poprzednie edycje"
 
 
 ####################################
@@ -106,20 +106,20 @@ url = "https://agilewarsaw.com/events/267/"
 #  Sponsorzy
 ####################################
 
-  [[params.Sponsors]]
-  name = "BEC Poland"
-  logo = "img/logo_bec.png"
-  url = "https://www.linkedin.com/company/becpoland/"
+[[params.Sponsors]]
+name = "BEC Poland"
+logo = "img/logo_bec.png"
+url = "https://www.linkedin.com/company/becpoland/"
 
-  [[params.Sponsors]]
-  name = "ProCognita"
-  logo = "img/logo_procognita.png"
-  url = "https://procognita.pl/"
+[[params.Sponsors]]
+name = "ProCognita"
+logo = "img/logo_procognita.png"
+url = "https://procognita.pl/"
 
-  [[params.Partners]]
-  name = "Agile Warsaw"
-  logo = "img/logo_AW.png"
-  url = "http://agilewarsaw.com"
+[[params.Partners]]
+name = "Agile Warsaw"
+logo = "img/logo_AW.png"
+url = "http://agilewarsaw.com"
 
 
 
@@ -127,45 +127,45 @@ url = "https://agilewarsaw.com/events/267/"
 #  Media
 ####################################
 
-  [[params.Media]]
-  name = "Agile Polska"
-  logo = "img/logo_APL.png"
-  url = "http://agilepolska.pl/"
+[[params.Media]]
+name = "Agile Polska"
+logo = "img/logo_APL.png"
+url = "http://agilepolska.pl/"
 
-  [[params.Media]]
-  name = "Agile 247"
-  logo = "img/logo_a247.jpg"
-  url = "http://www.agile247.pl/"
+[[params.Media]]
+name = "Agile 247"
+logo = "img/logo_a247.jpg"
+url = "http://www.agile247.pl/"
 
-  [[params.Media]]
-  name = "Agile 4U"
-  logo = "img/logo_agile4u.png"
-  url = "https://www.meetup.com/agile4u/"
+[[params.Media]]
+name = "Agile 4U"
+logo = "img/logo_agile4u.png"
+url = "https://www.meetup.com/agile4u/"
 
-  [[params.Media]]
-  name = "LubLean"
-  logo = "img/logo_LubLean.png"
-  url = "https://www.meetup.com/LubLean-and-Agile/"
+[[params.Media]]
+name = "LubLean"
+logo = "img/logo_LubLean.png"
+url = "https://www.meetup.com/LubLean-and-Agile/"
 
-  [[params.Media]]
-  name = "Agile Silesia"
-  logo = "img/logo_agile-silesia.png"
-  url = "https://www.agilesilesia.pl/"
+[[params.Media]]
+name = "Agile Silesia"
+logo = "img/logo_agile-silesia.png"
+url = "https://www.agilesilesia.pl/"
 
-  [[params.Media]]
-  name = "Kanban przy kawie"
-  logo = "img/logo_kanban_przy_kawie.png"
-  url = "https://kanbanprzykawie.pl/"
+[[params.Media]]
+name = "Kanban przy kawie"
+logo = "img/logo_kanban_przy_kawie.png"
+url = "https://kanbanprzykawie.pl/"
 
-  [[params.Media]]
-  name = "Agile Wrocław"
-  logo = "img/logo-agile-wroclaw.png"
-  url = "https://www.meetup.com/pl-PL/agilewroclaw/"
+[[params.Media]]
+name = "Agile Wrocław"
+logo = "img/logo-agile-wroclaw.png"
+url = "https://www.meetup.com/pl-PL/agilewroclaw/"
 
-  [[params.Media]]
-  name = "ALE Kraków"
-  logo = "img/logo-ale-krakow.png"
-  url = "https://www.alekrakow.com/"
+[[params.Media]]
+name = "ALE Kraków"
+logo = "img/logo-ale-krakow.png"
+url = "https://www.alekrakow.com/"
 
 
 
@@ -173,22 +173,22 @@ url = "https://agilewarsaw.com/events/267/"
 #  Organizatorzy
 ####################################
 
-  [[params.Orgs]]
-  name = "Ewa Koprowska"
-  img = "img/org_koprowska.png"
+[[params.Orgs]]
+name = "Ewa Koprowska"
+img = "img/org_koprowska.png"
 
-  [[params.Orgs]]
-  name = "Ania Przybyszewska"
-  img = "img/org_przybyszewska.png"
+[[params.Orgs]]
+name = "Ania Przybyszewska"
+img = "img/org_przybyszewska.png"
 
-  [[params.Orgs]]
-  name = "Piotr Radaj"
-  img = "img/org_radaj.png"
+[[params.Orgs]]
+name = "Piotr Radaj"
+img = "img/org_radaj.png"
 
-  [[params.Orgs]]
-  name = "Łukasz Szóstek"
-  img = "img/org_szostek.png"
-  
+[[params.Orgs]]
+name = "Łukasz Szóstek"
+img = "img/org_szostek.png"
+
 
 
 ####################################
