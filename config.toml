@@ -1,0 +1,390 @@
+publishDir = "docs"
+baseurl = "https://abelight.agilewarsaw.com"
+title = "ABE Light 2024"
+canonifyurls = true
+theme = "hugo-conference"
+
+[params]
+Name = "ABE Light 2024"
+Description = "AgileByExample Light 2024"
+Date = "10 Marca (Niedziela)"
+startDate = "2024-03-10T13:45"
+Venue = "Akademia Leona Koźmińskiego"
+Address = "ul. Jagiellońska 57/59"
+City = "Warsaw"
+AddressRemarks = "Aula…"
+Images = [ "/img/ABElight-ikonka.png" ]
+Sections = [
+  "about",
+  "location",
+  "speakers",
+  "schedule",
+  "partners",
+  "sponsors",
+  "media",
+  "orgs",
+  "previous"
+]
+
+
+##########################
+#   Link do rejestracji
+##########################
+
+[params.CallToAction]
+text = "Zarejestruj się (gratis)"
+link = "register"
+
+
+##########################
+#   Tytuły sekcji 
+##########################
+
+[params.Titles]
+about = "About the conference"
+location = "Where?"
+speakers = "Who?"
+schedule = "Timetable"
+sponsors = "Sponsors"
+partners = "Partners"
+media = "Media Partners"
+orgs = "Organizers"
+contact = "Contact"
+previous = "Previous Editions"
+
+
+####################################
+#  Linki do poprzednich edycji
+####################################
+
+[[params.Previous]]
+name = "2013"
+url = "https://agilewarsaw.com/events/55/"
+
+[[params.Previous]]
+name = "2014"
+url = "https://agilewarsaw.com/events/78/"
+
+[[params.Previous]]
+name = "2015"
+url = "https://agilewarsaw.com/events/98/"
+
+[[params.Previous]]
+name = "2016"
+url = "https://agilewarsaw.com/events/115/"
+
+[[params.Previous]]
+name = "2017"
+url = "https://agilewarsaw.com/events/130/"
+
+[[params.Previous]]
+name = "2018"
+url = "https://agilewarsaw.com/events/150/"
+
+[[params.Previous]]
+name = "2019"
+url = "https://agilewarsaw.com/events/179/"
+
+[[params.Previous]]
+name = "2020"
+url = "https://agilewarsaw.com/events/198/"
+
+[[params.Previous]]
+name = "2021"
+url = "https://agilewarsaw.com/events/228/"
+
+[[params.Previous]]
+name = "2022"
+url = "https://agilewarsaw.com/events/252/"
+
+[[params.Previous]]
+name = "2023"
+url = "https://agilewarsaw.com/events/267/"
+
+
+####################################
+#  Sponsorzy
+####################################
+
+  [[params.Sponsors]]
+  name = "BEC Poland"
+  logo = "img/logo_bec.png"
+  url = "https://www.linkedin.com/company/becpoland/"
+
+  [[params.Sponsors]]
+  name = "ProCognita"
+  logo = "img/logo_procognita.png"
+  url = "https://procognita.pl/"
+
+  [[params.Partners]]
+  name = "Agile Warsaw"
+  logo = "img/logo_AW.png"
+  url = "http://agilewarsaw.com"
+
+
+
+####################################
+#  Media
+####################################
+
+  [[params.Media]]
+  name = "Agile Polska"
+  logo = "img/logo_APL.png"
+  url = "http://agilepolska.pl/"
+
+  [[params.Media]]
+  name = "Agile 247"
+  logo = "img/logo_a247.jpg"
+  url = "http://www.agile247.pl/"
+
+  [[params.Media]]
+  name = "Agile 4U"
+  logo = "img/logo_agile4u.png"
+  url = "https://www.meetup.com/agile4u/"
+
+  [[params.Media]]
+  name = "LubLean"
+  logo = "img/logo_LubLean.png"
+  url = "https://www.meetup.com/LubLean-and-Agile/"
+
+  [[params.Media]]
+  name = "Agile Silesia"
+  logo = "img/logo_agile-silesia.png"
+  url = "https://www.agilesilesia.pl/"
+
+  [[params.Media]]
+  name = "Kanban przy kawie"
+  logo = "img/logo_kanban_przy_kawie.png"
+  url = "https://kanbanprzykawie.pl/"
+
+  [[params.Media]]
+  name = "Agile Wrocław"
+  logo = "img/logo-agile-wroclaw.png"
+  url = "https://www.meetup.com/pl-PL/agilewroclaw/"
+
+  [[params.Media]]
+  name = "ALE Kraków"
+  logo = "img/logo-ale-krakow.png"
+  url = "https://www.alekrakow.com/"
+
+
+
+####################################
+#  Organizatorzy
+####################################
+
+  [[params.Orgs]]
+  name = "Ewa Koprowska"
+  img = "img/org_koprowska.png"
+
+  [[params.Orgs]]
+  name = "Ania Przybyszewska"
+  img = "img/org_przybyszewska.png"
+
+  [[params.Orgs]]
+  name = "Piotr Radaj"
+  img = "img/org_radaj.png"
+
+  [[params.Orgs]]
+  name = "Łukasz Szóstek"
+  img = "img/org_szostek.png"
+  
+
+
+####################################
+#  Rozpiska
+####################################
+
+#------------------------
+#  Prelegenci
+#------------------------
+
+[[params.Schedule]]
+name = "Opening"
+time = "13h45"
+remark = "Please, be on time!<br>This is where you will be signing-up for workshops."
+
+[[params.Schedule]]
+[[params.Schedule.authors]]
+name = "Angel Diaz-Maroto"
+photo = "img/Angel-Diaz-Maroto.jpg"
+bio = "Certified Scrum Trainer (CST), Certified Enterprise Coach (CEC) & Certified Agile Leadership Educator (CALE) by the Scrum Alliance — Professional Certified Coach by the International Coach Federation with more than 15 years’ experience."
+
+[params.Schedule.authors.link]
+href = "https://procognita.com/certified-agile-leadership/certified-agile-leadership-training-15-march-2023"
+text = "March CAL trainings in Warsaw"
+
+[params.Schedule.presentation]
+title = "The #LeadershipDancefloor an informed leadership strategy for Agile organizations."
+description = "Organizational development is shaped by it's leaders. That's why a clear purpose and leadership strategy is a crucial factor to drive successful organizational change. The goal of this talk is to demonstrate a broad understanding of what leadership means to organizational change and how to use leadership to succeed on organizational change initiatives.<br> As a result of my 17+ years of focused work on organizational change I developed a leadership development framework that goes beyond personal growth and connects every aspect involved in organizational leadership. <br> In this framework I deconstruct leadership in 4 dimensions: <ul style=\"padding-left: 0.5em;\"> <li>• Relationship Frame</li> <li>• Dissatisfaction Gap</li> <li>• Collective dimension</li> <li>• Personal dimension</li> </ul>                    This dimensions are developed in 9 conversation patterns that any Agile leader should master to ensure success.<br> This framework and patters have been proven as a very helpful instrument for thousands of professionals from more than 50 countries in 5 continents to unleash their leadership capabilities and develop an informed strategy to influence organizational change. <img class=\"icon-lang\" src=\"img/lang-gb.svg\">"
+
+#------------------------
+
+[[params.Schedule]]
+[[params.Schedule.authors]]
+name = "Jaga Biernacka"
+photo = "img/jaga.jpg"
+bio = "Kiedyś członek zespołu deweloperskiego, potem Scrum Master, obecnie Scrum Master działający na wszystkich poziomach organizacji, co zwykliśmy nazywać Agile Coachem. Psycholog społeczny z wykształcenia, naukowiec zajmujący się motywacją w zwinnych zespołach z niezaspokojonej ciekawości. Fan myślenia systemowego, dobrze rozumianego Lean-a i samoorganizacji."
+[params.Schedule.authors.link]
+href = "https://www.linkedin.com/in/agnieszka-jaga-biernacka/"
+text = "LinkedIn"
+
+[params.Schedule.presentation]
+title = "Nowoczesny model budowy zespołów, czyli dlaczego Scrum jest efektem, a nie przyczyną"
+description = 'Obserwując proces budowy zespołów w różnych organizacjach, coraz częściej dochodziłam do wniosku, że coś jest nie tak z założeniami. Pewne założenia, często spotykane w środowisku zwinnym, wydawały mi się nieskuteczne. Powszechnie używany model Tuckmana został poddany ostatnio silnej krytyce (nie zawsze zresztą słusznie), jednocześnie nie było propozycji, czego można używać w zamian.<br> Model, który chcę pokazać, integruje wiele lat badań nad rozwojem zespołów. Co szczególnie ważne, obejmuje nie tylko aspekt społeczny, ale również zadaniowy budowy zespołu. Pokazuje, jak zmienia się rola lidera, podejmowane działania i obszary skupienia wraz ze wzrostem zespołu. <img class="icon-lang" src="img/lang-pl.svg">'
+
+#------------------------
+
+[[params.Schedule]]
+[[params.Schedule.authors]]
+name = "Adrian Janik"
+photo = "img/janik.jpg"
+bio = "Od 15 lat zajmuję się szkoleniem, rozwijaniem kompetencji miękkich.  Od 5 lat odkrywam świat zwinnych zespołów i przynoszę do niego narzędzia i rozwiązania wzmacniające zespołowość, samoorganizację oraz współodpowiedzialność.  Wspieram organizacje w planowaniu i skutecznym wdrażaniu zmian, dostarczam wiedzę i umiejętności związane z kompetencjami osobistymi, komunikacją oraz zespołowością. Pomagam liderom i członkom zespołów skutecznie pełnić ich role, a przez to budować samodzielne i odpowiedzialne teamy. Jako trener i psycholog głęboko wierzę, że dobre relacje są nie tylko kluczem do sukcesu zespołów i organizacji, ale też źródłem dobrego i pełnego życia. Prywatnie podróżuję i biegam, a później odpoczywam z książką w ręku."
+
+[params.Schedule.presentation]
+title = "Czy w zespołach dostrzegamy to co ważne? O znakach rozpoznania i budowaniu relacji"
+description = "Manifest Agile stawia ludzi i interakcje ponad procesy i narzędzia, stąd też zwinne podejście do projektów i zespołów tak duży nacisk kładzie na dbałość o motywację, kulturę feedbacku i zespołowość. Jednocześnie żyjemy w czasach rosnącej popularności pracy zdalnej i rozproszenia zespołów. Niesie to szereg nie zawsze pozytywnych następstw zarówno dla liderów, jak i członków zespołów. W trakcie mojego wystąpienia opowiem o ,,znakach rozpoznania''— jednym z ważnych konceptów psychologicznych, który wyjaśnia jak budujemy relacje i jak komunikujemy się z innymi. Poznanie tej teorii pozwoli Ci lepiej zrozumieć potrzeby współpracowników w sytuacji pracy zdalnej, a dzięki temu łatwiej dbać o zespołowość, zaangażowanie, satysfakcję z pracy i dobrostan psychologiczny zarówno Twój, jak i Twoich współpracowników. <img class=\"icon-lang\" src=\"img/lang-pl.svg\">"
+
+####################################
+# Warsztaty
+####################################
+
+#-----------------------------------------------------------
+# Opis warsztatów w tabelce, dane warsztatodawców są niżej
+#-----------------------------------------------------------
+
+[[params.Schedule]]
+name = "Parallel Workshops"
+remark = """
+The workshops will be held in parallel.<br> Workshop languages are mentioned in descriptions.<br><br>
+<strong>Jakub Bażela<br> Kanban Light</strong> <img class="icon-lang" src="img/lang-gb.svg"> <br> You will learn:<br> <ul style="padding-left: 0.5em;"> <li>• How to map the flow of work?</li> <li>• What makes a good Kanban board?</li> <li>• What are rules of Kanban, if any?</li> <li>• How are Kanban teams improving their services and ways of work?</li> </ul> <br><br>
+<strong>Bogumiła Kwiatkowska-Koterba<br> Współpraca popłaca - o efektywnej współpracy Scrum Mastera i Product Ownera</strong> <img class="icon-lang" src="img/lang-pl.svg"><br> W ramach warsztatu skupimy się na obszarze działania SM z PO.   Porozmawiamy o dobrych praktykach we współpracy SM i PO oraz odpowiemy sobie na poniższe pytania: <br> <ul style="padding-left: 0.5em;"> <li>• Jakie mogą być wzajemne oczekiwania między SM i PO?</li> <li>• W czym SM realnie może pomóc PO i w jakim zakresie?</li> <li>• W czym zazwyczaj PO widzi największą korzyść ze współpracy z SM?</li> <li>• Jakie narzędzia w kontekście efektywności pracy może zaproponować SM - Product Ownerowi?</li> <li>• Jak pracować z POs w zależności od ich poziomu zaawansowania w roli? </li> <li>• Czego jako PO mogę oczekiwać od SM?</li> <li>• Czego jako SM potrzebuje, aby osiągnąć satysfakcjonującą współpracę?</li> </ul> Rezultatem warsztatu będzie lista działań, praktyk i narzędzi, które Scrum Master i Product Owner mogą wykorzystać w codziennej pracy. <br> Warsztat będzie idealny dla PO, którzy zastanawiają się w czym SM może ich na co dzień lepiej wspierać, dla SM, którzy zastanawiają się jak realnie wspierać POA oraz dla Managerów, którzy chcą pomagać zarówno SM jak i PO w efektywnej kooperacji.
+<br><br><br>
+<strong>Noela Zdunek<br> Scrum a wartości—w poszukiwaniu sensu</strong> <img class="icon-lang" src="img/lang-pl.svg"><br>
+Jest to warsztat dość intymny–będziemy wszak rozmawiać o wartościach. Po co zostały umieszczone w Scrum Guide i… dlaczego akurat te? Jak często rozmawiasz o nich z zespołem? Jak rozumiesz szacunek? Gdzie na co dzień towarzyszy Ci odwaga? Co nam daje skupienie, otwartość, zaangażowanie? Spróbujemy odpowiedzieć na trudne pytania, podzielimy się doświadczeniami, spostrzeżeniami i interpretacjami. Rezultatem warsztatu będzie cel indywidualny oparty na wybranej wartości i–mam nadzieję–powracająca refleksja o tym, jakie miejsce wartości scrumowe zajmują w Twojej codziennej pracy.<br> Warsztat przeznaczony dla Scrum Masterów na każdym etapie rozwoju.
+<br><br><br>
+<strong>Krzysztof Niewiński i Tomasz Wykowski<br> Myślenie Systemowe, czyli jak przekonać nieprzekonanych</strong><img class="icon-lang" src="img/lang-pl.svg"> <br> Myślenie Systemowe to niezwykle ważne narzędzie nowoczesnego menedżera. Pozwala zrozumieć dynamikę otaczającego nas świata, a przez to umożliwia lepsze adresowanie złożonych problemów. Przede wszystkim jednak daje możliwość wspólnego ustalenia przyczyn i potencjalnych rozwiązań.<br> Na warsztacie nauczymy się, jak wizualizować złożone problemy i dostrzegać ich struktury - czyli trudne do zidentyfikowania korelacje przyczynowo-skutkowe. Zobaczymy jak wprowadzać właściwsze zmiany przechodząc od zachowania reaktywnego ("od pożaru do pożaru") do strategicznego (świadomego).<br> Konkretnie, poznamy: <ul style="padding-left: 0.5em;"> <li>• czym są Systemy i jakie są ich cechy, <li>• 3 poziomy postrzegania i adresowania problemów, <li>• jak formułować i wizualizować chroniczne problemy (diagram BOT), <li>• jak modelować złożone problemy w większych ekosystemach (diagram CLD). <br> </ul> <br><br>
+<strong>Karolina Karbarz, Justyna Wykowska <br> Jak można wykorzystać narzędzia UX  przy facylitacji? </strong> <img class="icon-lang" src="img/lang-pl.svg"><br> Skoro można projektować wrażenia użytkownika to można też zaprojektować wrażenia współpracownika. Boisz się trudnej rozmowy z kolegą, chcesz do czegoś przekonać szefa a może musisz poprowadzić spotkanie, na którym zazwyczaj ludzie umierają z nudów? Zapraszamy na warsztat w czasie którego pokażemy Wam jak narzędzia używane w pracy z produktem jak Persona czy Mapa Empatii mogą pomóc w poznaniu swoich wpółpracowników, prowadzeniu rozmów, negocjacji i spotkań. Zapraszamy wszystkie osoby, których praca polega na szeroko pojętej komunikacji.
+<br><br><br>
+<strong>Paulina Koperska i Łukasz Adamski<br> Sociocratic Consent Decision Making </strong> <img class="icon-lang" src="img/lang-gb.svg"><br> There is a moment in the meeting when you want to agree on something. What do you do then? The leader decides with the autocratic voice of one person? Maybe you vote and the majority wins? Perhaps you want to take into account different opinions and come to a consensus. Then the discussion takes forever and still everyone is slightly dissatisfied. <br> Here comes consent. An effective way to take into account different points of view to make decisions that everybody wants to implement. Instead of looking for the answer to the question “who agrees” you would look for the opposite - “who objects”. The return of the liberum veto? Not exactly! Please, come and check by yourself! <br> The workshop is for everyone who would like to expand their toolbox of group decision making. 
+"""
+
+#########################
+# Impreza 
+#########################
+
+  [[params.Schedule]]
+  name = "Afterparty!"
+  time = "~19:00"
+
+
+
+
+#---------------------------------------
+# Warsztatodawcy
+#---------------------------------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
+name = "Jakub Bażela"
+photo = "img/bazela.jpg"
+bio = "Jakub Bażela is a Scrum Master, trainer, co-author of the book “How to tame Agile. A guide practically agile” (2018), a former consultant with scaling experience in banking industry, a happy husband, and a paw-rent of Burger the German Shepherd."
+
+#------------------------
+
+[[params.Schedule]]
+  workshop = true
+
+    [[params.Schedule.authors]]
+    name = "Bogumiła Kwiatkowska-Koterba"
+    photo = "img/kwiatkowska.jpg"
+    bio = "Product Ownerka w Żabka Future (sercem cały czas Scrum Masterka :)<br> Od 2 lat w roli Product Ownera, a od ponad roku zajmuje się kluczowym procesem w firmie tj. zamawianie towaru do sklepu. Na co dzień współpracuje z Franczyzobiorcami, biznesem i zespołem deweloperskim, konfrontując zbierane wymagania od różnych interesariuszy z danymi. Swoje wcześniejsze ponad 5 letnie doświadczenie jako Scrum Master / Agile Coach nadal wykorzystuje kiedy tylko ma do tego sposobność. Nadal ciągnie ją do polepszania procesów, a poza tym uwielbia dzielić się wiedzą i polepszać efektywność w zespołach oraz organizacji. Swój umysł odrywa od codzienności w tańcu towarzyskim ze swoim mężem. A w wolnych chwilach uchwyca ludzkie emocje na fotografiach."
+
+      [params.Schedule.authors.link]
+      href = "https://www.linkedin.com/in/kwiatkowskakoterba/"
+      text = "LinkedIn"
+
+#------------------------
+
+  [[params.Schedule]]
+  workshop = true
+
+    [[params.Schedule.authors]]
+    name = "Krzysztof Niewiński"
+    photo = "img/Krzysztof_Niewinski_2022.png"
+    bio = "Pracuję w branży IT od 2005 roku. Jestem inżynierem oprogramowania, trenerem, konsultantem i promotorem podejścia Agile i Lean. Od 15 lat podążam ścieżką „zwinności” i zajmowałem wiele stanowisk w procesie tworzenia oprogramowania—od programisty, przez analityka, managera, aż po Scrum Mastera / Agile Coacha. Od 7 lat jestem zawodowo zaangażowany w tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Jestem promotorem podejścia LeSS (Large Scale Scrum) w Polsce, umożliwiającego rozwój produktów na dużą skalę."
+
+      [params.Schedule.authors.link]
+      href = "https://www.linkedin.com/in/krzysztofniewinski/"
+      text = "LinkedIn"
+
+    [[params.Schedule.authors]]
+    name = "Tomasz Wykowski"
+    photo = "img/TWykowski_2022.png"
+    bio = "Od ponad dwóch dekad uczestniczę w tworzeniu produktów software'owych, a od ponad piętnastu lat dzielę się swoją wiedzą poprzez szkolenia i konsulting. Jestem jedynym polskim Certified Scrum Trainer, CST akredytowanym przez Scrum Alliance oraz jednym z dwóch polskich Certified LeSS Coach. W przerwach pomiędzy pracą z liderami różnych firm piszę artykuły i nagrywam podcasty, które znajdziesz na stronie ProCognity. Jestem autorem książki \"Biznes Odczarowany. Scrum: jak osiągać cele, gdy wszystko się zmienia?\", w której opowiadam jak uniknąć iluzji nierealnych planów i stworzyć zwinną firmę."
+
+      [params.Schedule.authors.link]
+      href = "https://www.linkedin.com/in/wykowski/"
+      text = "LinkedIn"
+
+#------------------------
+
+  [[params.Schedule]]
+  workshop = true
+
+    [[params.Schedule.authors]]
+    name = "Karolina Karbarz"
+    photo = "img/Karolina_Karbarz_2022.jpeg"
+    bio = "Projektuję od 2014 roku, w tym czasie z powodzeniem pracowałam nad produktami zarówno w dużej korporacji, jak i we współpracy z obiecującymi start-upami. Na co dzień zajmuję się badaniem potrzeb użytkowników, projektowaniem oraz walidacją tworzonych rozwiązań. Współtworzę jedną z najbardziej rozpoznawalnych na świecie konferencji o tworzeniu treści — soap!, która od ponad 8 lat przyciąga do Krakowa specjalistów z 35 krajów."
+
+      [params.Schedule.authors.link]
+      href = "https://www.linkedin.com/in/karolina-karbarz"
+      text = "LinkedIn"
+
+    [[params.Schedule.authors]]
+    name = "Justyna Wykowska"
+    photo = "img/JWykowska_2022.png"
+    bio = "Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant."
+
+      [params.Schedule.authors.link]
+      href = "https://www.linkedin.com/in/justynawykowska"
+      text = "LinkedIn"
+
+#------------------------
+
+  [[params.Schedule]]
+  workshop = true
+
+    [[params.Schedule.authors]]
+    name = "Noela Zdunek"
+    photo = "img/noela-zdunek.jpg"
+    bio = "Scrum Masterką oficjalnie jest od dwóch lat, choć w oparciu o filary i wartości scrumowe działa intuicyjnie całe życie. Obecnie wspiera zwinną transformację w BNP Paribas na wszystkich szczeblach organizacji. Równie ważny jest dla niej deweloper, menedżer, jak i prezes zarządu – wierzy, że dzięki współpracy organizacje mogą osiągnąć najwięcej. Skupia się na budowaniu bezpiecznej atmosfery do pracy, eksperymentowania i ciągłego doskonalenia. Jako mentorka (m. in. w ScrumDzielni) działa na rzecz społeczności Agile i propagowania dobrych wzorców. Prywatnie – psia mama dwóch kundelków, fanka pizzy, piwa i playstation."
+
+      [params.Schedule.authors.link]
+      href = "https://www.linkedin.com/in/noela-zdunek"
+      text = "LinkedIn"
+
+#------------------------
+
+  [[params.Schedule]]
+  workshop = true
+
+    [[params.Schedule.authors]]
+    name = "Paulina Koperska"
+    photo = "img/koperska.jpg"
+    bio = "I enjoy accompanying people and companies to develop their potential. I am an enthusiast, practitioner and promoter of self-organization. I am a team member of Teal Breakfasts and SoFA - Sociocracy for All.<br> I have several years of leadership experience in the FMCG area. I am an individual (Co-Active) and team (ORSC) coach, as well as a soft skills and basic financial skills trainer. My current focus is on accompanying the introduction of the self-organization approach.<br> With the future in mind, I have founded the Design for Change Poland Association promoting an attitude of agency in children and young people through projects that change the world around them. "
+
+      [params.Schedule.authors.link]
+      href = "http://www.linkedin.com/in/paulinakoperska"
+      text = "LinkedIn"
+
+    [[params.Schedule.authors]]
+    name = "Łukasz Adamski"
+    photo = "img/adamski.jpg"
+    bio = "I am a Scrum Master/Agile Coach with 3.5 years of experience in these roles. In recent months my main focus was self-management transformation, in which I got to know Sociocracy. I discovered that I believe in its values of effective collaboration and an inclusive environment. I especially fell in love with round discussion and decision by consent."
+
+      [params.Schedule.authors.link]
+      href = "https://www.linkedin.com/in/luka-adamski/"
+      text = "LinkedIn"
