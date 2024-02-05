@@ -182,6 +182,10 @@ name = "Ania Przybyszewska"
 img = "img/org_przybyszewska.png"
 
 [[params.Orgs]]
+name = "Ewelina Startek"
+img = "img/org_startek.png"
+
+[[params.Orgs]]
 name = "Ewa Koprowska"
 img = "img/org_koprowska.png"
 
