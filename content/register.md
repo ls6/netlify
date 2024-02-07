@@ -35,9 +35,11 @@ Konkretnie:
 
 ## ...i wreszcie:
 
-[Zapisz się tutaj](https://join.slack.com/t/abelight2024/shared_invite/zt-2bzcalr4l-XfrCA9eLtTVYv2erus2dUA)
+#### Zapisz się <a id="in-your-face" href="https://join.slack.com/t/abelight2024/shared_invite/zt-2bzcalr4l-XfrCA9eLtTVYv2erus2dUA"">tutaj</a>
 
-Jeśli Twój Slack wyświetla Ci niewłaściwy komunikat o błędzie:
+
+<h4 style="font-size: 2.2em;"><br> Jeśli Slack wyświetla Ci komunikat o błędzie:</h4>
+
 Niestety, Slack bywa zawodny i nie możemy nic z tym zrobić. Jeśli link do rejestracji nie działa dla Ciebie, spróbuj:
 
    • Dołącz za pomocą komputera, nie telefonu. Po zalogowaniu się, aplikacja Slacka powinna działać.
