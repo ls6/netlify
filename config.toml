@@ -126,6 +126,10 @@ logo = "img/logo_AW.png"
 url = "http://agilewarsaw.com"
 
 
+[[params.Partners]]
+name = "NextGen.PM"
+logo = "img/logo_NextGenPM.png"
+url = "https://nextgen.pm/"
 
 ####################################
 #  Media
