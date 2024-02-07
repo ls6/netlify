@@ -116,6 +116,11 @@ name = "ProCognita"
 logo = "img/logo_procognita.png"
 url = "https://procognita.pl/"
 
+[[params.Sponsors]]
+name = "Akademia Leona Koźmińskiego"
+logo = "img/logo_ALK.png"
+url = "https://www.kozminski.edu.pl/"
+
 ####################################
 #  Partnerzy
 ####################################
