@@ -291,12 +291,47 @@ remark = """
 # tematy warsztatów są w rozpisce powyżej
 #---------------------------------------
 
-# [[params.Schedule]]
-# workshop = true
+[[params.Schedule]]
+workshop = true
 
-# [[params.Schedule.authors]]
-# name = "Jakub Bażela"
-# photo = "img/bazela.jpg"
-# bio = "Jakub Bażela is a Scrum Master, trainer, co-author of the book “How to tame Agile. A guide practically agile” (2018), a former consultant with scaling experience in banking industry, a happy husband, and a paw-rent of Burger the German Shepherd."
+[[params.Schedule.authors]]
+name = "Ewa Koprowska"
+photo = ""
+bio = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
+name = "Joanna Płaskonka"
+photo = ""
+bio = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
+name = "Agata Kabat"
+photo = ""
+bio = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
+name = "Tomek Serafin"
+photo = ""
+bio = ""
+
+[[params.Schedule.authors]]
+name = "Jakub Dobosz"
+photo = ""
+bio = ""
 
 #------------------------
