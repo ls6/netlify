@@ -236,9 +236,9 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     photo = ""
     bio = ""
 
-      [params.Schedule.authors.link]
-        href = ""
-        text = ""
+      # [params.Schedule.authors.link]
+      #   href = ""
+      #   text = ""
 
     [params.Schedule.presentation]
       title = 'TBD'
@@ -251,9 +251,9 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     photo = ""
     bio = ""
 
-      [params.Schedule.authors.link]
-        href = ""
-        text = ""
+      # [params.Schedule.authors.link]
+      #   href = ""
+      #   text = ""
 
     [params.Schedule.presentation]
       title = 'TBD'
@@ -271,8 +271,26 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 name = "Warsztaty"
 remark = """
 
-<strong>Wszystkie warsztaty będą się działy jednocześnie / równolegle</strong>
-<br> 
+Wszystkie warsztaty będą się toczyły jednocześnie / równolegle czyli możesz dołączyć tylko do jednego z nich.
+
+Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz 👆👆
+
+<br><br>
+
+<strong>Ewa Koprowska</strong>
+
+<br><br>
+
+
+<strong>Joanna Płaskonka</strong>
+
+<br><br>
+
+<strong>Agata Kabat</strong>
+
+<br><br>
+
+<strong>Tomek Serafin i Jakub Dobosz</strong>
 
 """
 
@@ -285,7 +303,6 @@ remark = """
   time = "~19:00"
 
 
-
 #---------------------------------------
 # Warsztatodawcy -- tylko wizytówki! 
 # tematy warsztatów są w rozpisce powyżej
@@ -294,44 +311,59 @@ remark = """
 [[params.Schedule]]
 workshop = true
 
-[[params.Schedule.authors]]
-name = "Ewa Koprowska"
-photo = ""
-bio = ""
+  [[params.Schedule.authors]]
+  name = "Ewa Koprowska"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
 
 #------------------------
 
 [[params.Schedule]]
 workshop = true
 
-[[params.Schedule.authors]]
-name = "Joanna Płaskonka"
-photo = ""
-bio = ""
+  [[params.Schedule.authors]]
+  name = "Joanna Płaskonka"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
 
 #------------------------
 
 [[params.Schedule]]
 workshop = true
 
-[[params.Schedule.authors]]
-name = "Agata Kabat"
-photo = ""
-bio = ""
+  [[params.Schedule.authors]]
+  name = "Agata Kabat"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
 
 #------------------------
 
 [[params.Schedule]]
 workshop = true
 
-[[params.Schedule.authors]]
-name = "Tomek Serafin"
-photo = ""
-bio = ""
+  [[params.Schedule.authors]]
+  name = "Tomek Serafin"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
 
-[[params.Schedule.authors]]
-name = "Jakub Dobosz"
-photo = ""
-bio = ""
+  [[params.Schedule.authors]]
+  name = "Jakub Dobosz"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
 
 #------------------------
