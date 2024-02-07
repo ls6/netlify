@@ -171,8 +171,6 @@ url = "http://agilewarsaw.com"
 # logo = "img/logo-ale-krakow.png"
 # url = "https://www.alekrakow.com/"
 
-
-
 ####################################
 #  Organizatorzy
 ####################################
@@ -230,8 +228,36 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     [params.Schedule.presentation]
       title = 'TBD'
       description ='TBD'
-
 #------------------------
+
+[[params.Schedule]]
+    [[params.Schedule.authors]]
+    name = "Kuba Szczepanik"
+    photo = ""
+    bio = ""
+
+      [params.Schedule.authors.link]
+        href = ""
+        text = ""
+
+    [params.Schedule.presentation]
+      title = 'TBD'
+      description ='TBD'
+#------------------------
+
+[[params.Schedule]]
+    [[params.Schedule.authors]]
+    name = "Agnieszka Cieślawska"
+    photo = ""
+    bio = ""
+
+      [params.Schedule.authors.link]
+        href = ""
+        text = ""
+
+    [params.Schedule.presentation]
+      title = 'TBD'
+      description ='TBD'
 
 ####################################
 # Warsztaty
