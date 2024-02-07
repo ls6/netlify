@@ -1,0 +1,378 @@
+publishDir = "docs"
+baseurl = "https://abelight.agilewarsaw.com"
+title = "ABE Light 2024"
+canonifyurls = true
+theme = "hugo-conference"
+
+[params]
+Name = "ABE Light 2024"
+Description = "AgileByExample Light 2024"
+Date = "10 Marca (Niedziela)"
+startDate = "2024-03-10T13:45"
+Venue = "Akademia Leona Koźmińskiego"
+Address = "ul. Jagiellońska 57/59"
+City = "Warsaw"
+AddressRemarks = "Aula…"
+Images = [ "/img/ABElight-ikonka.png" ]
+Sections = [
+  "about",
+  "location",
+  "speakers",
+  "schedule",
+  "partners",
+  "sponsors",
+  "media",
+  "orgs",
+  "previous"
+]
+
+
+##########################
+#   Link do rejestracji
+##########################
+
+[params.CallToAction]
+text = "Zarejestruj się (gratis)"
+link = "register"
+
+
+##########################
+#   Tytuły sekcji 
+##########################
+
+[params.Titles]
+about = "O konferencji"
+location = "Gdzie?"
+speakers = "Kto?"
+schedule = "Rozkład jazdy"
+sponsors = "Sponsorzy"
+partners = "Partnerzy"
+media = "Partnerzy medialni"
+orgs = "Organizatorzy"
+contact = "Kontakt"
+previous = "Poprzednie edycje"
+
+
+####################################
+#  Linki do poprzednich edycji
+####################################
+
+[[params.Previous]]
+name = "2013"
+url = "https://agilewarsaw.com/events/55/"
+
+[[params.Previous]]
+name = "2014"
+url = "https://agilewarsaw.com/events/78/"
+
+[[params.Previous]]
+name = "2015"
+url = "https://agilewarsaw.com/events/98/"
+
+[[params.Previous]]
+name = "2016"
+url = "https://agilewarsaw.com/events/115/"
+
+[[params.Previous]]
+name = "2017"
+url = "https://agilewarsaw.com/events/130/"
+
+[[params.Previous]]
+name = "2018"
+url = "https://agilewarsaw.com/events/150/"
+
+[[params.Previous]]
+name = "2019"
+url = "https://agilewarsaw.com/events/179/"
+
+[[params.Previous]]
+name = "2020"
+url = "https://agilewarsaw.com/events/198/"
+
+[[params.Previous]]
+name = "2021"
+url = "https://agilewarsaw.com/events/228/"
+
+[[params.Previous]]
+name = "2022"
+url = "https://agilewarsaw.com/events/252/"
+
+[[params.Previous]]
+name = "2023"
+url = "https://agilewarsaw.com/events/267/"
+
+
+####################################
+#  Sponsorzy
+####################################
+
+[[params.Sponsors]]
+name = "DXC Technology"
+logo = "img/logo-DXC.png"
+url = "https://dxc.com/pl/en"
+
+[[params.Sponsors]]
+name = "ProCognita"
+logo = "img/logo_procognita.png"
+url = "https://procognita.pl/"
+
+[[params.Sponsors]]
+name = "Akademia Leona Koźmińskiego"
+logo = "img/logo_ALK.png"
+url = "https://www.kozminski.edu.pl/"
+
+####################################
+#  Partnerzy
+####################################
+
+[[params.Partners]]
+name = "Agile Warsaw"
+logo = "img/logo_AW.png"
+url = "http://agilewarsaw.com"
+
+
+[[params.Partners]]
+name = "NextGen.PM"
+logo = "img/logo_NextGenPM.png"
+url = "https://nextgen.pm/"
+
+####################################
+#  Media
+####################################
+
+# [[params.Media]]
+# name = "Agile Polska"
+# logo = "img/logo_APL.png"
+# url = "http://agilepolska.pl/"
+
+# [[params.Media]]
+# name = "Agile 247"
+# logo = "img/logo_a247.jpg"
+# url = "http://www.agile247.pl/"
+
+# [[params.Media]]
+# name = "Agile 4U"
+# logo = "img/logo_agile4u.png"
+# url = "https://www.meetup.com/agile4u/"
+
+# [[params.Media]]
+# name = "LubLean"
+# logo = "img/logo_LubLean.png"
+# url = "https://www.meetup.com/LubLean-and-Agile/"
+
+# [[params.Media]]
+# name = "Agile Silesia"
+# logo = "img/logo_agile-silesia.png"
+# url = "https://www.agilesilesia.pl/"
+
+# [[params.Media]]
+# name = "Kanban przy kawie"
+# logo = "img/logo_kanban_przy_kawie.png"
+# url = "https://kanbanprzykawie.pl/"
+
+# [[params.Media]]
+# name = "Agile Wrocław"
+# logo = "img/logo-agile-wroclaw.png"
+# url = "https://www.meetup.com/pl-PL/agilewroclaw/"
+
+# [[params.Media]]
+# name = "ALE Kraków"
+# logo = "img/logo-ale-krakow.png"
+# url = "https://www.alekrakow.com/"
+
+####################################
+#  Organizatorzy
+####################################
+
+[[params.Orgs]]
+name = "Ania Przybyszewska"
+img = "img/org_przybyszewska.png"
+
+[[params.Orgs]]
+name = "Ewelina Startek"
+img = "img/org_startek.png"
+
+[[params.Orgs]]
+name = "Ewa Koprowska"
+img = "img/org_koprowska.png"
+
+[[params.Orgs]]
+name = "Piotr Radaj"
+img = "img/org_radaj.png"
+
+[[params.Orgs]]
+name = "Łukasz Szóstek"
+img = "img/org_szostek.png"
+
+
+
+####################################
+#  Rozpiska
+####################################
+
+#------------------------
+#  Prelegenci
+#------------------------
+
+[[params.Schedule]]
+name = "Zapisy na warsztaty"
+time = "13h15"
+remark = 'Warto być na czas! Zapisy będą na miejscu i najciekawsze warsztaty zapełnią się najszybciej.'
+
+[[params.Schedule]]
+name = "Otwarcie"
+remark = 'Trochę informacji logistycznych i lecimy z programem…'
+
+
+[[params.Schedule]]
+    [[params.Schedule.authors]]
+    name = "Tomasz Wykowski"
+    photo = "img/TWykowski_2022.png"
+    bio = "Od ponad dwóch dekad uczestniczę w tworzeniu produktów software'owych, a od ponad piętnastu lat dzielę się swoją wiedzą poprzez szkolenia i konsulting. Jestem jedynym polskim Certified Scrum Trainer, CST akredytowanym przez Scrum Alliance oraz jednym z dwóch polskich Certified LeSS Coach. W przerwach pomiędzy pracą z liderami różnych firm piszę artykuły i nagrywam podcasty, które znajdziesz na stronie ProCognity. Jestem autorem książki \"Biznes Odczarowany. Scrum: jak osiągać cele, gdy wszystko się zmienia?\", w której opowiadam jak uniknąć iluzji nierealnych planów i stworzyć zwinną firmę."
+
+      [params.Schedule.authors.link]
+        href = "https://www.linkedin.com/in/wykowski/"
+        text = "LinkedIn"
+
+    [params.Schedule.presentation]
+      title = 'TBD'
+      description ='TBD'
+#------------------------
+
+[[params.Schedule]]
+    [[params.Schedule.authors]]
+    name = "Kuba Szczepanik"
+    photo = ""
+    bio = ""
+
+      # [params.Schedule.authors.link]
+      #   href = ""
+      #   text = ""
+
+    [params.Schedule.presentation]
+      title = 'TBD'
+      description ='TBD'
+#------------------------
+
+[[params.Schedule]]
+    [[params.Schedule.authors]]
+    name = "Agnieszka Cieślawska"
+    photo = ""
+    bio = ""
+
+      # [params.Schedule.authors.link]
+      #   href = ""
+      #   text = ""
+
+    [params.Schedule.presentation]
+      title = 'TBD'
+      description ='TBD'
+
+####################################
+# Warsztaty
+####################################
+
+#-----------------------------------------------------------
+# Opis warsztatów w tabelce, dane warsztatodawców są niżej
+#-----------------------------------------------------------
+
+[[params.Schedule]]
+name = "Warsztaty"
+remark = """
+
+Wszystkie warsztaty będą się toczyły jednocześnie / równolegle czyli możesz dołączyć tylko do jednego z nich.
+
+Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz 👆👆
+
+<br><br>
+
+<strong>Ewa Koprowska</strong>
+
+<br><br>
+
+
+<strong>Joanna Płaskonka</strong>
+
+<br><br>
+
+<strong>Agata Kabat</strong>
+
+<br><br>
+
+<strong>Tomek Serafin i Jakub Dobosz</strong>
+
+"""
+
+#########################
+# Impreza 
+#########################
+
+[[params.Schedule]]
+  name = "Afterparty!"
+  time = "~19:00"
+
+
+#---------------------------------------
+# Warsztatodawcy -- tylko wizytówki! 
+# tematy warsztatów są w rozpisce powyżej
+#---------------------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Ewa Koprowska"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Joanna Płaskonka"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Agata Kabat"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Tomek Serafin"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
+
+  [[params.Schedule.authors]]
+  name = "Jakub Dobosz"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
+
+#------------------------
