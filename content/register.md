@@ -5,53 +5,43 @@ draft: false
 description: "Registration for ABELight 2022"
 ---
 
-## Registration
+## Rejestracja
 
-The only registration step is signing up for the conference Slack.
+Jedynym krokiem rejestracji jest zapisanie się na konferencyjnego Slacka.
+Ponieważ konferencja jest darmowa, a rejestracja tak łatwa, zachęcamy do przestrzegania kilku zasad, które uczynią dzień lepszym dla nas wszystkich:
 
-Since the conference is free and registration so easy we encourage you to follow some rules that will make the day better for all of us:
+### Użyj swojego prawdziwego imienia i nazwiska
 
-#### Use your full real name 
+Ponieważ to jedyny krok rejestracji, Twój identyfikator Slacka (oby był to Twój pełny prawdziwy identyfikator) jest jedynym sposobem kontaktu z Tobą, nie tylko przez organizatorów, ale także przez wszystkich innych uczestników konferencji.
+Adres e-mail, który Slack poprosi Cię podać podczas rejestracji, będzie ukryty.
 
-Since this is the only registration step your Slack ID (hopefully your full name) is the only way to get in touch with you not only by the organizers but also for all other conference participants.
+### Dołącz swoje aktualne zdjęcie
 
-The email address Slack will ask you when signing up will be hidden.
+Jest to głównie dla innych uczestników, aby mogli Cię rozpoznać, jeśli zdarzy się, że połączysz się na Slacku przed wydarzeniem i chcesz kontynuować w rzeczywistości.
 
-#### Attach your current photo
+### Tworzenie nowych kanałów Slacka
 
-This is mainly for other participants to recognize you if you happen to connect on Slack before the event and want to continue in real life.
+Zobacz, jakie kanały już istnieją. Jeśli czegoś brakuje, możesz stworzyć nowy kanał. Zarówno publiczne, jak i prywatne - to także Twoja przestrzeń, jak i każdego innego, w tym organizatorów. Co powiesz na zorganizowanie przyjazdu do Warszawy z innych miast?
 
-#### Creating new Slack channels
+### Etykieta
 
-Take a look around and see what channels already exist. If you are missing one, you are welcome to create it. Either public or private — it is your space as much as everybody else's, including the organizers. How about co-ordinating coming to Warsaw from other cities?
+Oczywiście, wszystkie normy zachowań społecznych są obowiązujące. Nie będziemy się nad nimi rozwodzić, ponieważ to standard i nigdy nie mieliśmy z tym problemów :)
+Jednakże, ponieważ korzystamy z Slacka do komunikacji, mamy jedną dodatkową prośbę: proszę, szanuj specjalne kanały.
 
-#### Etiquette
+Konkretnie:
 
-Obviously all norms of social behaviours are given. We will not dwell on them since it is a standard and we never had problems with it :)
+   • traktuj kanał `#official-annoucements` jako tylko do odczytu. Chcielibyśmy go zarezerwować na ogłoszenia od organizatorów  
+   • kanał `#organizers` jest przeznaczony jako miejsce do zgłaszania spraw do uwagi organizatorów; wszelka dalsza dyskusja powinna odbywać się gdzie indziej
 
-However, since we are using Slack for communication we have one additional request: please, respect the special channels.
+## ...i wreszcie:
 
-Specifically:
+[Zapisz się tutaj](https://join.slack.com/t/abelight2024/shared_invite/zt-2bzcalr4l-XfrCA9eLtTVYv2erus2dUA)
 
-   treat the `#official-annoucements` channel as read-only. We would like to reserve it for announcements from organizers
+Jeśli Twój Slack wyświetla Ci niewłaściwy komunikat o błędzie:
+Niestety, Slack bywa zawodny i nie możemy nic z tym zrobić. Jeśli link do rejestracji nie działa dla Ciebie, spróbuj:
 
-   the `#organizers` channel is meant as a place to bring stuff to organizers attention; any following discussion should be held elsewhere
+   • Dołącz za pomocą komputera, nie telefonu. Po zalogowaniu się, aplikacja Slacka powinna działać.
 
-
-
-## …and finally:
-
-#### Sign-up <a id="in-your-face" href="https://join.slack.com/t/abelight2022/shared_invite/zt-19xgnpf0w-8aTHowWff~3R_sSmotadNw">here</a>
-
-
-<h4 style="font-size: 2.2em;"><br>If your Slack is giving you an unhelpful error message:</h4>
-
-Unfortunately Slack is really buggy this year and we cannot do anything about it. If the registration link does not work for you, please try:  
-
-  • Using <a id="in-your-face" href="https://join.slack.com/t/newworkspace-cq73322/shared_invite/zt-15w7np6no-6GJlDiWFBajiJF4Ka0hjmg">an alternative link</a>.  
-  • Joining using a computer, not a phone. Once you are in, the Slack app should work.  
-  • If you know someone who joined already, ask them to invite you "from the inside". They can find info on how to do it in the `#official-announcements` channel.  
-  • If you don't know anyone on the inside contact us (organizers) and we will invite you "from the inside". If you do not know any of us, use the email address at the bottom of the [https://agilewarsaw.com/](https://agilewarsaw.com/) web page (sorry for not putting it here directly but email spam is a real problem). 
-
-We are very sorry about this whole Slack issue but there's really nothing we can do now. The good news is that people are joining every day, so it is possible in principle. There's just something unusual about your account as far as Slack is concerned.
-
+   • Jeśli znasz kogoś, kto już dołączył, poproś go o zaproszenie Cię "od środka". Może znaleźć informacje na ten temat w kanale `#official-announcements`.
+    
+   • Jeśli nie znasz nikogo z wewnątrz, skontaktuj się z nami (organizatorami), a my zaprosimy Cię "od środka". Jeśli nie znasz żadnego z nas, skorzystaj z adresu e-mail na dole strony internetowej [https://agilewarsaw.com/](https://agilewarsaw.com/) (przepraszamy, że nie umieściliśmy go tutaj bezpośrednio, ale spam e-mailowy to realny problem).
