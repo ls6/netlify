@@ -216,7 +216,7 @@ img = "img/org_szostek.png"
 
 [[params.Schedule]]
 name = "Zapisy na warsztaty"
-time = "13h15"
+time = "po południu"
 remark = 'Warto być na czas! Zapisy będą na miejscu i najciekawsze warsztaty zapełnią się najszybciej.'
 
 [[params.Schedule]]
@@ -286,20 +286,55 @@ Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz 👆👆
 
 <br><br>
 
-<strong>Ewa Koprowska</strong>
-
+<strong>Ewa Koprowska</strong><br>
+TBD
 <br><br>
 
 
-<strong>Joanna Płaskonka</strong>
+<strong>Joanna Płaskonka</strong><br>
+TBD
+
 
 <br><br>
 
-<strong>Agata Kabat</strong>
+<strong>Agata Kabat</strong><br>
+TBD
+
 
 <br><br>
 
-<strong>Tomek Serafin i Jakub Dobosz</strong>
+<strong>Tomek Serafin i Jakub Dobosz</strong><br>
+TBD
+
+
+<br><br>
+
+<strong>Adrian Janik i Mateusz Hauk</strong><br>
+TBD
+
+
+<br><br>
+
+<strong>Tomek Wykowski</strong><br>
+TBD
+
+
+<br><br>
+
+<strong>Krzysztof Niewiński</strong><br>
+TBD
+
+
+<br><br>
+
+<strong>Justyna Wykowska i Karolina</strong><br>
+TBD
+
+
+<br><br>
+
+<strong>Magda Gałaj i Marcin Gałaj</strong><br>
+TBD
 
 """
 
@@ -369,6 +404,82 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Jakub Dobosz"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Adrian Janik"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
+
+  [[params.Schedule.authors]]
+  name = "Mateusz Hauk"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Krzysztof Niewiński"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Justyna Wykowska"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
+
+  # [[params.Schedule.authors]]
+  # name = "Karolina"
+  # photo = ""
+  # bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Magda Gałaj"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    # href = ""
+    # text = ""
+
+  [[params.Schedule.authors]]
+  name = "Marcin Gałaj"
   photo = ""
   bio = ""
     # [params.Schedule.authors.link]
