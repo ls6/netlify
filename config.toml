@@ -421,9 +421,9 @@ workshop = true
 Zaczynałem karierę zawodową jako programista, następnie tworzyłem i dostarczałem wartość jako analityk, menadżer projektu, menadżer produktu, lider zespołu, Scrum Master, a nawet Head of HR. <br>
 Obecnie jestem programistą i przywódcą służebnym zespołu Scrumowego. Jednym z moich hobby jest tworzenie oraz prowadzenie warsztatów wzmacniających zrozumienie zwinności. Lubię zrozumienie.
   """
-    # [params.Schedule.authors.link]
-    # href = ""
-    # text = ""
+  [params.Schedule.authors.link]
+    href = 'https://www.linkedin.com/in/tpserafin/'
+    text = "LinkedIn"
 
   [[params.Schedule.authors]]
   name = "Jakub Dobosz"
@@ -431,9 +431,9 @@ Obecnie jestem programistą i przywódcą służebnym zespołu Scrumowego. Jedny
   bio = """
 Cenię synergię zespołu, przejrzystość i skuteczną komunikację. Skupiam się na wartości biznesowej i szukaniu sposobów na jej optymalne dostarczanie. Wierzę, że poprzez ciągłe zwiększanie naszego zrozumienia własnych potrzeb i motywacji jesteśmy w stanie tworzyć wyjątkowe rozwiązania. Jednym z moich celów jest budowanie środowisk, gdzie każdy ma poczucie własności i możliwość wpływania na nie. Praktykuję NVC i zwiększanie swojej uważności.
   """
-    # [params.Schedule.authors.link]
-    # href = ""
-    # text = ""
+   [params.Schedule.authors.link]
+    href = 'https://www.linkedin.com/in/jakubdobosz/'
+    text = "LinkedIn"
 
 #------------------------
 
