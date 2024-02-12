@@ -351,13 +351,19 @@ TBD
 
 <br><br>
 
-<strong>Justyna Wykowska i Karolina</strong><br>
+<strong>Justyna Wykowska i Karolina Karbarz</strong><br>
 TBD
 
 
 <br><br>
 
 <strong>Magda Gałaj i Marcin Gałaj</strong><br>
+TBD
+
+
+<br><br>
+
+<strong>Jaga Biernacka</strong><br>
 TBD
 
 """
@@ -506,7 +512,7 @@ workshop = true
     # text = ""
 
   # [[params.Schedule.authors]]
-  # name = "Karolina"
+  # name = "Karolina Karbarz"
   # photo = ""
   # bio = ""
     # [params.Schedule.authors.link]
@@ -533,5 +539,18 @@ workshop = true
     # [params.Schedule.authors.link]
     # href = ""
     # text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Jaga Biernacka"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
 
 #------------------------
