@@ -312,8 +312,12 @@ TBD
 
 <br><br>
 
-<strong>Agata Kabat</strong><br>
-TBD
+<strong>Agata Kabat <br> 
+Mózg w coachingu, czyli praktyczna opowieść o procesie zmiany</strong>
+<br><br>
+Chciałabym Was zaprosić do odkrycia klasycznego coachingu (zgodnego z definicją ICF) na nowo, tym razem z perspektywy naukowej dotyczącej funkcjonowania ludzkiego mózgu w kontekście procesu zmiany i relacji międzyludzkich. Będzie to okazja m.in. do przyjrzenia się źródłom potencjalnego oporu, którego nierzadko doświadczamy jako agenci zmiany we współpracy z zespołami, jednostkami czy organizacjami. Co więcej, wspólnie dowiemy się jak pracować z takimi wyzwaniami wykorzystując podstawową strukturę rozmowy coachingowej oraz model SCARF w ćwiczeniach. <br>
+Dodatkowy bonus: jeżeli zależy Ci na rozwoju własnych procesów decyzyjnych czy zmianie nawyków, z powodzeniem zastosujesz poznane narzędzia w ramach indywidualnych refleksji. <br>
+Na warsztaty przygotujcie proszę przykład problemu lub dylematu, z którym się mierzycie i chcielibyście się nim podzielić w grupie. Wykorzystamy je w praktyce. Nasze kory przedczołowe na pewno się ucieszą :) 
 
 
 <br><br>
@@ -404,7 +408,11 @@ workshop = true
   [[params.Schedule.authors]]
   name = "Agata Kabat"
   photo = ""
-  bio = ""
+  bio = """
+  Od 8 lat jestem związana z zarządzaniem projektami, wspieram tworzenie produktów oraz usług, a także ulepszam procesy w sektorach: BPO/SSC, consulting, fintech oraz IT. Pracowałam jako Project Managerka, Team Liderka, Scrum Masterka, aktualnie działam w roli Agile Coachki. <br>
+  Dodatkowo, jako coachka w trakcie akredytacji ICF, specjalizuję się w pracy coachingowej z liderami, zespołami oraz Scrum Masterami/Agile Coachami używając m.in. techniki Brain-Based Coaching. <br>
+  W wolnych chwilach ćwiczę boks, praktykuję jogę i uważnie spaceruję po lesie.
+  """
     # [params.Schedule.authors.link]
     #   href = ""
     #   text = ""
