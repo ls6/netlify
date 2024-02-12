@@ -407,7 +407,7 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Agata Kabat"
-  photo = ""
+  photo = "img/Agata_Kabat.jpg"
   bio = """
   Od 8 lat jestem związana z zarządzaniem projektami, wspieram tworzenie produktów oraz usług, a także ulepszam procesy w sektorach: BPO/SSC, consulting, fintech oraz IT. Pracowałam jako Project Managerka, Team Liderka, Scrum Masterka, aktualnie działam w roli Agile Coachki. <br>
   Dodatkowo, jako coachka w trakcie akredytacji ICF, specjalizuję się w pracy coachingowej z liderami, zespołami oraz Scrum Masterami/Agile Coachami używając m.in. techniki Brain-Based Coaching. <br>
