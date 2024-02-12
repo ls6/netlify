@@ -204,6 +204,13 @@ img = "img/org_radaj_2.svg"
 name = "Łukasz Szóstek"
 img = "img/org_szostek_2.svg"
 
+[[params.Orgs]]
+name = "Katarzyna Prokopiuk"
+img = "img/org_prokopiuk_2.svg"
+
+[[params.Orgs]]
+name = "Tomek Słowikowski"
+img = "img/org_slowikowski_2.svg"
 
 
 ####################################
