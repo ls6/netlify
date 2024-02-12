@@ -318,8 +318,13 @@ TBD
 
 <br><br>
 
-<strong>Tomek Serafin i Jakub Dobosz</strong><br>
-TBD
+<strong>Tomek Serafin i Jakub Dobosz<br>
+Symulacja Scruma: obraz czy 1000 słów?
+</strong><br>
+
+Z przewodnika po Scrumie: Scrum to "uproszczone ramy postępowania, które pomagają […] wytwarzać wartość poprzez adaptacyjne rozwiązywanie złożonych problemów". <br>
+Czy przewodnik po Scrumie jest tak prosty jak to możliwe? Jak dobrze rozumiemy podstawowe elementy metody i do jakiego stopnia nasze rozumienie jest zgodne z rozumieniem innych? Czy potrafimy wyjaśnić Scruma innym nie używając trudnych słów? <br>
+Na te i inne pytania odpowiemy sobie w trakcie warsztatu, w trakcie którego będziemy wytwarzać wartość (zrozumienie Scruma) przez adaptacyjne rozwiązywanie złożonego problemu (jak to zrobić dobrze?) - wyjaśnijmy Scruma pracując Scrumem!
 
 
 <br><br>
@@ -411,16 +416,21 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Tomek Serafin"
-  photo = ""
-  bio = ""
+  photo = "img/serafin.jpg"
+  bio = """
+Zaczynałem karierę zawodową jako programista, następnie tworzyłem i dostarczałem wartość jako analityk, menadżer projektu, menadżer produktu, lider zespołu, Scrum Master, a nawet Head of HR. <br>
+Obecnie jestem programistą i przywódcą służebnym zespołu Scrumowego. Jednym z moich hobby jest tworzenie oraz prowadzenie warsztatów wzmacniających zrozumienie zwinności. Lubię zrozumienie.
+  """
     # [params.Schedule.authors.link]
     # href = ""
     # text = ""
 
   [[params.Schedule.authors]]
   name = "Jakub Dobosz"
-  photo = ""
-  bio = ""
+  photo = "img/dobosz.jpg"
+  bio = """
+Cenię synergię zespołu, przejrzystość i skuteczną komunikację. Skupiam się na wartości biznesowej i szukaniu sposobów na jej optymalne dostarczanie. Wierzę, że poprzez ciągłe zwiększanie naszego zrozumienia własnych potrzeb i motywacji jesteśmy w stanie tworzyć wyjątkowe rozwiązania. Jednym z moich celów jest budowanie środowisk, gdzie każdy ma poczucie własności i możliwość wpływania na nie. Praktykuję NVC i zwiększanie swojej uważności.
+  """
     # [params.Schedule.authors.link]
     # href = ""
     # text = ""
