@@ -186,15 +186,15 @@ url = "https://kanbanprzykawie.pl/"
 
 [[params.Orgs]]
 name = "Ania Przybyszewska"
-img = "img/org_przybyszewska.png"
+img = "img/org_przybyszewska_2.svg"
 
 [[params.Orgs]]
 name = "Ewelina Startek"
-img = "img/org_startek.png"
+img = "img/org_startek_2.svg"
 
 [[params.Orgs]]
 name = "Ewa Koprowska"
-img = "img/org_koprowska.png"
+img = "img/org_koprowska_2.svg"
 
 [[params.Orgs]]
 name = "Piotr Radaj"
@@ -202,7 +202,7 @@ img = "img/org_radaj.png"
 
 [[params.Orgs]]
 name = "Łukasz Szóstek"
-img = "img/org_szostek.png"
+img = "img/org_szostek_2.svg"
 
 
 
