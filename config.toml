@@ -249,16 +249,24 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 [[params.Schedule]]
     [[params.Schedule.authors]]
     name = "Kuba Szczepanik"
-    photo = ""
-    bio = ""
+    photo = "img/szczepanik.jpg"
+    bio = """
+    Pomagam przejść przez zmianę firmom, które chcą wykorzystać potencjał tkwiący w zwinności.<br>
+     Jestem konsultantem, mentorem i trenerem, specjalizującym się w temacie zwinnych transformacji dużych organizacji. Wspieram bezpośrednio zespoły projektowe rozwijające swoje produkty i pomagam wyjść z podejściem zwinnym do kręgów „biznesowych” w firmach. <br>
+     Moją misją jest propagowanie porządnej zwinności w zespołach i firmach oraz przeciwstawienie się płytkim zmianom oraz stosowania Agile-In-The-Name-Only. <br>
+     Jestem współautorem portalu <a href="https://agile247.pl">agile247.pl</a> i podcastu „Porządny Agile”, piszę też na swoim blogu kubaszczepanik.pl i szykuję książkę o zwinnych transformacjach – więcej informacji na stronie <a href="https://zwinneorganizacje.pl">zwinneorganizacje.pl</a>.
+    """
 
-      # [params.Schedule.authors.link]
-      #   href = ""
-      #   text = ""
+    [params.Schedule.authors.link]
+      href = "https://www.kubaszczepanik.pl/"
+      text = "kubaszczepanik.pl"
 
     [params.Schedule.presentation]
-      title = 'TBD'
-      description ='TBD'
+      title = 'Jak Scrum Master może wesprzeć efektywność zespołu?'
+      description ="""
+      Efektywność zespołów to temat bardzo istotny biznesowo i jednocześnie traktowany dość po macoszemu w wielu firmach. Nie jest to łatwe – rodzi pytania jak ją mierzyć, kto ma na nią wpływ i jak ją poprawić. <br>
+      Na bazie doświadczeń w pracy z organizacjami przedstawię moja propozycję planu działania dla Scrum Mastera, który chce przejąć inicjatywę i uruchomić działania związane z podwyższeniem efektywności. Pokażę też model do auto-refleksji dla Scrum Mastera – jakie kompetencje są potrzebne, żeby realnie wpłynąć na omawiany temat.
+      """
 #------------------------
 
 [[params.Schedule]]
