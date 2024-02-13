@@ -548,7 +548,7 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Magda Gałaj"
-  photo = ""
+  photo = "img/Galaj-Magda.jpg"
   bio = """
 Uwielbia pracę z ludźmi, w zgodzie z wartościami, którym jest wierna. Zafascynowana metodami zwinnymi, od 3 lat spełnia się w roli Scrum Mastera. Radość i satysfakcję daje jej możliwość przekazywania wiedzy, wspierania potencjału, który tkwi w ludziach, obserwowania, jak stają się samodzielni i coraz lepsi w tym, co robią. <br>
 Prywatnie miłośniczka podróży, kina, teatru i dobrej kuchni :)
@@ -559,7 +559,7 @@ Prywatnie miłośniczka podróży, kina, teatru i dobrej kuchni :)
 
   [[params.Schedule.authors]]
   name = "Marcin Gałaj"
-  photo = ""
+  photo = "img/Galaj-Marcin.jpg"
   bio = """
 Mąż, ojciec, Scrum Master, Agile Coach. Od 5 lat praktykuje Scruma w branży finansowej. Wieloletni biznesowy background sprawia, że doskonale czuje biznesowy aspekt tego, nad czym pracują zespoły scrumowe, z którymi współpracuje. Głęboko wierzy w sens pracy zespołowej. Na co dzień tworzy ramy, w których zespoły mogą się samoorganizować i efektywnie pracować. <br>
 W wolnym czasie podróżuje, żegluje i serwuje dobrą kuchnię swojej żonie ;)
