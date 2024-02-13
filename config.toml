@@ -223,11 +223,12 @@ img = "img/org_slowikowski_2.svg"
 
 [[params.Schedule]]
 name = "Zapisy na warsztaty"
-time = "po południu"
+time = "13:00"
 remark = 'Warto być na czas! Zapisy będą na miejscu i najciekawsze warsztaty zapełnią się najszybciej.'
 
 [[params.Schedule]]
-name = "Otwarcie"
+name = "Otwarcie konferencji"
+time = "13:45"
 remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 
