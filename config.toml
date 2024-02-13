@@ -365,8 +365,17 @@ Dołącz do nas, aby zdobyć praktyczną wiedzę i umiejętności niezbędne do 
 
 <br><br>
 
-<strong>Magda Gałaj i Marcin Gałaj</strong><br>
-TBD
+<strong>Magda Gałaj i Marcin Gałaj<br>
+Asertywność - umiejętność stawiania granic
+</strong><br>
+
+Asertywność to kluczowa umiejętność w dzisiejszym świecie biznesu i relacji międzyludzkich. Czy zdarza Ci się przekraczać swoje granice, aby spełnić wymagania innych? Czy czujesz się niekomfortowo, gdy masz powiedzieć "nie" lub wyrazić swoje niezadowolenie? <br>
+Jeśli tak, to ten warsztat jest dla Ciebie! Podczas naszego warsztatu nauczymy Cię, jak wykorzystać asertywność w swojej pracy i życiu osobistym. Dowiesz się, jak jasno wyrażać swoje potrzeby i stawiać granice w sposób skuteczny i szanujący zarówno siebie, jak i innych. <br>
+W trakcie warsztatu nauczysz się technik asertywności, które pomogą Ci:<br>
+• skutecznie wyrażać swoje potrzeby i oczekiwania<br>
+• stawiać granice w sposób, który nie krzywdzi innych<br>
+• budować pozytywne relacje z innymi ludźmi.
+
 
 
 <br><br>
@@ -540,7 +549,10 @@ workshop = true
   [[params.Schedule.authors]]
   name = "Magda Gałaj"
   photo = ""
-  bio = ""
+  bio = """
+Uwielbia pracę z ludźmi, w zgodzie z wartościami, którym jest wierna. Zafascynowana metodami zwinnymi, od 3 lat spełnia się w roli Scrum Mastera. Radość i satysfakcję daje jej możliwość przekazywania wiedzy, wspierania potencjału, który tkwi w ludziach, obserwowania, jak stają się samodzielni i coraz lepsi w tym, co robią. <br>
+Prywatnie miłośniczka podróży, kina, teatru i dobrej kuchni :)
+  """
     # [params.Schedule.authors.link]
     # href = ""
     # text = ""
@@ -548,7 +560,10 @@ workshop = true
   [[params.Schedule.authors]]
   name = "Marcin Gałaj"
   photo = ""
-  bio = ""
+  bio = """
+Mąż, ojciec, Scrum Master, Agile Coach. Od 5 lat praktykuje Scruma w branży finansowej. Wieloletni biznesowy background sprawia, że doskonale czuje biznesowy aspekt tego, nad czym pracują zespoły scrumowe, z którymi współpracuje. Głęboko wierzy w sens pracy zespołowej. Na co dzień tworzy ramy, w których zespoły mogą się samoorganizować i efektywnie pracować. <br>
+W wolnym czasie podróżuje, żegluje i serwuje dobrą kuchnię swojej żonie ;)
+  """
     # [params.Schedule.authors.link]
     # href = ""
     # text = ""
