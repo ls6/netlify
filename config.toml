@@ -513,19 +513,24 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Justyna Wykowska"
-  photo = ""
-  bio = ""
-    # [params.Schedule.authors.link]
-    # href = ""
-    # text = ""
+  photo = "img/JWykowska_2022.png"
+  bio = """
+ Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. 
+  """
+     [params.Schedule.authors.link]
+     href = "https://www.linkedin.com/in/justynawykowska"
+     text = "LinkedIn"
 
-  # [[params.Schedule.authors]]
-  # name = "Karolina Karbarz"
-  # photo = ""
-  # bio = ""
-    # [params.Schedule.authors.link]
-    # href = ""
-    # text = ""
+  [[params.Schedule.authors]]
+   name = "Karolina Karbarz"
+   photo = "img/Karolina_Karbarz_2022.jpeg"
+   bio = """
+Projektuję od 2014 roku, w tym czasie z powodzeniem pracowałam nad produktami zarówno w dużej korporacji, jak i we współpracy z obiecującymi start-upami. Na co dzień zajmuję się badaniem potrzeb użytkowników, projektowaniem oraz walidacją tworzonych rozwiązań. Współtworzę jedną z najbardziej rozpoznawalnych na świecie konferencji o tworzeniu treści — soap!, która od ponad 8 lat przyciąga do Krakowa specjalistów z 35 krajów.
+   """
+     [params.Schedule.authors.link]
+     href = "https://www.linkedin.com/in/karolina-karbarz"
+     text = "Linkedin"
+
 
 #------------------------
 
