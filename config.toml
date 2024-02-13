@@ -578,7 +578,7 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Jaga Biernacka-Urban"
-  photo = ""
+  photo = "img/jaga.jpg"
   bio = """
 Jako trener ma zasadę, że nie prowadzi szkoleń z rzeczy, których sama nie robi zawodowo. Początki kariery trenerskiej są związane ze szkoleniami technicznymi (była certyfikowanym trenerem Microsoftu i Red Hata), pracowała na stanowisku administratora, oficera bezpieczeństwa i jako członek zespołu deweloperskiego.<br>
 Od lat zajmuje się stykiem pomiędzy zagadnieniami technicznymi i psychologicznymi. Specjalizuje się w budowie kultury inżynierskiej, rozwoju zespołów i tworzeniu uczących się organizacji. Prowadzi warsztaty i wspiera organizację z wykorzystania podejść agilowych i leanowych.<br>
