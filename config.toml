@@ -580,12 +580,8 @@ workshop = true
   name = "Jaga Biernacka-Urban"
   photo = "img/jaga.jpg"
   bio = """
-Jako trener ma zasadę, że nie prowadzi szkoleń z rzeczy, których sama nie robi zawodowo. Początki kariery trenerskiej są związane ze szkoleniami technicznymi (była certyfikowanym trenerem Microsoftu i Red Hata), pracowała na stanowisku administratora, oficera bezpieczeństwa i jako członek zespołu deweloperskiego.<br>
-Od lat zajmuje się stykiem pomiędzy zagadnieniami technicznymi i psychologicznymi. Specjalizuje się w budowie kultury inżynierskiej, rozwoju zespołów i tworzeniu uczących się organizacji. Prowadzi warsztaty i wspiera organizację z wykorzystania podejść agilowych i leanowych.<br>
-Przez ostatnie lata skupiała się na pracy z różnymi poziomami organizacji, pracując jako mentor dla menedżerów w trakcie transformacji oraz przeprowadzając zmiany w dużych firmach. Ma na swoim koncie pracę dla takich firm, takich jak PayU (grupa Allegro), PZU, kilka dużych banków, software house’y, korporacje produkujące sprzęt AGD. Z większością firm pracuje na dłuższych kontraktach, bo tylko takie podejście pozwala realnie wspierać firmę i jej pracowników w zmianie.<br>
-Ma doświadczenie zarządcze, pracowała na stanowisku dyrektora, lidera i Product Ownera. Była odpowiedzialna za prowadzenie i merytorykę Szkoły Agile Coachów i Scrum Masterów pod marką Brass Willow.<br>
-Jako psycholog zajmuje się nowoczesną psychologią kontekstualną, była wiceprezesem Stowarzyszenie Association of Contextual Behavior Science Polska. Prowadzi zajęcia dla studentów z zakresu “Wykorzystanie Acceptance and Commitment Training w biznesie”. Przez kilka lat skupiała się na badaniach z motywacji w zespołach agilowych, obecnie przygotowuje się do doktoratu z budowy adaptacyjnych zespołów.<br>
-Jest certyfikowanym mediatorem. Społecznie zajmuje się długofalowymi programami rozwojowymi dla dyrektorów i nauczycieli, wspierających ich w budowaniu społeczności z rodzicami.
+Od lat zajmuję się stykiem pomiędzy zagadnieniami technicznymi i psychologicznymi. Specjalizuję się w budowie kultury inżynierskiej, rozwoju zespołów i tworzeniu uczących się organizacji. Pracuję z całymi organizacjami - zarządami, kadrą zarządczą i zespołami. Prowadzę warsztaty i mentoringi dla liderów, o których więcej informacji znajdziecie na <a href="https://scientificagile.com/">https://scientificagile.com/</a>.<br>
+Jako psycholog zajmuję się nowoczesną psychologią kontekstualną, byłam wiceprezesem Stowarzyszenia Association of Contextual Behavior Science Polska. Prowadzę zajęcia dla studentów z zakresu “Wykorzystanie Acceptance and Commitment Training w biznesie”. Jestem certyfikowanym mediatorem.
   """
     [params.Schedule.authors.link]
       href = "https://scientificagile.com/o-mnie/"
