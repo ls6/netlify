@@ -302,10 +302,6 @@ Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz 👆👆
 
 <br><br>
 
-<strong>Ewa Koprowska</strong><br>
-TBD
-<br><br>
-
 
 <strong>Joanna Płaskonka</strong><br>
 TBD
@@ -405,15 +401,6 @@ W ramach warsztatu pokażę koncepcję “trybów” pracy naszego umysłu, któ
 [[params.Schedule]]
 workshop = true
 
-  [[params.Schedule.authors]]
-  name = "Ewa Koprowska"
-  photo = ""
-  bio = ""
-    # [params.Schedule.authors.link]
-    #   href = ""
-    #   text = ""
-
-#------------------------
 
 [[params.Schedule]]
 workshop = true
