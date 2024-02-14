@@ -380,8 +380,11 @@ W trakcie warsztatu nauczysz się technik asertywności, które pomogą Ci:<br>
 
 <br><br>
 
-<strong>Jaga Biernacka</strong><br>
-TBD
+<strong>Jaga Biernacka<br>
+Trening umiejętności psychologicznych DNA-V przydatnych w pracy agenta zmiany</strong><br>
+
+Pewnie każdy z nas spotkał się ze stwierdzeniem, że najważniejszy jest mindset. Jednak kiedy zaczynamy rozmawiać, czym ten mindset jest, odkrywamy, że każdy trochę inaczej go rozumie.<br> 
+W ramach warsztatu pokażę koncepcję “trybów” pracy naszego umysłu, która wydaje się opisywać bazowe umiejętności intrapersonalne (czyli indywidualne, wewnętrzne) osoby pracującej jako agent zmiany. Doświadczymy ich w praktyce w ćwiczeniach indywidualnych i grupowych.
 
 """
 
@@ -574,11 +577,14 @@ W wolnym czasie podróżuje, żegluje i serwuje dobrą kuchnię swojej żonie ;)
 workshop = true
 
   [[params.Schedule.authors]]
-  name = "Jaga Biernacka"
-  photo = ""
-  bio = ""
-    # [params.Schedule.authors.link]
-    #   href = ""
-    #   text = ""
+  name = "Jaga Biernacka-Urban"
+  photo = "img/jaga.jpg"
+  bio = """
+Od lat zajmuję się stykiem pomiędzy zagadnieniami technicznymi i psychologicznymi. Specjalizuję się w budowie kultury inżynierskiej, rozwoju zespołów i tworzeniu uczących się organizacji. Pracuję z całymi organizacjami - zarządami, kadrą zarządczą i zespołami. Prowadzę warsztaty i mentoringi dla liderów, o których więcej informacji znajdziecie na <a href="https://scientificagile.com/">https://scientificagile.com/</a>.<br>
+Jako psycholog zajmuję się nowoczesną psychologią kontekstualną, byłam wiceprezesem Stowarzyszenia Association of Contextual Behavior Science Polska. Prowadzę zajęcia dla studentów z zakresu “Wykorzystanie Acceptance and Commitment Training w biznesie”. Jestem certyfikowanym mediatorem.
+  """
+    [params.Schedule.authors.link]
+      href = "https://scientificagile.com/o-mnie/"
+      text = "www"
 
 #------------------------
