@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "https://abelight.agilewarsaw.com"
+baseurl = 'https://abelight.agilewarsaw.com'
 title = "ABE Light 2024"
 canonifyurls = true
 theme = "hugo-conference"
@@ -59,47 +59,47 @@ previous = "Poprzednie edycje"
 
 [[params.Previous]]
 name = "2013"
-url = "https://agilewarsaw.com/events/55/"
+url = 'https://agilewarsaw.com/events/55/'
 
 [[params.Previous]]
 name = "2014"
-url = "https://agilewarsaw.com/events/78/"
+url = 'https://agilewarsaw.com/events/78/'
 
 [[params.Previous]]
 name = "2015"
-url = "https://agilewarsaw.com/events/98/"
+url = 'https://agilewarsaw.com/events/98/'
 
 [[params.Previous]]
 name = "2016"
-url = "https://agilewarsaw.com/events/115/"
+url = 'https://agilewarsaw.com/events/115/'
 
 [[params.Previous]]
 name = "2017"
-url = "https://agilewarsaw.com/events/130/"
+url = 'https://agilewarsaw.com/events/130/'
 
 [[params.Previous]]
 name = "2018"
-url = "https://agilewarsaw.com/events/150/"
+url = 'https://agilewarsaw.com/events/150/'
 
 [[params.Previous]]
 name = "2019"
-url = "https://agilewarsaw.com/events/179/"
+url = 'https://agilewarsaw.com/events/179/'
 
 [[params.Previous]]
 name = "2020"
-url = "https://agilewarsaw.com/events/198/"
+url = 'https://agilewarsaw.com/events/198/'
 
 [[params.Previous]]
 name = "2021"
-url = "https://agilewarsaw.com/events/228/"
+url = 'https://agilewarsaw.com/events/228/'
 
 [[params.Previous]]
 name = "2022"
-url = "https://agilewarsaw.com/events/252/"
+url = 'https://agilewarsaw.com/events/252/'
 
 [[params.Previous]]
 name = "2023"
-url = "https://agilewarsaw.com/events/267/"
+url = 'https://agilewarsaw.com/events/267/'
 
 
 ####################################
@@ -109,17 +109,17 @@ url = "https://agilewarsaw.com/events/267/"
 [[params.Sponsors]]
 name = "DXC Technology"
 logo = "img/logo-DXC.png"
-url = "https://dxc.com/pl/en"
+url = 'https://dxc.com/pl/en'
 
 [[params.Sponsors]]
 name = "ProCognita"
 logo = "img/logo_procognita.png"
-url = "https://procognita.pl/"
+url = 'https://procognita.pl/'
 
 [[params.Sponsors]]
 name = "Akademia Leona Koźmińskiego"
 logo = "img/logo_ALK.png"
-url = "https://www.kozminski.edu.pl/"
+url = 'https://www.kozminski.edu.pl/'
 
 ####################################
 #  Partnerzy
@@ -134,7 +134,7 @@ url = "http://agilewarsaw.com"
 [[params.Partners]]
 name = "NextGen.PM"
 logo = "img/logo_NextGenPM.png"
-url = "https://nextgen.pm/"
+url = 'https://nextgen.pm/'
 
 ####################################
 #  Media
@@ -148,7 +148,7 @@ url = "http://agilepolska.pl/"
 [[params.Media]]
 name = "Kanban przy kawie"
 logo = "img/logo_kanban_przy_kawie.png"
-url = "https://kanbanprzykawie.pl/"
+url = 'https://kanbanprzykawie.pl/'
 
 [[params.Media]]
 name = "Agile 247"
@@ -158,27 +158,27 @@ url = "http://www.agile247.pl/"
 # [[params.Media]]
 # name = "Agile 4U"
 # logo = "img/logo_agile4u.png"
-# url = "https://www.meetup.com/agile4u/"
+# url = 'https://www.meetup.com/agile4u/'
 
 # [[params.Media]]
 # name = "LubLean"
 # logo = "img/logo_LubLean.png"
-# url = "https://www.meetup.com/LubLean-and-Agile/"
+# url = 'https://www.meetup.com/LubLean-and-Agile/'
 
 # [[params.Media]]
 # name = "Agile Silesia"
 # logo = "img/logo_agile-silesia.png"
-# url = "https://www.agilesilesia.pl/"
+# url = 'https://www.agilesilesia.pl/'
 
 # [[params.Media]]
 # name = "Agile Wrocław"
 # logo = "img/logo-agile-wroclaw.png"
-# url = "https://www.meetup.com/pl-PL/agilewroclaw/"
+# url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
 
 # [[params.Media]]
 # name = "ALE Kraków"
 # logo = "img/logo-ale-krakow.png"
-# url = "https://www.alekrakow.com/"
+# url = 'https://www.alekrakow.com/'
 
 ####################################
 #  Organizatorzy
@@ -239,8 +239,8 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     bio = "Od ponad dwóch dekad uczestniczę w tworzeniu produktów software'owych, a od ponad piętnastu lat dzielę się swoją wiedzą poprzez szkolenia i konsulting. Jestem jedynym polskim Certified Scrum Trainer, CST akredytowanym przez Scrum Alliance oraz jednym z dwóch polskich Certified LeSS Coach. W przerwach pomiędzy pracą z liderami różnych firm piszę artykuły i nagrywam podcasty, które znajdziesz na stronie ProCognity. Jestem autorem książki \"Biznes Odczarowany. Scrum: jak osiągać cele, gdy wszystko się zmienia?\", w której opowiadam jak uniknąć iluzji nierealnych planów i stworzyć zwinną firmę."
 
       [params.Schedule.authors.link]
-        href = "https://www.linkedin.com/in/wykowski/"
-        text = "LinkedIn"
+        href = 'https://www.linkedin.com/in/wykowski/'
+        text = 'LinkedIn'
 
     [params.Schedule.presentation]
       title = 'Rozmówki Managerskie, czyli jak zmieniać firmę i nie zostać zwolnionym'
@@ -260,7 +260,7 @@ Porozmawiajmy więc jak się przygotować do takich rozmów i jak je prowadzić.
     """
 
     [params.Schedule.authors.link]
-      href = "https://www.kubaszczepanik.pl/"
+      href = 'https://www.kubaszczepanik.pl/'
       text = "kubaszczepanik.pl"
 
     [params.Schedule.presentation]
@@ -307,13 +307,6 @@ Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz 👆👆
 
 <br><br>
 
-
-<strong>Joanna Płaskonka</strong><br>
-TBD
-
-
-<br><br>
-
 <strong>Agata Kabat <br> 
 Mózg w coachingu, czyli praktyczna opowieść o procesie zmiany</strong>
 <br>
@@ -335,11 +328,6 @@ Na te i inne pytania odpowiemy sobie w trakcie warsztatu, w trakcie którego bę
 
 <br><br>
 
-<strong>Adrian Janik i Mateusz Hauk</strong><br>
-TBD
-
-
-<br><br>
 
 <strong>Tomek Wykowski<br>
 Model SCARF do wprowadzania zmiany</strong><br>
@@ -350,11 +338,7 @@ Na tym warsztacie popatrzymy na model SCARF zaproponowany przez Davida Rocka. Po
 
 <br><br>
 
-<strong>Krzysztof Niewiński</strong><br>
-TBD
 
-
-<br><br>
 <strong>Justyna Wykowska i Karolina Karbarz<br>
 Czy wiesz, że produkt też dorasta?</strong><br>
 
@@ -390,6 +374,26 @@ Trening umiejętności psychologicznych DNA-V przydatnych w pracy agenta zmiany<
 Pewnie każdy z nas spotkał się ze stwierdzeniem, że najważniejszy jest mindset. Jednak kiedy zaczynamy rozmawiać, czym ten mindset jest, odkrywamy, że każdy trochę inaczej go rozumie.<br> 
 W ramach warsztatu pokażę koncepcję “trybów” pracy naszego umysłu, która wydaje się opisywać bazowe umiejętności intrapersonalne (czyli indywidualne, wewnętrzne) osoby pracującej jako agent zmiany. Doświadczymy ich w praktyce w ćwiczeniach indywidualnych i grupowych.
 
+
+
+<strong>Joanna Płaskonka</strong><br>
+TBD
+
+
+<br><br>
+
+
+<strong>Adrian Janik i Mateusz Hauk</strong><br>
+TBD
+
+
+<br><br>
+
+<strong>Krzysztof Niewiński</strong><br>
+TBD
+
+
+<br><br>
 """
 
 #########################
@@ -410,18 +414,6 @@ W ramach warsztatu pokażę koncepcję “trybów” pracy naszego umysłu, któ
 workshop = true
 
 
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Joanna Płaskonka"
-  photo = ""
-  bio = ""
-    # [params.Schedule.authors.link]
-    #   href = ""
-    #   text = ""
-
-#------------------------
 
 [[params.Schedule]]
 workshop = true
@@ -435,8 +427,8 @@ workshop = true
   W wolnych chwilach ćwiczę boks, praktykuję jogę i uważnie spaceruję po lesie.
   """
     [params.Schedule.authors.link]
-      href = "https://www.linkedin.com/in/agatakabat/"
-      text = "LinkedIn"
+      href = 'https://www.linkedin.com/in/agatakabat/'
+      text = 'LinkedIn'
 
 #------------------------
 
@@ -452,7 +444,7 @@ Obecnie jestem programistą i przywódcą służebnym zespołu Scrumowego. Jedny
   """
   [params.Schedule.authors.link]
     href = 'https://www.linkedin.com/in/tpserafin/'
-    text = "LinkedIn"
+    text = 'LinkedIn'
 
   [[params.Schedule.authors]]
   name = "Jakub Dobosz"
@@ -462,7 +454,7 @@ Cenię synergię zespołu, przejrzystość i skuteczną komunikację. Skupiam si
   """
    [params.Schedule.authors.link]
     href = 'https://www.linkedin.com/in/jakubdobosz/'
-    text = "LinkedIn"
+    text = 'LinkedIn'
 
 #------------------------
 
@@ -502,6 +494,76 @@ workshop = true
 
 #------------------------
 
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Justyna Wykowska"
+  photo = "img/JWykowska_2022.png"
+  bio = """
+ Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. 
+  """
+     [params.Schedule.authors.link]
+     href = 'https://www.linkedin.com/in/justynawykowska'
+     text = 'LinkedIn'
+
+  [[params.Schedule.authors]]
+   name = "Karolina Karbarz"
+   photo = "img/Karolina_Karbarz_2022.jpeg"
+   bio = """
+Projektuję od 2014 roku, w tym czasie z powodzeniem pracowałam nad produktami zarówno w dużej korporacji, jak i we współpracy z obiecującymi start-upami. Na co dzień zajmuję się badaniem potrzeb użytkowników, projektowaniem oraz walidacją tworzonych rozwiązań. Współtworzę jedną z najbardziej rozpoznawalnych na świecie konferencji o tworzeniu treści — soap!, która od ponad 8 lat przyciąga do Krakowa specjalistów z 35 krajów.
+   """
+     [params.Schedule.authors.link]
+     href = 'https://www.linkedin.com/in/karolina-karbarz'
+     text = 'LinkedIn'
+
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Magda Gałaj"
+  photo = "img/Galaj-Magda.jpg"
+  bio = """
+Uwielbia pracę z ludźmi, w zgodzie z wartościami, którym jest wierna. Zafascynowana metodami zwinnymi, od 3 lat spełnia się w roli Scrum Mastera. Radość i satysfakcję daje jej możliwość przekazywania wiedzy, wspierania potencjału, który tkwi w ludziach, obserwowania, jak stają się samodzielni i coraz lepsi w tym, co robią. <br>
+Prywatnie miłośniczka podróży, kina, teatru i dobrej kuchni :)
+  """
+    [params.Schedule.authors.link]
+    href = 'https://www.linkedin.com/in/magdalena-galaj'
+    text = 'LinkedIn'
+
+  [[params.Schedule.authors]]
+  name = "Marcin Gałaj"
+  photo = "img/Galaj-Marcin.jpg"
+  bio = """
+Mąż, ojciec, Scrum Master, Agile Coach. Od 5 lat praktykuje Scruma w branży finansowej. Wieloletni biznesowy background sprawia, że doskonale czuje biznesowy aspekt tego, nad czym pracują zespoły scrumowe, z którymi współpracuje. Głęboko wierzy w sens pracy zespołowej. Na co dzień tworzy ramy, w których zespoły mogą się samoorganizować i efektywnie pracować. <br>
+W wolnym czasie podróżuje, żegluje i serwuje dobrą kuchnię swojej żonie ;)
+  """
+    [params.Schedule.authors.link]
+    href = 'https://www.linkedin.com/in/marcin-ga%C5%82aj-a3808a1/'
+    text = 'LinkedIn'
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Jaga Biernacka-Urban"
+  photo = "img/jaga.jpg"
+  bio = """
+Od lat zajmuję się stykiem pomiędzy zagadnieniami technicznymi i psychologicznymi. Specjalizuję się w budowie kultury inżynierskiej, rozwoju zespołów i tworzeniu uczących się organizacji. Pracuję z całymi organizacjami - zarządami, kadrą zarządczą i zespołami. Prowadzę warsztaty i mentoringi dla liderów, o których więcej informacji znajdziecie na <a href="https://scientificagile.com/">https://scientificagile.com/</a>.<br>
+Jako psycholog zajmuję się nowoczesną psychologią kontekstualną, byłam wiceprezesem Stowarzyszenia Association of Contextual Behavior Science Polska. Prowadzę zajęcia dla studentów z zakresu “Wykorzystanie Acceptance and Commitment Training w biznesie”. Jestem certyfikowanym mediatorem.
+  """
+    [params.Schedule.authors.link]
+      href = 'https://scientificagile.com/o-mnie/'
+      text = "www"
+
+#------------------------
+
 [[params.Schedule]]
 workshop = true
 
@@ -519,67 +581,11 @@ workshop = true
 workshop = true
 
   [[params.Schedule.authors]]
-  name = "Justyna Wykowska"
-  photo = "img/JWykowska_2022.png"
-  bio = """
- Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. 
-  """
-     [params.Schedule.authors.link]
-     href = "https://www.linkedin.com/in/justynawykowska"
-     text = "LinkedIn"
-
-  [[params.Schedule.authors]]
-   name = "Karolina Karbarz"
-   photo = "img/Karolina_Karbarz_2022.jpeg"
-   bio = """
-Projektuję od 2014 roku, w tym czasie z powodzeniem pracowałam nad produktami zarówno w dużej korporacji, jak i we współpracy z obiecującymi start-upami. Na co dzień zajmuję się badaniem potrzeb użytkowników, projektowaniem oraz walidacją tworzonych rozwiązań. Współtworzę jedną z najbardziej rozpoznawalnych na świecie konferencji o tworzeniu treści — soap!, która od ponad 8 lat przyciąga do Krakowa specjalistów z 35 krajów.
-   """
-     [params.Schedule.authors.link]
-     href = "https://www.linkedin.com/in/karolina-karbarz"
-     text = "Linkedin"
-
-
-#------------------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Magda Gałaj"
-  photo = "img/Galaj-Magda.jpg"
-  bio = """
-Uwielbia pracę z ludźmi, w zgodzie z wartościami, którym jest wierna. Zafascynowana metodami zwinnymi, od 3 lat spełnia się w roli Scrum Mastera. Radość i satysfakcję daje jej możliwość przekazywania wiedzy, wspierania potencjału, który tkwi w ludziach, obserwowania, jak stają się samodzielni i coraz lepsi w tym, co robią. <br>
-Prywatnie miłośniczka podróży, kina, teatru i dobrej kuchni :)
-  """
-    [params.Schedule.authors.link]
-    href = "https://www.linkedin.com/in/magdalena-galaj"
-    text = "LinkedIn"
-
-  [[params.Schedule.authors]]
-  name = "Marcin Gałaj"
-  photo = "img/Galaj-Marcin.jpg"
-  bio = """
-Mąż, ojciec, Scrum Master, Agile Coach. Od 5 lat praktykuje Scruma w branży finansowej. Wieloletni biznesowy background sprawia, że doskonale czuje biznesowy aspekt tego, nad czym pracują zespoły scrumowe, z którymi współpracuje. Głęboko wierzy w sens pracy zespołowej. Na co dzień tworzy ramy, w których zespoły mogą się samoorganizować i efektywnie pracować. <br>
-W wolnym czasie podróżuje, żegluje i serwuje dobrą kuchnię swojej żonie ;)
-  """
-    [params.Schedule.authors.link]
-    href = "https://www.linkedin.com/in/marcin-ga%C5%82aj-a3808a1/"
-    text = "LinkedIn"
-
-#------------------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Jaga Biernacka-Urban"
-  photo = "img/jaga.jpg"
-  bio = """
-Od lat zajmuję się stykiem pomiędzy zagadnieniami technicznymi i psychologicznymi. Specjalizuję się w budowie kultury inżynierskiej, rozwoju zespołów i tworzeniu uczących się organizacji. Pracuję z całymi organizacjami - zarządami, kadrą zarządczą i zespołami. Prowadzę warsztaty i mentoringi dla liderów, o których więcej informacji znajdziecie na <a href="https://scientificagile.com/">https://scientificagile.com/</a>.<br>
-Jako psycholog zajmuję się nowoczesną psychologią kontekstualną, byłam wiceprezesem Stowarzyszenia Association of Contextual Behavior Science Polska. Prowadzę zajęcia dla studentów z zakresu “Wykorzystanie Acceptance and Commitment Training w biznesie”. Jestem certyfikowanym mediatorem.
-  """
-    [params.Schedule.authors.link]
-      href = "https://scientificagile.com/o-mnie/"
-      text = "www"
+  name = "Joanna Płaskonka"
+  photo = ""
+  bio = ""
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
 
 #------------------------
