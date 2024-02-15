@@ -274,8 +274,12 @@ Porozmawiajmy więc jak się przygotować do takich rozmów i jak je prowadzić.
 [[params.Schedule]]
     [[params.Schedule.authors]]
     name = "Agnieszka Cieślawska"
-    photo = ""
-    bio = ""
+    photo = "img/cieslawska.jpg"
+    bio = """
+    Ponad 6 lat temu Agile skradł moje serce. Od tamtej pory stale poszerzam swoją wiedzę w tym obszarze, zdobywając kolejne poziomy wtajemniczenia w Scrumie, Kanbanie i XP, a także eksplorując sposoby, które pozwalają budować wybitne zespoły, efektywne organizacje i kreować niesamowite produkty.<br>
+Na co dzień pracuję jako Agile Coach w startupie, dbając o zwinność, przewidywalność i doskonałość we wszystkich obszarach działalności, nie tylko w zespołach inżynierskich. Chętnie dzielę się wiedzą poprzez wystąpienia na konferencjach, prowadzenie warsztatów i mentoring.<br>
+W wolnym czasie lubię czytać przerażające thrillery, kosić trawę i planować podróże.
+    """
 
       # [params.Schedule.authors.link]
       #   href = ""
