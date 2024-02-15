@@ -426,9 +426,9 @@ workshop = true
   Dodatkowo, jako coachka w trakcie akredytacji ICF, specjalizuję się w pracy coachingowej z liderami, zespołami oraz Scrum Masterami/Agile Coachami używając m.in. techniki Brain-Based Coaching. <br>
   W wolnych chwilach ćwiczę boks, praktykuję jogę i uważnie spaceruję po lesie.
   """
-    # [params.Schedule.authors.link]
-    #   href = ""
-    #   text = ""
+    [params.Schedule.authors.link]
+      href = "https://www.linkedin.com/in/agatakabat/"
+      text = "LinkedIn"
 
 #------------------------
 
@@ -543,9 +543,9 @@ workshop = true
 Uwielbia pracę z ludźmi, w zgodzie z wartościami, którym jest wierna. Zafascynowana metodami zwinnymi, od 3 lat spełnia się w roli Scrum Mastera. Radość i satysfakcję daje jej możliwość przekazywania wiedzy, wspierania potencjału, który tkwi w ludziach, obserwowania, jak stają się samodzielni i coraz lepsi w tym, co robią. <br>
 Prywatnie miłośniczka podróży, kina, teatru i dobrej kuchni :)
   """
-    # [params.Schedule.authors.link]
-    # href = ""
-    # text = ""
+    [params.Schedule.authors.link]
+    href = "https://www.linkedin.com/in/magdalena-galaj"
+    text = "LinkedIn"
 
   [[params.Schedule.authors]]
   name = "Marcin Gałaj"
@@ -554,9 +554,9 @@ Prywatnie miłośniczka podróży, kina, teatru i dobrej kuchni :)
 Mąż, ojciec, Scrum Master, Agile Coach. Od 5 lat praktykuje Scruma w branży finansowej. Wieloletni biznesowy background sprawia, że doskonale czuje biznesowy aspekt tego, nad czym pracują zespoły scrumowe, z którymi współpracuje. Głęboko wierzy w sens pracy zespołowej. Na co dzień tworzy ramy, w których zespoły mogą się samoorganizować i efektywnie pracować. <br>
 W wolnym czasie podróżuje, żegluje i serwuje dobrą kuchnię swojej żonie ;)
   """
-    # [params.Schedule.authors.link]
-    # href = ""
-    # text = ""
+    [params.Schedule.authors.link]
+    href = "https://www.linkedin.com/in/marcin-ga%C5%82aj-a3808a1/"
+    text = "LinkedIn"
 
 #------------------------
 
