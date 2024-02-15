@@ -244,8 +244,10 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
     [params.Schedule.presentation]
       title = 'Rozmówki Managerskie, czyli jak zmieniać firmę i nie zostać zwolnionym'
-      description ='"Gdyby tylko mój manager tu był…” to zdanie, które często słyszę na moich szkoleniach. Zdecydowanie łatwiej zmienia się organizację, gdy jej kierownictwo wspiera prowadzoną transformację. Jednak przekonanie managerów często graniczy z cudem. Z drugiej strony prawdziwi liderzy nawet jeżeli nie mają formalnej władzy w organizacji potrafią wpływać na osoby decyzyjne.<br>
-Porozmawiajmy więc jak się przygotować do takich rozmów i jak je prowadzić. Chcę Ci pokazać konkretne narzędzia, których używam w mojej pracy z klientami. Dzięki nim inaczej poprowadzisz następne spotkanie ze swoim managerem. Przy odrobinie szczęścia, zobaczysz rezultaty, które jeszcze niedawno nikomu w firmie się nie śniły.'
+      description ="""
+      "Gdyby tylko mój manager tu był…” to zdanie, które często słyszę na moich szkoleniach. Zdecydowanie łatwiej zmienia się organizację, gdy jej kierownictwo wspiera prowadzoną transformację. Jednak przekonanie managerów często graniczy z cudem. Z drugiej strony prawdziwi liderzy nawet jeżeli nie mają formalnej władzy w organizacji potrafią wpływać na osoby decyzyjne.<br>
+      Porozmawiajmy więc jak się przygotować do takich rozmów i jak je prowadzić. Chcę Ci pokazać konkretne narzędzia, których używam w mojej pracy z klientami. Dzięki nim inaczej poprowadzisz następne spotkanie ze swoim managerem. Przy odrobinie szczęścia, zobaczysz rezultaty, które jeszcze niedawno nikomu w firmie się nie śniły.
+      """
 #------------------------
 
 [[params.Schedule]]
