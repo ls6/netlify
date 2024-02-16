@@ -170,10 +170,10 @@ url = "http://www.agile247.pl/"
 # logo = "img/logo_agile-silesia.png"
 # url = 'https://www.agilesilesia.pl/'
 
-# [[params.Media]]
-# name = "Agile Wrocław"
-# logo = "img/logo-agile-wroclaw.png"
-# url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
+[[params.Media]]
+name = "Agile Wrocław"
+logo = "img/logo-agile-wroclaw.png"
+url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
 
 # [[params.Media]]
 # name = "ALE Kraków"
