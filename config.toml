@@ -175,6 +175,17 @@ name = "Agile Wrocław"
 logo = "img/logo-agile-wroclaw.png"
 url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
 
+[[params.Media]]
+name = "Agile Poznań"
+logo = "img/logo_agile_poznan.png"
+url = 'https://www.linkedin.com/groups/4406793'
+
+[[params.Media]]
+name = "Agile 3M"
+logo = "img/logo_agile3m.png"
+url = 'https://www.linkedin.com/company/agile3m'
+
+
 # [[params.Media]]
 # name = "ALE Kraków"
 # logo = "img/logo-ale-krakow.png"
