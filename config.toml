@@ -412,8 +412,16 @@ Zapraszam do udziału w warsztacie, który zmieni sposób, w jaki patrzysz na wy
 
 <br><br>
 
-<strong>Joanna Płaskonka</strong><br>
-TBD
+<strong>Joanna Płaskonka<br>
+Ciągłe usprawnianie jako nawyk - wprowadzenie do Agile Kata</strong><br>
+W dzisiejszym dynamicznie zmieniającym się świecie zdolność organizacji do ciągłego usprawniania procesów i praktyk jest kluczowa dla zachowania konkurencyjności i innowacyjności. Scrum, wraz ze swoimi elementami, oferuje możliwości do regularnej inspekcji i adaptacji. Ale co, jeśli czujesz, że Scrum nie jest odpowiedni dla Ciebie? A może w Twoim zespole brakuje poczucia wprowadzania realnych, wartościowych zmian i wydaje się, że kręcicie się w kółko?<br>
+Jedną z przyczyn może być brak efektywnych nawyków organizacyjnych lub zespołowych, a także (a może przede wszystkim) brak nawyku ciągłego usprawniania. W takim przypadku pomocne może okazać się Agile Kata. Dlaczego właśnie Agile Kata i jaki ma związek z nawykami? Odpowiedzi na te pytania uzyskasz podczas warsztatu!<br>
+Ten warsztat jest skierowany do liderów zespołów, menedżerów projektów, Scrum Masterów, Agile Coachów oraz wszystkich osób zainteresowanych wprowadzeniem lub doskonaleniem praktyk ciągłego doskonalenia w swojej organizacji.<br>
+Korzyści z uczestnictwa w warsztacie:<br>
+• Zrozumienie znaczenia i wpływu nawyków na efektywność organizacyjną.<br>
+• Poznanie Agile Kata i sposobów jego zastosowania do kształtowania nawyku ciągłego usprawniania.<br>
+• Rozwój umiejętności niezbędnych do budowania kultury ciągłego doskonalenia.<br>
+Zapraszamy na nasz warsztat, aby wspólnie odkryć, jak ciągłe usprawnianie może stać się integralną częścią DNA Twojej organizacji. Zamiast pytać: Scrum, Kanban, SAFe, LeSS czy Nexus, zastanów się: kiedy rozpoczniesz Agile Kata? :)
 
 
 <br><br>
@@ -613,8 +621,12 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Joanna Płaskonka"
-  photo = ""
-  bio = ""
+  photo ='img/Plaskonka.jpg' 
+  bio = """
+  Joanna Płaskonka posiada ponad 13-letnie doświadczenie w różnych branżach, w tym w telekomunikacji, IT, bankowości, robotyce i środowisku akademickim. Jej wykształcenie jest związane z automatyką i robotyką, a w dziedzinie robotyki uzyskała tytuł doktorski z wyróżnieniem.<br>
+Kariera Joanny rozpoczęła się od zarządzania konfiguracją oprogramowania, gdzie odkryła swoją miłość do pomagania ludziom w tworzeniu lepszych procesów i użytecznych produktów. To odkrycie zmieniło kierunek jej kariery. W 2010 roku zaczęła uczyć się o Scrumie i zwinności, co wpłynęło znacznie na jej rozwój i karierę zawodową. W swojej pracy nieustannie poszukuje lekkości, efektywności i skupienia się na wartości.<br>
+Obecnie Joanna nosi wiele kapeluszy jako profesjonalna trenerka Scruma i zwinności, mentorka, oraz konsultantka. Jest pierwszą w Polsce akredytowaną trenerką Agile Kata. Jej nadrzędną misją jest wywieranie pozytywnego wpływu zarówno na jednostki, jak i organizacje, przy jednoczesnym konsekwentnym dążeniu do zapewnienia jak najbardziej wyjątkowych doświadczeń edukacyjnych. Wykorzystuje różne techniki, w tym szkolenia, mentoring, coaching i doradztwo, aby pomóc w realizacji tej misji.
+  """
     # [params.Schedule.authors.link]
     #   href = ""
     #   text = ""
