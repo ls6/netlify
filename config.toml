@@ -600,8 +600,8 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Krzysztof Niewiński"
-  photo = ""
-  bio = ""
+  photo = "img/Krzysztof_Niewinski_2022.png"
+  bio = "Pracuję w branży IT od 2005 roku. Jestem inżynierem i Agile Coachem promującym podejście LeSS (Large-scale Scrum). Od 8 lat zawodowo wspieram tworzenie adaptacyjnych, uczących się organizacji zorientowanych na klienta. Pracuję z dużymi grupami produktowymi. Doświadczenie zdobywałem m.in. w Grupie Allegro (PayU), w mniejszych firmach, w tym Uncapped, VRenetic, Finevare, HRS, a także w dużych korporacjach, takich jak ERGO, Orange, UPC czy CircleK."
     # [params.Schedule.authors.link]
     #   href = ""
     #   text = ""
