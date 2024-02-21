@@ -165,11 +165,6 @@ url = "http://www.agile247.pl/"
 # logo = "img/logo_LubLean.png"
 # url = 'https://www.meetup.com/LubLean-and-Agile/'
 
-# [[params.Media]]
-# name = "Agile Silesia"
-# logo = "img/logo_agile-silesia.png"
-# url = 'https://www.agilesilesia.pl/'
-
 [[params.Media]]
 name = "Agile Wrocław"
 logo = "img/logo-agile-wroclaw.png"
@@ -185,11 +180,15 @@ name = "Agile 3M"
 logo = "img/logo_agile3m.png"
 url = 'https://www.linkedin.com/company/agile3m'
 
+[[params.Media]]
+name = "Agile Silesia"
+logo = "img/logo_agile-silesia.png"
+url = 'https://www.agilesilesia.pl/'
 
-# [[params.Media]]
-# name = "ALE Kraków"
-# logo = "img/logo-ale-krakow.png"
-# url = 'https://www.alekrakow.com/'
+[[params.Media]]
+name = "ALE Kraków"
+logo = "img/logo-ale-krakow.png"
+url = 'https://www.alekrakow.com/'
 
 ####################################
 #  Organizatorzy
