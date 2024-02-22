@@ -190,6 +190,11 @@ name = "ALE Kraków"
 logo = "img/logo-ale-krakow.png"
 url = 'https://www.alekrakow.com/'
 
+[[params.Media]]
+name = "Dare IT"
+logo = 'img/logo_DareIT.png'
+url = 'https://www.dareit.io/'
+
 ####################################
 #  Organizatorzy
 ####################################
