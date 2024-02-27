@@ -439,6 +439,12 @@ Podczas warsztatu opowiemy Ci, jak działa (psychologiczny) mechanizm projekcji 
 
 
 <br><br>
+
+<strong> Magdalena Kucharska <br>
+Hypothesis without validation is a hallucination – Introduction to Evidence Based Management framework</strong><br>
+During this max 2h workshop we will explore different Product Metric areas, based on a simple storytelling analogy of ordering Pizza. We will dive into Evidence Based Management framework, and explore questions such as:<br>
+• How to measure what matters? How to connect metrics with goals?<br>
+• How to identify our stakeholders needs in a Product and then validate our Product hypothesis?
 """
 
 #########################
@@ -632,6 +638,23 @@ workshop = true
   Joanna Płaskonka posiada ponad 13-letnie doświadczenie w różnych branżach, w tym w telekomunikacji, IT, bankowości, robotyce i środowisku akademickim. Jej wykształcenie jest związane z automatyką i robotyką, a w dziedzinie robotyki uzyskała tytuł doktorski z wyróżnieniem.<br>
 Kariera Joanny rozpoczęła się od zarządzania konfiguracją oprogramowania, gdzie odkryła swoją miłość do pomagania ludziom w tworzeniu lepszych procesów i użytecznych produktów. To odkrycie zmieniło kierunek jej kariery. W 2010 roku zaczęła uczyć się o Scrumie i zwinności, co wpłynęło znacznie na jej rozwój i karierę zawodową. W swojej pracy nieustannie poszukuje lekkości, efektywności i skupienia się na wartości.<br>
 Obecnie Joanna nosi wiele kapeluszy jako profesjonalna trenerka Scruma i zwinności, mentorka, oraz konsultantka. Jest pierwszą w Polsce akredytowaną trenerką Agile Kata. Jej nadrzędną misją jest wywieranie pozytywnego wpływu zarówno na jednostki, jak i organizacje, przy jednoczesnym konsekwentnym dążeniu do zapewnienia jak najbardziej wyjątkowych doświadczeń edukacyjnych. Wykorzystuje różne techniki, w tym szkolenia, mentoring, coaching i doradztwo, aby pomóc w realizacji tej misji.
+  """
+    # [params.Schedule.authors.link]
+    #   href = ""
+    #   text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Magdalena Kucharska"
+  photo ='img/kucharska.jpg' 
+  bio = """
+  I am an Agile Coach and a Scrum Master, with more than 12+ years of experience in various business fields, such as: engineering, aviation, banking, gambling, MLM. Since 2022 I am also a Professional Scrum Trainer with Scrum.org<br>
+My main focus is the quality of Product and responding to the needs of clients. I love to facilitate Scrum trainings, as it is my way of showing its worth. I do it with easiness and humor, including multiple real-life stories, to help students understand the empiricism behind Scrum.<br>
+Privately a TV-series nerd, with over 330 show watched, with currently 70 in production. Proud mom of one and passionate fantasy and sci-fi reader.
   """
     # [params.Schedule.authors.link]
     #   href = ""
