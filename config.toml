@@ -439,6 +439,15 @@ Podczas warsztatu opowiemy Ci, jak działa (psychologiczny) mechanizm projekcji 
 
 
 <br><br>
+
+<strong> Magdalena Kucharska <br>
+Hipoteza bez walidacji to halucynacja, czyli wprowadzenie do Evidence Based Management</strong><br>
+
+Podczas tego warsztatu będziemy mieli okazję poznać różne obszary mierzenia Produktu na podstawie prostej analogii dostarczania pizzy. Dotkniemy konceptu Evidence Based Management i zastanowimy się nad takimi pytaniami:<br>
+• Jak mierzyć i mieć z tego wartość?<br>
+• Jak łączyć miary z celami?<br>
+• Co jest ważne dla naszych stakeholderów?<br>
+Wszystko to  postaramy się potem przenieść na grunt narzędziowy, żebyście mogli wyjść z warsztatu z praktycznym zestawem czynności do mierzenia produktu a nie tylko teorią.
 """
 
 #########################
@@ -636,5 +645,22 @@ Obecnie Joanna nosi wiele kapeluszy jako profesjonalna trenerka Scruma i zwinno�
     # [params.Schedule.authors.link]
     #   href = ""
     #   text = ""
+
+#------------------------
+
+[[params.Schedule]]
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Magdalena Kucharska"
+  photo ='img/kucharska.jpg' 
+  bio = """
+  Magdalena jest Agile Coachem i Scrum Masterką z ponad 12-letnim doświadczeniem w różnych obszarach biznesowych, takich jak: inżynieria, lotnictwo, bankowość, hazard, MLM. Od 2022 roku jest także Profesjonalną Trenerką Scrum w Scrum.org.<br>
+W swojej pracy skupiam się przede wszystkim na jakości Produktu i zaspokajaniu potrzeb klientów. Pomaga zespołom budować środowisko w pracy w którym czują, że ich praca ma sens i pryznosi realną wartość. Uwielbia prowadzić szkolenia Scrumowe, i robi to z łatwością i humorem, włączając wiele prawdziwych historii, aby pomóc uczniom zrozumieć empiryzm leżący u podstaw Scruma.<br>
+Prywatnie jest maniaczką seriali i podejmowania decyzji opartych na danych.  Dumna mama synka i zapalona czytelniczka polskiej kobiecej fantastyki i science-fiction.
+  """
+    [params.Schedule.authors.link]
+      href = "https://www.mkucharska.com"
+      text = "www"
 
 #------------------------
