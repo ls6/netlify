@@ -655,12 +655,12 @@ workshop = true
   name = "Magdalena Kucharska"
   photo ='img/kucharska.jpg' 
   bio = """
-  I am an Agile Coach and a Scrum Master, with more than 12+ years of experience in various business fields, such as: engineering, aviation, banking, gambling, MLM. Since 2022 I am also a Professional Scrum Trainer with Scrum.org<br>
-My main focus is the quality of Product and responding to the needs of clients. I love to facilitate Scrum trainings, as it is my way of showing its worth. I do it with easiness and humor, including multiple real-life stories, to help students understand the empiricism behind Scrum.<br>
-Privately a TV-series nerd, with over 330 show watched, with currently 70 in production. Proud mom of one and passionate fantasy and sci-fi reader.
+  Magdalena jest Agile Coachem i Scrum Masterką z ponad 12-letnim doświadczeniem w różnych obszarach biznesowych, takich jak: inżynieria, lotnictwo, bankowość, hazard, MLM. Od 2022 roku jest także Profesjonalną Trenerką Scrum w Scrum.org.<br>
+W swojej pracy skupiam się przede wszystkim na jakości Produktu i zaspokajaniu potrzeb klientów. Pomaga zespołom budować środowisko w pracy w którym czują, że ich praca ma sens i pryznosi realną wartość. Uwielbia prowadzić szkolenia Scrumowe, i robi to z łatwością i humorem, włączając wiele prawdziwych historii, aby pomóc uczniom zrozumieć empiryzm leżący u podstaw Scruma.<br>
+Prywatnie jest maniaczką seriali i podejmowania decyzji opartych na danych.  Dumna mama synka i zapalona czytelniczka polskiej kobiecej fantastyki i science-fiction.
   """
-    # [params.Schedule.authors.link]
-    #   href = ""
-    #   text = ""
+    [params.Schedule.authors.link]
+      href = "https://www.mkucharska.com"
+      text = "www"
 
 #------------------------
