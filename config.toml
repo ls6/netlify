@@ -195,6 +195,11 @@ name = "Dare IT"
 logo = 'img/logo_DareIT.png'
 url = 'https://www.dareit.io/'
 
+[[params.Media]]
+name = "Zwinna Łódź"
+logo = 'img/logo_zwinna_lodz.svg'
+url = 'https://www.meetup.com/Zwinna-Lodz/'
+
 ####################################
 #  Organizatorzy
 ####################################
