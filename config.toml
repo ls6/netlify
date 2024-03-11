@@ -31,9 +31,9 @@ Sections = [
 #   Link do rejestracji
 ##########################
 
-[params.CallToAction]
-text = "Zarejestruj się (gratis)"
-link = "register"
+#[params.CallToAction]
+#text = "Zarejestruj się (gratis)"
+# link = "register"
 
 
 ##########################
