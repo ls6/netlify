@@ -151,3 +151,7 @@ Management i zastanowimy się nad takimi pytaniami:
 • Co jest ważne dla naszych stakeholderów?  
 
 Wszystko to postaramy się potem przenieść na grunt narzędziowy, żebyście mogli wyjść z warsztatu z praktycznym zestawem czynności do mierzenia produktu a nie tylko teorią.
+
+
+--------------
+# Playlista wszystkich prezentacji:
