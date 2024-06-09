@@ -19,6 +19,6 @@ Po wyjściu z warsztatów będziecie już wiedzieć, że są lepsze sposoby na r
 
 [Michał Rychlik](https://www.linkedin.com/in/michal-rychlik/)
 
-[Mateusz Nojek]([https](https://www.linkedin.com/in/nojek/)
+[Mateusz Nojek](https://www.linkedin.com/in/nojek/)
 
-[Mati AI]([https](https://www.linkedin.com/company/mati-ai)
+[Mati AI](https://www.linkedin.com/company/mati-ai)
