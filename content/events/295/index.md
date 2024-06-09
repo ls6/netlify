@@ -14,7 +14,7 @@ Fostering togetherness and retaining talents
 
 Current challenges in our flexible workplace; The future of our work - human oriented or process-oriented?; More connectedness through flexibility - is it possible?
 
-## Prelegent:
+## Speaker:
 
 [Marcin Świerkocki](https://www.linkedin.com/in/marcinswierkocki/): More than 25+ years of experience as a consultant in organizational development in working for 500 Fortune Global companies & with people from various cultures. Expert in implementing HR dept. strategies and executing them in companies, creating strategies to attract and keep talents in companies, assessing individuals- and teams performance.
 
