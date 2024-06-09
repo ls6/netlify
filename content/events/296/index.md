@@ -6,7 +6,7 @@ speakers: "Adam Myszak"
 lang: "pl"
 sponsors: ["Bottega IT Minds","DXC Technology"]
 videoURL: "https://youtu.be/of4DDhsP89s"
-slidesURL: ""
+slidesURL: "TOC.pdf"
 draft: false
 ---
 
