@@ -1,3 +1,4 @@
+---
 number: "301"
 date: "2024-06-19T18:00:00+01:00"
 title: "Elephant Carpaccio - dekompozycja pracy na najmniejsze możliwe kawałki"
