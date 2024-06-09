@@ -22,5 +22,7 @@ PS. of course we'll use Liberating Structures, it's our tradition.
 ## Speakers:
 
 [Youla Sønderkær Jung](https://www.linkedin.com/in/youla-jung-0311/): Her greatest passion lies in servant leadership and enhancing efficiency through systems thinking. During her tenure at Ørsted, she has been devoted to closing the gap between the theoretical frameworks of Agile methodologies and their practical application, by understanding the business and how Ørsted delivers value as a whole. She truly believes in fostering a culture of self-leadership, transparency, and empowerment, ensuring that Scrum Masters evolve into pivotal change leaders.
+
 [Olga Sikorska](https://www.linkedin.com/in/olga-sikorska-095b551a1/): In the past an urban planner with a knack for IT, is now a Scrum Master for the Engineering ART at Ørsted. Her passion for creative problem-solving stems from years spent working on urban plans, where she implemented agile techniques and User Experience principles. She loves workshops and unconventional methods. In her private time, she is a home chef and a fan of all kinds of games.
+
 [Kuba Karolak](https://www.linkedin.com/in/jkarolak/): "I’m working agile my whole career. I can’t and I don’t want to work differently. I’m specialized in workshops, public speaking and everything that is connected to knowledge transfer. During the meetup, you can chat me up about Liberating Structures, cooking and your gym progress."
