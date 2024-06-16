@@ -6,7 +6,7 @@ speakers: "Michał Jakubas"
 lang: "pl"
 sponsors: ["QAgile","DXC Technology"]
 videoURL: "https://youtu.be/u-7BDkTMlW8"
-slidesURL: ""
+slidesURL: "Na kiedy będzie - Agile Warsaw - 03062024.pdf"
 draft: false
 ---
 
