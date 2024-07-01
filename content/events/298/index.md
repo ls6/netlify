@@ -5,7 +5,7 @@ title: "Na kiedy będzie?” – o możliwych odpowiedziach na to pytanie"
 speakers: "Michał Jakubas"
 lang: "pl"
 sponsors: ["QAgile","DXC Technology"]
-videoURL: "https://youtu.be/u-7BDkTMlW8"
+videoURL: "https://youtu.be/rBsxjfr5lmY"
 slidesURL: "Na kiedy będzie - Agile Warsaw - 03062024.pdf"
 draft: false
 ---
