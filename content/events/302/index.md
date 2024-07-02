@@ -1,5 +1,5 @@
 ---
-number: "304"
+number: "302"
 date: "2024-07-01T18:00:00+02:00"
 title: "Jak zmierzyć i rozwijać Product Ownera/kę?"
 speakers: "Łukasz Filut"
