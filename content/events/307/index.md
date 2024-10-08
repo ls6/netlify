@@ -5,7 +5,7 @@ title: "Zwinność zorganizowana"
 speakers: "Ewa Koprowska"
 lang: "pl"
 sponsors: ["DXC"]
-videoURL: ""
+videoURL: "https://youtu.be/Dg0qd_ayuag"
 draft: false
 ---
 
