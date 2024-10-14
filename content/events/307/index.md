@@ -1,6 +1,6 @@
 ---
 number: "307"
-date: "2024-10-23T18:00:00+02:00"
+date: "2024-09-23T18:00:00+02:00"
 title: "Zwinność zorganizowana"
 speakers: "Ewa Koprowska"
 lang: "pl"
