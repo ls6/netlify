@@ -6,6 +6,7 @@ speakers: "Klaudia Komacka, Jakub Perlak"
 lang: "pl"
 sponsors: ["DXC"]
 videoURL: ""
+slidesURL: "Integral Leader Meetup.pdf"
 draft: false
 ---
 
