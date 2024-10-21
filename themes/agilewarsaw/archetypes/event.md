@@ -18,6 +18,8 @@ https://github.com/AgileWarsaw/netlify/tree/master/content/events
 
 UWAGA: kuszące jest skopiowanie któregoś z poprzednich wydarzeń i nadpisanie danych ale prawie zawsze kończy się to jakąś pomyłką. Bezpieczniej jest wystartować z tego szablonu.
 
+Jeśli pracujesz lokalnie, to zaklęcie, które automatycznie tworzy nowe spotkanie jest takie (wstaw właściwy numer zamiast 400):
+    hugo new content/events/400/index.md --kind event
 
 # Data i godzina wydarzenia
 
