@@ -25,7 +25,7 @@ Warsztat może być źródłem wiedzy dla początkujących adeptów zwinności i
 
 ## Prowadzący:
 
-Aleksander Koska jest wieloletnim nauczycielem akademickim i praktykiem biznesu, absolwentem Politechniki Poznańskiej oraz studiów MBA na Uniwersytecie Nottingham Trent. Od wielu lat wspiera organizacje różnej wielkości, od małych firm rodzinnych po globalne, międzynarodowe firmy produkcyjne i korporacje z branż: reklama, poligrafia, IT, ubezpieczenia, finanse, konsulting, telekomunikacja.  
+Aleksander Kóska jest wieloletnim nauczycielem akademickim i praktykiem biznesu, absolwentem Politechniki Poznańskiej oraz studiów MBA na Uniwersytecie Nottingham Trent. Od wielu lat wspiera organizacje różnej wielkości, od małych firm rodzinnych po globalne, międzynarodowe firmy produkcyjne i korporacje z branż: reklama, poligrafia, IT, ubezpieczenia, finanse, konsulting, telekomunikacja.  
 Pomaga uporać się z problemami związanymi z: budowaniem strategii
 rozwoju, produkcją, zarządzaniem produktami i zespołami, tworzeniem
 oprogramowania i stron internetowych, przygotowaniem wydarzeń
