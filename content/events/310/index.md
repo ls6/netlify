@@ -6,6 +6,7 @@ speakers: "Przemysław Pryfer, Paweł Kawka"
 lang: "pl"
 sponsors: ["Bank Millenium"]
 videoURL: ""
+slidesURL: ""
 draft: false
 ---
 
@@ -13,11 +14,15 @@ Ten warsztat to idealne wprowadzenie do Evidence-Based Management (EBM) dla osó
 
 Korzyści:
 
-*Wprowadzenie do formułowania i testowania hipotez
-*Praktyczne narzędzia do podejmowania lepszych decyzji produktowych
-*Lepsze zrozumienie potrzeb użytkowników i rynku
-*Nauka korzystania z danych w codziennej pracy Product Ownera
-*Większa pewność siebie w zarządzaniu produktem
+* Wprowadzenie do formułowania i testowania hipotez
+
+* Praktyczne narzędzia do podejmowania lepszych decyzji produktowych
+
+* Lepsze zrozumienie potrzeb użytkowników i rynku
+
+* Nauka korzystania z danych w codziennej pracy Product Ownera
+
+* Większa pewność siebie w zarządzaniu produktem
 
 ### Jest to warsztat dla:  
 Osób początkujących, mających kontakt z tworzeniem / zarządzaniem produktem, wpływ na to jak powstają produkty lub jak są rozwijane.
