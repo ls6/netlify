@@ -25,14 +25,14 @@ W drugiej części użyjemy narzędzi diagnostycznych, pozwalających zdecydowa�
 
 ### Dla kogo jest to spotkanie?
 
-Warsztat jest adresowany dla każdego, kto zastanawia się nad tym, jak powinna być zorganizowana praca jakiejś grupy ludzi. Z uwagi na kontekst wystąpienia będziemy mówili dużo o IT, ale zagadnienie jest uniwersalne w różnych branżach. Na pewno zapraszamy tech leadów, menedżerów liniowych i wyższego szczebla, Product Ownerów, Scrum Masterów albo osoby zajmujące się Kanbanem. Ale jeśli jesteś członkiem zespołu i zastanawiasz się, czy to co robi Twoja firma ma sens - nie wahaj się i wpadaj :)
+Warsztat jest adresowany do każdego, kto zastanawia się nad tym, jak powinna być zorganizowana praca jakiejś grupy ludzi. Z uwagi na kontekst wystąpienia będziemy mówili dużo o IT, ale zagadnienie jest uniwersalne w różnych branżach. Na pewno zapraszamy tech leadów, menedżerów liniowych i wyższego szczebla, Product Ownerów, Scrum Masterów, albo osoby zajmujące się Kanbanem. Ale jeśli jesteś członkiem zespołu i zastanawiasz się, czy to, co robi Twoja firma ma sens - nie wahaj się i wpadaj :)
 
 
 ## Prowadząca:
 
 Antykonsultant, bo pracując z organizacjami angażuję się w długoterminowo w ich udoskonalanie, wykonując część pracy własnymi rękami.  
 
-Specjalizuje się w motywacji w zwinnych zespołach. Od lat pomagam firmom zwiększać kooperację pomiędzy działami, zespołami i pracownikami. Jestem ekspertem zwinnych (agile) i leanowych podejść. Pracuję z zarządami firm różnej wielkości (w tym dużych korporacji i spółek skarbu państwa), z kadrą kierowniczą oraz z zespołami. Lubię pracować zarówno z dużymi organizacjami typu banki (mam ich kilka na swoim koncie), jak i ze startupami.  
+Specjalizuję się w motywacji w zwinnych zespołach. Od lat pomagam firmom zwiększać kooperację pomiędzy działami, zespołami i pracownikami. Jestem ekspertem zwinnych (agile) i leanowych podejść. Pracuję z zarządami firm różnej wielkości (w tym dużych korporacji i spółek skarbu państwa), z kadrą kierowniczą oraz z zespołami. Lubię pracować zarówno z dużymi organizacjami typu banki (mam ich kilka na swoim koncie), jak i ze startupami.  
 
 Obecnie prowadzę własną działalność pod nazwą Scientific Agile, skoncentrowaną na budowie adaptacyjnych zespołów, uczących się organizacji oraz kształceniu kadry menedżerskiej. Tworzę własne programy edukacyjne, skupione na zwiększaniu współpracy w organizacjach i zmianie kultury organizacyjnej, w szczególności na budowie kultury inżynierskiej.  
 
@@ -42,5 +42,4 @@ Jestem zafascynowana III falą behawioralną i wprowadzam narzędzia, jakich dos
 
 Obecnie prowadzę zajęcia na kilku uczelniach z zakresu pracy z konfliktem, budowy zespołów oraz psychologii organizacji.  
 
-Ukończyłam psychologię społeczną na warszawskim SWPS. Ciągle rozwijam się uczestnicząc w szkoleniach i długofalowych programach rozwojowych. Więcej informacji na <a href="https://www.linkedin.com/in/agnieszka-jaga-biernacka/" target="_blank">LinkedIn</a>.
-
+Ukończyłam psychologię społeczną na warszawskim SWPS. Ciągle rozwijam się uczestnicząc w szkoleniach i długofalowych programach rozwojowych. Więcej informacji na <a href="https://www.linkedin.com/in/agnieszka-jaga-biernacka/" target="_blank">https://www.linkedin.com/in/agnieszka-jaga-biernacka/</a>.
