@@ -33,7 +33,7 @@ wystawienniczych i materiałów marketingowych.
 W razie potrzeby dołącza do zespołu i pomaga rozwiązywać krytyczne
 problemy. Pracował na stanowiskach: nauczyciela akademickiego,
 programisty, Project Managera, Scrum Mastera, Product Ownera, Agile
-Coacha, CEO. Jego pasją jest szerzenie wiedzy na temat zwinnego zarządzania. Od lat prowadzi bloga: <a href="https://agileinstitute.pl">agileinstitute.pl</a>, aktywnie publikuje artykuły na <a href="https://www.linkedin.com/in/aleksanderkoska" target="_blank">LinkedIn</a>.
+Coacha, CEO. Jego pasją jest szerzenie wiedzy na temat zwinnego zarządzania. Od lat prowadzi bloga: <a href="https://agileinstitute.pl">agileinstitute.pl</a>, aktywnie publikuje artykuły na <a href="https://www.linkedin.com/in/aleksanderkoska" target="_blank">https://www.linkedin.com/in/aleksanderkoska</a>.
 
 <a href="https://www.facebook.com/share/kRr4MKNHV6d7js4N/">https://www.facebook.com/share/kRr4MKNHV6d7js4N/</a>  
 <a href="https://www.instagram.com/aleksanderkoska"><https://www.instagram.com/aleksanderkoska/a>  
