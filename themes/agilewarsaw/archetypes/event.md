@@ -6,6 +6,7 @@ speakers: "Imię Nazwisko, Imię2 Nazwisko2"
 lang: "Wpisz pl albo en"
 sponsors: ["sponsor1", "sponsor2"]
 videoURL: ""
+slidesURL: ""
 draft: false
 ---
 
