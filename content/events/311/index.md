@@ -4,8 +4,8 @@ date: "2024-11-18T18:00:00"
 title: "Jak zorganizować współpracę kilku osób - grupa, załoga, zespół."
 speakers: "Jaga Biernacka-Urban"
 lang: "pl"
-sponsors: ["DXC"]
-videoURL: ""
+sponsors: ["DXC, QAgile"]
+videoURL: "https://youtu.be/RSbbuTFg4cM"
 slidesURL: ""
 draft: false
 ---
