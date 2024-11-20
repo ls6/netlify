@@ -2,7 +2,7 @@
 number: "312"
 date: "2024-12-02T18:00:00"
 title: "WTF... Co poszło nie tak? - Dlaczego facylitacja grupowego podejmowania decyzji może się nie udać i jak się przed tym ustrzec?"
-speakers: "Magdda Gałaj, Ewelina Startek "
+speakers: "Magda Gałaj, Ewelina Startek "
 lang: "pl"
 sponsors: ["PKO BP"]
 videoURL: ""
