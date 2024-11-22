@@ -1,5 +1,5 @@
 ---
-number: "313`"
+number: "313"
 date: "2024-12-09T18:00:00+01:00"
 title: "Grzybowa czy barszcz? Świąteczna edycja Liberating Structures"
 speakers: "Mikołaj Gajewski, Paulina Karnabal, Olga Putz, Yurii Demkiv"
@@ -35,6 +35,6 @@ Do wszystkich osób, które chcą w praktyce przetestować Liberating Structures
 
 <a href="https://pl.linkedin.com/in/paulina-karnabal-b32071173" target="_blank">Paulina Karnabal</a>  – mistrzyni Scrum o korzeniach technicznych z zakresu energetyki, która z sukcesem ukończyła program stażowy IT Explorer w Ørsted i została pełnoprawną Scrum Masterką! Z ogromną pasją do agile i determinacją kieruje sprintami i przepływem historyjek w swoich zespołach. Po godzinach w otoczeniu kuchennej magii i pracy w lodziarni, jej oczyszczony umysł gotuje strategie sukcesu produktów z którymi jest związana.
 
-<a href="https://pl.linkedin.com/in/olga-sikorska-095b551a1" target="_blank">Olga Putz</a> - niegdyś urbanistka o zacięciu IT, dziś Scrum Masterka Engineering ART w Ørsted. Jej pasja do kreatywnego rozwiązywania problemów wzięła się z lat spędzonych nad planami miejskimi, gdzie wprowadzała techniki zwinne i User Experience. Uwielbia warsztaty i niekonwencjonalne metody. W prywatnym czasie jest domową szefową kuchni i fanką gier wszelkiego rodzaju.
+<a href="https://www.linkedin.com/in/olga-putz-095b551a1" target="_blank">Olga Putz</a> - niegdyś urbanistka o zacięciu IT, dziś Scrum Masterka Engineering ART w Ørsted. Jej pasja do kreatywnego rozwiązywania problemów wzięła się z lat spędzonych nad planami miejskimi, gdzie wprowadzała techniki zwinne i User Experience. Uwielbia warsztaty i niekonwencjonalne metody. W prywatnym czasie jest domową szefową kuchni i fanką gier wszelkiego rodzaju.
 
 <a href="https://pl.linkedin.com/in/yurii-demkiv" target="_blank">Yurii Demkiv</a>  - informatyk i programista w przeszłości, teraz Scrum Master w Ørsted. Woli słuchać więcej niż mówić, ale jak mówi, to robi to z pasją i energią. Wielki fan pragmatycznych i lakonicznych dialogów, dlatego jest zainteresowany facylitacją. Po pracy wspiera zwinność na matach, trenując sztuki walki.
