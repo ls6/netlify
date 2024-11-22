@@ -29,8 +29,6 @@ Do zobaczenia i Wesołych Świąt!
 
 Do wszystkich osób, które chcą w praktyce przetestować Liberating Structures
 
-## Poznaj prowadzących: 
-
 ## Prowadzący i gospodarze spotkania:
 
 <a href="https://pl.linkedin.com/in/mikolajga" target="_blank">Mikołaj Gajewski</a>  - twój przewodnik po świecie Agile z Warszawy! Moje doświadczenie zdobywałem w Ørsted, Accenture i kilku mniejszych firmach, gdzie nauczyłem się praktycznego stosowania zwinności. Z Agile Warsaw zorganizowaliśmy 4 warsztaty Liberating Structures, więc moje działania mówią same za siebie! Jeśli potrzebujesz pomocy w budowaniu efektywnego, zdrowego i dobrze funkcjonującego zespołu, chętnie pomogę!
