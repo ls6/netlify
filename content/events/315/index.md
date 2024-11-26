@@ -20,7 +20,7 @@ Czego potrzebują grupy i na jakim etapie? Tego dowiesz się na spotkaniu.
 
 Do wszystkich
 
-## Prowadzący i gospodarze spotkania:
+### Prowadząca:
 
 <a href="https://www.linkedin.com/in/aleksandrajach" target="_blank">Aleksandra Jach</a> - facylitatorka, coachka, trenerka, kuratorka sztuki. Pracuje w różnych rolach, pod tym samym celem - wspierania lepszej komunikacji w organizacjach, żeby działały bardziej skutecznie i z większym sensem. 
 
