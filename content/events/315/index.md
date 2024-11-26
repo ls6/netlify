@@ -25,7 +25,8 @@ Do wszystkich
 <a href="https://www.linkedin.com/in/aleksandrajach" target="_blank">Aleksandra Jach</a> - facylitatorka, coachka, trenerka, kuratorka sztuki. Pracuje w różnych rolach, pod tym samym celem - wspierania lepszej komunikacji w organizacjach, żeby działały bardziej skutecznie i z większym sensem. 
 
 Ma szerokie doświadczenie w kierowaniu złożonymi projektami artystycznymi, które zdobywała w Polsce i zagranicą (m.in. w Hamburger Bahnhof i DaaD w Berlinie). 
-Jest autorką pierwszego polskiego dokumentu sieciowego o transformacji energetycznej: https://buriedsun.biennalewarszawa.pl. 
+Jest autorką pierwszego polskiego dokumentu sieciowego o transformacji energetycznej: https://buriedsun.biennalewarszawa.pl.
+
 Współzakładała Kulturę dla Klimatu - kolektyw działający na rzecz zmian w sektorze kultury w stronę świadomego korzystania z zasobów. 
 Jest jedną z fundatorek Fundacji Huba, która wspiera w rozwoju organizacji i strategicznej komunikacji.
 
