@@ -5,7 +5,7 @@ title: "Trudne słowo facylitacja. A pomyślcie: style facylitacji! "
 speakers: "Aleksandra Jach"
 lang: "pl"
 sponsors: ["DXC; QAgile"]
-videoURL: ""
+videoURL: "https://youtu.be/hiS9yI6dEAM"
 slidesURL: ""
 draft: false
 ---
