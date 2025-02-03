@@ -1,14 +1,14 @@
 publishDir = "docs"
 baseurl = 'https://abelight.agilewarsaw.com'
-title = "ABE Light 2024"
+title = "ABE Light 2025"
 canonifyurls = true
 theme = "hugo-conference"
 
 [params]
-Name = "ABE Light 2024"
-Description = "AgileByExample Light 2024"
-Date = "10 Marca (Niedziela)"
-startDate = "2024-03-10T13:45"
+Name = "ABE Light 2025"
+Description = "AgileByExample Light 2025"
+Date = "6 Kwietnia (Niedziela)"
+startDate = "2025-04-06T13:45"
 Venue = "Akademia Leona Koźmińskiego"
 Address = "ul. Jagiellońska 57/59"
 City = "Warsaw"
