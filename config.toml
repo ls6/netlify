@@ -263,6 +263,21 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 #------------------------
 
+[[params.Schedule]]
+    [[params.Schedule.authors]]
+    name = "Kate Hobler"
+    photo = ""
+    bio = ""
+
+      [params.Schedule.authors.link]
+        href = ''
+        text = ''
+
+    [params.Schedule.presentation]
+      title = 'Tytuł TBD'
+      description = """ Opis TBD """
+
+#------------------------
 
 ####################################
 # Warsztaty
@@ -319,6 +334,22 @@ Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz 👆👆
 [[params.Schedule]]
 workshop = true
 
+  # multiple authors per workshop are OK
+  [[params.Schedule.authors]]
+  name = "Justyna (Kęsik) Rędzikowska"
+  photo = "img/redzikowska.png"
+  bio = """
+  Specjalizuję się w Ways of Working. Buduję efektywne zespoły, wspierające społeczności, wbijam level up organizacjom. Pracuję z wartościami, ludźmi, danymi i procesami. Uwielbiam się uczyć oraz dzielić wiedzą. 
+  <br>
+  Od 2003 rozwijam się jako liderka, a od 2006 jako trenerka, facylitatorka i mentorka.
+  <br>
+  Lubię zadawać pytania, ogromnie ciekawi mnie świat, człowiek i procesy jakie zachodzą pomiędzy.
+  <br>
+  Aktualnie działam jako Scrum/Kanban Masterka oraz Agile Coachka w Danonie, choć na umowie mi napisano, że jestem Starszym Kierownikiem, a ja ani stara ani panowie pod Żabką nie mówią mi "Kierowniczko" ;)
+  """
+    [params.Schedule.authors.link]
+      text = 'LinkedIn'
+      href = 'https://www.linkedin.com/in/justyna-redzikowska/'
 
 
 [[params.Schedule]]
@@ -326,12 +357,42 @@ workshop = true
 
   # multiple authors per workshop are OK
   [[params.Schedule.authors]]
-  name = "trener X"
-  photo = ""
+  name = "Staszek Matczak"
+  photo = "img/matczak.jpg"
   bio = """
+  Po studiach niespodziewanie okazało się, że trzeba zarabiać na życie – więc poszedłem do pracy.
+Zaczynałem od pisania kodu. Ponieważ w miarę dobrze dogadywałem się z ludźmi, zaproponowano
+mi stanowisko kierownika zespołu. Planowałem prace, rozdzielałem zadania, rozwiązywałem
+problemy, rozmawiałem z ludźmi… Jednak coraz bardziej czułem, że w naszym IT coś nie gra.
+Pracowaliśmy wspólnie z utalentowanymi, zaangażowanymi ludźmi, a mimo to ciągle pojawiały się
+opóźnienia, wtopy i porażki.<br> 
+Szukając lepszych sposobów pracy odkryłem najpierw Scruma, a potem kolejne metody i koncepcje
+zwinne – Kanbana, zbiór metod z M3.0, sposoby skalowania… Wciągnęło mnie to bardzo. Przez jakiś
+czas łączyłem rolę menedżera zespołu i Scrum Mastera, potem menedżera zespołu i Product Ownera,
+aż wreszcie porzuciłem zarządzanie i skupiłem się na wdrażaniu metod zwinnych.
+Czego się nauczyłem? Że metody zwinne są proste do zrozumienia, ale trudne do zastosowania. Że
+organizacje brawurowo walczą z problemami, które same sobie stwarzają. Że warto jest
+niestrudzenie zadawać pytanie „dlaczego?”. Że często chęć zmiany jest powierzchowna. Że nie
+zawsze Scrum jest dobrym rozwiązaniem problemu. Że wszystko opiera się na wartościach.
+Jestem ojcem trójki wspaniałych dzieci, współorganizatorem trójmiejskiej społeczności Agile3M.
+Kiedyś pisałem coś na blogu www.trzeciakawa.pl 
   """
     [params.Schedule.authors.link]
-      href = ''
-      text = ''
+      text = 'LinkedIn'
+      href = 'https://www.linkedin.com/in/staszekmatczak/'
 
+
+
+#[[params.Schedule]]
+#workshop = true
+#
+  ## multiple authors per workshop are OK
+  #[[params.Schedule.authors]]
+  #name = ""
+  #photo = ""
+  #bio = """
+  #"""
+    #[params.Schedule.authors.link]
+      #text = ''
+      #href = ''
 #------------------------
