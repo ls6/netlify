@@ -115,6 +115,12 @@ name = "Akademia Leona Koźmińskiego"
 logo = "img/logo_ALK.png"
 url = 'https://www.kozminski.edu.pl/'
 
+
+[[params.Sponsors]]
+name = "BEC Poland"
+logo = "img/logo_bec.png"
+url = 'https://www.linkedin.com/company/becpoland/'
+
 ####################################
 #  Partnerzy
 ####################################
@@ -139,10 +145,10 @@ url = 'https://nextgen.pm/'
 # logo = "img/logo_APL.png"
 # url = "http://agilepolska.pl/"
 
-# [[params.Media]]
-# name = "Kanban przy kawie"
-# logo = "img/logo_kanban_przy_kawie.png"
-# url = 'https://kanbanprzykawie.pl/'
+[[params.Media]]
+name = "Kanban przy kawie"
+logo = "img/logo_kanban_przy_kawie.png"
+url = 'https://kanbanprzykawie.pl/'
 
 # [[params.Media]]
 # name = "Agile 247"
@@ -169,10 +175,10 @@ url = 'https://nextgen.pm/'
 # logo = "img/logo_agile_poznan.png"
 # url = 'https://www.linkedin.com/groups/4406793'
 
-# [params.Media]]
-# ame = "Agile 3M"
-# ogo = "img/logo_agile3m.png"
-# rl = 'https://www.linkedin.com/company/agile3m'
+[[params.Media]]
+ame = "Agile 3M"
+ogo = "img/logo_agile3m.png"
+rl = 'https://www.linkedin.com/company/agile3m'
 
 # [params.Media]]
 # ame = "Agile Silesia"
