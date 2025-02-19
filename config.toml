@@ -115,6 +115,7 @@ name = "Akademia Leona Koźmińskiego"
 logo = "img/logo_ALK.png"
 url = 'https://www.kozminski.edu.pl/'
 
+
 [[params.Sponsors]]
 name: "BEC Poland"
 logo: "img/logo_bec.png"
