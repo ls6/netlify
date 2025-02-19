@@ -264,12 +264,12 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     """
 
       [params.Schedule.authors.link]
-        href = ''
-        text = ''
+        href = 'https://www.linkedin.com/in/aga-sz%C3%B3stek-author/ '
+        text = 'LindkedIn'
 
     [params.Schedule.presentation]
-      title = 'Tytuł TBD'
-      description = """ Opis TBD """
+      title = 'Sztuka bycia dobrym liderem'
+      description = """ Wiele organizacji i społeczności ma nie tylko dług technologiczny, a także dług przywódczy. Kiedy dołączacie do nowego miejsca, otrzymujecie domyślny i niezdefiniowany zestaw założeń dotyczących tego, jakimi przywódcami powinniście być. Jest to zwykle połączenie duchów przeszłych i obecnych liderów, z ich dobrymi i złymi nawykami wzmocnionymi przez ogólną kulturę organizacyjną. Można więc bezpiecznie założyć, że nie ma jednej odpowiedzi na pytanie, czym jest „dobre” przywództwo w miejscu, w którym się znajdujecie. Każda odpowiedź jest dobra, o ile czujecie, że wasze podejście pasuje do was i pomaga innym wokół was rozwijać ich potencjał. Prawdopodobnie wiesz, co cenisz w liderach, przełożonych i menedżerach, których spotkaliście na swojej dotychczasowej drodze, a jakich postaw chcecie uniknąć za wszelką cenę. Przyjrzyjmy się zatem, jak dowiedzieć się, jakim liderem chcecie zostać (bez względu na to czy prowadzicie zespół, projekt, czy też chcecie przekonać waszą organizację do waszego sposobu myślenia). """
 
 #------------------------
 
