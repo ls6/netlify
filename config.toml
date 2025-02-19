@@ -257,7 +257,11 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     [[params.Schedule.authors]]
     name = "Aga Szóstek"
     photo = ""
-    bio = "Dr Aga Szóstek jest autorką Strategii Umami oraz Zostań liderem, jakim chcesz! i ekspertką w zakresie strategii i przywództwa. Przez ostatnie dwie dekady współpracowała z czołówką firm łączących design, technologię i biznes. Pracowała z takimi markami jak Google, Philips, Samsung, Play, Allegro, EY, Santander, ING, Orange i wieloma innymi, wnosząc do zespołów projektowych i zarządów strategiczne podejście oparte na projektowaniu doświadczeń. Aga wspiera także swoich klientów w rozwoju liderskim w oparciu o kluczowe wyzwania przywódcze zakotwiczone w ich organizacyjnej kulturze. Oferuje unikatowe programy liderskie dostarczane w formie niezapomnianego doświadczenia."
+    bio = """
+    Dr Aga Szóstek jest autorką "Strategii Umami" oraz "Zostań liderem", jakim chcesz! i ekspertką w zakresie strategii i przywództwa.<br>
+    Przez ostatnie dwie dekady współpracowała z czołówką firm łączących design, technologię i biznes. Pracowała z takimi markami jak Google, Philips, Samsung, Play, Allegro, EY, Santander, ING, Orange i wieloma innymi, wnosząc do zespołów projektowych i zarządów strategiczne podejście oparte na projektowaniu doświadczeń.<br>
+    Aga wspiera także swoich klientów w rozwoju liderskim w oparciu o kluczowe wyzwania przywódcze zakotwiczone w ich organizacyjnej kulturze. Oferuje unikatowe programy liderskie dostarczane w formie niezapomnianego doświadczenia.
+    """
 
       [params.Schedule.authors.link]
         href = ''
