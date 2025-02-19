@@ -175,7 +175,7 @@ url = 'https://kanbanprzykawie.pl/'
 # logo = "img/logo_agile_poznan.png"
 # url = 'https://www.linkedin.com/groups/4406793'
 
-[params.Media]]
+[[params.Media]]
 ame = "Agile 3M"
 ogo = "img/logo_agile3m.png"
 rl = 'https://www.linkedin.com/company/agile3m'
