@@ -264,8 +264,8 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     """
 
       [params.Schedule.authors.link]
-        href = ''
-        text = ''
+        href = 'https://www.linkedin.com/in/aga-sz%C3%B3stek-author/ '
+        text = 'LindkedIn'
 
     [params.Schedule.presentation]
       title = 'Tytuł TBD'
