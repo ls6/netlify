@@ -454,7 +454,7 @@ workshop = true
   """
     [params.Schedule.authors.link]
       text = 'LinkedIn'
-      href = ' https://www.linkedin.com/in/agatakabat/'
+      href = 'https://www.linkedin.com/in/agatakabat/'
 
   [[params.Schedule.authors]]
   name = "Bartek Juszczak"
