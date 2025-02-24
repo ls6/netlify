@@ -352,6 +352,17 @@ Zapraszam osoby, które chcą przyjrzeć się nie tylko warstwie narzędzi i pro
 Dla pełnej jasności: nie jestem sponsorowany przez Atlassiana i nie jest to prezentacja sprzedażowa. A po drugie: słowo ,,Jira'' w tytule może być zastąpione przez dowolne inne narzędzie do planowania i zarządzania pracą.
 
 
+<br><br>
+
+<strong> Agata Kabat, Bartek Juszczak <br> 
+Another level unlocked! Jak liderzy/-ki mogą wykorzystywać coaching zespołu, aby...
+<br><br>
+</strong>
+W dzisiejszym szybko zmieniającym się świecie wzrasta potrzeba tworzenia świetnych zespołów - takich, które są efektywne nie tylko w krótkim okresie, ale trwale i konsekwentnie utrzymujących ten poziom w codziennej pracy. Z tego powodu niezbędny jest ciągły rozwój zespołu, który wspiera jego adaptację do zmieniających się warunków otoczenia oraz wzmacnia synergię.
+<br><br>
+Coaching zespołu jest w tym obszarze niezwykle pomocny. Jest to interwencja, która pozwala osiągać znaczące i trwałe rezultaty, a także rozwijać się na każdym etapie współpracy. Coaching staje się nieocenionym narzędziem w środowiskach organizacji różnej wielkości, ponieważ wysoka efektywność wymaga spójności w dążeniu do wspólnych celów, utrzymania innowacyjności i elastyczności w reagowaniu na zmiany. 
+<br><br>
+W ramach warsztatu dowiesz się czym jest coaching zespołu wg International Coaching Federation, wiodącej organizacji zrzeszającej profesjonalnych coachów. Zrozumiesz czym różni się on od agile coachingu, treningu, doradztwa, mentoringu zespołu czy też facylitacji. Doświadczysz też, z perspektywy zespołu, przykładowego przebiegu sesji coachingowej zespołu.
 
 <br><br>
 
@@ -360,7 +371,7 @@ Dla pełnej jasności: nie jestem sponsorowany przez Atlassiana i nie jest to pr
  Tytuł warsztatu 
  <br>
 </strong>
- Opis warsztatu 2<br>
+ Opis warsztatu <br>
  cd...
  
 """
@@ -430,6 +441,35 @@ Kiedyś pisałem coś na blogu www.trzeciakawa.pl
       href = 'https://www.linkedin.com/in/staszekmatczak/'
 
 
+[[params.Schedule]]
+workshop = true
+
+  # multiple authors per workshop are OK
+  [[params.Schedule.authors]]
+  name = "Agata Kabat"
+  photo = "img/Agata_Kabat-2.jpg"
+  bio = """
+  Na co dzień buduję zespoły, z którymi chce się pracować. Wspieram w praktykowaniu adaptacyjności do zmieniającego się otoczenia, zwiększaniu skuteczności, usprawnianiu komunikacji, a także w tworzeniu prawdziwej zespołowości w codziennej pracy. Dodatkowo pracuję z introwertykami: pomagam im zarządzać swoją energią oraz rozwijać pewność siebie. Moją pasją jest towarzyszenie w zmianie i odkryciach na drodze do osiągania zamierzonych celów. <br>
+  Jestem certyfikowaną coachką ACC-ICF oraz ACTC-ICF, co-founderką konceptu Team Possible, a moje ścieżki zawodowe obejmują pracę w firmach takich jak McKinsey & Company, Atos, PayU, Sii czy aktualnie IBM Software Lab. W wolnych chwilach ćwiczę boks, praktykuję jogę i uważnie spaceruję po lesie.
+  """
+    [params.Schedule.authors.link]
+      text = 'LinkedIn'
+      href = ' https://www.linkedin.com/in/agatakabat/'
+
+  [[params.Schedule.authors]]
+  name = "Bartek Juszczak"
+  photo = "img/juszczak.jpg"
+  bio = """
+  Jestem liderem zorientowanym na ludzi, a moją specjalnością jest wspieranie organizacji w osiąganiu rezultatów biznesowych poprzez adaptacyjność i skuteczność pracy zespołowej, w warunkach szybko zmieniającego się świata. Dzięki temu mogą one skutecznie i efektywnie rozwijać produkty uwielbiane przez klientów.<br>
+Pomagam organizacjom budować świetne zespoły, z którymi każdy chce współpracować. Współtworzę podcast Team Possible, w którym rozmawiamy o przenoszeniu zespołów i ich liderów na wyższy poziom (<a href="http://teampossible.pl/" target="new_frame">http://teampossible.pl/</a>).<br>
+Wykorzystuję do tego moje wieloletnie doświadczenie jako lider zmiany, menedżer, coach czy trener oraz konsultant w wielu organizacjach o różnej wielkości, od start-upów po korporacje.<br>
+Przeprowadziłem szkolenia dla 500+ osób z zakresu zwinności, przywództwa oraz zespołowości oraz otwarte warsztaty dla ponad 200 osób przy okazji konferencji i spotkań lokalnych społeczności.
+Od 2016 roku jestem liderem społeczności Agile Poznań.<br>
+Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świeżym powietrzu, a także czytać kryminały.
+  """
+    [params.Schedule.authors.link]
+      text = 'www'
+      href = 'https://bartekjuszczak.pl/'
 
 #[[params.Schedule]]
 #workshop = true
