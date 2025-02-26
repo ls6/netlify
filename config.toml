@@ -180,25 +180,25 @@ name = "Agile 3M"
 logo = "img/logo_agile3m.png"
 url = 'https://www.linkedin.com/company/agile3m'
 
-[params.Media]]
+[[params.Media]]
 name = "Agile Silesia"
 logo = "img/logo_agile-silesia.png"
 url = 'https://www.agilesilesia.pl/'
 
-# [params.Media]]
-# ame = "ALE Kraków"
-# ogo = "img/logo-ale-krakow.png"
-# rl = 'https://www.alekrakow.com/'
+# [[params.Media]]
+# name = "ALE Kraków"
+# logo = "img/logo-ale-krakow.png"
+# url = 'https://www.alekrakow.com/'
 
-# [params.Media]]
-# ame = "Dare IT"
-# ogo = 'img/logo_DareIT.png'
-# rl = 'https://www.dareit.io/'
+# [[params.Media]]
+# name = "Dare IT"
+# logo = 'img/logo_DareIT.png'
+# url = 'https://www.dareit.io/'
 
-# [params.Media]]
-# ame = "Zwinna Łódź"
-# ogo = 'img/logo_zwinna_lodz.svg'
-# rl = 'https://www.meetup.com/Zwinna-Lodz/'
+# [[params.Media]]
+# name = "Zwinna Łódź"
+# logo = 'img/logo_zwinna_lodz.svg'
+# url = 'https://www.meetup.com/Zwinna-Lodz/'
 
 ####################################
 #  Organizatorzy
