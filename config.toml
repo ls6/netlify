@@ -140,10 +140,10 @@ url = 'https://nextgen.pm/'
 #  Media
 ####################################
 
-# [[params.Media]]
-# name = "Agile Polska"
-# logo = "img/logo_APL.png"
-# url = "http://agilepolska.pl/"
+[[params.Media]]
+name = "Agile Polska"
+logo = "img/logo_APL.png"
+url = "http://agilepolska.pl/"
 
 [[params.Media]]
 name = "Kanban przy kawie"
@@ -289,6 +289,23 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 #------------------------
 
+[[params.Schedule]]
+    [[params.Schedule.authors]]
+    name = "Agnieszka Sint, Maciej Czyżowicz"
+    photo = ""
+    bio = ""
+
+      [params.Schedule.authors.link]
+        href = ''
+        text = ''
+
+    [params.Schedule.presentation]
+      title = 'Tytuł TBD'
+      description = """ Opis TBD """
+
+#------------------------
+
+      
 ####################################
 # Warsztaty
 ####################################
