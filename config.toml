@@ -291,7 +291,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 [[params.Schedule]]
     [[params.Schedule.authors]]
-    name = "Agnieszka Sint"
+    name = "Agnieszka Sint, Maciej Czyżowicz"
     photo = ""
     bio = ""
 
@@ -305,21 +305,6 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 #------------------------
 
-[[params.Schedule]]
-    [[params.Schedule.authors]]
-    name = "Maciej Czyżowicz"
-    photo = ""
-    bio = ""
-
-      [params.Schedule.authors.link]
-        href = ''
-        text = ''
-
-   # [params.Schedule.presentation]
-   #   title = 'Tytuł TBD'
-   #   description = """ Opis TBD """
-
-#------------------------
       
 ####################################
 # Warsztaty
