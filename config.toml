@@ -315,9 +315,9 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
         href = ''
         text = ''
 
-    [params.Schedule.presentation]
-      title = 'Tytuł TBD'
-      description = """ Opis TBD """
+   # [params.Schedule.presentation]
+   #   title = 'Tytuł TBD'
+   #   description = """ Opis TBD """
 
 #------------------------
       
