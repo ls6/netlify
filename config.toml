@@ -258,7 +258,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     name = "Aga Szóstek"
     photo = "img/szostek_aga.jpg"
     bio = """
-    Dr Aga Szóstek jest autorką "Strategii Umami" oraz "Zostań liderem", jakim chcesz! i ekspertką w zakresie strategii i przywództwa.<br>
+    Dr Aga Szóstek jest autorką "Strategii Umami" oraz "Zostań liderem, jakim chcesz!" i ekspertką w zakresie strategii i przywództwa.<br>
     Przez ostatnie dwie dekady współpracowała z czołówką firm łączących design, technologię i biznes. Pracowała z takimi markami jak Google, Philips, Samsung, Play, Allegro, EY, Santander, ING, Orange i wieloma innymi, wnosząc do zespołów projektowych i zarządów strategiczne podejście oparte na projektowaniu doświadczeń.<br>
     Aga wspiera także swoich klientów w rozwoju liderskim w oparciu o kluczowe wyzwania przywódcze zakotwiczone w ich organizacyjnej kulturze. Oferuje unikatowe programy liderskie dostarczane w formie niezapomnianego doświadczenia.
     """
@@ -437,8 +437,8 @@ Jestem ojcem trójki wspaniałych dzieci, współorganizatorem trójmiejskiej sp
 Kiedyś pisałem coś na blogu www.trzeciakawa.pl 
   """
     [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/staszekmatczak/'
+      text = 'www'
+      href = 'https://www.trzeciakawa.pl'
 
 
 [[params.Schedule]]
