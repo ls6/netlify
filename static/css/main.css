@@ -482,6 +482,12 @@ nav {
 .schedule-tbl .schedule-time {
   text-align: center;
 }
+.schedule-description .highlight {
+	background-color: #fff55a; 
+	padding: 3px;
+	font-weight: bold;
+	display:inline-block;
+}
 .schedule-slot {
   width: 250px;
   font-size: 16px;
