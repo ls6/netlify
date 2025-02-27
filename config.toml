@@ -140,20 +140,20 @@ url = 'https://nextgen.pm/'
 #  Media
 ####################################
 
-# [[params.Media]]
-# name = "Agile Polska"
-# logo = "img/logo_APL.png"
-# url = "http://agilepolska.pl/"
+[[params.Media]]
+name = "Agile Polska"
+logo = "img/logo_APL.png"
+url = "http://agilepolska.pl/"
 
 [[params.Media]]
 name = "Kanban przy kawie"
 logo = "img/logo_kanban_przy_kawie.png"
 url = 'https://kanbanprzykawie.pl/'
 
-# [[params.Media]]
-# name = "Agile 247"
-# logo = "img/logo_a247.jpg"
-# url = "http://www.agile247.pl/"
+[[params.Media]]
+name = "Agile 247"
+logo = "img/logo_a247.jpg"
+url = "http://www.agile247.pl/"
 
 # [[params.Media]]
 # name = "Agile 4U"
@@ -165,40 +165,40 @@ url = 'https://kanbanprzykawie.pl/'
 # logo = "img/logo_LubLean.png"
 # url = 'https://www.meetup.com/LubLean-and-Agile/'
 
-# [[params.Media]]
-# name = "Agile Wrocław"
-# logo = "img/logo-agile-wroclaw.png"
-# url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
+[[params.Media]]
+name = "Agile Wrocław"
+logo = "img/logo-agile-wroclaw.png"
+url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
 
-# [[params.Media]]
-# name = "Agile Poznań"
-# logo = "img/logo_agile_poznan.png"
-# url = 'https://www.linkedin.com/groups/4406793'
+[[params.Media]]
+name = "Agile Poznań"
+logo = "img/logo_agile_poznan.png"
+url = 'https://www.linkedin.com/groups/4406793'
 
 [[params.Media]]
 name = "Agile 3M"
 logo = "img/logo_agile3m.png"
 url = 'https://www.linkedin.com/company/agile3m'
 
-# [params.Media]]
-# ame = "Agile Silesia"
-# ogo = "img/logo_agile-silesia.png"
-# rl = 'https://www.agilesilesia.pl/'
+[[params.Media]]
+name = "Agile Silesia"
+logo = "img/logo_agile-silesia.png"
+url = 'https://www.agilesilesia.pl/'
 
-# [params.Media]]
-# ame = "ALE Kraków"
-# ogo = "img/logo-ale-krakow.png"
-# rl = 'https://www.alekrakow.com/'
+# [[params.Media]]
+# name = "ALE Kraków"
+# logo = "img/logo-ale-krakow.png"
+# url = 'https://www.alekrakow.com/'
 
-# [params.Media]]
-# ame = "Dare IT"
-# ogo = 'img/logo_DareIT.png'
-# rl = 'https://www.dareit.io/'
+# [[params.Media]]
+# name = "Dare IT"
+# logo = 'img/logo_DareIT.png'
+# url = 'https://www.dareit.io/'
 
-# [params.Media]]
-# ame = "Zwinna Łódź"
-# ogo = 'img/logo_zwinna_lodz.svg'
-# rl = 'https://www.meetup.com/Zwinna-Lodz/'
+# [[params.Media]]
+# name = "Zwinna Łódź"
+# logo = 'img/logo_zwinna_lodz.svg'
+# url = 'https://www.meetup.com/Zwinna-Lodz/'
 
 ####################################
 #  Organizatorzy
@@ -289,6 +289,23 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 #------------------------
 
+[[params.Schedule]]
+    [[params.Schedule.authors]]
+    name = "Agnieszka Sint, Maciej Czyżowicz"
+    photo = ""
+    bio = ""
+
+      [params.Schedule.authors.link]
+        href = ''
+        text = ''
+
+    [params.Schedule.presentation]
+      title = 'Tytuł TBD'
+      description = """ Opis TBD """
+
+#------------------------
+
+      
 ####################################
 # Warsztaty
 ####################################
