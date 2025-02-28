@@ -160,10 +160,10 @@ url = "http://www.agile247.pl/"
 # logo = "img/logo_agile4u.png"
 # url = 'https://www.meetup.com/agile4u/'
 
-# [[params.Media]]
-# name = "LubLean"
-# logo = "img/logo_LubLean.png"
-# url = 'https://www.meetup.com/LubLean-and-Agile/'
+[[params.Media]]
+name = "LubLean"
+logo = "img/logo_LubLean.png"
+url = 'https://www.meetup.com/LubLean-and-Agile/'
 
 [[params.Media]]
 name = "Agile Wrocław"
