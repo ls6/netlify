@@ -318,9 +318,8 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 name = "Warsztaty"
 remark = """
 
- Wszystkie warsztaty będą się toczyły jednocześnie / równolegle czyli możesz dołączyć tylko do jednego z nich.
-
-Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz 👆👆
+<span class="highlight">Wszystkie warsztaty będą się toczyły jednocześnie / równolegle czyli możesz dołączyć tylko do jednego z nich.
+Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz na początek tej rozpiski 👆👆</span>
 
 <br><br>
 
