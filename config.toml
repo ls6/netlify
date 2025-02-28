@@ -243,12 +243,12 @@ img = "img/org_szostek_2.svg"
 
 [[params.Schedule]]
 name = "Zapisy na warsztaty"
-time = "XX:XX"
+time = "12:30"
 remark = 'Warto być na czas! Zapisy będą na miejscu i najciekawsze warsztaty zapełnią się najszybciej.'
 
 [[params.Schedule]]
 name = "Otwarcie konferencji"
-time = "XX:XX"
+time = "13:00"
 remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 #------------------------
@@ -406,7 +406,7 @@ TBD
 
 [[params.Schedule]]
   name = "Afterparty!"
-  time = "~XX:XX"
+  time = "~19:00"
 
 
 #---------------------------------------
