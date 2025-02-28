@@ -160,10 +160,10 @@ url = "http://www.agile247.pl/"
 # logo = "img/logo_agile4u.png"
 # url = 'https://www.meetup.com/agile4u/'
 
-# [[params.Media]]
-# name = "LubLean"
-# logo = "img/logo_LubLean.png"
-# url = 'https://www.meetup.com/LubLean-and-Agile/'
+[[params.Media]]
+name = "LubLean"
+logo = "img/logo_LubLean.png"
+url = 'https://www.meetup.com/LubLean-and-Agile/'
 
 [[params.Media]]
 name = "Agile Wrocław"
@@ -382,6 +382,14 @@ W ramach warsztatu dowiesz się czym jest coaching zespołu wg International Coa
 
 <br><br>
 
+<strong> Dominika Ciszewska <br> 
+Narzędzia wspierające Twoje codzienne przywództwo w pracy zdalnej - case study
+<br><br>
+</strong>
+TBD
+
+<br><br>
+
 
 <strong> Trener <br> 
  Tytuł warsztatu 
@@ -486,6 +494,16 @@ Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świe
     [params.Schedule.authors.link]
       text = 'www'
       href = 'https://bartekjuszczak.pl/'
+
+  [[params.Schedule.authors]]
+  name = "Dominika Ciszewska"
+  photo = ""
+  bio = """
+  Dominika Ciszewska, z wykształcenia inżynierka, z pasji trenerka zwinności. Fanka myślenia systemowego i precyzyjnej komunikacji. Orędowniczka odnoszenia się do danych oraz szybkiej weryfikacji hipotez. Jej zawodowy świat kręci się głównie wokół e-commerce’u, zadawania ludziom pytań oraz nazywania i upraszczania rzeczy. Prywatnie podróżniczka, miłośniczka przyrody i sportów wszelakich
+  """
+    [params.Schedule.authors.link]
+      text = 'LindkedIn'
+      href = 'https://www.linkedin.com/in/dominika-ciszewska-855a9994/'
 
 #[[params.Schedule]]
 #workshop = true
