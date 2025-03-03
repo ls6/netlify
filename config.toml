@@ -284,8 +284,8 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
         text = ''
 
     [params.Schedule.presentation]
-      title = 'Tytuł TBD'
-      description = """ Opis TBD """
+      title = 'Naginanie organizacji, czyli dlaczego Twoja organizacja nie powinna być ani edżajl ani turkusowa.'
+      description = """ W świecie liderskim istnieje głębokie przekonanie, że zwinność, turkus, skalowanie, produkty i inne słowa kluczowe są (nomen omen) kluczowe dla sukcesu organizacji. Niestety, z popularnymi pomysłami jest jak z przeszczepami - wydaje się, że pasują, ale tak trochę nie do końca i pacjent ma problem do końca - nieraz krótkiego - życia. Podczas tej prelekcji spróbuję was przekonać, żeby nie być zwinnymi ani w skali ani żadnym innym turkusem - i że istnieje wiele innych dróg do sukcesu, który nie kosztuje 8000€/dzień pracy konsultanta. """
 
 #------------------------
 
