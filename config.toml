@@ -278,11 +278,11 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     name = "Kate Hobler"
     photo = "img/KateHobler.jpg"
     bio = """
-    Mentorka o niezwykłej charyzmie. Jedna z najbardziej doświadczonych ekspertek zwinności, przywództwa i produktowości w Polsce. Akredytowana trenerka Scrum.org niemal od jego powstania. Ze względu na doświadczenie w pracy z liderami i biznesem często przypadają jej w udziale najcięższe przypadki. Niezwykle cierpliwa i zdeterminowana. Chce zmienić sposób w jaki tworzy się oprogramowanie w Polsce. Przedsiębiorczyni prowadząca prawdziwą firmę - taką, która miała wzloty i upadki. Nie chowa się za fasadą sukcesu. Jako trenerka uczy wszystkiego co może pomóc organizacji zdobyć przewagę nad konkurencją: zwinności, przywództwa, zarządzania produktami, dobrego zarządzania ludźmi, pracy z zespołami. Do tego tworzy i nadzoruje programy rozwojowe dla specjalistów w zwinności, a nawet napisała o tym książkę - Kompetentny Scrum Master. Przed i po godzinach mama, macocha, fanka planszówek i Magica oraz miłośniczka dobrej kawy i herbaty. Uhonorowana nagrodą Wrocławianki Roku 2021. """
+    Mentorka o niezwykłej charyzmie. Jedna z najbardziej doświadczonych ekspertek zwinności, przywództwa i produktowości w Polsce. Akredytowana trenerka Scrum.org niemal od jego powstania. Ze względu na doświadczenie w pracy z liderami i biznesem często przypadają jej w udziale najcięższe przypadki. Niezwykle cierpliwa i zdeterminowana. Chce zmienić sposób w jaki tworzy się oprogramowanie w Polsce. Przedsiębiorczyni prowadząca prawdziwą firmę - taką, która miała wzloty i upadki. Nie chowa się za fasadą sukcesu. Jako trenerka uczy wszystkiego co może pomóc organizacji zdobyć przewagę nad konkurencją: zwinności, przywództwa, zarządzania produktami, dobrego zarządzania ludźmi, pracy z zespołami. Do tego tworzy i nadzoruje programy rozwojowe dla specjalistów w zwinności, a nawet napisała o tym książkę - Kompetentny Scrum Master. Przed i po godzinach mama, macocha, fanka planszówek i Magica oraz miłośniczka dobrej kawy i herbaty. Uhonorowana nagrodą Wrocławianki Roku 2021."""
     
       [params.Schedule.authors.link]
-        href = ''
-        text = ''
+        href = 'https://www.linkedin.com/in/kate-hobler/'
+        text = 'LindkedIn'
 
     [params.Schedule.presentation]
       title = 'Naginanie organizacji, czyli dlaczego Twoja organizacja nie powinna być ani edżajl ani turkusowa.'
@@ -388,6 +388,19 @@ Narzędzia wspierające Twoje codzienne przywództwo w pracy zdalnej - case stud
 <br><br>
 </strong>
 TBD
+
+<br><br>
+
+<strong> Konrad Gniazdowski, Konrad Mizera  <br> 
+IMPROWIZUJĄCY LIDER - 4 cechy niezbędne w przywództwie
+<br><br>
+</strong>
+Improwizacja dla umysłu jest tym, czym joga dla ciała. Poznaj narzędzia, które w przystępnej formie rozwiną Twoje kompetencje miękkie w zarządzaniu zespołem. Przełam niepewność w wystąpieniach publicznych, buduj prawdziwe relacje, zaufaj innym i pozbądź się strachu przed popełnianiem błędów.
+<br><br>
+Dzięki temu warsztatowi poznasz impro i jego wpływ na budowanie mocnych nawyków, które zmienią Twój sposób komunikowania się z otoczeniem. Nabierzesz wprawy w używaniu swojego umysłu nawet pod wpływem stresu, od small talku przez rozmowy 1:1 po wystąpienia publiczne.
+<br><br>
+Uwaga: Ten warsztat to w znakomitej większości ruch, praktyka i akcja. Upewnij się, że masz wygodne buty i strój, w którym czujesz się swobodnie :)
+
 
 <br><br>
 
