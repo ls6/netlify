@@ -297,10 +297,17 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 [[params.Schedule]]
     [[params.Schedule.authors]]
-    name = "Agnieszka Sint, Maciej Czyżowicz"
+    name = "Agnieszka Sint"
     photo = ""
     bio = ""
+      [params.Schedule.authors.link]
+        href = ''
+        text = ''
 
+    [[params.Schedule.authors]]
+    name = "Maciej Czyżowicz"
+    photo = ""
+    bio = ""
       [params.Schedule.authors.link]
         href = ''
         text = ''
