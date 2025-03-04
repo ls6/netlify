@@ -514,6 +514,9 @@ Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świe
       text = 'www'
       href = 'https://bartekjuszczak.pl/'
 
+[[params.Schedule]]
+workshop = true
+
   [[params.Schedule.authors]]
   name = "Dominika Ciszewska"
   photo = ""
@@ -524,9 +527,25 @@ Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świe
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/dominika-ciszewska-855a9994/'
 
-    [[params.Schedule.authors]]
-  name = "Konrad Gniazdowski, Konrad Mizera"
-  photo = ""
+
+[[params.Schedule]]
+
+workshop = true
+
+  [[params.Schedule.authors]]
+  name = "Konrad Mizera"
+  photo = "img/KonradMizera.jpg"
+  bio = """
+  Konrad Gniazdowski i Konrad Mizera to doświadczeni trenerzy i praktycy, którzy z powodzeniem stosują techniki improwizacji teatralnej, wspierając rozwój kompetencji miękkich w środowisku biznesowym. Jako aktywni improwizatorzy (Sto Piosenek na Godzinę/Dynastia Improwizowana) regularnie występują na deskach warszawskich teatrów, piwnic i klubów. Swoje aktorskie doświadczenie wykorzystują w pracy z zespołami i liderami, pomagając im rozwijać kompetencje społeczne, inteligencję emocjonalną i umiejętność działania pod presją. Uczą, jak skutecznie reagować na zmiany i nieprzewidywalne sytuacje – z lekkością i odrobiną humoru.
+
+  """
+    [params.Schedule.authors.link]
+      text = ''
+      href = ''
+
+  [[params.Schedule.authors]]
+  name = "Konrad Gniazdowski"
+  photo = "img/KonradGniazdowski.jpg"
   bio = """
   Konrad Gniazdowski i Konrad Mizera to doświadczeni trenerzy i praktycy, którzy z powodzeniem stosują techniki improwizacji teatralnej, wspierając rozwój kompetencji miękkich w środowisku biznesowym. Jako aktywni improwizatorzy (Sto Piosenek na Godzinę/Dynastia Improwizowana) regularnie występują na deskach warszawskich teatrów, piwnic i klubów. Swoje aktorskie doświadczenie wykorzystują w pracy z zespołami i liderami, pomagając im rozwijać kompetencje społeczne, inteligencję emocjonalną i umiejętność działania pod presją. Uczą, jak skutecznie reagować na zmiany i nieprzewidywalne sytuacje – z lekkością i odrobiną humoru.
 
