@@ -454,10 +454,11 @@ workshop = true
       href = 'https://www.linkedin.com/in/justyna-redzikowska/'
 
 
+# --------- WORKSHOP ------------
+
 [[params.Schedule]]
 workshop = true
 
-  # multiple authors per workshop are OK
   [[params.Schedule.authors]]
   name = "Staszek Matczak"
   photo = "img/matczak.jpg"
@@ -483,6 +484,8 @@ Kiedyś pisałem coś na blogu www.trzeciakawa.pl
       text = 'www'
       href = 'https://www.trzeciakawa.pl'
 
+
+# --------- WORKSHOP ------------
 
 [[params.Schedule]]
 workshop = true
@@ -514,6 +517,9 @@ Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świe
       text = 'www'
       href = 'https://bartekjuszczak.pl/'
 
+
+# --------- WORKSHOP ------------
+
 [[params.Schedule]]
 workshop = true
 
@@ -527,6 +533,8 @@ workshop = true
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/dominika-ciszewska-855a9994/'
 
+
+# --------- WORKSHOP ------------
 
 [[params.Schedule]]
 
@@ -554,6 +562,7 @@ workshop = true
       text = ''
       href = ''
 
+# --------- WORKSHOP ------------
 #[[params.Schedule]]
 #workshop = true
 #
