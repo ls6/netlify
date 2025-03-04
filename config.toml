@@ -307,8 +307,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     [[params.Schedule.authors]]
     name = "Maciej Czyżowicz"
     photo = "img/Czyzowicz.jpg"
-    bio = """ Maciej Czyżowicz jest doświadczonym specjalistą IT z ponad 20-letnim stażem w branży telekomunikacyjnej. Jego kariera rozpoczęła się jako programista, co dało mu solidne podstawy techniczne. Szybko awansował na analityka systemowego, gdzie rozwijał umiejętności analityczne i rozwiązywania problemów. Jako architekt rozwiązań projektował innowacyjne technologie, przynoszące znaczące korzyści biznesowe. W roli architekta korporacyjnego tworzył roadmapy łączące cele strategiczne z technologicznymi możliwościami firmy. Wdrożył pierwsze w Polsce MVNO, co miało duży wpływ na rynek telekomunikacyjny. Od 2014 roku pracuje w agile'owo, co pozwala mu efektywnie zarządzać pracą zespołów. Obecnie pełni rolę Tech Lead’a oraz Release Train Engineer'a w zespole Digital Operator Platform, koordynując zespoły deweloperskie. Posiada certyfikaty TOGAF i TMForum, które potwierdzają jego wiedzę z zakresu architektury korporacyjnej.
-	"""
+    bio = """ """
       [params.Schedule.authors.link]
         href = ''
         text = ''
@@ -317,11 +316,8 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     [[params.Schedule.authors]]
     name = "Maciej Żulewski"
     photo = "img/Zulewski.jpg"
-    bio = """ Maciej Żulewski ma ponad 14 lat doświadczenia w branży telekomunikacyjnej, gdzie specjalizuje się w zarządzaniu produktami cyfrowymi, aplikacjami mobilnymi i nowoczesnymi technologiami, takimi jak eSIM. Pracując w obszarze Digital w Orange Polska odgrywa kluczową rolę w tworzeniu oraz wdrażaniu innowacyjnych produktów, które odpowiadają na dynamiczne potrzeby rynku – efekt tych działań można poczuć na własnej skórze korzystając z oferty subskrypcyjnej Orange Flex, której szefem obecnie jest Maciej.<br>
-	Jego kompetencje obejmują zarządzanie zespołami oraz współpracę z IT w ramach Agile i Continuous Delivery. Skupia się na dostarczaniu wysokiej jakości rozwiązań technologicznych, optymalizacji procesów i zwiększaniu efektywności operacyjnej.<br>
-	Dla Macieja najważniejsi w pracy są ludzie – wierzy, że dobra atmosfera, wzajemne wsparcie i poczucie wspólnego celu to klucz do sukcesu. Stawia na otwartą komunikację, rozwój zespołu i budowanie środowiska, w którym każdy może w pełni wykorzystać swój potencjał. Jest osobą zorientowaną na wyniki, ale jednocześnie dba o to, by proces ich osiągania był efektywny, inspirujący i zgodny z wartościami organizacji.
-	"""
-    	[params.Schedule.authors.link]
+    bio = """ """
+		[params.Schedule.authors.link]
           href = ''
           text = ''
 
