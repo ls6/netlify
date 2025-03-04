@@ -299,8 +299,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     [[params.Schedule.authors]]
     name = "Agnieszka Sint"
     photo = "img/Sint.jpg"
-    bio = """ Agnieszka Sint pracuje w IT w Orange Polska, w zespole DOP. Zespół ten jest odpowiedzialny za platformę Digital Operator Platform, na której powstały produkty Orange Flex czy NJU światłowód. Swoją przygodę ze zwinnością rozpoczęła w 2014 roku. Początkowo pracowała z zespołami w Orange Innovations, głównie w roli Scrum Mastera. Prowadziła również szkolenia wewnętrzne z podstaw agile i scrum, product ownershipu oraz warsztat bazujący na grze planszowej Iterate Product Development Game. To wszystko pozwoliło jej na utrwalenie własnej wiedzy merytorycznej i nabranie doświadczenia, co ostatecznie potwierdziła zdobywając różne certyfikaty, w tym dwa dla niej najważniejsze: PSM III oraz PSD. W 2022 roku dołączyła do zespołu Digital Operator Platform w roli Agile Coacha. Specjalizuje się w tematach związanych ze strukturą i organizacją jednostki w kontekście zwinnego wytwarzania produktów, w tym jak struktura wpływa na kulturę pracy. Interesują ją również zagadnienia związane z myśleniem systemowym, a także te związane z prawem Conway'a i Team Topologies.
-	"""
+    bio = """ """
       [params.Schedule.authors.link]
         href = ''
         text = ''
