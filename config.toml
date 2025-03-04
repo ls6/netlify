@@ -130,7 +130,7 @@ name = "Agile Warsaw"
 logo = "img/logo_AW.png"
 url = "http://agilewarsaw.com"
 
-[[params.Sponsors]]
+[[params.Partners]]
 name = "ProCognita"
 logo = "img/logo_procognita.png"
 url = 'https://procognita.pl/'
