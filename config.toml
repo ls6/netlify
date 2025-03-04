@@ -316,6 +316,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
         href = ''
         text = ''
 
+
     [[params.Schedule.authors]]
     name = "Maciej Żulewski"
     photo = "img/Zulewski.jpg"
