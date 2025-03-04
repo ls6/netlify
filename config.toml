@@ -130,6 +130,10 @@ name = "Agile Warsaw"
 logo = "img/logo_AW.png"
 url = "http://agilewarsaw.com"
 
+[[params.Sponsors]]
+name = "ProCognita"
+logo = "img/logo_procognita.png"
+url = 'https://procognita.pl/'
 
 [[params.Partners]]
 name = "NextGen.PM"
