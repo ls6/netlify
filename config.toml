@@ -634,6 +634,33 @@ workshop = true
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/maciejstepnikowski/' 
 
+  [[params.Schedule.authors]]
+  name = "Ewa Kosterka"
+  photo = ""
+  bio = """
+  Jestem empirykiem, który cały czas szuka okazji do odkrywania tego czego nie wie. Scrum i Agile świetnie wpisuje się w moją naturę pod tym względem. Przez ponad 10 lat jako Scrum Master razem z zespołami uczę się dostosowywać do zmieniającego się środowiska, osiągając wartość dla klientów.
+  <br>
+  Od 10 lat organizuję Agile Coach Camp, który daje mi okazję  na realizowanie swojej pasji, jaką jest poznawanie nowych ludzi.
+
+  """
+    [params.Schedule.authors.link]
+      text = 'LindkedIn'
+      href = 'https://www.linkedin.com/in/ewa-kosterka-44617978/' 
+
+  [[params.Schedule.authors]]
+  name = "Marcin Ziółek"
+  photo = ""
+  bio = """
+  Zwinny praktyk, trener i coach, który od lat pomaga zespołom i liderom odkrywać, czym naprawdę jest Agile (a czym zdecydowanie nie jest). Współzałożyciel Rebelsi, gdzie z pasją szkoli i wspiera najlepszych liderów w Polsce. Współorganizator Agile Coach Camp Polska.
+  <br>
+  Doświadczenie zbierał w międzynarodowych firmach (m.in. Discovery, Ergo Digital IT, Tandem Bank, KMD Logic), a teraz jako niezależny konsultant dzieli się wiedzą i pomaga organizacjom działać efektywniej, bez korporacyjnej ściemy. Jest akredytowanym trenerem Management3.0, coachem, mentorem i facylitatorem, ale przede wszystkim – człowiekiem, który wierzy, że Agile to coś więcej niż procesy i narzędzia.
+  <br>
+  Po godzinach mistrz suchych żartów i niezłomny poszukiwacz idealnego flow w pracy i w życiu. 
+  """
+    [params.Schedule.authors.link]
+      text = 'LindkedIn'
+      href = 'https://www.linkedin.com/in/marcinziolek/' 
+
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
 #workshop = true
