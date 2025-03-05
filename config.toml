@@ -439,6 +439,28 @@ Brzmi ciekawie? To chodź!
 
 <br><br>
 
+<strong> Kasia Mydło, Maciek Stępnikowski  <br> 
+Różne punkty widzenia - wspólny cel. Czyli jak poukładać współpracę z liderem Twojego zespołu
+<br><br>
+</strong>
+Jesteś Scrum Masterem i chcesz skuteczniej wpływać na rozwój zespołu w którym pracujesz? Dołącz do warsztatu, na którym nauczysz się, jak wypracować wspólny cel z osobą odpowiedzialną za określanie kierunku pracy zespołu.
+<br>
+Podczas interaktywnej sesji:
+<br>
+Zastanowisz się jakie są potrzeby biznesowe i perspektywa drugiej strony
+<br>
+Wybierzesz kluczowy cel do realizacji
+<br>
+Stworzysz konkretny plan działania
+<br>
+To praktyczne doświadczenie pomoże Ci budować lepszą współpracę i zwiększać wartość dostarczaną przez Twój zespół.
+
+
+
+
+<br><br>
+
+
 <strong> Trener <br> 
  Tytuł warsztatu 
  <br>
@@ -590,6 +612,31 @@ workshop = true
     [params.Schedule.authors.link]
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/konrad-gniazdowski/'
+
+  [[params.Schedule.authors]]
+  name = "Kasia Mydło"
+  photo = "img/kmydlo.jpeg"
+  bio = """
+  Uwielbiam się uczyć i dzielić swoją wiedzą z innymi. Jestem niezwykle ciekawa, jak inni ludzie postrzegają naszą rzeczywistość, dlatego lubię zadawać wiele pytań. Wspieram organizacje w odkrywaniu lepszych sposobów na rozwijanie produktów (aka Agile Development). Stale poszukuję sposobów i metod, które mogą uczynić pracę zespołów i firm odrobinę lepszą każdego dnia.
+  <br>
+  I lubię koty. Koty są fajne.
+  """
+    [params.Schedule.authors.link]
+      text = 'LindkedIn'
+      href = 'https://www.linkedin.com/in/kmydlo/'
+
+  [[params.Schedule.authors]]
+  name = "Maciek Stępnikowski"
+  photo = "img/mstepnikowski.jpg"
+  bio = """
+  Lubię ludzi i mam bardzo pozytywne nastawienie do pracy z nimi. Na co dzień działam, by zmieniać świat na lepszy.
+  W przeszłości przez kilka lat byłem IT Project Managerem - pracowałem z dużymi klientami korporacyjnymi. Przez 7 lat pracowałem w roli Scrum Mastera mając okazję uczestniczyć w transformacji małej firmy z podejścia projektowego na produktowe, a także wspierać transformację zwinną na dużą skalę. Od 2020 roku biorę udział w transformacji cyfrowej banku. Od roku pracuję jako manager zespołu Scrum Masterów, gdzie wspólnie zmieniamy organizację.
+  <br>
+  Prywatnie jestem spełnionym mężem i ojcem, uwielbiam planszówki, gram na pianinie, działam pro publico bono w moim rodzinnym mieście oraz jestem AFOLem (Adult Fan of LEGO). I mam kota, bo koty są fajne.
+  """
+    [params.Schedule.authors.link]
+      text = 'LindkedIn'
+      href = 'https://www.linkedin.com/in/maciejstepnikowski/' 
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
