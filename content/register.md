@@ -32,7 +32,7 @@ Jednakże, ponieważ korzystamy z Slacka do komunikacji, mamy jedną dodatkową 
 Konkretnie:
 
    • traktuj kanał `#oficjalne-ogłoszenia---read-only` jako tylko do odczytu. Chcielibyśmy go zarezerwować na ogłoszenia od organizatorów  
-   • kanał `#kontakt-do-organizatorów` jest przeznaczony jako miejsce do zgłaszania spraw do uwagi organizatorów; wszelka dalsza dyskusja powinna odbywać się gdzie indziej
+   • kanał `#kontakt-z-organizatorami` jest przeznaczony jako miejsce do zgłaszania spraw do uwagi organizatorów; wszelka dalsza dyskusja powinna odbywać się gdzie indziej
 
 ## ...i wreszcie:
 
