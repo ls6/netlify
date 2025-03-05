@@ -302,8 +302,8 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     bio = """ Agnieszka Sint pracuje w IT w Orange Polska, w zespole DOP. Zespół ten jest odpowiedzialny za platformę Digital Operator Platform, na której powstały produkty Orange Flex czy NJU światłowód. Swoją przygodę ze zwinnością rozpoczęła w 2014 roku. Początkowo pracowała z zespołami w Orange Innovations, głównie w roli Scrum Mastera. Prowadziła również szkolenia wewnętrzne z podstaw agile i scrum, product ownershipu oraz warsztat bazujący na grze planszowej Iterate Product Development Game. To wszystko pozwoliło jej na utrwalenie własnej wiedzy merytorycznej i nabranie doświadczenia, co ostatecznie potwierdziła zdobywając różne certyfikaty, w tym dwa dla niej najważniejsze: PSM III oraz PSD. W 2022 roku dołączyła do zespołu Digital Operator Platform w roli Agile Coacha. Specjalizuje się w tematach związanych ze strukturą i organizacją jednostki w kontekście zwinnego wytwarzania produktów, w tym jak struktura wpływa na kulturę pracy. Interesują ją również zagadnienia związane z myśleniem systemowym, a także te związane z prawem Conway'a i Team Topologies.
     """
       [params.Schedule.authors.link]
-        href = ''
-        text = ''
+        href = 'https://www.linkedin.com/in/agnieszka-sint/'
+        text = 'LindkedIn'
 
     [[params.Schedule.authors]]
     name = "Maciej Czyżowicz"
@@ -311,8 +311,8 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     bio = """ Maciej Czyżowicz jest doświadczonym specjalistą IT z ponad 20-letnim stażem w branży telekomunikacyjnej. Jego kariera rozpoczęła się jako programista, co dało mu solidne podstawy techniczne. Szybko awansował na analityka systemowego, gdzie rozwijał umiejętności analityczne i rozwiązywania problemów. Jako architekt rozwiązań projektował innowacyjne technologie, przynoszące znaczące korzyści biznesowe. W roli architekta korporacyjnego tworzył roadmapy łączące cele strategiczne z technologicznymi możliwościami firmy. Wdrożył pierwsze w Polsce MVNO, co miało duży wpływ na rynek telekomunikacyjny. Od 2014 roku pracuje w agile'owo, co pozwala mu efektywnie zarządzać pracą zespołów. Obecnie pełni rolę Tech Lead’a oraz Release Train Engineer’a w zespole Digital Operator Platform, koordynując zespoły deweloperskie. Posiada certyfikaty TOGAF i TMForum, które potwierdzają jego wiedzę z zakresu architektury korporacyjnej.
     """
       [params.Schedule.authors.link]
-        href = ''
-        text = ''
+        href = 'https://www.linkedin.com/in/mczyzowicz/'
+        text = 'LindkedIn'
 
 
     [[params.Schedule.authors]]
@@ -320,8 +320,8 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     photo = "img/Zulewski.jpg"
     bio = """ Maciej Żulewski ma ponad 14 lat doświadczenia w branży telekomunikacyjnej, gdzie specjalizuje się w zarządzaniu produktami cyfrowymi, aplikacjami mobilnymi i nowoczesnymi technologiami, takimi jak eSIM. Pracując w obszarze Digital w Orange Polska odgrywa kluczową rolę w tworzeniu oraz wdrażaniu innowacyjnych produktów, które odpowiadają na dynamiczne potrzeby rynku – efekt tych działań można poczuć na własnej skórze korzystając z oferty subskrypcyjnej Orange Flex, której szefem obecnie jest Maciej.<br> Jego kompetencje obejmują zarządzanie zespołami oraz współpracę z IT w ramach Agile i Continuous Delivery. Skupia się na dostarczaniu wysokiej jakości rozwiązań technologicznych, optymalizacji procesów i zwiększaniu efektywności operacyjnej.<br> Dla Macieja najważniejsi w pracy są ludzie – wierzy, że dobra atmosfera, wzajemne wsparcie i poczucie wspólnego celu to klucz do sukcesu. Stawia na otwartą komunikację, rozwój zespołu i budowanie środowiska, w którym każdy może w pełni wykorzystać swój potencjał. Jest osobą zorientowaną na wyniki, ale jednocześnie dba o to, by proces ich osiągania był efektywny, inspirujący i zgodny z wartościami organizacji. """
     	[params.Schedule.authors.link]
-          href = ''
-          text = ''
+          href = 'https://www.linkedin.com/in/maciekzulewski/'
+          text = 'LindkedIn'
 
     [params.Schedule.presentation]
       title = 'Czy kultura podąża za strukturą? Case study z transformacji DOP.'
@@ -428,6 +428,16 @@ Uwaga: Ten warsztat to w znakomitej większości ruch, praktyka i akcja. Upewnij
 
 <br><br>
 
+<strong> Kate Hobler  <br> 
+Wszystko co wiesz o celach to nieprawda.
+<br><br>
+</strong>
+Przypomnijcie sobie studia lub szkolenia o efektywnych celach. Był tam SMART? Czy ktoś kiedyś skrytykował to narzędzie? Czy nadal jest w Waszych głowach dogmatem? A słyszeliście kiedyś o FAST? A o żywych celach? Wiecie na jakie pytanie odpowiada dobry cel? To wszystko eksperymentalnie pokażę wam na tym warsztacie. Będziemy grać w karty i się spierać. No i wywalę wam kilka dogmatów z głowy. 
+<br>
+Brzmi ciekawie? To chodź!
+
+
+<br><br>
 
 <strong> Trener <br> 
  Tytuł warsztatu 
@@ -567,8 +577,8 @@ workshop = true
 
   """
     [params.Schedule.authors.link]
-      text = ''
-      href = ''
+      text = 'LindkedIn'
+      href = 'https://www.linkedin.com/in/konradmizera/'
 
   [[params.Schedule.authors]]
   name = "Konrad Gniazdowski"
@@ -578,8 +588,8 @@ workshop = true
 
   """
     [params.Schedule.authors.link]
-      text = ''
-      href = ''
+      text = 'LindkedIn'
+      href = 'https://www.linkedin.com/in/konrad-gniazdowski/'
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
