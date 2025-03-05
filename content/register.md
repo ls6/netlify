@@ -14,7 +14,7 @@ Ponieważ konferencja jest darmowa, a rejestracja tak łatwa, zachęcamy do prze
 
 Ponieważ to jedyny krok rejestracji, Twój identyfikator na Slacku jest jedynym sposobem kontaktu z Tobą, nie tylko przez organizatorów, ale także przez wszystkich innych uczestników konferencji. Dlatego wpisz imię i nazwisko.
 
-Adres e-mail, który Slack poprosi Cię podać podczas rejestracji, będzie ukryty.
+Adres e-mail, o którego podanie Slack poprosi Cię podczas rejestracji, będzie ukryty.
 
 ### Dołącz swoje aktualne zdjęcie
 
@@ -43,7 +43,7 @@ Konkretnie:
 
 Niestety, Slack bywa zawodny i nie możemy nic z tym zrobić. Jeśli link do rejestracji nie zadziała to spróbuj:
 
-   • Dołącz za pomocą komputera, nie telefonu. Po zalogowaniu się na komputaerz, aplikacja Slacka też powinna zadziałać.
+   • Dołączyć za pomocą komputera, nie telefonu. Po zalogowaniu się na komputerze, aplikacja Slacka też powinna zadziałać.
 
    • Jeśli znasz kogoś, kto już dołączył, poproś go o zaproszenie Cię "od środka". Może znaleźć informacje na ten temat w kanale `#oficjalne-ogłoszenia---read-only`.
     
