@@ -453,9 +453,7 @@ Podczas interaktywnej sesji:
 <br>
 To praktyczne doświadczenie pomoże Ci budować lepszą współpracę i zwiększać wartość dostarczaną przez Twój zespół.
 
-
 <br><br>
-
 
 <strong> Trener <br> 
  Tytuł warsztatu 
@@ -660,6 +658,28 @@ workshop = true
     [params.Schedule.authors.link]
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/marcinziolek/' 
+
+[[params.Schedule.authors]]
+  name = "Justyna Wykowska"
+  photo = "img/JWykowska_2022.png"
+  bio = """
+ Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. 
+  """
+     [params.Schedule.authors.link]
+     href = 'https://www.linkedin.com/in/justynawykowska'
+     text = 'LinkedIn'
+
+
+[[params.Schedule.authors]]
+    name = "Tomasz Wykowski"
+    photo = "img/TWykowski_2022.png"
+    bio = "Od ponad dwóch dekad uczestniczę w tworzeniu produktów software'owych, a od ponad piętnastu lat dzielę się swoją wiedzą poprzez szkolenia i konsulting. Jestem jedynym polskim Certified Scrum Trainer, CST akredytowanym przez Scrum Alliance oraz jednym z dwóch polskich Certified LeSS Coach. W przerwach pomiędzy pracą z liderami różnych firm piszę artykuły i nagrywam podcasty, które znajdziesz na stronie ProCognity. Jestem autorem książki \"Biznes Odczarowany. Scrum: jak osiągać cele, gdy wszystko się zmienia?\", w której opowiadam jak uniknąć iluzji nierealnych planów i stworzyć zwinną firmę."
+
+      [params.Schedule.authors.link]
+        href = 'https://www.linkedin.com/in/wykowski/'
+        text = 'LinkedIn'
+
+
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
