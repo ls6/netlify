@@ -346,7 +346,11 @@ remark = """
 <span class="highlight">Wszystkie warsztaty będą się toczyły jednocześnie / równolegle czyli możesz dołączyć tylko do jednego z nich.
 Zapisy odbędą się na miejscu, przed otwarciem konferencji. Spójrz na początek tej rozpiski 👆👆</span>
 
-<br><br>
+
+
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong>Justyna (Kęsik) Rędzikowska
 <br> 
@@ -371,7 +375,10 @@ Podczas warsztatu dowiesz się:
 Zakończymy warsztat analizą rzeczywistych przypadków, najpierw z moich zespołów, a następnie z Twoich, abyś mógł wyjść z gotowymi pomysłami do wdrożenia już następnego dnia.
 
 
-<br><br>
+
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Staszek Matczak <br> 
  Jira dla dorosłych - czyli o tym jak można skopać wizualizację pracy i o tym jak można ją naprawić
@@ -393,7 +400,11 @@ Zapraszam osoby, które chcą przyjrzeć się nie tylko warstwie narzędzi i pro
 Dla pełnej jasności: nie jestem sponsorowany przez Atlassiana i nie jest to prezentacja sprzedażowa. A po drugie: słowo ,,Jira'' w tytule może być zastąpione przez dowolne inne narzędzie do planowania i zarządzania pracą.
 
 
-<br><br>
+
+
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Agata Kabat, Bartek Juszczak <br> 
 Another level unlocked! Jak liderzy/-ki mogą wykorzystywać coaching zespołu, aby...
@@ -405,7 +416,12 @@ Coaching zespołu jest w tym obszarze niezwykle pomocny. Jest to interwencja, kt
 <br><br>
 W ramach warsztatu dowiesz się czym jest coaching zespołu wg International Coaching Federation, wiodącej organizacji zrzeszającej profesjonalnych coachów. Zrozumiesz czym różni się on od agile coachingu, treningu, doradztwa, mentoringu zespołu czy też facylitacji. Doświadczysz też, z perspektywy zespołu, przykładowego przebiegu sesji coachingowej zespołu.
 
-<br><br>
+
+
+
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Dominika Ciszewska <br> 
 Narzędzia wspierające Twoje codzienne przywództwo w pracy zdalnej - case study
@@ -413,7 +429,11 @@ Narzędzia wspierające Twoje codzienne przywództwo w pracy zdalnej - case stud
 </strong>
 TBD
 
-<br><br>
+
+
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Konrad Gniazdowski, Konrad Mizera  <br> 
 IMPROWIZUJĄCY LIDER - 4 cechy niezbędne w przywództwie
@@ -426,7 +446,12 @@ Dzięki temu warsztatowi poznasz impro i jego wpływ na budowanie mocnych nawyk�
 Uwaga: Ten warsztat to w znakomitej większości ruch, praktyka i akcja. Upewnij się, że masz wygodne buty i strój, w którym czujesz się swobodnie :)
 
 
-<br><br>
+
+
+
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Kate Hobler  <br> 
 Wszystko co wiesz o celach to nieprawda.
@@ -437,7 +462,11 @@ Przypomnijcie sobie studia lub szkolenia o efektywnych celach. Był tam SMART? C
 Brzmi ciekawie? To chodź!
 
 
-<br><br>
+
+
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Kasia Mydło, Maciek Stępnikowski  <br> 
 Różne punkty widzenia - wspólny cel. Czyli jak poukładać współpracę z liderem Twojego zespołu
@@ -453,7 +482,10 @@ Podczas interaktywnej sesji:
 <br>
 To praktyczne doświadczenie pomoże Ci budować lepszą współpracę i zwiększać wartość dostarczaną przez Twój zespół.
 
-<br><br>
+
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Trener <br> 
  Tytuł warsztatu 
