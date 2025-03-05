@@ -453,7 +453,7 @@ Podczas interaktywnej sesji:
 <br>
 To praktyczne doświadczenie pomoże Ci budować lepszą współpracę i zwiększać wartość dostarczaną przez Twój zespół.
 
-
+<br><br>
 
 <strong> Trener <br> 
  Tytuł warsztatu 
@@ -659,7 +659,6 @@ workshop = true
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/marcinziolek/' 
 
-<br><br>
 [[params.Schedule.authors]]
   name = "Justyna Wykowska"
   photo = "img/JWykowska_2022.png"
@@ -670,7 +669,6 @@ workshop = true
      href = 'https://www.linkedin.com/in/justynawykowska'
      text = 'LinkedIn'
 
-<br><br>
 
 [[params.Schedule.authors]]
     name = "Tomasz Wykowski"
@@ -681,7 +679,7 @@ workshop = true
         href = 'https://www.linkedin.com/in/wykowski/'
         text = 'LinkedIn'
 
-<br><br>
+
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
