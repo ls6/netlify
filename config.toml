@@ -620,7 +620,7 @@ workshop = true
 
   [[params.Schedule.authors]]
   name = "Dominika Ciszewska"
-  photo = ""
+  photo = "img/dciszewska.jpg"
   bio = """
   Dominika Ciszewska, z wykształcenia inżynierka, z pasji trenerka zwinności. Fanka myślenia systemowego i precyzyjnej komunikacji. Orędowniczka odnoszenia się do danych oraz szybkiej weryfikacji hipotez. Jej zawodowy świat kręci się głównie wokół e-commerce’u, zadawania ludziom pytań oraz nazywania i upraszczania rzeczy. Prywatnie podróżniczka, miłośniczka przyrody i sportów wszelakich
   """
