@@ -686,9 +686,9 @@ workshop = true
   name = "Ewa Kosterka"
   photo = "img/ekosterka.jpeg"
   bio = """
-  Jestem empirykiem, który cały czas szuka okazji do odkrywania tego czego nie wie. Scrum i Agile świetnie wpisuje się w moją naturę pod tym względem. Przez ponad 10 lat jako Scrum Master razem z zespołami uczę się dostosowywać do zmieniającego się środowiska, osiągając wartość dla klientów.
+  Jestem empirykiem, który cały czas szuka okazji do odkrywania tego, czego nie wie. Scrum i Agile świetnie wpisują się w moją naturę pod tym względem. Od ponad 10 lat jako Scrum Master razem z zespołami uczę się dostosowywać do zmieniającego się środowiska, osiągając wartość dla klientów.
   <br>
-  Od 10 lat organizuję Agile Coach Camp, który daje mi okazję  na realizowanie swojej pasji, jaką jest poznawanie nowych ludzi.
+  Od 10 lat organizuję Agile Coach Camp, który daje mi okazję do realizowania mojej pasji, jaką jest poznawanie nowych ludzi.
 
   """
     [params.Schedule.authors.link]
