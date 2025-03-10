@@ -504,6 +504,17 @@ Warsztat jest idealny dla Product Ownerów, managerów produktu, analityków biz
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
+<strong> Marta Grzesiczek, Kalina Górecka <br> 
+Coaching w Akcji: Narzędzia Wzmacniające Przywództwo
+<br><br>
+</strong>
+TBD
+
+
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
+
 <strong> Trener <br> 
  Tytuł warsztatu 
  <br>
@@ -728,6 +739,23 @@ workshop = true
         href = 'https://www.linkedin.com/in/wykowski/'
         text = 'LinkedIn'
 
+[[params.Schedule.authors]]
+    name = "Marta Grzesiczek"
+    photo = "img/mgrzesiczek.jpeg"
+    bio = "Agile Coach, entuzjastka zwinności i zmian. Z IT jestem związana od ponad 20 lat, aktualnie pracuję jako Agile Coach w ING Hubs Poland. Na co dzień wspieram liderów i zespoły w doskonaleniu procesów, współorganizuję społeczność Agile Silesia, a także prowadzę procesy mentoringowe i coachingowe. Największą satysfakcję czerpię z pracy z ludźmi i obserwowania jak plany przekuwają w realną zmianę. Po godzinach świetnie bawię się z moją trójką dzieciaków lub gram w planszówki."
+
+      [params.Schedule.authors.link]
+        href = 'https://www.linkedin.com/in/marta-grzesiczek-she-her-97a3434/'
+        text = 'LinkedIn'
+
+[[params.Schedule.authors]]
+    name = "Kalina Górecka"
+    photo = "img/kgorecka.png"
+    bio = "Agile Coach wspierający zespoły oraz liderów w budowaniu zwinnej kultury pracy i efektywnej współpracy. W IT od ponad dekady w różnych rolach (programista, tester, Scrum Master). Aktualnie współpracuje z firmą LuxMed jako Agile Coach oraz współorganizuje społeczność Agile Silesia. Ukończone studia z coachingu pozwalają mi łączyć podejście coachingowe z metodami zwinnymi, wspierając ludzi i zespoły w ich rozwoju.Prywatnie uwielbiam planszówki, myślenie wizualne i pieczenie – w pracy i poza nią cenię kreatywność, eksperymentowanie i dzielenie się tym, co najlepsze."
+
+      [params.Schedule.authors.link]
+        href = 'https://www.linkedin.com/in/kalina-g%C3%B3recka-1252948b/'
+        text = 'LinkedIn'
 
 
 # --------- WORKSHOP ------------
