@@ -767,9 +767,7 @@ workshop = true
 [[params.Schedule.authors]]
     name = "Adam Michalczyk"
     photo = "img/amichalczyk.jpg"
-    bio = "Od 2009 roku zajmuję się profesjonalnie zwinnością. Przez ten czas nauczyłem się jak zmieniać zespoły i jak rozwijać ludzi, którzy je tworzą. Rozumiem, dlaczego tak trudno budować otwarte i profesjonalne procesy i środowiska pracy. Mogę Ci w tym pomóc. Pomagam organizacjom, które szukają swojej drogi w Agile. Możesz skorzystać z mnóstwa doświadczeń zdobytych przeze mnie przy wdrożeniach zwinności w wielu organizacjach. Prowadzę szkolenia dla organizacji, które rozwiązują konkretne problemy, budują kompetencje pracowników w obszarze przywództwa, optymalizacji procesów i zarządzania produktem. 
-           <br>
-           Jestem częścią grupy Rebelsi"
+    bio = "Od 2009 roku zajmuję się profesjonalnie zwinnością. Przez ten czas nauczyłem się jak zmieniać zespoły i jak rozwijać ludzi, którzy je tworzą. Rozumiem, dlaczego tak trudno budować otwarte i profesjonalne procesy i środowiska pracy. Mogę Ci w tym pomóc. Pomagam organizacjom, które szukają swojej drogi w Agile. Możesz skorzystać z mnóstwa doświadczeń zdobytych przeze mnie przy wdrożeniach zwinności w wielu organizacjach. Prowadzę szkolenia dla organizacji, które rozwiązują konkretne problemy, budują kompetencje pracowników w obszarze przywództwa, optymalizacji procesów i zarządzania produktem. Jestem częścią grupy Rebelsi"
 
       [params.Schedule.authors.link]
         href = 'https://adammichalczyk.pl/'
