@@ -510,7 +510,14 @@ Coaching w Akcji: Narzędzia Wzmacniające Przywództwo
 </strong>
 TBD
 
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
+<strong> Adam Michalczyk <br> 
+Naprawmy kilka Product Backlogów. Praktyczna ocena Product Backlogów.
+<br><br>
+</strong>
+TBD
 
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
@@ -756,7 +763,17 @@ workshop = true
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/kalina-g%C3%B3recka-1252948b/'
         text = 'LinkedIn'
+        
+[[params.Schedule.authors]]
+    name = "Adam Michalczyk"
+    photo = "img/amichalczyk.jpg"
+    bio = "Od 2009 roku zajmuję się profesjonalnie zwinnością. Przez ten czas nauczyłem się jak zmieniać zespoły i jak rozwijać ludzi, którzy je tworzą. Rozumiem, dlaczego tak trudno budować otwarte i profesjonalne procesy i środowiska pracy. Mogę Ci w tym pomóc. Pomagam organizacjom, które szukają swojej drogi w Agile. Możesz skorzystać z mnóstwa doświadczeń zdobytych przeze mnie przy wdrożeniach zwinności w wielu organizacjach. Prowadzę szkolenia dla organizacji, które rozwiązują konkretne problemy, budują kompetencje pracowników w obszarze przywództwa, optymalizacji procesów i zarządzania produktem. 
+           <br>
+           Jestem częścią grupy Rebelsi"
 
+      [params.Schedule.authors.link]
+        href = 'https://adammichalczyk.pl/'
+        text = 'WWW'
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
