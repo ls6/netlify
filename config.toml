@@ -7,7 +7,7 @@ theme = "hugo-conference"
 [params]
 Name = "ABE Light 2025"
 Description = "AgileByExample Light 2025"
-Date = "6 Kwietnia (Niedziela)"
+Date = "6 kwietnia (niedziela)"
 startDate = "2025-04-06T13:45"
 Venue = "Akademia Leona Koźmińskiego"
 Address = "ul. Jagiellońska 57/59"
