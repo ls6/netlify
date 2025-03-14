@@ -5,7 +5,7 @@ title: "Bezrobotny Scrum Master"
 speakers: "Joanna Płaskonka, Michał Parkoła"
 lang: "pl"
 sponsors: ["DXC, QAgile"]
-videoURL: ""
+videoURL: "https://youtu.be/OkypjgoSIGY"
 slidesURL: ""
 draft: false
 ---
