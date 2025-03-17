@@ -692,7 +692,6 @@ workshop = true
 # --------- WORKSHOP ------------
 
 [[params.Schedule]]
-
 workshop = true
 
   [[params.Schedule.authors]]
@@ -716,6 +715,11 @@ workshop = true
     [params.Schedule.authors.link]
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/konrad-gniazdowski/'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
   [[params.Schedule.authors]]
   name = "Kasia Mydło"
@@ -741,6 +745,11 @@ workshop = true
     [params.Schedule.authors.link]
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/maciejstepnikowski/' 
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
   [[params.Schedule.authors]]
   name = "Ewa Kosterka"
@@ -769,6 +778,11 @@ workshop = true
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/marcinziolek/' 
 
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
 [[params.Schedule.authors]]
   name = "Justyna Wykowska"
   photo = "img/JWykowska_2022.png"
@@ -780,6 +794,11 @@ workshop = true
      text = 'LinkedIn'
 
 
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
 [[params.Schedule.authors]]
     name = "Tomasz Wykowski"
     photo = "img/TWykowski_2022.png"
@@ -788,6 +807,11 @@ workshop = true
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/wykowski/'
         text = 'LinkedIn'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
 [[params.Schedule.authors]]
     name = "Marta Grzesiczek"
@@ -807,6 +831,11 @@ workshop = true
         href = 'https://www.linkedin.com/in/kalina-g%C3%B3recka-1252948b/'
         text = 'LinkedIn'
         
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
 [[params.Schedule.authors]]
     name = "Adam Michalczyk"
     photo = "img/amichalczyk.jpg"
@@ -815,6 +844,11 @@ workshop = true
       [params.Schedule.authors.link]
         href = 'https://adammichalczyk.pl/'
         text = 'WWW'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
 [[params.Schedule.authors]]
     name = "Zuzanna Konarska"
