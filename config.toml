@@ -287,7 +287,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/kate-hobler/'
-        text = 'LindkedIn'
+        text = 'LinkedIn'
 
     [params.Schedule.presentation]
       title = 'Naginanie organizacji, czyli dlaczego Twoja organizacja nie powinna być ani edżajl ani turkusowa.'
@@ -302,7 +302,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     bio = """ Agnieszka Sint pracuje w IT w Orange Polska, w zespole DOP. Zespół ten jest odpowiedzialny za platformę Digital Operator Platform, na której powstały produkty Orange Flex czy NJU światłowód. Swoją przygodę ze zwinnością rozpoczęła w 2014 roku. Początkowo pracowała z zespołami w Orange Innovations, głównie w roli Scrum Mastera. Prowadziła również szkolenia wewnętrzne z podstaw agile i scrum, product ownershipu oraz warsztat bazujący na grze planszowej Iterate Product Development Game. To wszystko pozwoliło jej na utrwalenie własnej wiedzy merytorycznej i nabranie doświadczenia, co ostatecznie potwierdziła zdobywając różne certyfikaty, w tym dwa dla niej najważniejsze: PSM III oraz PSD. W 2022 roku dołączyła do zespołu Digital Operator Platform w roli Agile Coacha. Specjalizuje się w tematach związanych ze strukturą i organizacją jednostki w kontekście zwinnego wytwarzania produktów, w tym jak struktura wpływa na kulturę pracy. Interesują ją również zagadnienia związane z myśleniem systemowym, a także te związane z prawem Conway'a i Team Topologies."""
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/agnieszka-sint/'
-        text = 'LindkedIn'
+        text = 'LinkedIn'
 
     [[params.Schedule.authors]]
     name = "Maciej Czyżowicz"
@@ -311,7 +311,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     """
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/mczyzowicz/'
-        text = 'LindkedIn'
+        text = 'LinkedIn'
 
 
     [params.Schedule.presentation]
@@ -567,9 +567,14 @@ TBD
 
 <strong> Zuzanna Konarska <br> 
  Przywództwo wg stoika
- <br>
+ <br><br>
 </strong>
- TBD <br>
+Przywództwo to nie tylko zarządzanie – to przede wszystkim budowanie relacji, zaufania i wspólnego celu w zespole.<br><br>
+W trakcie warsztatu dowiesz się, jak stoickie zasady, takie jak akceptacja rzeczywistości, praktykowanie amor fati, czy też umiejętność zarządzania tym, co od nas zależne i niezależne w postaci dychotomii kontroli,
+mogą pomóc Ci stać się lepszym liderem.<br><br>
+To będzie czas na autentyczną refleksję, praktyczne ćwiczenia i budowanie stoickiego "narzędziownika", z którego skorzystasz od razu po warsztacie!<br><br>
+Serdecznie zapraszam!
+<br>
  
  
 """
@@ -685,7 +690,7 @@ workshop = true
   Dominika Ciszewska, z wykształcenia inżynierka, z pasji trenerka zwinności. Fanka myślenia systemowego i precyzyjnej komunikacji. Orędowniczka odnoszenia się do danych oraz szybkiej weryfikacji hipotez. Jej zawodowy świat kręci się głównie wokół e-commerce’u, zadawania ludziom pytań oraz nazywania i upraszczania rzeczy. Prywatnie podróżniczka, miłośniczka przyrody i sportów wszelakich
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/dominika-ciszewska-855a9994/'
 
 
@@ -702,7 +707,7 @@ workshop = true
 
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/konradmizera/'
 
   [[params.Schedule.authors]]
@@ -713,7 +718,7 @@ workshop = true
 
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/konrad-gniazdowski/'
 
 # --------- WORKSHOP ------------
@@ -730,7 +735,7 @@ workshop = true
   I lubię koty. Koty są fajne.
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/kmydlo/'
 
   [[params.Schedule.authors]]
@@ -743,7 +748,7 @@ workshop = true
   Prywatnie jestem spełnionym mężem i ojcem, uwielbiam planszówki, gram na pianinie, działam pro publico bono w moim rodzinnym mieście oraz jestem AFOLem (Adult Fan of LEGO). I mam kota, bo koty są fajne.
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/maciejstepnikowski/' 
 
 # --------- WORKSHOP ------------
@@ -761,7 +766,7 @@ workshop = true
 
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/ewa-kosterka-44617978/' 
 
   [[params.Schedule.authors]]
@@ -775,7 +780,7 @@ workshop = true
   Po godzinach mistrz suchych żartów i niezłomny poszukiwacz idealnego flow w pracy i w życiu. 
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/marcinziolek/' 
 
 # --------- WORKSHOP ------------
@@ -857,7 +862,7 @@ workshop = true
 
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/zuzanna-konarska/'
-        text = 'LindkedIn'
+        text = 'LinkedIn'
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
