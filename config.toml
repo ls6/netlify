@@ -780,7 +780,7 @@ workshop = true
 
 [[params.Schedule.authors]]
     name = "Kalina Górecka"
-    photo = "img/kgorecka.png"
+    photo = "img/kgorecka.jpg"
     bio = "Agile Coach wspierający zespoły oraz liderów w budowaniu zwinnej kultury pracy i efektywnej współpracy. W IT od ponad dekady w różnych rolach (programista, tester, Scrum Master). Aktualnie współpracuje z firmą LuxMed jako Agile Coach oraz współorganizuje społeczność Agile Silesia. Ukończone studia z coachingu pozwalają mi łączyć podejście coachingowe z metodami zwinnymi, wspierając ludzi i zespoły w ich rozwoju.Prywatnie uwielbiam planszówki, myślenie wizualne i pieczenie – w pracy i poza nią cenię kreatywność, eksperymentowanie i dzielenie się tym, co najlepsze."
 
       [params.Schedule.authors.link]
