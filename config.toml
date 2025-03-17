@@ -385,6 +385,7 @@ Podczas warsztatu spróbujemy znaleźć odpowiedzi na pytania:
 <li>• Czy możemy pogodzić potrzeby różnych interesariuszy? </li>
 <li>• Co może kryć się pod niechęcią do używania narzędzi? </li>
 <li>• I czy Jira Admin to nowy Agile Coach?</li>
+</ul>
 <br>
 Zapraszam osoby, które chcą przyjrzeć się nie tylko warstwie narzędzi i procesów, ale chcą spojrzeć głębiej - na osoby, interakcje, potrzeby oraz strategie realizacji tych potrzeb. Sprawdźmy co można zrobić, żeby narzędzia nam pomagały a nie utrudniały pracę!
 <br><br>
@@ -428,7 +429,7 @@ Na tych warsztatach dowiesz się:
 <li>• Jak budować i wzmacniać chcianą kulturę organizacyjną, bez potrzeby jeżdżenia do biura </li>
 <li>• Jakie ograniczające przekonania masz Ty lub Twoja firma nt. pracy zdalnej lub nt. bycia liderką/em rozproszonego zespołu / obszaru i co w związku z tym </li>
 <li>• Kiedy warto dać sobie spokój i dla kogo to nie jest </li>
-<br>
+</ul>
 <br>
 Jeśli planujesz uczestniczyć w tych warsztatach z osobą, z którą pracujesz na co dzień - proszę zadbaj o to, by usiąść w dwóch różnych grupach. Dzięki! :) 
 
@@ -482,6 +483,7 @@ Podczas interaktywnej sesji:
 <li>• Zastanowisz się jakie są potrzeby biznesowe i perspektywa drugiej strony </li>
 <li>• Wybierzesz kluczowy cel do realizacji </li>
 <li>• Stworzysz konkretny plan działania </li>
+</ul>
 <br>
 To praktyczne doświadczenie pomoże Ci budować lepszą współpracę i zwiększać wartość dostarczaną przez Twój zespół.
 
@@ -509,6 +511,7 @@ Przyjrzymy się kilku przypadkom i wspólnie zastanowimy się:
 <li>• Czy to rzeczywiście błąd, czy tylko inne spojrzenie na funkcjonalność? </li>
 <li>• Czy ten przypadek daje nam szansę na rozwój nowej funkcji? </li>
 <li>• A może ktoś próbuje wykorzystać system na swoją korzyść? </li>
+</ul>
 <br>
 Dowiesz się, jak podejmować decyzje, które nie tylko rozwiązują problemy, ale też przynoszą realną wartość klientom i biznesowi.
 Warsztat jest idealny dla Product Ownerów, managerów produktu, analityków biznesowych, UX/UI specjalistów, testerów i wszystkich, którzy chcą lepiej zarządzać oczekiwaniami klientów i przekuwać je w wartościowe rozwiązania.
@@ -517,10 +520,14 @@ Warsztat jest idealny dla Product Ownerów, managerów produktu, analityków biz
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Tomasz Wykowski  <br> 
-TBD
+Dlaczego to tyle zajmuje? – Technika mapowania strumienia wartości
 <br><br>
 </strong>
-TBD
+,,IT jest za wolne'' — słyszeliście to kiedyś?<br>
+Z perspektywy użytkowników i klientów każda, nawet drobna zmiana, zajmuje zdecydowanie za dużo czasu. Z punktu widzenia ciężko pracujących developerów, przyczyną opóźnień są nadmiernie złożone systemy, zależności i zmieniające się priorytety, na które najczęściej nie mają oni wpływu.<br> <br>
+
+Value Stream Mapping to narzędzie Lean'owe pozwalające obu stronom na wspólne przyjrzenie się procesowi tworzenia produktu i odnalezienie strat. W ten sposób można poszukiwać sposobów na przyśpieszenie czasu dostarczania — nie poprzez dodawanie kolejnych procesów i spotkań, ale przez eliminację nieefektywności. <br> <br>
+I to właśnie zrobimy na naszym warsztacie. Dlatego zabierzcie na niego swoich managerów i interesariuszy, żebyście wyszli z niego z konkretnymi usprawnieniami, które zastosujecie w poniedziałek!
 
 
 
@@ -531,7 +538,20 @@ TBD
 Coaching w Akcji: Narzędzia Wzmacniające Przywództwo
 <br><br>
 </strong>
-TBD
+
+Czy wiesz, jak skutecznie wspierać rozwój swojego zespołu?<br>
+A może chcesz wzmocnić swoje umiejętności przywódcze w praktyczny sposób?<br><br>
+
+Zapraszamy na warsztat, który pomoże Ci odkryć skuteczne narzędzia coachingowe wspierające przywództwo i pracę z celami.<br>
+Podczas interaktywnej sesji:
+
+<ul style=\"padding-left: 0.5em;\">
+<li>• Poznasz praktyczne techniki coachingowe wspierające przywództwo.</li>
+<li>• Odkryjesz, jak budować silne kręgi wsparcia w zespole.</li>
+<li>• Zidentyfikujesz i przepracujesz przeszkody stojące na drodze do Waszego rozwoju.</li>
+</ul>
+<br>
+Przyjdź z otwartą głową i gotowością do działania – czeka na Ciebie kreatywne doświadczenie, które nie tylko zainspiruje, ale też pozwoli Ci od razu przenieść nowe narzędzia do pracy z zespołem i codziennych wyzwań.
 
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
@@ -672,7 +692,6 @@ workshop = true
 # --------- WORKSHOP ------------
 
 [[params.Schedule]]
-
 workshop = true
 
   [[params.Schedule.authors]]
@@ -696,6 +715,11 @@ workshop = true
     [params.Schedule.authors.link]
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/konrad-gniazdowski/'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
   [[params.Schedule.authors]]
   name = "Kasia Mydło"
@@ -721,6 +745,11 @@ workshop = true
     [params.Schedule.authors.link]
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/maciejstepnikowski/' 
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
   [[params.Schedule.authors]]
   name = "Ewa Kosterka"
@@ -749,6 +778,11 @@ workshop = true
       text = 'LindkedIn'
       href = 'https://www.linkedin.com/in/marcinziolek/' 
 
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
 [[params.Schedule.authors]]
   name = "Justyna Wykowska"
   photo = "img/JWykowska_2022.png"
@@ -760,6 +794,11 @@ workshop = true
      text = 'LinkedIn'
 
 
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
 [[params.Schedule.authors]]
     name = "Tomasz Wykowski"
     photo = "img/TWykowski_2022.png"
@@ -768,6 +807,11 @@ workshop = true
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/wykowski/'
         text = 'LinkedIn'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
 [[params.Schedule.authors]]
     name = "Marta Grzesiczek"
@@ -787,6 +831,11 @@ workshop = true
         href = 'https://www.linkedin.com/in/kalina-g%C3%B3recka-1252948b/'
         text = 'LinkedIn'
         
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
 [[params.Schedule.authors]]
     name = "Adam Michalczyk"
     photo = "img/amichalczyk.jpg"
@@ -795,6 +844,11 @@ workshop = true
       [params.Schedule.authors.link]
         href = 'https://adammichalczyk.pl/'
         text = 'WWW'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
 [[params.Schedule.authors]]
     name = "Zuzanna Konarska"
