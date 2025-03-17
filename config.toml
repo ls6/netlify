@@ -798,7 +798,7 @@ workshop = true
 
 [[params.Schedule.authors]]
     name = "Zuzanna Konarska"
-    photo = "img/zkonarska.png"
+    photo = "img/zkonarska.jpg"
     bio = "Jako Scrum Master pracuję od ponad 7 lat. Od trzech lat Praktyk Large Scale Scrum. Mam na swoim koncie doświadczenia prelegenckie (Agile by Example 2019, 2023, meetupy Trójmiasto Agile 3M 2019, 2023, Scrum Experience Day 2020, Scrum Summit 2024). W swojej pracy lubię to, że mogę zadawać dużo głupich pytań i wspólnie z zespołem znajdywać na nie odpowiedzi. Praktyk Liberating Structures, NVC a od ponad 6 lat wykorzystuję praktyki stoickie w swojej pracy. "
 
       [params.Schedule.authors.link]
