@@ -16,24 +16,36 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 	  	{{ if ne .workshop true }}
 	        {{ if ne .presentation nil }}
 	          <tr>
-	            <td class="schedule-time">{{ .presentation.time }}</td>
-	              <td class="schedule-slot">
-	              {{ range .authors }}
-	                <b>{{ .name }}</b><br/>
-	              {{ end }}
-	              {{ .presentation.title }}
-	              <span class="speakers-company">{{ .company }}</span>
-	            </td>
-	            <td class="schedule-description">{{ .presentation.description | safeHTML }}</td>
+	        	{{ if ne .presentation.time nil }}
+	            	<td class="schedule-time">{{ .presentation.time }}</td>
+				{{end}}
+	            	<td class="schedule-slot">
+	            	{{ range .authors }}
+	                	<b>{{ .name }}</b><br/>
+	            	{{ end }}
+	            	{{ .presentation.title }}
+	            	<span class="speakers-company">{{ .company }}</span>
+	            	</td>
+	        		{{ if ne .presentation.time nil }}
+	            		<td class="schedule-description">{{ .presentation.description | safeHTML }}</td>
+					{{else}}
+	            		<td class="schedule-description" colspan="2">{{ .presentation.description | safeHTML }}</td>
+					{{end}}
 	          </tr>
 	        {{ else }}
 	          <tr class="schedule-other">
-	            <td class="schedule-time">{{ .time }}</td>
+	        	{{ if ne .time nil }}
+	            	<td class="schedule-time">{{ .time }}</td>
+				{{end}}
 	            <td class="schedule-slot">{{ .name }}</td>
 	            {{ if ne .remark nil }}
-				<td class="schedule-description">{{ .remark | safeHTML }}</td>
+	        		{{ if ne .time nil }}
+						<td class="schedule-description">{{ .remark | safeHTML }}</td>
+					{{else}}
+					<td class="schedule-description" colspan="2">{{ .remark | safeHTML }}</td>
+					{{end}}
 				{{ else }}
-	            <td class="schedule-description">-</td>
+	            	<td class="schedule-description">-</td>
 	            {{ end }}
 	          </tr>
 	        {{ end }}
