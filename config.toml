@@ -398,7 +398,7 @@ Dla pełnej jasności: nie jestem sponsorowany przez Atlassiana i nie jest to pr
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
-<strong> Agata Kabat, Bartek Juszczak <br> 
+<strong> Bartek Juszczak <br> 
 Another level unlocked! Jak liderzy/-ki mogą wykorzystywać coaching zespołu, aby...
 <br><br>
 </strong>
@@ -659,16 +659,15 @@ Kiedyś pisałem coś na blogu www.trzeciakawa.pl
 workshop = true
 
   # multiple authors per workshop are OK
-  [[params.Schedule.authors]]
-  name = "Agata Kabat"
-  photo = "img/Agata_Kabat-2.jpg"
-  bio = """
-  Na co dzień buduję zespoły, z którymi chce się pracować. Wspieram w praktykowaniu adaptacyjności do zmieniającego się otoczenia, zwiększaniu skuteczności, usprawnianiu komunikacji, a także w tworzeniu prawdziwej zespołowości w codziennej pracy. Dodatkowo pracuję z introwertykami: pomagam im zarządzać swoją energią oraz rozwijać pewność siebie. Moją pasją jest towarzyszenie w zmianie i odkryciach na drodze do osiągania zamierzonych celów. <br>
-  Jestem certyfikowaną coachką ACC-ICF oraz ACTC-ICF, co-founderką konceptu Team Possible, a moje ścieżki zawodowe obejmują pracę w firmach takich jak McKinsey & Company, Atos, PayU, Sii czy aktualnie IBM Software Lab. W wolnych chwilach ćwiczę boks, praktykuję jogę i uważnie spaceruję po lesie.
-  """
-    [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/agatakabat/'
+  #[[params.Schedule.authors]]
+  #name = "Agata Kabat"
+  #photo = "img/Agata_Kabat-2.jpg"
+  #Na co dzień buduję zespoły, z którymi chce się pracować. Wspieram w praktykowaniu adaptacyjności do zmieniającego się otoczenia, zwiększaniu skuteczności, usprawnianiu komunikacji, a także w tworzeniu prawdziwej zespołowości w codziennej pracy. Dodatkowo pracuję z introwertykami: pomagam im zarządzać swoją energią oraz rozwijać pewność siebie. Moją pasją jest towarzyszenie w zmianie i odkryciach na drodze do osiągania zamierzonych celów. <br>
+  #Jestem certyfikowaną coachką ACC-ICF oraz ACTC-ICF, co-founderką konceptu Team Possible, a moje ścieżki zawodowe obejmują pracę w firmach takich jak McKinsey & Company, Atos, PayU, Sii czy aktualnie IBM Software Lab. W wolnych chwilach ćwiczę boks, praktykuję jogę i uważnie spaceruję po lesie.
+  #"""
+    #[params.Schedule.authors.link]
+     # text = 'LinkedIn'
+     # href = 'https://www.linkedin.com/in/agatakabat/'
 
   [[params.Schedule.authors]]
   name = "Bartek Juszczak"
