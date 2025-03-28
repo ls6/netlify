@@ -8,7 +8,7 @@ theme = "hugo-conference"
 Name = "ABE Light 2025"
 Description = "AgileByExample Light 2025"
 Date = "6 kwietnia (niedziela)"
-startDate = "2025-04-06T13:45"
+startDate = "2025-04-06T12:30"
 Venue = "Akademia Leona Koźmińskiego"
 Address = "ul. Jagiellońska 57/59"
 City = "Warszawa"
@@ -287,7 +287,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/kate-hobler/'
-        text = 'LindkedIn'
+        text = 'LinkedIn'
 
     [params.Schedule.presentation]
       title = 'Naginanie organizacji, czyli dlaczego Twoja organizacja nie powinna być ani edżajl ani turkusowa.'
@@ -302,7 +302,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     bio = """ Agnieszka Sint pracuje w IT w Orange Polska, w zespole DOP. Zespół ten jest odpowiedzialny za platformę Digital Operator Platform, na której powstały produkty Orange Flex czy NJU światłowód. Swoją przygodę ze zwinnością rozpoczęła w 2014 roku. Początkowo pracowała z zespołami w Orange Innovations, głównie w roli Scrum Mastera. Prowadziła również szkolenia wewnętrzne z podstaw agile i scrum, product ownershipu oraz warsztat bazujący na grze planszowej Iterate Product Development Game. To wszystko pozwoliło jej na utrwalenie własnej wiedzy merytorycznej i nabranie doświadczenia, co ostatecznie potwierdziła zdobywając różne certyfikaty, w tym dwa dla niej najważniejsze: PSM III oraz PSD. W 2022 roku dołączyła do zespołu Digital Operator Platform w roli Agile Coacha. Specjalizuje się w tematach związanych ze strukturą i organizacją jednostki w kontekście zwinnego wytwarzania produktów, w tym jak struktura wpływa na kulturę pracy. Interesują ją również zagadnienia związane z myśleniem systemowym, a także te związane z prawem Conway'a i Team Topologies."""
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/agnieszka-sint/'
-        text = 'LindkedIn'
+        text = 'LinkedIn'
 
     [[params.Schedule.authors]]
     name = "Maciej Czyżowicz"
@@ -311,7 +311,7 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
     """
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/mczyzowicz/'
-        text = 'LindkedIn'
+        text = 'LinkedIn'
 
 
     [params.Schedule.presentation]
@@ -385,6 +385,7 @@ Podczas warsztatu spróbujemy znaleźć odpowiedzi na pytania:
 <li>• Czy możemy pogodzić potrzeby różnych interesariuszy? </li>
 <li>• Co może kryć się pod niechęcią do używania narzędzi? </li>
 <li>• I czy Jira Admin to nowy Agile Coach?</li>
+</ul>
 <br>
 Zapraszam osoby, które chcą przyjrzeć się nie tylko warstwie narzędzi i procesów, ale chcą spojrzeć głębiej - na osoby, interakcje, potrzeby oraz strategie realizacji tych potrzeb. Sprawdźmy co można zrobić, żeby narzędzia nam pomagały a nie utrudniały pracę!
 <br><br>
@@ -428,7 +429,7 @@ Na tych warsztatach dowiesz się:
 <li>• Jak budować i wzmacniać chcianą kulturę organizacyjną, bez potrzeby jeżdżenia do biura </li>
 <li>• Jakie ograniczające przekonania masz Ty lub Twoja firma nt. pracy zdalnej lub nt. bycia liderką/em rozproszonego zespołu / obszaru i co w związku z tym </li>
 <li>• Kiedy warto dać sobie spokój i dla kogo to nie jest </li>
-<br>
+</ul>
 <br>
 Jeśli planujesz uczestniczyć w tych warsztatach z osobą, z którą pracujesz na co dzień - proszę zadbaj o to, by usiąść w dwóch różnych grupach. Dzięki! :) 
 
@@ -482,6 +483,7 @@ Podczas interaktywnej sesji:
 <li>• Zastanowisz się jakie są potrzeby biznesowe i perspektywa drugiej strony </li>
 <li>• Wybierzesz kluczowy cel do realizacji </li>
 <li>• Stworzysz konkretny plan działania </li>
+</ul>
 <br>
 To praktyczne doświadczenie pomoże Ci budować lepszą współpracę i zwiększać wartość dostarczaną przez Twój zespół.
 
@@ -489,10 +491,15 @@ To praktyczne doświadczenie pomoże Ci budować lepszą współpracę i zwięks
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Ewa Kosterka, Marcin Ziółek  <br> 
-TBD
+Scrum Master vs. Manager – kto dostarcza więcej wartości? A może Agile Delivery Lead to przyszłość?
 <br><br>
 </strong>
-TBD
+W świecie Agile trwa niekończąca się dyskusja – czy Scrum Master to manager? Czy organizacje bardziej potrzebują liderów służebnych, którzy wspierają zespoły w samoorganizacji, czy tradycyjnych menedżerów, odpowiedzialnych za wyniki, procesy i struktury?<br><br>
+A może przyszłość należy do nowego podejścia, takiego jak Agile Delivery Lead, który łączy kompetencje obu tych ról?<br><br>
+Sprawdzimy, jaki jest rzeczywisty wpływ Scrum Mastera i Managera na organizację oraz zespoły.<br><br>
+Spróbujemy porównać, kto dostarcza więcej wartości i w jakim kontekście.<br><br>
+Zastanowimy się, jakie obszary działalności są bardziej zależne od jednej lub drugiej roli, a gdzie ich kompetencje mogą się uzupełniać.<br><br>
+Serdecznie zapraszamy!
 
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
@@ -509,6 +516,7 @@ Przyjrzymy się kilku przypadkom i wspólnie zastanowimy się:
 <li>• Czy to rzeczywiście błąd, czy tylko inne spojrzenie na funkcjonalność? </li>
 <li>• Czy ten przypadek daje nam szansę na rozwój nowej funkcji? </li>
 <li>• A może ktoś próbuje wykorzystać system na swoją korzyść? </li>
+</ul>
 <br>
 Dowiesz się, jak podejmować decyzje, które nie tylko rozwiązują problemy, ale też przynoszą realną wartość klientom i biznesowi.
 Warsztat jest idealny dla Product Ownerów, managerów produktu, analityków biznesowych, UX/UI specjalistów, testerów i wszystkich, którzy chcą lepiej zarządzać oczekiwaniami klientów i przekuwać je w wartościowe rozwiązania.
@@ -517,10 +525,14 @@ Warsztat jest idealny dla Product Ownerów, managerów produktu, analityków biz
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Tomasz Wykowski  <br> 
-TBD
+Dlaczego to tyle zajmuje? – Technika mapowania strumienia wartości
 <br><br>
 </strong>
-TBD
+,,IT jest za wolne'' — słyszeliście to kiedyś?<br>
+Z perspektywy użytkowników i klientów każda, nawet drobna zmiana, zajmuje zdecydowanie za dużo czasu. Z punktu widzenia ciężko pracujących developerów, przyczyną opóźnień są nadmiernie złożone systemy, zależności i zmieniające się priorytety, na które najczęściej nie mają oni wpływu.<br> <br>
+
+Value Stream Mapping to narzędzie Lean'owe pozwalające obu stronom na wspólne przyjrzenie się procesowi tworzenia produktu i odnalezienie strat. W ten sposób można poszukiwać sposobów na przyśpieszenie czasu dostarczania — nie poprzez dodawanie kolejnych procesów i spotkań, ale przez eliminację nieefektywności. <br> <br>
+I to właśnie zrobimy na naszym warsztacie. Dlatego zabierzcie na niego swoich managerów i interesariuszy, żebyście wyszli z niego z konkretnymi usprawnieniami, które zastosujecie w poniedziałek!
 
 
 
@@ -531,7 +543,20 @@ TBD
 Coaching w Akcji: Narzędzia Wzmacniające Przywództwo
 <br><br>
 </strong>
-TBD
+
+Czy wiesz, jak skutecznie wspierać rozwój swojego zespołu?<br>
+A może chcesz wzmocnić swoje umiejętności przywódcze w praktyczny sposób?<br><br>
+
+Zapraszamy na warsztat, który pomoże Ci odkryć skuteczne narzędzia coachingowe wspierające przywództwo i pracę z celami.<br>
+Podczas interaktywnej sesji:
+
+<ul style=\"padding-left: 0.5em;\">
+<li>• Poznasz praktyczne techniki coachingowe wspierające przywództwo.</li>
+<li>• Odkryjesz, jak budować silne kręgi wsparcia w zespole.</li>
+<li>• Zidentyfikujesz i przepracujesz przeszkody stojące na drodze do Waszego rozwoju.</li>
+</ul>
+<br>
+Przyjdź z otwartą głową i gotowością do działania – czeka na Ciebie kreatywne doświadczenie, które nie tylko zainspiruje, ale też pozwoli Ci od razu przenieść nowe narzędzia do pracy z zespołem i codziennych wyzwań.
 
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
@@ -540,16 +565,24 @@ TBD
 Naprawmy kilka Product Backlogów. Praktyczna ocena Product Backlogów.
 <br><br>
 </strong>
-TBD
+Spotykasz się z Product Backlogami, które są chaotyczne, mieszają wartość, zadania techniczne i kto wie co jeszcze? Są przepełnione zadaniami? Nie odzwierciedlają realnych priorytetów? Generalnie, przypominają śmietnik?<br><br>
+Na tym warsztacie dowiesz się, jak diagnozować problemy w Product Backlogu i wdrażać konkretne usprawnienia. W praktyczny sposób przeanalizujemy rzeczywiste backlogi, odkryjemy najczęstsze błędy i wypracujemy sposoby na ich naprawę.<br><br>
+Jesteś PO? Zobacz czy robisz to dobrze. Jesteś SM/AC - może często mówisz innym, że źle robią? A wiesz jak to zrobić inaczej? Popracujemy na rzeczywistych Product Backlogach. Przeanalizujemy, ocenimy i usprawnimy.<br><br>
+Zapisz się i przekonaj, jak uporządkowany i efektywny backlog może pomóc Twojemu zespołowi dostarczać większą wartość.
 
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Zuzanna Konarska <br> 
  Przywództwo wg stoika
- <br>
+ <br><br>
 </strong>
- TBD <br>
+Przywództwo to nie tylko zarządzanie – to przede wszystkim budowanie relacji, zaufania i wspólnego celu w zespole.<br><br>
+W trakcie warsztatu dowiesz się, jak stoickie zasady, takie jak akceptacja rzeczywistości, praktykowanie amor fati, czy też umiejętność zarządzania tym, co od nas zależne i niezależne w postaci dychotomii kontroli,
+mogą pomóc Ci stać się lepszym liderem.<br><br>
+To będzie czas na autentyczną refleksję, praktyczne ćwiczenia i budowanie stoickiego "narzędziownika", z którego skorzystasz od razu po warsztacie!<br><br>
+Serdecznie zapraszam!
+<br>
  
  
 """
@@ -664,14 +697,13 @@ workshop = true
   Dominika Ciszewska, z wykształcenia inżynierka, z pasji trenerka zwinności. Fanka myślenia systemowego i precyzyjnej komunikacji. Orędowniczka odnoszenia się do danych oraz szybkiej weryfikacji hipotez. Jej zawodowy świat kręci się głównie wokół e-commerce’u, zadawania ludziom pytań oraz nazywania i upraszczania rzeczy. Prywatnie podróżniczka, miłośniczka przyrody i sportów wszelakich
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/dominika-ciszewska-855a9994/'
 
 
 # --------- WORKSHOP ------------
 
 [[params.Schedule]]
-
 workshop = true
 
   [[params.Schedule.authors]]
@@ -682,7 +714,7 @@ workshop = true
 
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/konradmizera/'
 
   [[params.Schedule.authors]]
@@ -693,8 +725,13 @@ workshop = true
 
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/konrad-gniazdowski/'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
   [[params.Schedule.authors]]
   name = "Kasia Mydło"
@@ -705,7 +742,7 @@ workshop = true
   I lubię koty. Koty są fajne.
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/kmydlo/'
 
   [[params.Schedule.authors]]
@@ -718,8 +755,13 @@ workshop = true
   Prywatnie jestem spełnionym mężem i ojcem, uwielbiam planszówki, gram na pianinie, działam pro publico bono w moim rodzinnym mieście oraz jestem AFOLem (Adult Fan of LEGO). I mam kota, bo koty są fajne.
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/maciejstepnikowski/' 
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
   [[params.Schedule.authors]]
   name = "Ewa Kosterka"
@@ -731,7 +773,7 @@ workshop = true
 
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/ewa-kosterka-44617978/' 
 
   [[params.Schedule.authors]]
@@ -745,8 +787,13 @@ workshop = true
   Po godzinach mistrz suchych żartów i niezłomny poszukiwacz idealnego flow w pracy i w życiu. 
   """
     [params.Schedule.authors.link]
-      text = 'LindkedIn'
+      text = 'LinkedIn'
       href = 'https://www.linkedin.com/in/marcinziolek/' 
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
 [[params.Schedule.authors]]
   name = "Justyna Wykowska"
@@ -759,6 +806,11 @@ workshop = true
      text = 'LinkedIn'
 
 
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
 [[params.Schedule.authors]]
     name = "Tomasz Wykowski"
     photo = "img/TWykowski_2022.png"
@@ -767,6 +819,11 @@ workshop = true
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/wykowski/'
         text = 'LinkedIn'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
 
 [[params.Schedule.authors]]
     name = "Marta Grzesiczek"
@@ -779,13 +836,18 @@ workshop = true
 
 [[params.Schedule.authors]]
     name = "Kalina Górecka"
-    photo = "img/kgorecka.png"
+    photo = "img/kgorecka.jpg"
     bio = "Agile Coach wspierający zespoły oraz liderów w budowaniu zwinnej kultury pracy i efektywnej współpracy. W IT od ponad dekady w różnych rolach (programista, tester, Scrum Master). Aktualnie współpracuje z firmą LuxMed jako Agile Coach oraz współorganizuje społeczność Agile Silesia. Ukończone studia z coachingu pozwalają mi łączyć podejście coachingowe z metodami zwinnymi, wspierając ludzi i zespoły w ich rozwoju.Prywatnie uwielbiam planszówki, myślenie wizualne i pieczenie – w pracy i poza nią cenię kreatywność, eksperymentowanie i dzielenie się tym, co najlepsze."
 
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/kalina-g%C3%B3recka-1252948b/'
         text = 'LinkedIn'
         
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
 [[params.Schedule.authors]]
     name = "Adam Michalczyk"
     photo = "img/amichalczyk.jpg"
@@ -795,14 +857,19 @@ workshop = true
         href = 'https://adammichalczyk.pl/'
         text = 'WWW'
 
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
 [[params.Schedule.authors]]
     name = "Zuzanna Konarska"
-    photo = "img/zkonarska.png"
+    photo = "img/zkonarska.jpg"
     bio = "Jako Scrum Master pracuję od ponad 7 lat. Od trzech lat Praktyk Large Scale Scrum. Mam na swoim koncie doświadczenia prelegenckie (Agile by Example 2019, 2023, meetupy Trójmiasto Agile 3M 2019, 2023, Scrum Experience Day 2020, Scrum Summit 2024). W swojej pracy lubię to, że mogę zadawać dużo głupich pytań i wspólnie z zespołem znajdywać na nie odpowiedzi. Praktyk Liberating Structures, NVC a od ponad 6 lat wykorzystuję praktyki stoickie w swojej pracy. "
 
       [params.Schedule.authors.link]
         href = 'https://www.linkedin.com/in/zuzanna-konarska/'
-        text = 'LindkedIn'
+        text = 'LinkedIn'
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
