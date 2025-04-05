@@ -12,7 +12,7 @@ startDate = "2025-04-06T12:30"
 Venue = "Akademia Leona Koźmińskiego"
 Address = "ul. Jagiellońska 57/59"
 City = "Warszawa"
-AddressRemarks = "Aula…"
+AddressRemarks = "Aula I i Aula II"
 Images = [ "/img/ABElight-ikonka.png" ]
 Sections = [
   "about",
