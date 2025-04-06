@@ -586,6 +586,13 @@ Serdecznie zapraszam!
  
  
 """
+#########################
+# Zamknięcie
+#########################
+
+[[params.Schedule]]
+  name = "Zamknięcie"
+  time = "~18:30"
 
 #########################
 # Impreza 
