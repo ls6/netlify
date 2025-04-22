@@ -2,11 +2,12 @@ baseURL = "https://agilewarsaw.com/"
 languageCode = "en-us"
 title = "Agile Warsaw"
 
-googleAnalytics = "UA-112461830-2"
-
 theme = ["agilewarsaw"]
 buildFuture = true
 publishDir = "docs"
+
+[markup.goldmark.renderer]
+    unsafe = true
 
 [menu]
 
